@@ -7,6 +7,14 @@
 ## 📊 All Problems
 
 <!-- ALL-PROBLEMS-START -->
+## 📌 All Problems
+
+| Platform | Problem | Link |
+|----------|---------|------|
+| LeetCode | 0001-two-sum | [🔗](./leetcode/0001-two-sum) |
+| LeetCode | 0002-add-two-numbers | [🔗](./leetcode/0002-add-two-numbers) |
+| LeetCode | 0003-longest-substring-without-repeating-characters | [🔗](./leetcode/0003-longest-substring-without-repeating-characters) |
+| LeetCode | 0004-median-of-two-sorted-arrays | [🔗](./leetcode/0004-median-of-two-sorted-arrays) |
 <!-- ALL-PROBLEMS-END -->
 
 ---
