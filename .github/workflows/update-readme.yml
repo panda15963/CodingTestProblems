@@ -1,40 +1,55 @@
-name: update-readme.yml
+name: Auto Update README Table
 
 on:
   push:
-    branches:
-      - main
-      - master
-  workflow_dispatch:  # 수동 실행 옵션
+    branches: [main, master]
+
+permissions:
+  contents: write   # 🔥 이 줄 필수
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Run README update script
-        run: python scripts/update_readme.py
-
-      - name: Check for changes
-        id: verify_diff
+      - name: Generate table
         run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+          echo "## 📌 All Problems" > table.md
+          echo "" >> table.md
+          echo "| Platform | Problem | Link |" >> table.md
+          echo "|----------|---------|------|" >> table.md
 
-      - name: Commit and Push changes
-        if: steps.verify_diff.outputs.changed == 'true'
+          for dir in leetcode/*; do
+            [ -d "$dir" ] && echo "| LeetCode | $(basename "$dir") | [🔗](./$dir) |" >> table.md
+          done
+
+          for dir in programmers/*; do
+            [ -d "$dir" ] && echo "| Programmers | $(basename "$dir") | [🔗](./$dir) |" >> table.md
+          done
+
+          for dir in baekjoon/*; do
+            [ -d "$dir" ] && echo "| Baekjoon | $(basename "$dir") | [🔗](./$dir) |" >> table.md
+          done
+
+      - name: Insert into README
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          awk '
+          BEGIN{flag=0}
+          /<!-- ALL-PROBLEMS-START -->/{flag=1; print; system("cat table.md"); next}
+          /<!-- ALL-PROBLEMS-END -->/{flag=0}
+          !flag
+          ' README.md > README.new
+
+          mv README.new README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "docs: Auto-update README.md with solved problems"
+          git diff --cached --quiet || git commit -m "docs: auto-update README table"
           git push
