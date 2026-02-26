@@ -18,12 +18,29 @@ jobs:
 
       - name: Generate dashboard
         run: |
-          lc_count=$(find leetcode -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
-          pr_count=$(find programmers -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
-          bj_count=$(find baekjoon -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
+          # =============================
+          # 플랫폼별 문제 수 카운트 (한글 폴더명 지원)
+          # =============================
+
+          lc_count=0
+          pr_count=0
+          bj_count=0
+
+          [ -d "leetcode" ] && lc_count=$(find leetcode -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
+          [ -d "프로그래머스" ] && pr_count=$(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
+          [ -d "백준" ] && bj_count=$(find 백준 -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
+
           total=$((lc_count + pr_count + bj_count))
 
-          recent=$(git log --since="7 days ago" --name-only --pretty=format: | grep "/" | cut -d/ -f1 | sort | uniq | wc -l)
+          recent=$(git log --since="7 days ago" --name-only --pretty=format: \
+            | grep "/" \
+            | cut -d/ -f1 \
+            | sort -u \
+            | wc -l || echo 0)
+
+          # =============================
+          # Dashboard 생성
+          # =============================
 
           echo "## 📊 Problem Dashboard" > dashboard.md
           echo "" >> dashboard.md
@@ -42,17 +59,27 @@ jobs:
           echo "| Platform | Problem | Link |" >> dashboard.md
           echo "|----------|---------|------|" >> dashboard.md
 
-          for dir in $(ls -dt leetcode/* 2>/dev/null); do
-            [ -d "$dir" ] && echo "| LeetCode | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
-          done
+          # =============================
+          # 최신순 정렬
+          # =============================
 
-          for dir in $(ls -dt programmers/* 2>/dev/null); do
-            [ -d "$dir" ] && echo "| Programmers | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
-          done
+          if [ -d "leetcode" ]; then
+            for dir in $(ls -dt leetcode/* 2>/dev/null); do
+              [ -d "$dir" ] && echo "| LeetCode | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
+            done
+          fi
 
-          for dir in $(ls -dt baekjoon/* 2>/dev/null); do
-            [ -d "$dir" ] && echo "| Baekjoon | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
-          done
+          if [ -d "프로그래머스" ]; then
+            for dir in $(ls -dt 프로그래머스/* 2>/dev/null); do
+              [ -d "$dir" ] && echo "| Programmers | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
+            done
+          fi
+
+          if [ -d "백준" ]; then
+            for dir in $(ls -dt 백준/* 2>/dev/null); do
+              [ -d "$dir" ] && echo "| Baekjoon | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
+            done
+          fi
 
       - name: Insert into README
         run: |
@@ -69,6 +96,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add README.md
-          git diff --cached --quiet || git commit -m "📊 auto: update dashboard"
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "📊 auto: update dashboard (Korean folder support)"
           git push
