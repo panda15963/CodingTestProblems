@@ -1,4 +1,4 @@
-name: Auto Update README Table
+name: Auto Update README Dashboard
 
 on:
   push:
@@ -9,8 +9,6 @@ permissions:
 
 jobs:
   update-readme:
-    # 🤖 봇 커밋이면 실행하지 않음 (무한 루프 방지)
-    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
@@ -18,65 +16,59 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate table
+      - name: Generate dashboard
         run: |
-          echo "## 📌 All Problems" > table.md
-          echo "" >> table.md
-          echo "| Platform | Problem | Link |" >> table.md
-          echo "|----------|---------|------|" >> table.md
+          lc_count=$(find leetcode -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
+          pr_count=$(find programmers -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
+          bj_count=$(find baekjoon -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
+          total=$((lc_count + pr_count + bj_count))
 
-          # LeetCode
-          if [ -d "leetcode" ]; then
-            for dir in leetcode/*; do
-              if [ -d "$dir" ]; then
-                echo "| LeetCode | $(basename "$dir") | [🔗](./$dir) |" >> table.md
-              fi
-            done
-          fi
+          recent=$(git log --since="7 days ago" --name-only --pretty=format: | grep "/" | cut -d/ -f1 | sort | uniq | wc -l)
 
-          # Programmers
-          if [ -d "programmers" ]; then
-            for dir in programmers/*; do
-              if [ -d "$dir" ]; then
-                echo "| Programmers | $(basename "$dir") | [🔗](./$dir) |" >> table.md
-              fi
-            done
-          fi
+          echo "## 📊 Problem Dashboard" > dashboard.md
+          echo "" >> dashboard.md
+          echo "- 🟡 LeetCode: $lc_count" >> dashboard.md
+          echo "- 🔵 Programmers: $pr_count" >> dashboard.md
+          echo "- 🟢 Baekjoon: $bj_count" >> dashboard.md
+          echo "" >> dashboard.md
+          echo "**Total Problems: $total**" >> dashboard.md
+          echo "" >> dashboard.md
+          echo "**Solved in last 7 days: $recent**" >> dashboard.md
+          echo "" >> dashboard.md
+          echo "---" >> dashboard.md
+          echo "" >> dashboard.md
+          echo "## 📌 All Problems" >> dashboard.md
+          echo "" >> dashboard.md
+          echo "| Platform | Problem | Link |" >> dashboard.md
+          echo "|----------|---------|------|" >> dashboard.md
 
-          # Baekjoon
-          if [ -d "baekjoon" ]; then
-            for dir in baekjoon/*; do
-              if [ -d "$dir" ]; then
-                echo "| Baekjoon | $(basename "$dir") | [🔗](./$dir) |" >> table.md
-              fi
-            done
-          fi
+          for dir in $(ls -dt leetcode/* 2>/dev/null); do
+            [ -d "$dir" ] && echo "| LeetCode | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
+          done
+
+          for dir in $(ls -dt programmers/* 2>/dev/null); do
+            [ -d "$dir" ] && echo "| Programmers | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
+          done
+
+          for dir in $(ls -dt baekjoon/* 2>/dev/null); do
+            [ -d "$dir" ] && echo "| Baekjoon | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
+          done
 
       - name: Insert into README
         run: |
-          if grep -q "<!-- ALL-PROBLEMS-START -->" README.md; then
-            awk '
-            BEGIN{flag=0}
-            /<!-- ALL-PROBLEMS-START -->/{flag=1; print; system("cat table.md"); next}
-            /<!-- ALL-PROBLEMS-END -->/{flag=0}
-            !flag
-            ' README.md > README.new
-            mv README.new README.md
-          else
-            echo "Markers not found. Skipping update."
-          fi
+          awk '
+          BEGIN{flag=0}
+          /<!-- DASHBOARD-START -->/{flag=1; print; system("cat dashboard.md"); next}
+          /<!-- DASHBOARD-END -->/{flag=0}
+          !flag
+          ' README.md > README.new
+
+          mv README.new README.md
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add README.md
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-
-          git commit -m "docs: auto-update README table"
+          git diff --cached --quiet || git commit -m "📊 auto: update dashboard"
           git push
