@@ -5,26 +5,23 @@
 ---
 
 <!-- DASHBOARD-START -->
-## 📊 Problem Dashboard
+## 📊 Platform Statistics
 
-- 🟡 LeetCode: 4
-- 🔵 Programmers: 1
-- 🟢 Baekjoon: 1
+| Platform | Count |
+|----------|-------|
+| 🟡 LeetCode | 4 |
+| 🔵 Programmers | 1 |
+| 🟢 Baekjoon | 1 |
 
-**Total Problems: 6**
+![Platform Chart](./assets/platform_bar_chart.svg)
 
-**Solved in last 7 days: 10**
+![Difficulty Chart](./assets/difficulty_pie_chart.svg)
 
----
+## 🥇 Recently Solved (Top 5)
 
-## 📌 All Problems
-
-| Platform | Problem | Link |
-|----------|---------|------|
-| LeetCode | 0004-median-of-two-sorted-arrays | [🔗](./leetcode/0004-median-of-two-sorted-arrays) |
-| LeetCode | 0003-longest-substring-without-repeating-characters | [🔗](./leetcode/0003-longest-substring-without-repeating-characters) |
-| LeetCode | 0002-add-two-numbers | [🔗](./leetcode/0002-add-two-numbers) |
-| LeetCode | 0001-two-sum | [🔗](./leetcode/0001-two-sum) |
-| Programmers | 0 | [🔗](./프로그래머스/0) |
-| Baekjoon | Bronze | [🔗](./백준/Bronze) |
+- 2026-02-26 🚀 update: advanced dashboard workflow
+- 2026-02-26 📊 auto: update dashboard (Korean folder support)
+- 2026-02-26 fix: sync README before rebase"
+- 2026-02-26 fix: sync README before rebase
+- 2026-02-26 fix: support Korean folder names
 <!-- DASHBOARD-END -->
