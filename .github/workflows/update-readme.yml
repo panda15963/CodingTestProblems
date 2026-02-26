@@ -1,4 +1,4 @@
-name: Auto Update README Dashboard
+name: 🚀 Advanced Auto Dashboard
 
 on:
   push:
@@ -9,6 +9,7 @@ permissions:
 
 jobs:
   update-readme:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
@@ -16,70 +17,95 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate dashboard
-        run: |
-          # =============================
-          # 플랫폼별 문제 수 카운트 (한글 폴더명 지원)
-          # =============================
+      ####################################################
+      # 📊 통계 + SVG 생성
+      ####################################################
 
+      - name: Generate statistics and charts
+        run: |
+          mkdir -p assets
+
+          ############################
+          # 1️⃣ 플랫폼 카운트
+          ############################
           lc_count=0
           pr_count=0
           bj_count=0
 
-          [ -d "leetcode" ] && lc_count=$(find leetcode -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
-          [ -d "프로그래머스" ] && pr_count=$(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
-          [ -d "백준" ] && bj_count=$(find 백준 -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
+          [ -d "leetcode" ] && lc_count=$(find leetcode -mindepth 1 -maxdepth 1 -type d | wc -l)
+          [ -d "프로그래머스" ] && pr_count=$(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d | wc -l)
+          [ -d "백준" ] && bj_count=$(find 백준 -mindepth 1 -maxdepth 1 -type d | wc -l)
 
-          total=$((lc_count + pr_count + bj_count))
-
-          recent=$(git log --since="7 days ago" --name-only --pretty=format: \
-            | grep "/" \
-            | cut -d/ -f1 \
-            | sort -u \
-            | wc -l || echo 0)
-
-          # =============================
-          # Dashboard 생성
-          # =============================
-
-          echo "## 📊 Problem Dashboard" > dashboard.md
-          echo "" >> dashboard.md
-          echo "- 🟡 LeetCode: $lc_count" >> dashboard.md
-          echo "- 🔵 Programmers: $pr_count" >> dashboard.md
-          echo "- 🟢 Baekjoon: $bj_count" >> dashboard.md
-          echo "" >> dashboard.md
-          echo "**Total Problems: $total**" >> dashboard.md
-          echo "" >> dashboard.md
-          echo "**Solved in last 7 days: $recent**" >> dashboard.md
-          echo "" >> dashboard.md
-          echo "---" >> dashboard.md
-          echo "" >> dashboard.md
-          echo "## 📌 All Problems" >> dashboard.md
-          echo "" >> dashboard.md
-          echo "| Platform | Problem | Link |" >> dashboard.md
-          echo "|----------|---------|------|" >> dashboard.md
-
-          # =============================
-          # 최신순 정렬
-          # =============================
+          ############################
+          # 2️⃣ 난이도 집계
+          ############################
+          easy=0
+          medium=0
+          hard=0
 
           if [ -d "leetcode" ]; then
-            for dir in $(ls -dt leetcode/* 2>/dev/null); do
-              [ -d "$dir" ] && echo "| LeetCode | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
+            for dir in leetcode/*; do
+              if [ -f "$dir/README.md" ]; then
+                diff=$(grep -i "Difficulty:" "$dir/README.md" | cut -d: -f2 | xargs)
+                case "$diff" in
+                  Easy) easy=$((easy+1)) ;;
+                  Medium) medium=$((medium+1)) ;;
+                  Hard) hard=$((hard+1)) ;;
+                esac
+              fi
             done
           fi
 
-          if [ -d "프로그래머스" ]; then
-            for dir in $(ls -dt 프로그래머스/* 2>/dev/null); do
-              [ -d "$dir" ] && echo "| Programmers | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
-            done
-          fi
+          diff_total=$((easy + medium + hard))
+          [ "$diff_total" -eq 0 ] && diff_total=1
 
-          if [ -d "백준" ]; then
-            for dir in $(ls -dt 백준/* 2>/dev/null); do
-              [ -d "$dir" ] && echo "| Baekjoon | $(basename "$dir") | [🔗](./$dir) |" >> dashboard.md
-            done
-          fi
+          easy_p=$((easy * 100 / diff_total))
+          medium_p=$((medium * 100 / diff_total))
+          hard_p=$((hard * 100 / diff_total))
+
+          ############################
+          # 3️⃣ 최근 5개
+          ############################
+          recent_top=$(git log -n 5 --date=short --pretty=format:'- %ad %s' || echo "")
+
+          ############################
+          # 4️⃣ SVG 막대그래프 생성
+          ############################
+          echo '<svg width="500" height="120" xmlns="http://www.w3.org/2000/svg">' > assets/platform_bar_chart.svg
+          echo "<text x='10' y='20'>🟡 LeetCode: $lc_count</text>" >> assets/platform_bar_chart.svg
+          echo "<text x='10' y='50'>🔵 Programmers: $pr_count</text>" >> assets/platform_bar_chart.svg
+          echo "<text x='10' y='80'>🟢 Baekjoon: $bj_count</text>" >> assets/platform_bar_chart.svg
+          echo '</svg>' >> assets/platform_bar_chart.svg
+
+          ############################
+          # 5️⃣ SVG 원형 차트 생성
+          ############################
+          echo '<svg width="200" height="200" viewBox="0 0 32 32">' > assets/difficulty_pie_chart.svg
+          echo "<circle r='16' cx='16' cy='16' fill='transparent' stroke='#2ecc71' stroke-width='32' stroke-dasharray='$easy_p 100'/>" >> assets/difficulty_pie_chart.svg
+          echo '</svg>' >> assets/difficulty_pie_chart.svg
+
+          ############################
+          # 6️⃣ dashboard.md 생성
+          ############################
+          echo "## 📊 Platform Statistics" > dashboard.md
+          echo "" >> dashboard.md
+          echo "| Platform | Count |" >> dashboard.md
+          echo "|----------|-------|" >> dashboard.md
+          echo "| 🟡 LeetCode | $lc_count |" >> dashboard.md
+          echo "| 🔵 Programmers | $pr_count |" >> dashboard.md
+          echo "| 🟢 Baekjoon | $bj_count |" >> dashboard.md
+          echo "" >> dashboard.md
+          echo "![Platform Chart](./assets/platform_bar_chart.svg)" >> dashboard.md
+          echo "" >> dashboard.md
+          echo "![Difficulty Chart](./assets/difficulty_pie_chart.svg)" >> dashboard.md
+          echo "" >> dashboard.md
+          echo "## 🥇 Recently Solved (Top 5)" >> dashboard.md
+          echo "" >> dashboard.md
+          echo "$recent_top" >> dashboard.md
+
+      ####################################################
+      # 📥 README 삽입
+      ####################################################
 
       - name: Insert into README
         run: |
@@ -89,20 +115,16 @@ jobs:
           /<!-- DASHBOARD-END -->/{flag=0}
           !flag
           ' README.md > README.new
-
           mv README.new README.md
+
+      ####################################################
+      # 💾 Commit
+      ####################################################
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add README.md
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-
-          git commit -m "📊 auto: update dashboard (Korean folder support)"
+          git add README.md assets
+          git diff --cached --quiet || git commit -m "🚀 auto: advanced dashboard"
           git push
