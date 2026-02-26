@@ -6,11 +6,3 @@
 
 <!-- DASHBOARD-START -->
 <!-- DASHBOARD-END -->
-
----
-
-## 🚀 Platforms
-
-- 🟡 LeetCode
-- 🔵 Programmers
-- 🟢 Baekjoon
