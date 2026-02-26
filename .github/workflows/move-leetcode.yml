@@ -3,8 +3,9 @@ name: Auto Organize LeetCode Problems
 on:
   push:
     branches: [main, master]
-  pull_request:
-    branches: [main, master]
+
+permissions:
+  contents: write   # 🔥 push 권한 필수
 
 jobs:
   organize:
@@ -13,42 +14,37 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Organize LeetCode folders
         run: |
-          # leetcode 폴더 생성
           mkdir -p leetcode
-          
-          # 숫자로 시작하는 모든 폴더를 leetcode/로 이동
+
           for dir in [0-9]*; do
-            if [[ -d "$dir" && ! "$dir" =~ ^leetcode$ ]]; then
+            if [[ -d "$dir" && "$dir" != "leetcode" ]]; then
               echo "Moving $dir → leetcode/$dir"
               git mv "$dir" leetcode/ 2>/dev/null || true
             fi
           done
-          
-          # README.md 업데이트 (선택사항)
+
+          # README 없으면 생성
           if [[ ! -f leetcode/README.md ]]; then
-            echo "# LeetCode Solutions\n\nAuto-organized solutions" > leetcode/README.md
+            echo -e "# LeetCode Solutions\n\nAuto-organized solutions" > leetcode/README.md
           fi
 
       - name: Commit changes
         run: |
-          git config user.name "LeetCode Bot"
-          git config user.email "bot@leetcode.com"
-          
+          git config user.name "panda15963"
+          git config user.email "seok7521@gmail.com"
+
           git add .
-          
-          if git diff --staged --quiet; then
+
+          if git diff --cached --quiet; then
             echo "✅ No changes needed"
             exit 0
           fi
-          
+
           git commit -m "🤖 auto: organize LeetCode problems into leetcode/ folder"
           git push
 
       - name: Notify success
-        if: success()
         run: echo "🎉 LeetCode folders organized successfully!"
