@@ -16,10 +16,10 @@
 
 ## 🥇 Recently Solved (Top 5)
 
+- 2026-02-27 [Bronze V] Title: A-B, Time: 172 ms, Memory: 17708 KB -BaekjoonHub
+- 2026-02-27 🚀 auto: simplified dashboard
 - 2026-02-27 [level 5] Title: 문자열과 알파벳과 쿼리, Time: 8724.21 ms, Memory: 518 MB -BaekjoonHub
 - 2026-02-27 🚀 auto: simplified dashboard
 - 2026-02-27 [level 5] Title: 문자열과 알파벳과 쿼리, Time: 3530.85 ms, Memory: 705 MB -BaekjoonHub
-- 2026-02-27 🚀 auto: simplified dashboard
-- 2026-02-27 [level 0] Title: 더 크게 합치기, Time: 1.63 ms, Memory: 75 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
