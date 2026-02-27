@@ -16,10 +16,10 @@
 
 ## 🥇 Recently Solved (Top 5)
 
+- 2026-02-27 [level 0] Title: 더 크게 합치기, Time: 1.63 ms, Memory: 75 MB -BaekjoonHub
+- 2026-02-27 🚀 auto: simplified dashboard
 - 2026-02-27 [level 0] Title: 더 크게 합치기, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - 2026-02-26 🚀 auto: simplified dashboard
 - 2026-02-26 refactor: remove charts and simplify dashboard
-- 2026-02-26 🚀 auto: advanced dashboard
-- 2026-02-26 🚀 update: advanced dashboard workflow
 
 <!-- DASHBOARD-END -->
