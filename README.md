@@ -16,10 +16,10 @@
 
 ## 🥇 Recently Solved (Top 5)
 
+- 2026-02-28 [level 0] Title: n 번째 원소까지, Time: 0.03 ms, Memory: 80.5 MB -BaekjoonHub
+- 2026-02-28 🚀 auto: simplified dashboard
 - 2026-02-28 [level 0] Title: n 번째 원소까지, Time: 0.07 ms, Memory: 33.4 MB -BaekjoonHub
 - 2026-02-27 🚀 auto: simplified dashboard
 - 2026-02-27 [Bronze V] Title: A-B, Time: 172 ms, Memory: 17708 KB -BaekjoonHub
-- 2026-02-27 🚀 auto: simplified dashboard
-- 2026-02-27 [level 5] Title: 문자열과 알파벳과 쿼리, Time: 8724.21 ms, Memory: 518 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
