@@ -17,61 +17,59 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Debug folders
-        run: |
-          echo "📂 ROOT: $(ls -la | grep -E '(프로그래머스|백준|leetcode)' || echo 'none')"
-          [ -d "프로그래머스" ] && echo "✅ 프로그래머스: $(ls 프로그래머스 | wc -l) files"
-
-      - name: Generate dashboard
+      - name: 📊 Generate Dashboard
         run: |
           # 카운트 계산
-          lc_count=$(find leetcode -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l || echo 0)
-          pr_count=0
-          for dir in 프로그래머스 programmers Programmers; do
-            [ -d "$dir" ] && pr_count=$((pr_count + $(find "$dir" -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)))
+          LC=$(find leetcode -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l || echo 0)
+          PR=0
+          for D in 프로그래머스 programmers Programmers; do 
+            [ -d "$D" ] && PR=$((PR+$(find "$D" -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)))
           done
-          bj_count=$(find 백준 baekjoon Baekjoon -maxdepth 1 -mindepth 1 -type d 2>/dev/null | wc -l || echo 0)
-          total=$((lc_count + pr_count + bj_count))
-
-          echo "✅ COUNTS: LC=$lc_count PR=$pr_count BJ=$bj_count TOTAL=$total"
-
-          # dashboard.md 완전 echo 방식
-          > dashboard.md  # 파일 초기화
-          echo "## 📊 Platform Statistics" >> dashboard.md
+          BJ=0
+          for D in 백준 baekjoon Baekjoon; do 
+            [ -d "$D" ] && BJ=$((BJ+$(find "$D" -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)))
+          done
+          TOTAL=$((LC+PR+BJ))
+          
+          echo "✅ LC=$LC PR=$PR BJ=$BJ TOTAL=$TOTAL"
+          
+          # dashboard.md 생성 (echo만 사용)
+          echo "## 📊 Platform Statistics" > dashboard.md
           echo "" >> dashboard.md
           echo "| Platform | Count |" >> dashboard.md
           echo "|----------|-------|" >> dashboard.md
-          echo "| 🟡 LeetCode | $lc_count |" >> dashboard.md
-          echo "| 🔵 Programmers | $pr_count |" >> dashboard.md
-          echo "| 🟢 Baekjoon | $bj_count |" >> dashboard.md
-          echo "| 🔢 **Total** | $total |" >> dashboard.md
+          echo "| 🟡 LeetCode | $LC |" >> dashboard.md
+          echo "| 🔵 Programmers | $PR |" >> dashboard.md
+          echo "| 🟢 Baekjoon | $BJ |" >> dashboard.md
+          echo "| 🔢 **Total** | $TOTAL |" >> dashboard.md
           echo "" >> dashboard.md
           echo "## 🥇 Recently Solved (Top 5)" >> dashboard.md
           echo "" >> dashboard.md
-          git log -n 5 --date=short --pretty=format:'- %ad %s' >> dashboard.md 2>/dev/null || echo "No commits" >> dashboard.md
+          git log -n 5 --oneline 2>/dev/null | sed 's/^/- /' >> dashboard.md || echo "- No commits" >> dashboard.md
 
-          echo "📋 PREVIEW:"
-          cat dashboard.md
-
-      - name: Update README
+      - name: 📝 Insert to README
         run: |
+          # DASHBOARD 마커 확인
           if ! grep -q "<!-- DASHBOARD-START -->" README.md; then
-            echo "❌ README에 DASHBOARD 마커 없음"
+            echo "❌ README에 DASHBOARD 마커 추가하세요!"
             exit 1
           fi
-          awk '
-          /<!-- DASHBOARD-START -->/{while((getline < "dashboard.md")>0) print; next}
-          /<!-- DASHBOARD-END -->/{next}
-          {print}
-          ' README.md > README.new && mv README.new README.md
+          
+          # sed로 교체
+          sed -i '/<!-- DASHBOARD-START -->/,/<!-- DASHBOARD-END -->/c<!-- DASHBOARD-START -->\n`cat dashboard.md`\n<!-- DASHBOARD-END -->' README.md
+          sed -i "/<!-- DASHBOARD-START -->/,/<!-- DASHBOARD-END -->/{
+          /<!-- DASHBOARD-START -->/r dashboard.md
+          d
+          }" README.md
 
-      - name: Commit & Push
+      - name: 💾 Commit & Push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          if git diff --cached --quiet; then
-            echo "ℹ️ 변경없음"
+          
+          if git diff --staged --quiet; then
+            echo "ℹ️ 변경사항 없음"
           else
-            git commit -m "🚀 dashboard: LC$lc_count/PR$pr_count/BJ$bj_count"
+            git commit -m "🚀 dashboard updated: PR=$PR"
             git push
