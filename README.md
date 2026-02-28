@@ -16,10 +16,10 @@
 
 ## 🥇 Recently Solved (Top 5)
 
+- 2026-02-28 [level 0] Title: 특수문자 출력하기, Time: 42.27 ms, Memory: 32.2 MB -BaekjoonHub
+- 2026-02-28 [level 0] Title: 특수문자 출력하기, Time: 122.22 ms, Memory: 69.2 MB -BaekjoonHub
+- 2026-02-28 🚀 auto: simplified dashboard
 - 2026-02-28 [level 0] Title: 대소문자 바꿔서 출력하기, Time: 284.01 ms, Memory: 31.6 MB -BaekjoonHub
 - 2026-02-28 🚀 auto: simplified dashboard
-- 2026-02-28 [level 0] Title: 대소문자 바꿔서 출력하기, Time: 172.11 ms, Memory: 66.6 MB -BaekjoonHub
-- 2026-02-28 🚀 auto: simplified dashboard
-- 2026-02-28 [level 0] Title: a와 b 출력하기, Time: 204.55 ms, Memory: 72.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
