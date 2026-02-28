@@ -9,58 +9,37 @@ permissions:
 
 jobs:
   update-readme:
-    if: github.actor != 'github-actions[bot]'
+    if: github.event.actor.name != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 📊 Count & Generate
-        id: stats
+      - name: 📊 Generate Dashboard
         run: |
+          # 카운트
           LC=$(find leetcode -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l || echo 0)
-          PR=0
-          for D in 프로그래머스 programmers Programmers; do 
-            [ -d "$D" ] && PR=$((PR+$(find "$D" -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)))
-          done
-          BJ=0
-          for D in 백준 baekjoon Baekjoon; do 
-            [ -d "$D" ] && BJ=$((BJ+$(find "$D" -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)))
-          done
-
-          echo "LC=$LC PR=$PR BJ=$BJ"
-          echo "lc=$LC" >> $GITHUB_OUTPUT
-          echo "pr=$PR" >> $GITHUB_OUTPUT
-          echo "bj=$BJ" >> $GITHUB_OUTPUT
-
-      - name: 📝 Create Dashboard
-        run: |
-          echo "## 📊 Platform Statistics" > dashboard.md
-          echo "" >> dashboard.md
-          echo "| Platform | Count |" >> dashboard.md
-          echo "|----------|-------|" >> dashboard.md
-          echo "| 🟡 LeetCode | ${{ steps.stats.outputs.lc }} |" >> dashboard.md
-          echo "| 🔵 Programmers | ${{ steps.stats.outputs.pr }} |" >> dashboard.md
-          echo "| 🟢 Baekjoon | ${{ steps.stats.outputs.bj }} |" >> dashboard.md
-          echo "| 🔢 **Total** | $(( ${{ steps.stats.outputs.lc }} + ${{ steps.stats.outputs.pr }} + ${{ steps.stats.outputs.bj }} )) |" >> dashboard.md
-          echo "" >> dashboard.md
-          echo "## 🥇 Recently Solved (Top 5)" >> dashboard.md
-          echo "" >> dashboard.md
-          git log -n 5 --oneline 2>/dev/null | sed 's/^/- /' >> dashboard.md || echo "- No commits" >> dashboard.md
+          PR=$(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l || echo 0)
+          PR=$((PR + $(find programmers -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l || echo 0)))
+          BJ=$(find 백준 -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l || echo 0)
+          TOTAL=$((LC+PR+BJ))
+          
+          echo "✅ LC=$LC PR=$PR BJ=$BJ TOTAL=$TOTAL"
+          
+          # dashboard 생성
+          printf "## 📊 Platform Statistics\n\n| Platform | Count |\n|----------|-------|\n| 🟡 LeetCode | %s |\n| 🔵 Programmers | %s |\n| 🟢 Baekjoon | %s |\n| 🔢 **Total** | %s |\n\n## 🥇 Recently Solved (Top 5)\n\n" "$LC" "$PR" "$BJ" "$TOTAL" > dashboard.md
+          git log --oneline -5 2>/dev/null | sed 's/^/- /' >> dashboard.md || echo "- No commits" >> dashboard.md
 
       - name: 🔄 Update README
-        run: sed -i '/<!-- DASHBOARD-START -->/,/<!-- DASHBOARD-END -->/r dashboard.md' README.md
-
-      - name: 💾 Commit
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          sed -i '/<!-- DASHBOARD-START -->/,/<!-- DASHBOARD-END -->/c<!-- DASHBOARD-START -->\n$(cat dashboard.md)\n<!-- DASHBOARD-END -->' README.md
+
+      - name: 💾 Git Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          
-          if git diff --staged --quiet; then
-            echo "ℹ️ 변경사항 없음"
-          else
-            git commit -m "🚀 dashboard updated"
-            git push
+          git diff --staged --quiet || (git commit -m "🚀 dashboard: PR=$PR" && git push)
