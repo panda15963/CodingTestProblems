@@ -17,9 +17,9 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: 📊 Generate Dashboard
+      - name: 📊 Count & Generate
+        id: stats
         run: |
-          # 카운트 계산
           LC=$(find leetcode -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l || echo 0)
           PR=0
           for D in 프로그래머스 programmers Programmers; do 
@@ -29,40 +29,31 @@ jobs:
           for D in 백준 baekjoon Baekjoon; do 
             [ -d "$D" ] && BJ=$((BJ+$(find "$D" -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)))
           done
-          TOTAL=$((LC+PR+BJ))
-          
-          echo "✅ LC=$LC PR=$PR BJ=$BJ TOTAL=$TOTAL"
-          
-          # dashboard.md 생성 (echo만 사용)
+
+          echo "LC=$LC PR=$PR BJ=$BJ"
+          echo "lc=$LC" >> $GITHUB_OUTPUT
+          echo "pr=$PR" >> $GITHUB_OUTPUT
+          echo "bj=$BJ" >> $GITHUB_OUTPUT
+
+      - name: 📝 Create Dashboard
+        run: |
           echo "## 📊 Platform Statistics" > dashboard.md
           echo "" >> dashboard.md
           echo "| Platform | Count |" >> dashboard.md
           echo "|----------|-------|" >> dashboard.md
-          echo "| 🟡 LeetCode | $LC |" >> dashboard.md
-          echo "| 🔵 Programmers | $PR |" >> dashboard.md
-          echo "| 🟢 Baekjoon | $BJ |" >> dashboard.md
-          echo "| 🔢 **Total** | $TOTAL |" >> dashboard.md
+          echo "| 🟡 LeetCode | ${{ steps.stats.outputs.lc }} |" >> dashboard.md
+          echo "| 🔵 Programmers | ${{ steps.stats.outputs.pr }} |" >> dashboard.md
+          echo "| 🟢 Baekjoon | ${{ steps.stats.outputs.bj }} |" >> dashboard.md
+          echo "| 🔢 **Total** | $(( ${{ steps.stats.outputs.lc }} + ${{ steps.stats.outputs.pr }} + ${{ steps.stats.outputs.bj }} )) |" >> dashboard.md
           echo "" >> dashboard.md
           echo "## 🥇 Recently Solved (Top 5)" >> dashboard.md
           echo "" >> dashboard.md
           git log -n 5 --oneline 2>/dev/null | sed 's/^/- /' >> dashboard.md || echo "- No commits" >> dashboard.md
 
-      - name: 📝 Insert to README
-        run: |
-          # DASHBOARD 마커 확인
-          if ! grep -q "<!-- DASHBOARD-START -->" README.md; then
-            echo "❌ README에 DASHBOARD 마커 추가하세요!"
-            exit 1
-          fi
-          
-          # sed로 교체
-          sed -i '/<!-- DASHBOARD-START -->/,/<!-- DASHBOARD-END -->/c<!-- DASHBOARD-START -->\n`cat dashboard.md`\n<!-- DASHBOARD-END -->' README.md
-          sed -i "/<!-- DASHBOARD-START -->/,/<!-- DASHBOARD-END -->/{
-          /<!-- DASHBOARD-START -->/r dashboard.md
-          d
-          }" README.md
+      - name: 🔄 Update README
+        run: sed -i '/<!-- DASHBOARD-START -->/,/<!-- DASHBOARD-END -->/r dashboard.md' README.md
 
-      - name: 💾 Commit & Push
+      - name: 💾 Commit
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -71,5 +62,5 @@ jobs:
           if git diff --staged --quiet; then
             echo "ℹ️ 변경사항 없음"
           else
-            git commit -m "🚀 dashboard updated: PR=$PR"
+            git commit -m "🚀 dashboard updated"
             git push
