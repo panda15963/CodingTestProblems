@@ -16,10 +16,10 @@
 
 ## 🥇 Recently Solved (Top 5)
 
+- 2026-02-28 [level 0] Title: flag에 따라 다른 값 반환하기, Time: 0.02 ms, Memory: 84 MB -BaekjoonHub
+- 2026-02-28 🚀 auto: simplified dashboard
 - 2026-02-28 [level 0] Title: n 번째 원소까지, Time: 0.03 ms, Memory: 80.5 MB -BaekjoonHub
 - 2026-02-28 🚀 auto: simplified dashboard
 - 2026-02-28 [level 0] Title: n 번째 원소까지, Time: 0.07 ms, Memory: 33.4 MB -BaekjoonHub
-- 2026-02-27 🚀 auto: simplified dashboard
-- 2026-02-27 [Bronze V] Title: A-B, Time: 172 ms, Memory: 17708 KB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
