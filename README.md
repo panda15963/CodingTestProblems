@@ -10,6 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 5 |
+| 🔵 Programmers | 15 |
+| 🟢 Baekjoon | 4 |
+| 🔢 **Total** | 24 |
+<!-- DASHBOARD-END -->
+## 📊 Platform Statistics
+
+| Platform | Count |
+|----------|-------|
+| 🟡 LeetCode | 5 |
 | 🔵 Programmers | 14 |
 | 🟢 Baekjoon | 4 |
 | 🔢 **Total** | 23 |
