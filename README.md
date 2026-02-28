@@ -16,10 +16,10 @@
 
 ## 🥇 Recently Solved (Top 5)
 
+- 2026-02-28 [level 0] Title: 문자열 반복해서 출력하기, Time: 42.76 ms, Memory: 32.2 MB -BaekjoonHub
+- 2026-02-28 🚀 auto: simplified dashboard
 - 2026-02-28 [level 0] Title: a와 b 출력하기, Time: 47.58 ms, Memory: 32.2 MB -BaekjoonHub
 - 2026-02-28 🚀 auto: simplified dashboard
 - 2026-02-28 [level 0] Title: 문자열 출력하기, Time: 44.94 ms, Memory: 32.3 MB -BaekjoonHub
-- 2026-02-28 🚀 auto: simplified dashboard
-- 2026-02-28 [level 0] Title: flag에 따라 다른 값 반환하기, Time: 0.04 ms, Memory: 33.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
