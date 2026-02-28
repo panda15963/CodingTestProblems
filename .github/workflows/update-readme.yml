@@ -17,71 +17,61 @@ jobs:
         with:
           fetch-depth: 0
 
-      ####################################################
-      # 📊 통계 생성
-      ####################################################
-
-      - name: Generate statistics
+      - name: Debug folders
         run: |
-          ########################################
-          # 1️⃣ 플랫폼 카운트
-          ########################################
+          echo "📂 ROOT: $(ls -la | grep -E '(프로그래머스|백준|leetcode)' || echo 'none')"
+          [ -d "프로그래머스" ] && echo "✅ 프로그래머스: $(ls 프로그래머스 | wc -l) files"
 
-          lc_count=0
+      - name: Generate dashboard
+        run: |
+          # 카운트 계산
+          lc_count=$(find leetcode -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l || echo 0)
           pr_count=0
-          bj_count=0
+          for dir in 프로그래머스 programmers Programmers; do
+            [ -d "$dir" ] && pr_count=$((pr_count + $(find "$dir" -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)))
+          done
+          bj_count=$(find 백준 baekjoon Baekjoon -maxdepth 1 -mindepth 1 -type d 2>/dev/null | wc -l || echo 0)
+          total=$((lc_count + pr_count + bj_count))
 
-          [ -d "leetcode" ] && lc_count=$(find leetcode -mindepth 1 -maxdepth 1 -type d | wc -l)
-          [ -d "프로그래머스" ] && pr_count=$(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d | wc -l)
-          [ -d "백준" ] && bj_count=$(find 백준 -mindepth 1 -maxdepth 1 -type d | wc -l)
+          echo "✅ COUNTS: LC=$lc_count PR=$pr_count BJ=$bj_count TOTAL=$total"
 
-          ########################################
-          # 2️⃣ 최근 5개
-          ########################################
-
-          recent_top=$(git log -n 5 --date=short --pretty=format:'- %ad %s' || echo "")
-
-          ########################################
-          # 3️⃣ dashboard.md 생성
-          ########################################
-
-          echo "## 📊 Platform Statistics" > dashboard.md
+          # dashboard.md 완전 echo 방식
+          > dashboard.md  # 파일 초기화
+          echo "## 📊 Platform Statistics" >> dashboard.md
           echo "" >> dashboard.md
           echo "| Platform | Count |" >> dashboard.md
           echo "|----------|-------|" >> dashboard.md
           echo "| 🟡 LeetCode | $lc_count |" >> dashboard.md
           echo "| 🔵 Programmers | $pr_count |" >> dashboard.md
           echo "| 🟢 Baekjoon | $bj_count |" >> dashboard.md
-          echo "| 🔢 Total | $((lc_count+pr_count+bj_count)) |" >> dashboard.md
+          echo "| 🔢 **Total** | $total |" >> dashboard.md
           echo "" >> dashboard.md
-
           echo "## 🥇 Recently Solved (Top 5)" >> dashboard.md
           echo "" >> dashboard.md
-          echo "$recent_top" >> dashboard.md
-          echo "" >> dashboard.md
+          git log -n 5 --date=short --pretty=format:'- %ad %s' >> dashboard.md 2>/dev/null || echo "No commits" >> dashboard.md
 
-      ####################################################
-      # 📥 README 삽입
-      ####################################################
+          echo "📋 PREVIEW:"
+          cat dashboard.md
 
-      - name: Insert into README
+      - name: Update README
         run: |
+          if ! grep -q "<!-- DASHBOARD-START -->" README.md; then
+            echo "❌ README에 DASHBOARD 마커 없음"
+            exit 1
+          fi
           awk '
-          BEGIN{flag=0}
-          /<!-- DASHBOARD-START -->/{flag=1; print; system("cat dashboard.md"); next}
-          /<!-- DASHBOARD-END -->/{flag=0}
-          !flag
-          ' README.md > README.new
-          mv README.new README.md
+          /<!-- DASHBOARD-START -->/{while((getline < "dashboard.md")>0) print; next}
+          /<!-- DASHBOARD-END -->/{next}
+          {print}
+          ' README.md > README.new && mv README.new README.md
 
-      ####################################################
-      # 💾 Commit
-      ####################################################
-
-      - name: Commit changes
+      - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "🚀 auto: simplified dashboard"
-          git push
+          if git diff --cached --quiet; then
+            echo "ℹ️ 변경없음"
+          else
+            git commit -m "🚀 dashboard: LC$lc_count/PR$pr_count/BJ$bj_count"
+            git push
