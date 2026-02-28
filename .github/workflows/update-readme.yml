@@ -37,10 +37,6 @@ jobs:
             print "| 🔵 Programmers | " pr " |"
             print "| 🟢 Baekjoon | " bj " |"
             print "| 🔢 **Total** | " (lc+pr+bj) " |"
-            print ""
-            print "## 🥇 Recently Solved (Top 5)"
-            print ""
-            system("git log --oneline -5 2>/dev/null | sed \"s/^/- /\" || echo \"- No commits\"")
             print "<!-- DASHBOARD-END -->"
             next
           }
