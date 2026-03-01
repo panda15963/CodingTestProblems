@@ -9,10 +9,18 @@
 
 | Platform | Count |
 |----------|-------|
-| 🟡 LeetCode | 5 |
-| 🔵 Programmers | 17 |
-| 🟢 Baekjoon | 4 |
-| 🔢 **Total** | 26 |
+| 🟡 LeetCode | 4 |
+| 🔵 Programmers | 2 |
+| 🟢 Baekjoon | 1 |
+| 🔢 **Total** | 7 |
+
+## 🥇 Recently Solved (Top 5)
+- yml 수정
+- 수정
+- [level 0] Title: 홀짝 구분하기, Time: 210.54 ms, Memory: 72.6 MB -BaekjoonHub
+- [level 0] Title: 홀짝 구분하기, Time: 41.38 ms, Memory: 31.8 MB -BaekjoonHub
+- [level 0] Title: 문자열 돌리기, Time: 188.78 ms, Memory: 78.4 MB -BaekjoonHub
+
 <!-- DASHBOARD-END -->
 ## 📊 Platform Statistics
 
@@ -22,7 +30,6 @@
 | 🔵 Programmers | 17 |
 | 🟢 Baekjoon | 4 |
 | 🔢 **Total** | 26 |
-<!-- DASHBOARD-END -->
 ## 📊 Platform Statistics
 
 | Platform | Count |
@@ -31,7 +38,6 @@
 | 🔵 Programmers | 16 |
 | 🟢 Baekjoon | 4 |
 | 🔢 **Total** | 25 |
-<!-- DASHBOARD-END -->
 ## 📊 Platform Statistics
 
 | Platform | Count |
@@ -40,7 +46,6 @@
 | 🔵 Programmers | 16 |
 | 🟢 Baekjoon | 4 |
 | 🔢 **Total** | 25 |
-<!-- DASHBOARD-END -->
 ## 📊 Platform Statistics
 
 | Platform | Count |
@@ -49,7 +54,6 @@
 | 🔵 Programmers | 15 |
 | 🟢 Baekjoon | 4 |
 | 🔢 **Total** | 24 |
-<!-- DASHBOARD-END -->
 ## 📊 Platform Statistics
 
 | Platform | Count |
@@ -58,7 +62,6 @@
 | 🔵 Programmers | 14 |
 | 🟢 Baekjoon | 4 |
 | 🔢 **Total** | 23 |
-<!-- DASHBOARD-END -->
 ## 📊 Platform Statistics
 
 | Platform | Count |
@@ -75,6 +78,4 @@
 - f02ba58 🚀 dashboard: PR=
 - 27ca527 yml 수정
 - 061df5a yml 수정
-<!-- DASHBOARD-END -->
 $(cat dashboard.md)
-<!-- DASHBOARD-END -->
