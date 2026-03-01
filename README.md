@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 4 |
-| 🔵 Programmers | 2 |
-| 🟢 Baekjoon | 1 |
-| 🔢 **Total** | 7 |
+| 🔵 Programmers | 15 |
+| 🟢 Baekjoon | 2 |
+| 🔢 **Total** | 21 |
 
 ## 🥇 Recently Solved (Top 5)
+- 계산 수정
 - [level 0] Title: 문자열 겹쳐쓰기, Time: 14.71 ms, Memory: 82.8 MB -BaekjoonHub
 - [level 0] Title: 문자열 겹쳐쓰기, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - yml 수정
 - 수정
-- [level 0] Title: 홀짝 구분하기, Time: 210.54 ms, Memory: 72.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 ## 📊 Platform Statistics
