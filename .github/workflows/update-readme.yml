@@ -9,44 +9,58 @@ permissions:
 
 jobs:
   update-readme:
-    if: github.event.actor.name != 'github-actions[bot]'
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 📊 Update Dashboard
         run: |
-          # 카운트 계산 (간단)
-          LC=$(find leetcode -type d 2>/dev/null | wc -l)
-          PR=$(find 프로그래머스 -type d 2>/dev/null | wc -l)
-          BJ=$(find 백준 -type d 2>/dev/null | wc -l)
-          
-          # README 직접 수정
-          awk -v lc="$LC" -v pr="$PR" -v bj="$BJ" '
+          LC=$(find leetcode -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
+          PR=$(find 프로그래머스 -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
+          BJ=$(find 백준 -mindepth 1 -maxdepth 1 -type d 2>/dev/null | wc -l)
+          TOTAL=$((LC + PR + BJ))
+
+          # 🔥 dashboard 관련 커밋, merge 커밋 제외
+          RECENT=$(git log --pretty=format:"- %s" \
+            --no-merges \
+            --invert-grep \
+            --grep="dashboard" \
+            -n 5)
+
+          awk -v lc="$LC" -v pr="$PR" -v bj="$BJ" -v total="$TOTAL" -v recent="$RECENT" '
+          BEGIN { in_block=0 }
           /<!-- DASHBOARD-START -->/ {
-            print "<!-- DASHBOARD-START -->"
-            print "## 📊 Platform Statistics"
-            print ""
-            print "| Platform | Count |"
-            print "|----------|-------|"
-            print "| 🟡 LeetCode | " lc " |"
-            print "| 🔵 Programmers | " pr " |"
-            print "| 🟢 Baekjoon | " bj " |"
-            print "| 🔢 **Total** | " (lc+pr+bj) " |"
-            print "<!-- DASHBOARD-END -->"
-            next
+              print "<!-- DASHBOARD-START -->"
+              print "## 📊 Platform Statistics"
+              print ""
+              print "| Platform | Count |"
+              print "|----------|-------|"
+              print "| 🟡 LeetCode | " lc " |"
+              print "| 🔵 Programmers | " pr " |"
+              print "| 🟢 Baekjoon | " bj " |"
+              print "| 🔢 **Total** | " total " |"
+              print ""
+              print "## 🥇 Recently Solved (Top 5)"
+              print recent
+              print ""
+              print "<!-- DASHBOARD-END -->"
+              in_block=1
+              next
           }
-          {print}
+          /<!-- DASHBOARD-END -->/ { in_block=0; next }
+          !in_block { print }
           ' README.md > tmp.md && mv tmp.md README.md
 
-      - name: 💾 Push
+      - name: 💾 Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "🚀 dashboard PR=$PR" || true
-          git push || true
+
+          if ! git diff --quiet; then
+            git add README.md
+            git commit -m "🚀 dashboard auto update [skip ci]"
+            git push
