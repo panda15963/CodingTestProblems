@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 4 |
-| 🔵 Programmers | 38 |
+| 🔵 Programmers | 39 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 44 |
+| 🔢 **Total** | 45 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 주사위 게임 3, Time: 0.52 ms, Memory: 92.4 MB -BaekjoonHub
 - [level 0] Title: 간단한 논리 연산, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 간단한 논리 연산, Time: 0.02 ms, Memory: 70.6 MB -BaekjoonHub
 - [level 0] Title: 배열 만들기 4, Time: 3.82 ms, Memory: 38.5 MB -BaekjoonHub
 - [level 0] Title: 카운트 업, Time: 3.00 ms, Memory: 88.6 MB -BaekjoonHub
-- [level 0] Title: 카운트 업, Time: 0.06 ms, Memory: 33.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
