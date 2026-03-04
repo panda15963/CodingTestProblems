@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 4 |
-| 🔵 Programmers | 41 |
+| 🔵 Programmers | 42 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 47 |
+| 🔢 **Total** | 48 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자열 여러 번 뒤집기, Time: 2.59 ms, Memory: 91.9 MB -BaekjoonHub
 - [level 0] Title: 9로 나눈 나머지, Time: 17.82 ms, Memory: 35.8 MB -BaekjoonHub
 - [level 0] Title: 글자 이어 붙여 문자열 만들기, Time: 0.15 ms, Memory: 84.7 MB -BaekjoonHub
 - [level 0] Title: 글자 이어 붙여 문자열 만들기, Time: 0.14 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 주사위 게임 3, Time: 0.13 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: 주사위 게임 3, Time: 0.52 ms, Memory: 92.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
