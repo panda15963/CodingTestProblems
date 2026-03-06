@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 4 |
-| 🔵 Programmers | 64 |
+| 🔵 Programmers | 65 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 70 |
+| 🔢 **Total** | 71 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: n개 간격의 원소들, Time: 0.05 ms, Memory: 33.4 MB -BaekjoonHub
+- [level 0] Title: n개 간격의 원소들, Time: 16.10 ms, Memory: 92.4 MB -BaekjoonHub
 - [level 0] Title: 왼쪽 오른쪽, Time: 0.04 ms, Memory: 79.5 MB -BaekjoonHub
 - [level 0] Title: 왼쪽 오른쪽, Time: 0.05 ms, Memory: 33.1 MB -BaekjoonHub
 - [level 0] Title: 순서 바꾸기, Time: 0.03 ms, Memory: 86.4 MB -BaekjoonHub
-- [level 0] Title: n 번째 원소부터, Time: 0.03 ms, Memory: 89.7 MB -BaekjoonHub
-- [level 0] Title: n 번째 원소부터, Time: 0.04 ms, Memory: 33.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
