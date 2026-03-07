@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 4 |
-| 🔵 Programmers | 68 |
+| 🔵 Programmers | 69 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 74 |
+| 🔢 **Total** | 75 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: n보다 커질 때까지 더하기, Time: 0.02 ms, Memory: 77.8 MB -BaekjoonHub
 - [level 0] Title: 할 일 목록, Time: 0.03 ms, Memory: 82.7 MB -BaekjoonHub
 - [level 0] Title: 할 일 목록, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 5명씩, Time: 0.03 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 5명씩, Time: 0.03 ms, Memory: 72.5 MB -BaekjoonHub
-- [level 0] Title: 홀수 vs 짝수, Time: 0.05 ms, Memory: 75.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
