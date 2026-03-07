@@ -15,10 +15,10 @@
 | 🔢 **Total** | 74 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 할 일 목록, Time: 0.03 ms, Memory: 82.7 MB -BaekjoonHub
 - [level 0] Title: 할 일 목록, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 5명씩, Time: 0.03 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 5명씩, Time: 0.03 ms, Memory: 72.5 MB -BaekjoonHub
 - [level 0] Title: 홀수 vs 짝수, Time: 0.05 ms, Memory: 75.3 MB -BaekjoonHub
-- [level 0] Title: 홀수 vs 짝수, Time: 0.16 ms, Memory: 33.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
