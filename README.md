@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 4 |
-| 🔵 Programmers | 67 |
+| 🔵 Programmers | 68 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 73 |
+| 🔢 **Total** | 74 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 할 일 목록, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 5명씩, Time: 0.03 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 5명씩, Time: 0.03 ms, Memory: 72.5 MB -BaekjoonHub
 - [level 0] Title: 홀수 vs 짝수, Time: 0.05 ms, Memory: 75.3 MB -BaekjoonHub
 - [level 0] Title: 홀수 vs 짝수, Time: 0.16 ms, Memory: 33.5 MB -BaekjoonHub
-- [level 0] Title: n개 간격의 원소들, Time: 0.05 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
