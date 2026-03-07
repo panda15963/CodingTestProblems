@@ -1,10 +1,10 @@
 # [level 0] 홀수 vs 짝수 - 181887 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181887) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181887?language=java) 
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.16 ms
+메모리: 75.3 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 07일 09:40:25
+2026년 03월 07일 09:44:40
 
 ### 문제 설명
 
