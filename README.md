@@ -15,10 +15,10 @@
 | 🔢 **Total** | 78 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 조건에 맞게 수열 변환하기 2, Time: 46.23 ms, Memory: 67.7 MB -BaekjoonHub
 - [level 0] Title: 조건에 맞게 수열 변환하기 2, Time: 46.95 ms, Memory: 124 MB -BaekjoonHub
 - [level 0] Title: 조건에 맞게 수열 변환하기 1, Time: 28.81 ms, Memory: 115 MB -BaekjoonHub
 - [level 0] Title: 조건에 맞게 수열 변환하기 1, Time: 12.48 ms, Memory: 157 MB -BaekjoonHub
 - [level 0] Title: 수열과 구간 쿼리 1, Time: 29.72 ms, Memory: 36.8 MB -BaekjoonHub
-- [level 0] Title: n보다 커질 때까지 더하기, Time: 0.12 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
