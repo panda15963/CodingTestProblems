@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 4 |
-| 🔵 Programmers | 76 |
+| 🔵 Programmers | 77 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 82 |
+| 🔢 **Total** | 83 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 소문자로 바꾸기, Time: 0.02 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 대문자로 바꾸기, Time: 0.02 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 원하는 문자열 찾기, Time: 7.44 ms, Memory: 89.4 MB -BaekjoonHub
 - [level 0] Title: 원하는 문자열 찾기, Time: 0.13 ms, Memory: 33.8 MB -BaekjoonHub
 - [level 0] Title: 길이에 따른 연산, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: 길이에 따른 연산, Time: 0.02 ms, Memory: 88 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
