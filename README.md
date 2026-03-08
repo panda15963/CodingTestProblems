@@ -15,10 +15,10 @@
 | 🔢 **Total** | 84 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 배열에서 문자열 대소문자 변환하기, Time: 0.07 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 배열에서 문자열 대소문자 변환하기, Time: 0.05 ms, Memory: 79.4 MB -BaekjoonHub
 - [level 0] Title: 소문자로 바꾸기, Time: 0.02 ms, Memory: 86.1 MB -BaekjoonHub
 - [level 0] Title: 소문자로 바꾸기, Time: 0.02 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 대문자로 바꾸기, Time: 0.02 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: 원하는 문자열 찾기, Time: 7.44 ms, Memory: 89.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
