@@ -15,10 +15,10 @@
 | 🔢 **Total** | 96 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 전국 대회 선발 고사, Time: 0.54 ms, Memory: 83 MB -BaekjoonHub
 - [level 0] Title: 전국 대회 선발 고사, Time: 4.47 ms, Memory: 33.7 MB -BaekjoonHub
 - [level 0] Title: 뒤에서 5등 위로, Time: 0.51 ms, Memory: 70.3 MB -BaekjoonHub
 - [level 0] Title: 뒤에서 5등까지, Time: 0.07 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 뒤에서 5등까지, Time: 0.50 ms, Memory: 88.6 MB -BaekjoonHub
-- [level 0] Title: 배열의 길이에 따라 다른 연산하기, Time: 0.11 ms, Memory: 33.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
