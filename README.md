@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 4 |
-| 🔵 Programmers | 88 |
+| 🔵 Programmers | 89 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 94 |
+| 🔢 **Total** | 95 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 뒤에서 5등 위로, Time: 0.51 ms, Memory: 70.3 MB -BaekjoonHub
 - [level 0] Title: 뒤에서 5등까지, Time: 0.07 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 뒤에서 5등까지, Time: 0.50 ms, Memory: 88.6 MB -BaekjoonHub
 - [level 0] Title: 배열의 길이에 따라 다른 연산하기, Time: 0.11 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 배열의 길이에 따라 다른 연산하기, Time: 0.08 ms, Memory: 89.6 MB -BaekjoonHub
-- [level 0] Title: 문자열 묶기, Time: 25.40 ms, Memory: 122 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
