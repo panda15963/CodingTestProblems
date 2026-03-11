@@ -1,10 +1,10 @@
 # [level 0] 전국 대회 선발 고사 - 181851 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181851) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181851?language=java) 
 
 ### 성능 요약
 
-메모리: 33.7 MB, 시간: 4.47 ms
+메모리: 83 MB, 시간: 0.54 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 11일 14:36:22
+2026년 03월 11일 14:36:54
 
 ### 문제 설명
 
