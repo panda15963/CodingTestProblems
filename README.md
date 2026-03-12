@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 4 |
-| 🔵 Programmers | 111 |
+| 🔵 Programmers | 112 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 117 |
+| 🔢 **Total** | 118 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 정수를 나선형으로 배치하기, Time: 0.06 ms, Memory: 88.1 MB -BaekjoonHub
 - [level 0] Title: 정사각형으로 만들기, Time: 0.86 ms, Memory: 38.3 MB -BaekjoonHub
 - [level 0] Title: 그림 확대, Time: 0.25 ms, Memory: 33.8 MB -BaekjoonHub
 - [level 0] Title: 그림 확대, Time: 0.56 ms, Memory: 78.3 MB -BaekjoonHub
 - [level 0] Title: 커피 심부름, Time: 1.33 ms, Memory: 90.7 MB -BaekjoonHub
-- [level 0] Title: 이차원 배열 대각선 순회하기, Time: 0.37 ms, Memory: 33.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
