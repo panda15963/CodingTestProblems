@@ -1,10 +1,10 @@
 # [level 0] 문자열로 변환 - 181845 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181845) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181845?language=javascript) 
 
 ### 성능 요약
 
-메모리: 87 MB, 시간: 0.03 ms
+메모리: 33.6 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 12일 20:49:44
+2026년 03월 12일 20:49:53
 
 ### 문제 설명
 
