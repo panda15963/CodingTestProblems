@@ -15,10 +15,10 @@
 | 🔢 **Total** | 128 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 중앙값 구하기, Time: 0.06 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 중앙값 구하기, Time: 1.28 ms, Memory: 69.3 MB -BaekjoonHub
 - [level 0] Title: 나머지 구하기, Time: 0.02 ms, Memory: 90.2 MB -BaekjoonHub
 - [level 0] Title: 배열 두배 만들기, Time: 0.07 ms, Memory: 33.6 MB -BaekjoonHub
 - [level 0] Title: 배열 두배 만들기, Time: 0.07 ms, Memory: 87.7 MB -BaekjoonHub
-- [level 0] Title: 분수의 덧셈, Time: 0.02 ms, Memory: 81.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
