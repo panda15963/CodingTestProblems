@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 4 |
-| 🔵 Programmers | 128 |
+| 🔵 Programmers | 129 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 134 |
+| 🔢 **Total** | 135 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 옷가게 할인 받기, Time: 0.02 ms, Memory: 69.3 MB -BaekjoonHub
 - [level 0] Title: 배열의 평균값, Time: 0.05 ms, Memory: 92.7 MB -BaekjoonHub
 - [level 0] Title: 피자 나눠 먹기 (3), Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 피자 나눠 먹기 (2), Time: 0.05 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 피자 나눠 먹기 (2), Time: 0.02 ms, Memory: 89 MB -BaekjoonHub
-- [level 0] Title: 피자 나눠 먹기 (1), Time: 0.03 ms, Memory: 86.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
