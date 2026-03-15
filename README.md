@@ -15,10 +15,10 @@
 | 🔢 **Total** | 147 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 배열 자르기, Time: 0.03 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 배열 자르기, Time: 0.03 ms, Memory: 93.6 MB -BaekjoonHub
 - [level 0] Title: 짝수의 합, Time: 0.02 ms, Memory: 76 MB -BaekjoonHub
 - [level 0] Title: 양꼬치, Time: 0.02 ms, Memory: 88.9 MB -BaekjoonHub
 - [level 0] Title: 양꼬치, Time: 0.03 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: 각도기, Time: 0.02 ms, Memory: 84.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
