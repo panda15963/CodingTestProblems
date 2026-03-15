@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 5 |
-| 🔵 Programmers | 145 |
+| 🔵 Programmers | 146 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 152 |
+| 🔢 **Total** | 153 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 구슬을 나누는 경우의 수, Time: 0.06 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 가위 바위 보, Time: 0.06 ms, Memory: 84.6 MB -BaekjoonHub
 - [level 0] Title: 모스부호 (1), Time: 0.10 ms, Memory: 33.4 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 25 ms (28.76%), Space: 62.9 MB (24.79%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
