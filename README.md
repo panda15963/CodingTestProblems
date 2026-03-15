@@ -15,10 +15,10 @@
 | 🔢 **Total** | 149 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 순서쌍의 개수, Time: 7.31 ms, Memory: 80.2 MB -BaekjoonHub
 - [level 0] Title: 순서쌍의 개수, Time: 5.32 ms, Memory: 36.4 MB -BaekjoonHub
 - [level 0] Title: 진료 순서 정하기, Time: 0.02 ms, Memory: 85.9 MB -BaekjoonHub
 - [level 0] Title: 짝수의 합, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 배열 자르기, Time: 0.03 ms, Memory: 33.5 MB -BaekjoonHub
-- [level 0] Title: 배열 자르기, Time: 0.03 ms, Memory: 93.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
