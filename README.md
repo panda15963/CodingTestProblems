@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 4 |
-| 🔵 Programmers | 136 |
+| 🔵 Programmers | 137 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 142 |
+| 🔢 **Total** | 143 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 특정 문자 제거하기, Time: 0.03 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 문자 반복 출력하기, Time: 0.03 ms, Memory: 72.8 MB -BaekjoonHub
 - [level 0] Title: 문자 반복 출력하기, Time: 0.04 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 짝수 홀수 개수, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 짝수 홀수 개수, Time: 0.02 ms, Memory: 71.1 MB -BaekjoonHub
-- [level 0] Title: 직각삼각형 출력하기, Time: 198.59 ms, Memory: 74.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
