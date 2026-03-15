@@ -15,10 +15,10 @@
 | 🔢 **Total** | 145 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 양꼬치, Time: 0.02 ms, Memory: 88.9 MB -BaekjoonHub
 - [level 0] Title: 양꼬치, Time: 0.03 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 각도기, Time: 0.02 ms, Memory: 84.6 MB -BaekjoonHub
 - [level 0] Title: 특정 문자 제거하기, Time: 0.03 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 문자 반복 출력하기, Time: 0.03 ms, Memory: 72.8 MB -BaekjoonHub
-- [level 0] Title: 문자 반복 출력하기, Time: 0.04 ms, Memory: 33.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
