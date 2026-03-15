@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 5 |
-| 🔵 Programmers | 148 |
+| 🔵 Programmers | 149 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 155 |
+| 🔢 **Total** | 156 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 공 던지기, Time: 0.03 ms, Memory: 79.3 MB -BaekjoonHub
 - [level 0] Title: 2차원으로 만들기, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 점의 위치 구하기, Time: 0.03 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 점의 위치 구하기, Time: 0.03 ms, Memory: 88.6 MB -BaekjoonHub
 - [level 0] Title: 구슬을 나누는 경우의 수, Time: 0.02 ms, Memory: 87 MB -BaekjoonHub
-- [level 0] Title: 구슬을 나누는 경우의 수, Time: 0.06 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
