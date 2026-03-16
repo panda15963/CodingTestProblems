@@ -30,6 +30,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/panda15963/CodingTestProblems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/panda15963/CodingTestProblems/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/panda15963/CodingTestProblems/tree/master/0008-string-to-integer-atoi) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Greedy
 |  |
