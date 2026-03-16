@@ -26,13 +26,13 @@ jobs:
           for dir in 0*; do
             if [ -d "$dir" ]; then
 
-              if [ -d "leetcode/$dir" ]; then
-                echo "Duplicate detected → removing root folder $dir"
-                rm -rf "$dir"
-              else
-                echo "Moving $dir → leetcode/"
-                mv "$dir" leetcode/
+              if [ ! -d "leetcode/$dir" ]; then
+                echo "Copying $dir → leetcode/"
+                cp -r "$dir" leetcode/
               fi
+
+              echo "Removing root folder $dir"
+              rm -rf "$dir"
 
             fi
           done
