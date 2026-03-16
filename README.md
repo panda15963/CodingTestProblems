@@ -15,11 +15,11 @@
 | 🔢 **Total** | 165 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 합성수 찾기, Time: 0.21 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 합성수 찾기, Time: 0.11 ms, Memory: 80.8 MB -BaekjoonHub
 - [level 0] Title: 주사위의 개수, Time: 0.02 ms, Memory: 74.5 MB -BaekjoonHub
 - [level 0] Title: 주사위의 개수, Time: 0.03 ms, Memory: 33 MB -BaekjoonHub
 - Update README - Topic Tags
-- Time: 16 ms (37.87%), Space: 58.5 MB (29.98%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
