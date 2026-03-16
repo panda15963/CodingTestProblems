@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 11 |
-| 🔵 Programmers | 152 |
+| 🔵 Programmers | 153 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 165 |
+| 🔢 **Total** | 166 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 최댓값 만들기 (1), Time: 0.06 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 합성수 찾기, Time: 0.21 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 합성수 찾기, Time: 0.11 ms, Memory: 80.8 MB -BaekjoonHub
 - [level 0] Title: 주사위의 개수, Time: 0.02 ms, Memory: 74.5 MB -BaekjoonHub
 - [level 0] Title: 주사위의 개수, Time: 0.03 ms, Memory: 33 MB -BaekjoonHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
