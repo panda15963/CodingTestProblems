@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 11 |
-| 🔵 Programmers | 154 |
+| 🔵 Programmers | 155 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 167 |
+| 🔢 **Total** | 168 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 모음 제거, Time: 0.13 ms, Memory: 77.8 MB -BaekjoonHub
+- [level 0] Title: 모음 제거, Time: 0.10 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 팩토리얼, Time: 0.04 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 팩토리얼, Time: 0.02 ms, Memory: 69.6 MB -BaekjoonHub
 - [level 0] Title: 최댓값 만들기 (1), Time: 1.26 ms, Memory: 87.4 MB -BaekjoonHub
-- [level 0] Title: 최댓값 만들기 (1), Time: 0.06 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: 합성수 찾기, Time: 0.21 ms, Memory: 33.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
