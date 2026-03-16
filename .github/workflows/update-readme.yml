@@ -13,25 +13,37 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 🔧 root에 생성된 LeetCode 문제 폴더 자동 이동
+      # 🔧 root에 생성된 LeetCode 문제 폴더 정리
       - name: 📦 Organize LeetCode folders
         run: |
           mkdir -p leetcode
+
           for dir in 0*; do
             if [ -d "$dir" ]; then
-              mv "$dir" leetcode/ || true
+
+              if [ -d "leetcode/$dir" ]; then
+                echo "Duplicate detected → removing root folder $dir"
+                rm -rf "$dir"
+              else
+                echo "Moving $dir → leetcode/"
+                mv "$dir" leetcode/
+              fi
+
             fi
           done
 
+      # 📊 Dashboard 업데이트
       - name: 📊 Update Dashboard
         run: |
           LC=$(find leetcode -maxdepth 1 -type d -name "0*" 2>/dev/null | wc -l)
           PR=$(find 프로그래머스 -type d -mindepth 2 2>/dev/null | wc -l)
           BJ=$(find 백준 -type d -mindepth 2 2>/dev/null | wc -l)
+
           TOTAL=$((LC + PR + BJ))
 
           RECENT=$(git log --pretty=format:"- %s" \
@@ -64,13 +76,17 @@ jobs:
           !in_block { print }
           ' README.md > tmp.md && mv tmp.md README.md
 
+      # 💾 Commit & Push
       - name: 💾 Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add README.md leetcode || true
-          git diff --cached --quiet || git commit -m "🚀 dashboard auto update [skip ci]"
+
+          if ! git diff --cached --quiet; then
+            git commit -m "🚀 dashboard auto update [skip ci]"
+          fi
 
           git pull --rebase origin ${GITHUB_REF_NAME} || true
           git push origin HEAD:${GITHUB_REF_NAME}
