@@ -22,19 +22,21 @@ jobs:
       - name: 📦 Organize LeetCode folders
         run: |
           mkdir -p leetcode
-          
-          for dir in 0*; do
+
+          for dir in 0*-*/; do
             if [ -d "$dir" ]; then
-          
-              mkdir -p "leetcode/$dir"
-          
-              echo "Merging $dir → leetcode/$dir"
-          
-              rsync -a "$dir/" "leetcode/$dir/"
-          
-              echo "Removing root folder $dir"
+
+              name=$(basename "$dir")
+
+              echo "Merging $name → leetcode/$name"
+
+              mkdir -p "leetcode/$name"
+
+              rsync -a "$dir" "leetcode/"
+
+              echo "Removing root folder $name"
               rm -rf "$dir"
-          
+
             fi
           done
 
@@ -83,7 +85,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add README.md leetcode || true
+          # 삭제된 폴더까지 반영
+          git add -A
 
           if ! git diff --cached --quiet; then
             git commit -m "🚀 dashboard auto update [skip ci]"
