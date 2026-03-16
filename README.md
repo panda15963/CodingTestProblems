@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 11 |
-| 🔵 Programmers | 153 |
+| 🔵 Programmers | 154 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 166 |
+| 🔢 **Total** | 167 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 팩토리얼, Time: 0.04 ms, Memory: 33.5 MB -BaekjoonHub
+- [level 0] Title: 팩토리얼, Time: 0.02 ms, Memory: 69.6 MB -BaekjoonHub
 - [level 0] Title: 최댓값 만들기 (1), Time: 1.26 ms, Memory: 87.4 MB -BaekjoonHub
 - [level 0] Title: 최댓값 만들기 (1), Time: 0.06 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 합성수 찾기, Time: 0.21 ms, Memory: 33.3 MB -BaekjoonHub
-- [level 0] Title: 합성수 찾기, Time: 0.11 ms, Memory: 80.8 MB -BaekjoonHub
-- [level 0] Title: 주사위의 개수, Time: 0.02 ms, Memory: 74.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
