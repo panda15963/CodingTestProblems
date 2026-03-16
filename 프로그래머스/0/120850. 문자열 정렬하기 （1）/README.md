@@ -1,10 +1,10 @@
 # [level 0] 문자열 정렬하기 (1) - 120850 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120850) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120850?language=javascript) 
 
 ### 성능 요약
 
-메모리: 96.2 MB, 시간: 4.05 ms
+메모리: 33.3 MB, 시간: 0.07 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 17일 07:17:11
+2026년 03월 17일 07:17:21
 
 ### 문제 설명
 
