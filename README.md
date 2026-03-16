@@ -32,6 +32,7 @@
 | [0006-zigzag-conversion](https://github.com/panda15963/CodingTestProblems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/panda15963/CodingTestProblems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/panda15963/CodingTestProblems/tree/master/0012-integer-to-roman) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Greedy
 |  |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/panda15963/CodingTestProblems/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/panda15963/CodingTestProblems/tree/master/0012-integer-to-roman) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Design
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0010-regular-expression-matching) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/panda15963/CodingTestProblems/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
