@@ -19,12 +19,11 @@ jobs:
 
       - name: 📊 Update Dashboard
         run: |
-          LC=$(find leetcode -type d -mindepth 1 | wc -l)
-          PR=$(find 프로그래머스 -type d -mindepth 2 | wc -l)
-          BJ=$(find 백준 -type d -mindepth 2 | wc -l)
+          LC=$(find leetcode -type d -mindepth 1 2>/dev/null | wc -l)
+          PR=$(find 프로그래머스 -type d -mindepth 2 2>/dev/null | wc -l)
+          BJ=$(find 백준 -type d -mindepth 2 2>/dev/null | wc -l)
           TOTAL=$((LC + PR + BJ))
 
-          # 🔥 dashboard 관련 커밋, merge 커밋 제외
           RECENT=$(git log --pretty=format:"- %s" \
             --no-merges \
             --invert-grep \
@@ -63,5 +62,5 @@ jobs:
           git add README.md
           git diff --cached --quiet || git commit -m "🚀 dashboard auto update [skip ci]"
           
-          git pull --rebase origin ${GITHUB_REF_NAME}
+          git pull --rebase origin ${GITHUB_REF_NAME} || true
           git push origin HEAD:${GITHUB_REF_NAME}
