@@ -33,4 +33,16 @@
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Math
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
