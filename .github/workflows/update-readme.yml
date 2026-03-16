@@ -17,9 +17,19 @@ jobs:
         with:
           fetch-depth: 0
 
+      # 🔧 root에 생성된 LeetCode 문제 폴더 자동 이동
+      - name: 📦 Organize LeetCode folders
+        run: |
+          mkdir -p leetcode
+          for dir in 0*; do
+            if [ -d "$dir" ]; then
+              mv "$dir" leetcode/ || true
+            fi
+          done
+
       - name: 📊 Update Dashboard
         run: |
-          LC=$(find leetcode -type d -mindepth 1 2>/dev/null | wc -l)
+          LC=$(find leetcode -maxdepth 1 -type d -name "0*" 2>/dev/null | wc -l)
           PR=$(find 프로그래머스 -type d -mindepth 2 2>/dev/null | wc -l)
           BJ=$(find 백준 -type d -mindepth 2 2>/dev/null | wc -l)
           TOTAL=$((LC + PR + BJ))
@@ -58,9 +68,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git add README.md
+
+          git add README.md leetcode || true
           git diff --cached --quiet || git commit -m "🚀 dashboard auto update [skip ci]"
-          
+
           git pull --rebase origin ${GITHUB_REF_NAME} || true
           git push origin HEAD:${GITHUB_REF_NAME}
