@@ -16,10 +16,10 @@
 
 ## 🥇 Recently Solved (Top 5)
 - 수정
+- 수정
 - Updated stats
 - Update README - Topic Tags
 - Time: 1 ms (99.85%), Space: 43.7 MB (72.73%) - LeetHub
-- Create README - LeetHub
 
 <!-- DASHBOARD-END -->
 
