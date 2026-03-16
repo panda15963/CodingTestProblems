@@ -9,17 +9,17 @@
 
 | Platform | Count |
 |----------|-------|
-| 🟡 LeetCode | 5 |
+| 🟡 LeetCode | 6 |
 | 🔵 Programmers | 150 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 157 |
+| 🔢 **Total** | 158 |
 
 ## 🥇 Recently Solved (Top 5)
-- [level 0] Title: 배열 회전시키기, Time: 0.03 ms, Memory: 33.3 MB -BaekjoonHub
-- [level 0] Title: 공 던지기, Time: 0.03 ms, Memory: 33.5 MB -BaekjoonHub
-- [level 0] Title: 공 던지기, Time: 0.03 ms, Memory: 79.3 MB -BaekjoonHub
-- [level 0] Title: 2차원으로 만들기, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: 점의 위치 구하기, Time: 0.03 ms, Memory: 33.3 MB -BaekjoonHub
+- Update README - Topic Tags
+- Time: 204 ms (66.67%), Space: 103.6 MB (33.33%) - LeetHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- Updated stats
+- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
