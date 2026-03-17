@@ -15,11 +15,11 @@
 | 🔢 **Total** | 171 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 0] Title: 소인수분해, Time: 0.26 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 소인수분해, Time: 9.69 ms, Memory: 85.5 MB -BaekjoonHub
 - [level 0] Title: 숨어있는 숫자의 덧셈 (1), Time: 0.06 ms, Memory: 83.6 MB -BaekjoonHub
 - [level 0] Title: 숨어있는 숫자의 덧셈 (1), Time: 0.14 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: 문자열 정렬하기 (1), Time: 0.07 ms, Memory: 33.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
