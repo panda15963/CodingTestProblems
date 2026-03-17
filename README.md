@@ -39,6 +39,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/panda15963/CodingTestProblems/tree/master/0011-container-with-most-water) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/panda15963/CodingTestProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## Math
 |  |
 | ------- |
@@ -59,11 +60,13 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/panda15963/CodingTestProblems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/panda15963/CodingTestProblems/tree/master/0016-3sum-closest) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/panda15963/CodingTestProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/panda15963/CodingTestProblems/tree/master/0016-3sum-closest) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/panda15963/CodingTestProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -72,6 +75,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/panda15963/CodingTestProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Prefix Sum
 |  |
