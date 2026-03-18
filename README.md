@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 171 |
+| 🔵 Programmers | 172 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 186 |
+| 🔢 **Total** | 187 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 가장 큰 수 찾기, Time: 0.01 ms, Memory: 83.2 MB -BaekjoonHub
 - [level 0] Title: 편지, Time: 0.03 ms, Memory: 86.1 MB -BaekjoonHub
 - [level 0] Title: 편지, Time: 0.02 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 약수 구하기, Time: 3.25 ms, Memory: 87.9 MB -BaekjoonHub
 - [level 0] Title: 한 번만 등장한 문자, Time: 0.04 ms, Memory: 68.3 MB -BaekjoonHub
-- [level 0] Title: 한 번만 등장한 문자, Time: 0.20 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
