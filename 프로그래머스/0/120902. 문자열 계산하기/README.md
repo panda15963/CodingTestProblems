@@ -1,10 +1,10 @@
 # [level 0] 문자열 계산하기 - 120902 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120902) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120902?language=java) 
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.05 ms
+메모리: 93 MB, 시간: 0.13 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 19일 06:50:02
+2026년 03월 19일 06:50:17
 
 ### 문제 설명
 
