@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 164 |
+| 🔵 Programmers | 165 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 179 |
+| 🔢 **Total** | 180 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 암호 해독, Time: 0.14 ms, Memory: 33.5 MB -BaekjoonHub
+- [level 0] Title: 암호 해독, Time: 0.11 ms, Memory: 72.4 MB -BaekjoonHub
 - [level 0] Title: 369게임, Time: 0.05 ms, Memory: 79.3 MB -BaekjoonHub
 - [level 0] Title: 가까운 수, Time: 0.15 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 가까운 수, Time: 0.04 ms, Memory: 81.4 MB -BaekjoonHub
-- [level 0] Title: 삼각형의 완성조건 (1), Time: 4.71 ms, Memory: 71.2 MB -BaekjoonHub
-- [level 0] Title: 삼각형의 완성조건 (1), Time: 0.07 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
