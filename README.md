@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 165 |
+| 🔵 Programmers | 166 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 180 |
+| 🔢 **Total** | 181 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 대문자와 소문자, Time: 0.27 ms, Memory: 33.6 MB -BaekjoonHub
 - [level 0] Title: 암호 해독, Time: 0.14 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 암호 해독, Time: 0.11 ms, Memory: 72.4 MB -BaekjoonHub
 - [level 0] Title: 369게임, Time: 0.05 ms, Memory: 79.3 MB -BaekjoonHub
 - [level 0] Title: 가까운 수, Time: 0.15 ms, Memory: 33.5 MB -BaekjoonHub
-- [level 0] Title: 가까운 수, Time: 0.04 ms, Memory: 81.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
