@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 173 |
+| 🔵 Programmers | 174 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 188 |
+| 🔢 **Total** | 189 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 배열의 유사도, Time: 0.13 ms, Memory: 81.1 MB -BaekjoonHub
 - [level 0] Title: 문자열 계산하기, Time: 0.13 ms, Memory: 93 MB -BaekjoonHub
 - [level 0] Title: 문자열 계산하기, Time: 0.05 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 가장 큰 수 찾기, Time: 0.03 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 가장 큰 수 찾기, Time: 0.01 ms, Memory: 83.2 MB -BaekjoonHub
-- [level 0] Title: 편지, Time: 0.03 ms, Memory: 86.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
