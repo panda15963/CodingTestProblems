@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 169 |
+| 🔵 Programmers | 170 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 184 |
+| 🔢 **Total** | 185 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 약수 구하기, Time: 3.25 ms, Memory: 87.9 MB -BaekjoonHub
 - [level 0] Title: 한 번만 등장한 문자, Time: 0.04 ms, Memory: 68.3 MB -BaekjoonHub
 - [level 0] Title: 한 번만 등장한 문자, Time: 0.20 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 인덱스 바꾸기, Time: 0.02 ms, Memory: 72.8 MB -BaekjoonHub
 - [level 0] Title: 영어가 싫어요, Time: 0.07 ms, Memory: 32.9 MB -BaekjoonHub
-- 폴더구조 변경
 
 <!-- DASHBOARD-END -->
 
