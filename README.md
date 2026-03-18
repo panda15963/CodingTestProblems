@@ -15,10 +15,10 @@
 | 🔢 **Total** | 176 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 중복된 문자 제거, Time: 0.05 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 중복된 문자 제거, Time: 1.85 ms, Memory: 94.2 MB -BaekjoonHub
 - [level 0] Title: 배열 원소의 길이, Time: 0.02 ms, Memory: 86.4 MB -BaekjoonHub
 - [level 0] Title: 컨트롤 제트, Time: 0.25 ms, Memory: 33.4 MB -BaekjoonHub
-- Update README - Topic Tags
 - Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
