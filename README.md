@@ -15,11 +15,11 @@
 | 🔢 **Total** | 181 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 31 ms (12.5%), Space: 82.6 MB (12.5%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 8 ms (25.81%), Space: 168.5 MB (29.03%) - LeetHub
 - Create README - LeetHub
-- [level 0] Title: 대문자와 소문자, Time: 0.63 ms, Memory: 73.4 MB -BaekjoonHub
-- [level 0] Title: 대문자와 소문자, Time: 0.27 ms, Memory: 33.6 MB -BaekjoonHub
-- [level 0] Title: 암호 해독, Time: 0.14 ms, Memory: 33.5 MB -BaekjoonHub
-- [level 0] Title: 암호 해독, Time: 0.11 ms, Memory: 72.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
