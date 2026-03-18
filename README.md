@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 166 |
+| 🔵 Programmers | 167 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 181 |
+| 🔢 **Total** | 182 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 영어가 싫어요, Time: 0.07 ms, Memory: 32.9 MB -BaekjoonHub
 - 폴더구조 변경
 - Time: 34 ms (0%), Space: 81.4 MB (0%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 31 ms (12.5%), Space: 82.6 MB (12.5%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
