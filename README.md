@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 158 |
+| 🔵 Programmers | 159 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 173 |
+| 🔢 **Total** | 174 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 컨트롤 제트, Time: 0.25 ms, Memory: 33.4 MB -BaekjoonHub
+- Update README - Topic Tags
 - Update README - Topic Tags
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 16 ms (68.81%), Space: 59.1 MB (82.73%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
