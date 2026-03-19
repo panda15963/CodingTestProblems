@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 181 |
+| 🔵 Programmers | 182 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 196 |
+| 🔢 **Total** | 197 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자열 정렬하기 (2), Time: 0.06 ms, Memory: 33.1 MB -BaekjoonHub
+- [level 0] Title: 문자열 정렬하기 (2), Time: 1.28 ms, Memory: 86 MB -BaekjoonHub
 - [level 0] Title: 세균 증식, Time: 0.05 ms, Memory: 74.4 MB -BaekjoonHub
 - [level 0] Title: 세균 증식, Time: 0.02 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 제곱수 판별하기, Time: 0.04 ms, Memory: 82.9 MB -BaekjoonHub
-- [level 0] Title: 문자열안에 문자열, Time: 0.02 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: OX퀴즈, Time: 0.15 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
