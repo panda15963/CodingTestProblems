@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 176 |
+| 🔵 Programmers | 177 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 191 |
+| 🔢 **Total** | 192 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 자릿수 더하기, Time: 0.05 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: n의 배수 고르기, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: n의 배수 고르기, Time: 0.02 ms, Memory: 81.9 MB -BaekjoonHub
 - [level 0] Title: 숫자 찾기, Time: 0.03 ms, Memory: 74.3 MB -BaekjoonHub
 - [level 0] Title: 숫자 찾기, Time: 0.04 ms, Memory: 33.3 MB -BaekjoonHub
-- [level 0] Title: 배열의 유사도, Time: 0.13 ms, Memory: 81.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
