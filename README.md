@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 178 |
+| 🔵 Programmers | 179 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 193 |
+| 🔢 **Total** | 194 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자열안에 문자열, Time: 0.02 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: OX퀴즈, Time: 0.15 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: OX퀴즈, Time: 0.20 ms, Memory: 90.1 MB -BaekjoonHub
 - [level 0] Title: 자릿수 더하기, Time: 0.03 ms, Memory: 90.5 MB -BaekjoonHub
 - [level 0] Title: 자릿수 더하기, Time: 0.05 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: n의 배수 고르기, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
