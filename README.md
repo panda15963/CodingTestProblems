@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 177 |
+| 🔵 Programmers | 178 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 192 |
+| 🔢 **Total** | 193 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: OX퀴즈, Time: 0.20 ms, Memory: 90.1 MB -BaekjoonHub
 - [level 0] Title: 자릿수 더하기, Time: 0.03 ms, Memory: 90.5 MB -BaekjoonHub
 - [level 0] Title: 자릿수 더하기, Time: 0.05 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: n의 배수 고르기, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: n의 배수 고르기, Time: 0.02 ms, Memory: 81.9 MB -BaekjoonHub
-- [level 0] Title: 숫자 찾기, Time: 0.03 ms, Memory: 74.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
