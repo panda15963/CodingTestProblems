@@ -15,11 +15,11 @@
 | 🔢 **Total** | 200 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 중복된 숫자 개수, Time: 0.05 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 중복된 숫자 개수, Time: 0.01 ms, Memory: 80.9 MB -BaekjoonHub
 - [level 0] Title: 잘라서 배열로 저장하기, Time: 0.05 ms, Memory: 82.7 MB -BaekjoonHub
 - [level 0] Title: 잘라서 배열로 저장하기, Time: 0.05 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 7의 개수, Time: 0.03 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: 7의 개수, Time: 0.04 ms, Memory: 80.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
