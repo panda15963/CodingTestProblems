@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 187 |
+| 🔵 Programmers | 188 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 202 |
+| 🔢 **Total** | 203 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 캐릭터의 좌표, Time: 0.04 ms, Memory: 78.2 MB -BaekjoonHub
 - [level 0] Title: 직사각형 넓이 구하기, Time: 0.05 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 직사각형 넓이 구하기, Time: 1.17 ms, Memory: 85.4 MB -BaekjoonHub
 - [level 0] Title: 머쓱이보다 키 큰 사람, Time: 0.02 ms, Memory: 93.8 MB -BaekjoonHub
 - [level 0] Title: 머쓱이보다 키 큰 사람, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: 중복된 숫자 개수, Time: 0.05 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
