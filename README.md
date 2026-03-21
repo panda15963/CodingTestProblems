@@ -15,11 +15,11 @@
 | 🔢 **Total** | 205 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 0] Title: 다항식 더하기, Time: 1.08 ms, Memory: 85.1 MB -BaekjoonHub
 - [level 0] Title: 최댓값 만들기 (2), Time: 1.28 ms, Memory: 83.9 MB -BaekjoonHub
 - [level 0] Title: 최댓값 만들기 (2), Time: 0.08 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 캐릭터의 좌표, Time: 0.04 ms, Memory: 78.2 MB -BaekjoonHub
-- [level 0] Title: 직사각형 넓이 구하기, Time: 0.05 ms, Memory: 33.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
