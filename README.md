@@ -15,11 +15,11 @@
 | 🔢 **Total** | 198 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 7의 개수, Time: 0.03 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 7의 개수, Time: 0.04 ms, Memory: 80.6 MB -BaekjoonHub
 - [level 0] Title: 문자열 정렬하기 (2), Time: 0.06 ms, Memory: 33.1 MB -BaekjoonHub
 - [level 0] Title: 문자열 정렬하기 (2), Time: 1.28 ms, Memory: 86 MB -BaekjoonHub
 - [level 0] Title: 세균 증식, Time: 0.05 ms, Memory: 74.4 MB -BaekjoonHub
-- [level 0] Title: 세균 증식, Time: 0.02 ms, Memory: 33.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
