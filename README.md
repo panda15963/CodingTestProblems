@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 183 |
+| 🔵 Programmers | 184 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 198 |
+| 🔢 **Total** | 199 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 잘라서 배열로 저장하기, Time: 0.05 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 7의 개수, Time: 0.03 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 7의 개수, Time: 0.04 ms, Memory: 80.6 MB -BaekjoonHub
 - [level 0] Title: 문자열 정렬하기 (2), Time: 0.06 ms, Memory: 33.1 MB -BaekjoonHub
 - [level 0] Title: 문자열 정렬하기 (2), Time: 1.28 ms, Memory: 86 MB -BaekjoonHub
-- [level 0] Title: 세균 증식, Time: 0.05 ms, Memory: 74.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
