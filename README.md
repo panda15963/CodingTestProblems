@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 197 |
+| 🔵 Programmers | 198 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 212 |
+| 🔢 **Total** | 213 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 특이한 정렬, Time: 0.11 ms, Memory: 32.6 MB -BaekjoonHub
 - 폴더 구조 수정
 - Update README - Topic Tags
 - Time: 2 ms (29.31%), Space: 52.6 MB (100%) - LeetHub
 - Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
