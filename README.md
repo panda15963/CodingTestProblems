@@ -15,11 +15,11 @@
 | 🔢 **Total** | 211 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 겹치는 선분의 길이, Time: 0.03 ms, Memory: 77.6 MB -BaekjoonHub
 - [level 0] Title: 겹치는 선분의 길이, Time: 0.23 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 평행, Time: 0.03 ms, Memory: 86 MB -BaekjoonHub
 - [level 0] Title: 저주의 숫자 3, Time: 0.25 ms, Memory: 82 MB -BaekjoonHub
 - [level 0] Title: 저주의 숫자 3, Time: 0.06 ms, Memory: 33.3 MB -BaekjoonHub
-- [level 0] Title: 외계어 사전, Time: 0.07 ms, Memory: 33.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
