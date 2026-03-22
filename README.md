@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 202 |
+| 🔵 Programmers | 203 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 217 |
+| 🔢 **Total** | 218 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 이진수 더하기, Time: 0.05 ms, Memory: 89.3 MB -BaekjoonHub
 - [level 0] Title: 치킨 쿠폰, Time: 0.03 ms, Memory: 96.4 MB -BaekjoonHub
 - [level 0] Title: 치킨 쿠폰, Time: 0.04 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 로그인 성공?, Time: 0.06 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 로그인 성공?, Time: 0.02 ms, Memory: 86.8 MB -BaekjoonHub
-- [level 0] Title: 옹알이 (1), Time: 0.97 ms, Memory: 73.7 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
