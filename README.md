@@ -15,11 +15,11 @@
 | 🔢 **Total** | 209 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 저주의 숫자 3, Time: 0.25 ms, Memory: 82 MB -BaekjoonHub
 - [level 0] Title: 저주의 숫자 3, Time: 0.06 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 외계어 사전, Time: 0.07 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 외계어 사전, Time: 5.40 ms, Memory: 88.5 MB -BaekjoonHub
 - [level 0] Title: 안전지대, Time: 0.37 ms, Memory: 33.5 MB -BaekjoonHub
-- [level 0] Title: 안전지대, Time: 0.07 ms, Memory: 84.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
