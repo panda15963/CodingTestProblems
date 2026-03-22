@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 208 |
+| 🔵 Programmers | 209 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 223 |
+| 🔢 **Total** | 224 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 연속된 수의 합, Time: 0.03 ms, Memory: 82.3 MB -BaekjoonHub
 - [level 0] Title: 다음에 올 숫자, Time: 0.03 ms, Memory: 89.5 MB -BaekjoonHub
 - [level 0] Title: 다음에 올 숫자, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 문자열 밀기, Time: 0.13 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 문자열 밀기, Time: 10.46 ms, Memory: 92.2 MB -BaekjoonHub
-- [level 0] Title: 종이 자르기, Time: 0.03 ms, Memory: 86.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
