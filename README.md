@@ -15,11 +15,11 @@
 | 🔢 **Total** | 213 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 특이한 정렬, Time: 5.82 ms, Memory: 88.8 MB -BaekjoonHub
 - [level 0] Title: 특이한 정렬, Time: 0.11 ms, Memory: 32.6 MB -BaekjoonHub
 - 폴더 구조 수정
 - Update README - Topic Tags
 - Time: 2 ms (29.31%), Space: 52.6 MB (100%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
