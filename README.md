@@ -15,11 +15,11 @@
 | 🔢 **Total** | 222 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자열 밀기, Time: 0.13 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 0] Title: 문자열 밀기, Time: 10.46 ms, Memory: 92.2 MB -BaekjoonHub
 - [level 0] Title: 종이 자르기, Time: 0.03 ms, Memory: 86.5 MB -BaekjoonHub
 - [level 0] Title: 종이 자르기, Time: 0.02 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: k의 개수, Time: 49.97 ms, Memory: 41.6 MB -BaekjoonHub
-- [level 0] Title: k의 개수, Time: 120.26 ms, Memory: 135 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
