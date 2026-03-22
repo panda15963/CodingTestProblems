@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 194 |
+| 🔵 Programmers | 195 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 209 |
+| 🔢 **Total** | 210 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 평행, Time: 0.03 ms, Memory: 86 MB -BaekjoonHub
 - [level 0] Title: 저주의 숫자 3, Time: 0.25 ms, Memory: 82 MB -BaekjoonHub
 - [level 0] Title: 저주의 숫자 3, Time: 0.06 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 외계어 사전, Time: 0.07 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 외계어 사전, Time: 5.40 ms, Memory: 88.5 MB -BaekjoonHub
-- [level 0] Title: 안전지대, Time: 0.37 ms, Memory: 33.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
