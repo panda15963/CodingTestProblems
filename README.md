@@ -15,11 +15,11 @@
 | 🔢 **Total** | 208 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 외계어 사전, Time: 0.07 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 외계어 사전, Time: 5.40 ms, Memory: 88.5 MB -BaekjoonHub
 - [level 0] Title: 안전지대, Time: 0.37 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 0] Title: 안전지대, Time: 0.07 ms, Memory: 84.9 MB -BaekjoonHub
 - [level 0] Title: 숨어있는 숫자의 덧셈 (2), Time: 0.12 ms, Memory: 33.4 MB -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
