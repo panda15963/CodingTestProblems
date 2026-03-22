@@ -15,11 +15,11 @@
 | 🔢 **Total** | 214 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 등수 매기기, Time: 0.15 ms, Memory: 33.3 MB -BaekjoonHub
 - [level 0] Title: 등수 매기기, Time: 0.60 ms, Memory: 82.8 MB -BaekjoonHub
 - [level 0] Title: 특이한 정렬, Time: 5.82 ms, Memory: 88.8 MB -BaekjoonHub
 - [level 0] Title: 특이한 정렬, Time: 0.11 ms, Memory: 32.6 MB -BaekjoonHub
 - 폴더 구조 수정
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
