@@ -1,10 +1,10 @@
 # [level 0] 등수 매기기 - 120882 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120882) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120882?language=javascript) 
 
 ### 성능 요약
 
-메모리: 82.8 MB, 시간: 0.60 ms
+메모리: 33.3 MB, 시간: 0.15 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 23일 06:22:22
+2026년 03월 23일 06:22:35
 
 ### 문제 설명
 
