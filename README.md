@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 210 |
+| 🔵 Programmers | 211 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 225 |
+| 🔢 **Total** | 226 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 폰켓몬, Time: 5.61 ms, Memory: 76.8 MB -BaekjoonHub
 - [level 1] Title: 완주하지 못한 선수, Time: 340.86 ms, Memory: 97.1 MB -BaekjoonHub
 - [level 1] Title: 완주하지 못한 선수, Time: 103.54 ms, Memory: 60.3 MB -BaekjoonHub
 - 폴더구조 수정
 - Update README - Topic Tags
-- Time: 1 ms (100%), Space: 43.9 MB (80.69%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
