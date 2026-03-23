@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 209 |
+| 🔵 Programmers | 210 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 224 |
+| 🔢 **Total** | 225 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 완주하지 못한 선수, Time: 103.54 ms, Memory: 60.3 MB -BaekjoonHub
 - 폴더구조 수정
 - Update README - Topic Tags
 - Time: 1 ms (100%), Space: 43.9 MB (80.69%) - LeetHub
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 57.7 MB (67.86%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
