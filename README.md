@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 213 |
+| 🔵 Programmers | 214 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 228 |
+| 🔢 **Total** | 229 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 베스트앨범, Time: 0.48 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 2] Title: 의상, Time: 0.22 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 2] Title: 의상, Time: 0.13 ms, Memory: 76.2 MB -BaekjoonHub
 - [level 2] Title: 전화번호 목록, Time: 332.20 ms, Memory: 251 MB -BaekjoonHub
 - [level 2] Title: 전화번호 목록, Time: 236.10 ms, Memory: 101 MB -BaekjoonHub
-- [level 1] Title: 폰켓몬, Time: 0.54 ms, Memory: 34.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
