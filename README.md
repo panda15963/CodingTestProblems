@@ -15,11 +15,11 @@
 | 🔢 **Total** | 224 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 0] Title: 연속된 수의 합, Time: 0.08 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 0] Title: 연속된 수의 합, Time: 0.03 ms, Memory: 82.3 MB -BaekjoonHub
-- [level 0] Title: 다음에 올 숫자, Time: 0.03 ms, Memory: 89.5 MB -BaekjoonHub
-- [level 0] Title: 다음에 올 숫자, Time: 0.04 ms, Memory: 33.4 MB -BaekjoonHub
+- Update README - Topic Tags
+- Time: 8 ms (35.71%), Space: 58.8 MB (39.29%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 0 ms (100%), Space: 60.7 MB (0%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
