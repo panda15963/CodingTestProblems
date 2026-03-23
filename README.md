@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 211 |
+| 🔵 Programmers | 212 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 226 |
+| 🔢 **Total** | 227 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 전화번호 목록, Time: 236.10 ms, Memory: 101 MB -BaekjoonHub
 - [level 1] Title: 폰켓몬, Time: 0.54 ms, Memory: 34.2 MB -BaekjoonHub
 - [level 1] Title: 폰켓몬, Time: 5.61 ms, Memory: 76.8 MB -BaekjoonHub
 - [level 1] Title: 완주하지 못한 선수, Time: 340.86 ms, Memory: 97.1 MB -BaekjoonHub
 - [level 1] Title: 완주하지 못한 선수, Time: 103.54 ms, Memory: 60.3 MB -BaekjoonHub
-- 폴더구조 수정
 
 <!-- DASHBOARD-END -->
 
