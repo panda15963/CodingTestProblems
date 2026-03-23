@@ -62,6 +62,7 @@
 | [0011-container-with-most-water](https://github.com/panda15963/CodingTestProblems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/panda15963/CodingTestProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/panda15963/CodingTestProblems/tree/master/0018-4sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/panda15963/CodingTestProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/panda15963/CodingTestProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -81,6 +82,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/panda15963/CodingTestProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/panda15963/CodingTestProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -104,6 +106,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/panda15963/CodingTestProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0010-regular-expression-matching) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
