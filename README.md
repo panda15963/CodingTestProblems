@@ -15,11 +15,11 @@
 | 🔢 **Total** | 235 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 89 ms (28.57%), Space: 91.5 MB (28.57%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 12 ms (33.66%), Space: 91.2 MB (87.81%) - LeetHub
 - Create README - LeetHub
-- [level 2] Title: 주식가격, Time: 24.31 ms, Memory: 43.7 MB -BaekjoonHub
-- [level 2] Title: 주식가격, Time: 37.23 ms, Memory: 74.1 MB -BaekjoonHub
-- [level 2] Title: 다리를 지나는 트럭, Time: 35.28 ms, Memory: 37.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
