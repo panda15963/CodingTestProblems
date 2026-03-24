@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 218 |
+| 🔵 Programmers | 219 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 233 |
+| 🔢 **Total** | 234 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 다리를 지나는 트럭, Time: 35.28 ms, Memory: 37.8 MB -BaekjoonHub
 - [level 2] Title: 프로세스, Time: 14.76 ms, Memory: 37.1 MB -BaekjoonHub
 - [level 2] Title: 프로세스, Time: 1.88 ms, Memory: 87.6 MB -BaekjoonHub
 - [level 2] Title: 올바른 괄호, Time: 5.05 ms, Memory: 53.9 MB -BaekjoonHub
 - [level 2] Title: 올바른 괄호, Time: 25.49 ms, Memory: 37.8 MB -BaekjoonHub
-- [level 2] Title: 기능개발, Time: 0.16 ms, Memory: 32.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
