@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 214 |
+| 🔵 Programmers | 215 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 229 |
+| 🔢 **Total** | 230 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 같은 숫자는 싫어, Time: 31.34 ms, Memory: 82.7 MB -BaekjoonHub
 - [level 3] Title: 베스트앨범, Time: 5.39 ms, Memory: 82.5 MB -BaekjoonHub
 - [level 3] Title: 베스트앨범, Time: 0.48 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 2] Title: 의상, Time: 0.22 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 2] Title: 의상, Time: 0.13 ms, Memory: 76.2 MB -BaekjoonHub
-- [level 2] Title: 전화번호 목록, Time: 332.20 ms, Memory: 251 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
