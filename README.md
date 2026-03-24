@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 216 |
+| 🔵 Programmers | 217 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 231 |
+| 🔢 **Total** | 232 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 올바른 괄호, Time: 25.49 ms, Memory: 37.8 MB -BaekjoonHub
 - [level 2] Title: 기능개발, Time: 0.16 ms, Memory: 32.9 MB -BaekjoonHub
 - [level 2] Title: 기능개발, Time: 0.27 ms, Memory: 93.2 MB -BaekjoonHub
 - [level 1] Title: 같은 숫자는 싫어, Time: 28.50 ms, Memory: 113 MB -BaekjoonHub
 - [level 1] Title: 같은 숫자는 싫어, Time: 31.34 ms, Memory: 82.7 MB -BaekjoonHub
-- [level 3] Title: 베스트앨범, Time: 5.39 ms, Memory: 82.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
