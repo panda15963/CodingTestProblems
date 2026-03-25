@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 220 |
+| 🔵 Programmers | 221 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 235 |
+| 🔢 **Total** | 236 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 더 맵게, Time: 708.61 ms, Memory: 99.2 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Time: 5 ms (47.55%), Space: 161.6 MB (44.76%) - LeetHub
 - Update README - Topic Tags
 - Time: 48 ms (42.86%), Space: 85.7 MB (35.71%) - LeetHub
-- Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
