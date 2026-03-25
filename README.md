@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 222 |
+| 🔵 Programmers | 223 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 237 |
+| 🔢 **Total** | 238 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 이중우선순위큐, Time: 105.19 ms, Memory: 60 MB -BaekjoonHub
 - [level 3] Title: 디스크 컨트롤러, Time: 3.93 ms, Memory: 37.2 MB -BaekjoonHub
 - [level 3] Title: 디스크 컨트롤러, Time: 3.26 ms, Memory: 91 MB -BaekjoonHub
 - [level 2] Title: 더 맵게, Time: 1690.46 ms, Memory: 124 MB -BaekjoonHub
 - [level 2] Title: 더 맵게, Time: 708.61 ms, Memory: 99.2 MB -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
