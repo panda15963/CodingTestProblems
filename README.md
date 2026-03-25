@@ -15,11 +15,11 @@
 | 🔢 **Total** | 237 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 디스크 컨트롤러, Time: 3.93 ms, Memory: 37.2 MB -BaekjoonHub
 - [level 3] Title: 디스크 컨트롤러, Time: 3.26 ms, Memory: 91 MB -BaekjoonHub
 - [level 2] Title: 더 맵게, Time: 1690.46 ms, Memory: 124 MB -BaekjoonHub
 - [level 2] Title: 더 맵게, Time: 708.61 ms, Memory: 99.2 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Time: 5 ms (47.55%), Space: 161.6 MB (44.76%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
