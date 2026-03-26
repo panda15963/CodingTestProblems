@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 224 |
+| 🔵 Programmers | 225 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 239 |
+| 🔢 **Total** | 240 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 가장 큰 수, Time: 190.98 ms, Memory: 46.8 MB -BaekjoonHub
 - [level 1] Title: K번째수, Time: 0.11 ms, Memory: 33 MB -BaekjoonHub
 - [level 1] Title: K번째수, Time: 1.09 ms, Memory: 73.7 MB -BaekjoonHub
 - 폴더 수정
 - Time: 520 ms (100%), Space: 101.2 MB (100%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
