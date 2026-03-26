@@ -15,11 +15,11 @@
 | 🔢 **Total** | 238 |
 
 ## 🥇 Recently Solved (Top 5)
+- 폴더 수정
 - Time: 520 ms (100%), Space: 101.2 MB (100%) - LeetHub
 - Update README - Topic Tags
 - Time: 622 ms (0%), Space: 98.1 MB (100%) - LeetHub
 - Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
