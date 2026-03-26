@@ -15,11 +15,11 @@
 | 🔢 **Total** | 239 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: K번째수, Time: 0.11 ms, Memory: 33 MB -BaekjoonHub
 - [level 1] Title: K번째수, Time: 1.09 ms, Memory: 73.7 MB -BaekjoonHub
 - 폴더 수정
 - Time: 520 ms (100%), Space: 101.2 MB (100%) - LeetHub
 - Update README - Topic Tags
-- Time: 622 ms (0%), Space: 98.1 MB (100%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
