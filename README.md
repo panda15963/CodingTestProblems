@@ -15,11 +15,11 @@
 | 🔢 **Total** | 244 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 소수 찾기, Time: 25.53 ms, Memory: 81.6 MB -BaekjoonHub
 - [level 2] Title: 소수 찾기, Time: 3.80 ms, Memory: 36.7 MB -BaekjoonHub
 - [level 1] Title: 모의고사, Time: 3.83 ms, Memory: 73 MB -BaekjoonHub
 - [level 1] Title: 최소직사각형, Time: 1.59 ms, Memory: 92.3 MB -BaekjoonHub
 - [level 1] Title: 최소직사각형, Time: 31.22 ms, Memory: 38.7 MB -BaekjoonHub
-- [level 2] Title: H-Index, Time: 0.40 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
