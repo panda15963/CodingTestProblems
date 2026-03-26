@@ -15,11 +15,11 @@
 | 🔢 **Total** | 238 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 518 ms (17.65%), Space: 273.6 MB (82.35%) - LeetHub
+- Create README - LeetHub
 - [level 3] Title: 이중우선순위큐, Time: 79.57 ms, Memory: 145 MB -BaekjoonHub
 - [level 3] Title: 이중우선순위큐, Time: 105.19 ms, Memory: 60 MB -BaekjoonHub
 - [level 3] Title: 디스크 컨트롤러, Time: 3.93 ms, Memory: 37.2 MB -BaekjoonHub
-- [level 3] Title: 디스크 컨트롤러, Time: 3.26 ms, Memory: 91 MB -BaekjoonHub
-- [level 2] Title: 더 맵게, Time: 1690.46 ms, Memory: 124 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
