@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 226 |
+| 🔵 Programmers | 227 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 241 |
+| 🔢 **Total** | 242 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 최소직사각형, Time: 31.22 ms, Memory: 38.7 MB -BaekjoonHub
 - [level 2] Title: H-Index, Time: 0.40 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 2] Title: H-Index, Time: 5.14 ms, Memory: 78.2 MB -BaekjoonHub
 - [level 2] Title: 가장 큰 수, Time: 160.29 ms, Memory: 139 MB -BaekjoonHub
 - [level 2] Title: 가장 큰 수, Time: 190.98 ms, Memory: 46.8 MB -BaekjoonHub
-- [level 1] Title: K번째수, Time: 0.11 ms, Memory: 33 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
