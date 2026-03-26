@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 230 |
+| 🔵 Programmers | 231 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 245 |
+| 🔢 **Total** | 246 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 전력망을 둘로 나누기, Time: 6.57 ms, Memory: 78.5 MB -BaekjoonHub
 - [level 2] Title: 카펫, Time: 0.25 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 2] Title: 카펫, Time: 0.06 ms, Memory: 83.4 MB -BaekjoonHub
 - [level 2] Title: 소수 찾기, Time: 25.53 ms, Memory: 81.6 MB -BaekjoonHub
 - [level 2] Title: 소수 찾기, Time: 3.80 ms, Memory: 36.7 MB -BaekjoonHub
-- [level 1] Title: 모의고사, Time: 3.83 ms, Memory: 73 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
