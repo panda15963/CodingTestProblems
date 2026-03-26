@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 225 |
+| 🔵 Programmers | 226 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 240 |
+| 🔢 **Total** | 241 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: H-Index, Time: 5.14 ms, Memory: 78.2 MB -BaekjoonHub
 - [level 2] Title: 가장 큰 수, Time: 160.29 ms, Memory: 139 MB -BaekjoonHub
 - [level 2] Title: 가장 큰 수, Time: 190.98 ms, Memory: 46.8 MB -BaekjoonHub
 - [level 1] Title: K번째수, Time: 0.11 ms, Memory: 33 MB -BaekjoonHub
 - [level 1] Title: K번째수, Time: 1.09 ms, Memory: 73.7 MB -BaekjoonHub
-- 폴더 수정
 
 <!-- DASHBOARD-END -->
 
