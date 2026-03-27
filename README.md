@@ -15,11 +15,11 @@
 | 🔢 **Total** | 247 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 2] Title: 모음 사전, Time: 3.40 ms, Memory: 87.7 MB -BaekjoonHub
 - [level 2] Title: 모음 사전, Time: 0.50 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 2] Title: 전력망을 둘로 나누기, Time: 37.55 ms, Memory: 38.5 MB -BaekjoonHub
 - [level 2] Title: 전력망을 둘로 나누기, Time: 6.57 ms, Memory: 78.5 MB -BaekjoonHub
-- [level 2] Title: 카펫, Time: 0.25 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
