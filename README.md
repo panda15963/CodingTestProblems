@@ -15,11 +15,11 @@
 | 🔢 **Total** | 247 |
 
 ## 🥇 Recently Solved (Top 5)
+- 수정
 - ignore .idea
 - Time: 0 ms (100%), Space: 58.3 MB (66.67%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 1 ms (99.47%), Space: 46.7 MB (95.2%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
