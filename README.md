@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 249 |
+| 🔵 Programmers | 250 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 264 |
+| 🔢 **Total** | 265 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 퍼즐 조각 채우기, Time: 73.85 ms, Memory: 105 MB -BaekjoonHub
+- [level 3] Title: 여행경로, Time: 0.76 ms, Memory: 87.5 MB -BaekjoonHub
 - [level 3] Title: 여행경로, Time: 35.36 ms, Memory: 35.9 MB -BaekjoonHub
 - [level 3] Title: 아이템 줍기, Time: 1.22 ms, Memory: 33.7 MB -BaekjoonHub
 - [level 3] Title: 단어 변환, Time: 0.40 ms, Memory: 33.4 MB -BaekjoonHub
-- [level 2] Title: 게임 맵 최단거리, Time: 25.91 ms, Memory: 38.9 MB -BaekjoonHub
-- [level 2] Title: 게임 맵 최단거리, Time: 9.90 ms, Memory: 58.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
