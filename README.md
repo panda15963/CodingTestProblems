@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 253 |
+| 🔵 Programmers | 254 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 268 |
+| 🔢 **Total** | 269 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 순위, Time: 12.20 ms, Memory: 38.2 MB -BaekjoonHub
 - [level 3] Title: 가장 먼 노드, Time: 42.82 ms, Memory: 56.5 MB -BaekjoonHub
 - [level 3] Title: 가장 먼 노드, Time: 28.77 ms, Memory: 115 MB -BaekjoonHub
 - [level 4] Title: 징검다리, Time: 36.45 ms, Memory: 96.4 MB -BaekjoonHub
 - [level 3] Title: 입국심사, Time: 29.31 ms, Memory: 43.1 MB -BaekjoonHub
-- [level 3] Title: 입국심사, Time: 69.62 ms, Memory: 97.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
