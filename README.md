@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 233 |
+| 🔵 Programmers | 234 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 248 |
+| 🔢 **Total** | 249 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 조이스틱, Time: 0.06 ms, Memory: 84.6 MB -BaekjoonHub
 - [level 1] Title: 체육복, Time: 4.64 ms, Memory: 77.8 MB -BaekjoonHub
 - [level 1] Title: 체육복, Time: 0.17 ms, Memory: 33.4 MB -BaekjoonHub
 - 수정
 - ignore .idea
-- Time: 0 ms (100%), Space: 58.3 MB (66.67%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
