@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 235 |
+| 🔵 Programmers | 236 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 250 |
+| 🔢 **Total** | 251 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 구명보트, Time: 18.26 ms, Memory: 75.9 MB -BaekjoonHub
 - [level 2] Title: 큰 수 만들기, Time: 34.24 ms, Memory: 41.1 MB -BaekjoonHub
 - [level 2] Title: 큰 수 만들기, Time: 20.51 ms, Memory: 84.2 MB -BaekjoonHub
 - [level 2] Title: 조이스틱, Time: 0.06 ms, Memory: 84.6 MB -BaekjoonHub
 - [level 1] Title: 체육복, Time: 4.64 ms, Memory: 77.8 MB -BaekjoonHub
-- [level 1] Title: 체육복, Time: 0.17 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
