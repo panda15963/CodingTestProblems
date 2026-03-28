@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 242 |
+| 🔵 Programmers | 243 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 257 |
+| 🔢 **Total** | 258 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 도둑질, Time: 8.46 ms, Memory: 97.9 MB -BaekjoonHub
 - [level 4] Title: 사칙연산, Time: 20.41 ms, Memory: 72.4 MB -BaekjoonHub
 - [level 3] Title: 등굣길, Time: 0.57 ms, Memory: 54.1 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - [level 3] Title: 정수 삼각형, Time: 5.33 ms, Memory: 41.7 MB -BaekjoonHub
-- [level 3] Title: N으로 표현, Time: 25.93 ms, Memory: 84.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
