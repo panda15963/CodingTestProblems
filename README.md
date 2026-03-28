@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 239 |
+| 🔵 Programmers | 241 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 254 |
+| 🔢 **Total** | 256 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 등굣길, Time: 0.57 ms, Memory: 54.1 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- [level 3] Title: 정수 삼각형, Time: 5.33 ms, Memory: 41.7 MB -BaekjoonHub
 - [level 3] Title: N으로 표현, Time: 25.93 ms, Memory: 84.2 MB -BaekjoonHub
 - [level 3] Title: N으로 표현, Time: 38.22 ms, Memory: 38.1 MB -BaekjoonHub
-- Update README - Topic Tags
-- Time: 12 ms (0%), Space: 74.4 MB (33.33%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
