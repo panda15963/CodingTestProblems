@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 250 |
+| 🔵 Programmers | 251 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 265 |
+| 🔢 **Total** | 266 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 입국심사, Time: 29.31 ms, Memory: 43.1 MB -BaekjoonHub
+- [level 3] Title: 입국심사, Time: 69.62 ms, Memory: 97.9 MB -BaekjoonHub
 - [level 3] Title: 퍼즐 조각 채우기, Time: 151.94 ms, Memory: 43 MB -BaekjoonHub
 - [level 3] Title: 퍼즐 조각 채우기, Time: 73.85 ms, Memory: 105 MB -BaekjoonHub
 - [level 3] Title: 여행경로, Time: 0.76 ms, Memory: 87.5 MB -BaekjoonHub
-- [level 3] Title: 여행경로, Time: 35.36 ms, Memory: 35.9 MB -BaekjoonHub
-- [level 3] Title: 아이템 줍기, Time: 1.22 ms, Memory: 33.7 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
