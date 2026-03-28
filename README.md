@@ -15,11 +15,11 @@
 | 🔢 **Total** | 248 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 체육복, Time: 4.64 ms, Memory: 77.8 MB -BaekjoonHub
 - [level 1] Title: 체육복, Time: 0.17 ms, Memory: 33.4 MB -BaekjoonHub
 - 수정
 - ignore .idea
 - Time: 0 ms (100%), Space: 58.3 MB (66.67%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
