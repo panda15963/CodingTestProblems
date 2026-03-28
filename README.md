@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 245 |
+| 🔵 Programmers | 246 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 260 |
+| 🔢 **Total** | 261 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 게임 맵 최단거리, Time: 9.90 ms, Memory: 58.3 MB -BaekjoonHub
 - [level 3] Title: 네트워크, Time: 0.43 ms, Memory: 33.6 MB -BaekjoonHub
 - [level 3] Title: 네트워크, Time: 0.17 ms, Memory: 75.8 MB -BaekjoonHub
 - [level 2] Title: 타겟 넘버, Time: 4.96 ms, Memory: 77.7 MB -BaekjoonHub
 - [level 2] Title: 타겟 넘버, Time: 38.23 ms, Memory: 36.4 MB -BaekjoonHub
-- [level 4] Title: 도둑질, Time: 8.46 ms, Memory: 97.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
