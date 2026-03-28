@@ -15,11 +15,11 @@
 | 🔢 **Total** | 254 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: N으로 표현, Time: 25.93 ms, Memory: 84.2 MB -BaekjoonHub
 - [level 3] Title: N으로 표현, Time: 38.22 ms, Memory: 38.1 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 12 ms (0%), Space: 74.4 MB (33.33%) - LeetHub
 - Update README - Topic Tags
-- Time: 5 ms (100%), Space: 173.3 MB (71.43%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
