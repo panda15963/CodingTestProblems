@@ -15,11 +15,11 @@
 | 🔢 **Total** | 265 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 퍼즐 조각 채우기, Time: 151.94 ms, Memory: 43 MB -BaekjoonHub
 - [level 3] Title: 퍼즐 조각 채우기, Time: 73.85 ms, Memory: 105 MB -BaekjoonHub
 - [level 3] Title: 여행경로, Time: 0.76 ms, Memory: 87.5 MB -BaekjoonHub
 - [level 3] Title: 여행경로, Time: 35.36 ms, Memory: 35.9 MB -BaekjoonHub
 - [level 3] Title: 아이템 줍기, Time: 1.22 ms, Memory: 33.7 MB -BaekjoonHub
-- [level 3] Title: 단어 변환, Time: 0.40 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
