@@ -15,11 +15,11 @@
 | 🔢 **Total** | 253 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 5 ms (100%), Space: 173.3 MB (71.43%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 5 ms (100%), Space: 73.5 MB (83.33%) - LeetHub
 - Create README - LeetHub
-- [level 3] Title: 단속카메라, Time: 20.27 ms, Memory: 35.9 MB -BaekjoonHub
-- [level 3] Title: 섬 연결하기, Time: 0.70 ms, Memory: 80.4 MB -BaekjoonHub
-- [level 3] Title: 섬 연결하기, Time: 0.30 ms, Memory: 33.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
