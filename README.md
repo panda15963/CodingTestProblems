@@ -15,11 +15,11 @@
 | 🔢 **Total** | 272 |
 
 ## 🥇 Recently Solved (Top 5)
+- 패키지 업데이트
 - [level 0] Title: [PCCE 기출문제] 2번 / 각도 합치기, Time: 226.72 ms, Memory: 71.2 MB -BaekjoonHub
 - [level 0] Title: [PCCE 기출문제] 1번 / 문자 출력, Time: 123.53 ms, Memory: 67.9 MB -BaekjoonHub
 - Time: 3 ms (11.11%), Space: 59 MB (33.33%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
