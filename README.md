@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 254 |
+| 🔵 Programmers | 255 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 269 |
+| 🔢 **Total** | 270 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 기차 선로, Time: 50.00 ms, Memory: 39.1 MB -BaekjoonHub
 - 폴더 구조 변경
 - [level 3] Title: 순위, Time: 11.58 ms, Memory: 89.1 MB -BaekjoonHub
 - [level 3] Title: 순위, Time: 12.20 ms, Memory: 38.2 MB -BaekjoonHub
 - [level 3] Title: 가장 먼 노드, Time: 42.82 ms, Memory: 56.5 MB -BaekjoonHub
-- [level 3] Title: 가장 먼 노드, Time: 28.77 ms, Memory: 115 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
