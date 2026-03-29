@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 257 |
+| 🔵 Programmers | 258 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 272 |
+| 🔢 **Total** | 273 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 선인장 숨기기, Time: 1242.60 ms, Memory: 149 MB -BaekjoonHub
 - 패키지 업데이트
 - [level 0] Title: [PCCE 기출문제] 2번 / 각도 합치기, Time: 226.72 ms, Memory: 71.2 MB -BaekjoonHub
 - [level 0] Title: [PCCE 기출문제] 1번 / 문자 출력, Time: 123.53 ms, Memory: 67.9 MB -BaekjoonHub
 - Time: 3 ms (11.11%), Space: 59 MB (33.33%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
