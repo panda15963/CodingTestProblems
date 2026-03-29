@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 255 |
+| 🔵 Programmers | 256 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 270 |
+| 🔢 **Total** | 271 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: [PCCE 기출문제] 1번 / 문자 출력, Time: 123.53 ms, Memory: 67.9 MB -BaekjoonHub
 - Time: 3 ms (11.11%), Space: 59 MB (33.33%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 2 ms (29.59%), Space: 44.1 MB (68.88%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
