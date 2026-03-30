@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 260 |
+| 🔵 Programmers | 261 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 275 |
+| 🔢 **Total** | 276 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 바이러스 파이프, Time: 7.49 ms, Memory: 88.9 MB -BaekjoonHub
 - [level 1] Title: 중요한 단어를 스포 방지, Time: 3.80 ms, Memory: 37.2 MB -BaekjoonHub
 - [level 1] Title: 중요한 단어를 스포 방지, Time: 12.26 ms, Memory: 91.4 MB -BaekjoonHub
 - [level 3] Title: 제곱 개수 배열, Time: 145.78 ms, Memory: 63.8 MB -BaekjoonHub
 - [level 3] Title: 제곱 개수 배열, Time: 37.96 ms, Memory: 101 MB -BaekjoonHub
-- 폴더 구조 변경
 
 <!-- DASHBOARD-END -->
 
