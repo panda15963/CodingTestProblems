@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 259 |
+| 🔵 Programmers | 260 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 274 |
+| 🔢 **Total** | 275 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 중요한 단어를 스포 방지, Time: 12.26 ms, Memory: 91.4 MB -BaekjoonHub
 - [level 3] Title: 제곱 개수 배열, Time: 145.78 ms, Memory: 63.8 MB -BaekjoonHub
 - [level 3] Title: 제곱 개수 배열, Time: 37.96 ms, Memory: 101 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
-- Time: 6 ms (61.84%), Space: 47.9 MB (65.79%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
