@@ -15,11 +15,11 @@
 | 🔢 **Total** | 276 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 2] Title: 바이러스 파이프, Time: 25.14 ms, Memory: 38.3 MB -BaekjoonHub
-- [level 2] Title: 바이러스 파이프, Time: 7.49 ms, Memory: 88.9 MB -BaekjoonHub
-- [level 1] Title: 중요한 단어를 스포 방지, Time: 3.80 ms, Memory: 37.2 MB -BaekjoonHub
-- [level 1] Title: 중요한 단어를 스포 방지, Time: 12.26 ms, Memory: 91.4 MB -BaekjoonHub
+- Update README - Topic Tags
+- Time: 12 ms (54.17%), Space: 46.5 MB (79.17%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 33 ms (100%), Space: 62 MB (0%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
