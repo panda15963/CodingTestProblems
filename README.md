@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 262 |
+| 🔵 Programmers | 263 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 277 |
+| 🔢 **Total** | 278 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 최고 속도, Time: 3446.98 ms, Memory: 235 MB -BaekjoonHub
 - [level 1] Title: 노란불 신호등, Time: 18.39 ms, Memory: 85.3 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 29 ms (80%), Space: 61.6 MB (40%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
