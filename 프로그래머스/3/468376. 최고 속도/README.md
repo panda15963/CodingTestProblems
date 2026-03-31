@@ -1,10 +1,10 @@
 # [level 3] 최고 속도 - 468376 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/468376) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/468376?language=java) 
 
 ### 성능 요약
 
-메모리: 235 MB, 시간: 3446.98 ms
+메모리: 322 MB, 시간: 737.53 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 01일 06:12:41
+2026년 04월 01일 06:14:16
 
 ### 문제 설명
 
