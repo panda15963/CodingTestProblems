@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 261 |
+| 🔵 Programmers | 262 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 276 |
+| 🔢 **Total** | 277 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 노란불 신호등, Time: 18.39 ms, Memory: 85.3 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 29 ms (80%), Space: 61.6 MB (40%) - LeetHub
 - Update README - Topic Tags
-- Time: 12 ms (54.17%), Space: 46.5 MB (79.17%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
