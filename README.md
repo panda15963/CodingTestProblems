@@ -15,11 +15,11 @@
 | 🔢 **Total** | 278 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 94 ms (100%), Space: 94.6 MB (100%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 100 ms (82.35%), Space: 96.9 MB (52.94%) - LeetHub
 - Create README - LeetHub
-- [level 3] Title: 최고 속도, Time: 737.53 ms, Memory: 322 MB -BaekjoonHub
-- [level 3] Title: 최고 속도, Time: 3446.98 ms, Memory: 235 MB -BaekjoonHub
-- [level 1] Title: 노란불 신호등, Time: 18.39 ms, Memory: 85.3 MB -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
