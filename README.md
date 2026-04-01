@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 263 |
+| 🔵 Programmers | 264 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 278 |
+| 🔢 **Total** | 279 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 발전소 회로 복구, Time: 147.29 ms, Memory: 116 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Time: 37 ms (75.65%), Space: 122.5 MB (60%) - LeetHub
 - Update README - Topic Tags
 - Time: 94 ms (100%), Space: 94.6 MB (100%) - LeetHub
-- Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
