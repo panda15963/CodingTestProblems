@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 265 |
+| 🔵 Programmers | 266 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 280 |
+| 🔢 **Total** | 281 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 5] Title: 눈사람 만들기, Time: 149.26 ms, Memory: 112 MB -BaekjoonHub
 - 폴더구조 수정
 - Update README - Topic Tags
 - Time: 518 ms (33.33%), Space: 108.8 MB (33.33%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
