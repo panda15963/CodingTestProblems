@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 266 |
+| 🔵 Programmers | 267 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 281 |
+| 🔢 **Total** | 282 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 리프 노드 수 최대화, Time: 96.29 ms, Memory: 76.1 MB -BaekjoonHub
 - [level 5] Title: 눈사람 만들기, Time: 149.26 ms, Memory: 112 MB -BaekjoonHub
 - 폴더구조 수정
 - Update README - Topic Tags
 - Time: 518 ms (33.33%), Space: 108.8 MB (33.33%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
