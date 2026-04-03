@@ -15,11 +15,11 @@
 | 🔢 **Total** | 282 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 2] Title: 리프 노드 수 최대화, Time: 270.81 ms, Memory: 36.8 MB -BaekjoonHub
-- [level 2] Title: 리프 노드 수 최대화, Time: 96.29 ms, Memory: 76.1 MB -BaekjoonHub
-- [level 5] Title: 눈사람 만들기, Time: 149.26 ms, Memory: 112 MB -BaekjoonHub
-- 폴더구조 수정
+- Update README - Topic Tags
+- Time: 311 ms (13.33%), Space: 165 MB (40%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 622 ms (75%), Space: 131.7 MB (25%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
