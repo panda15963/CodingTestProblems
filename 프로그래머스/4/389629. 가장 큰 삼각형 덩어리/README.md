@@ -1,10 +1,10 @@
 # [level 4] 가장 큰 삼각형 덩어리 - 389629 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389629?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389629?language=javascript) 
 
 ### 성능 요약
 
-메모리: 104 MB, 시간: 96.32 ms
+메모리: 113 MB, 시간: 393.08 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 04일 18:42:54
+2026년 04월 04일 18:56:22
 
 ### 문제 설명
 
