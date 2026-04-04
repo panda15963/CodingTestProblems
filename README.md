@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 270 |
+| 🔵 Programmers | 271 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 285 |
+| 🔢 **Total** | 286 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 완전범죄, Time: 0.99 ms, Memory: 33.6 MB -BaekjoonHub
 - [level 3] Title: 봉인된 주문, Time: 207.10 ms, Memory: 153 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 95 ms (20%), Space: 84.5 MB (100%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
