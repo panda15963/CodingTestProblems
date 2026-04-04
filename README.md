@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 269 |
+| 🔵 Programmers | 270 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 284 |
+| 🔢 **Total** | 285 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 봉인된 주문, Time: 207.10 ms, Memory: 153 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- Update README - Topic Tags
 - Time: 95 ms (20%), Space: 84.5 MB (100%) - LeetHub
 - Updated stats
-- Update README - Topic Tags
-- Time: 33 ms (100%), Space: 81.5 MB (100%) - LeetHub
-- Create README - LeetHub
 
 <!-- DASHBOARD-END -->
 
