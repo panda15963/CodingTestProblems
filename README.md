@@ -15,11 +15,11 @@
 | 🔢 **Total** | 288 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 택배 상자 꺼내기, Time: 0.14 ms, Memory: 32.9 MB -BaekjoonHub
 - [level 1] Title: 택배 상자 꺼내기, Time: 0.02 ms, Memory: 80.5 MB -BaekjoonHub
 - [level 2] Title: 서버 증설 횟수, Time: 0.20 ms, Memory: 33.5 MB -BaekjoonHub
 - [level 2] Title: 서버 증설 횟수, Time: 0.03 ms, Memory: 87.6 MB -BaekjoonHub
 - [level 2] Title: 완전범죄, Time: 0.99 ms, Memory: 33.6 MB -BaekjoonHub
-- [level 3] Title: 봉인된 주문, Time: 207.10 ms, Memory: 153 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
