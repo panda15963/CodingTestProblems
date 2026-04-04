@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 13 |
-| 🔵 Programmers | 267 |
+| 🔵 Programmers | 268 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 282 |
+| 🔢 **Total** | 283 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 격자 뒤집기 미로, Time: 1162.13 ms, Memory: 126 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
 - Time: 652 ms (100%), Space: 136.2 MB (100%) - LeetHub
 - Update README - Topic Tags
-- Time: 311 ms (13.33%), Space: 165 MB (40%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
