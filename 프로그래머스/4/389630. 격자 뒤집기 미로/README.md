@@ -1,10 +1,10 @@
 # [level 4] 격자 뒤집기 미로 - 389630 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389630) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389630?language=javascript) 
 
 ### 성능 요약
 
-메모리: 126 MB, 시간: 1162.13 ms
+메모리: 38.9 MB, 시간: 265.48 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 04일 18:35:30
+2026년 04월 04일 18:42:00
 
 ### 문제 설명
 
