@@ -15,11 +15,11 @@
 | 🔢 **Total** | 294 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: [PCCP 기출문제] 1번 / 동영상 재생기, Time: 0.21 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 1] Title: [PCCP 기출문제] 1번 / 동영상 재생기, Time: 1.52 ms, Memory: 75.2 MB -BaekjoonHub
 - [level 1] Title: 유연근무제, Time: 1.71 ms, Memory: 36.9 MB -BaekjoonHub
 - [level 1] Title: 유연근무제, Time: 0.68 ms, Memory: 90.9 MB -BaekjoonHub
 - [level 2] Title: 비밀 코드 해독, Time: 63.07 ms, Memory: 62.2 MB -BaekjoonHub
-- [level 2] Title: 비밀 코드 해독, Time: 49.42 ms, Memory: 95.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
