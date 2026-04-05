@@ -15,11 +15,11 @@
 | 🔢 **Total** | 290 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 홀짝트리, Time: 1782.07 ms, Memory: 211 MB -BaekjoonHub
 - [level 3] Title: 홀짝트리, Time: 386.65 ms, Memory: 282 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 7 ms (50%), Space: 58.1 MB (51.09%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
