@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 14 |
-| 🔵 Programmers | 274 |
+| 🔵 Programmers | 275 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 290 |
+| 🔢 **Total** | 291 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 지게차와 크레인, Time: 10.56 ms, Memory: 81.3 MB -BaekjoonHub
 - [level 3] Title: 홀짝트리, Time: 1782.07 ms, Memory: 211 MB -BaekjoonHub
 - [level 3] Title: 홀짝트리, Time: 386.65 ms, Memory: 282 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 7 ms (50%), Space: 58.1 MB (51.09%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
