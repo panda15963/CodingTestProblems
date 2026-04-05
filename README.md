@@ -15,11 +15,11 @@
 | 🔢 **Total** | 289 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 1] Title: 택배 상자 꺼내기, Time: 0.14 ms, Memory: 32.9 MB -BaekjoonHub
-- [level 1] Title: 택배 상자 꺼내기, Time: 0.02 ms, Memory: 80.5 MB -BaekjoonHub
-- [level 2] Title: 서버 증설 횟수, Time: 0.20 ms, Memory: 33.5 MB -BaekjoonHub
-- [level 2] Title: 서버 증설 횟수, Time: 0.03 ms, Memory: 87.6 MB -BaekjoonHub
+- Update README - Topic Tags
+- Time: 7 ms (50%), Space: 58.1 MB (51.09%) - LeetHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- Update README - Topic Tags
+- Time: 4 ms (99.05%), Space: 46.2 MB (34.7%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
