@@ -15,11 +15,11 @@
 | 🔢 **Total** | 295 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지, Time: 41.61 ms, Memory: 55.8 MB -BaekjoonHub
 - [level 2] Title: [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지, Time: 38.34 ms, Memory: 132 MB -BaekjoonHub
 - [level 1] Title: [PCCP 기출문제] 1번 / 동영상 재생기, Time: 0.21 ms, Memory: 33.4 MB -BaekjoonHub
 - [level 1] Title: [PCCP 기출문제] 1번 / 동영상 재생기, Time: 1.52 ms, Memory: 75.2 MB -BaekjoonHub
 - [level 1] Title: 유연근무제, Time: 1.71 ms, Memory: 36.9 MB -BaekjoonHub
-- [level 1] Title: 유연근무제, Time: 0.68 ms, Memory: 90.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
