@@ -1,32 +1,96 @@
-<h2><a href="https://leetcode.com/problems/robot-return-to-origin">657. Robot Return to Origin</a></h2><h3>Easy</h3><hr><p>There is a robot starting at the position <code>(0, 0)</code>, the origin, on a 2D plane. Given a sequence of its moves, judge if this robot <strong>ends up at </strong><code>(0, 0)</code> after it completes its moves.</p>
+<h2><a href="https://leetcode.com/problems/walking-robot-simulation">906. Walking Robot Simulation</a></h2><h3>Medium</h3><hr><p>A robot on an infinite XY-plane starts at point <code>(0, 0)</code> facing north. The robot receives an array of integers <code>commands</code>, which represents a sequence of moves that it needs to execute. There are only three possible types of instructions the robot can receive:</p>
 
-<p>You are given a string <code>moves</code> that represents the move sequence of the robot where <code>moves[i]</code> represents its <code>i<sup>th</sup></code> move. Valid moves are <code>&#39;R&#39;</code> (right), <code>&#39;L&#39;</code> (left), <code>&#39;U&#39;</code> (up), and <code>&#39;D&#39;</code> (down).</p>
+<ul>
+	<li><code>-2</code>: Turn left <code>90</code> degrees.</li>
+	<li><code>-1</code>: Turn right <code>90</code> degrees.</li>
+	<li><code>1 &lt;= k &lt;= 9</code>: Move forward <code>k</code> units, one unit at a time.</li>
+</ul>
 
-<p>Return <code>true</code><em> if the robot returns to the origin after it finishes all of its moves, or </em><code>false</code><em> otherwise</em>.</p>
+<p>Some of the grid squares are <code>obstacles</code>. The <code>i<sup>th</sup></code> obstacle is at grid point <code>obstacles[i] = (x<sub>i</sub>, y<sub>i</sub>)</code>. If the robot runs into an obstacle, it will stay in its current location (on the block adjacent to the obstacle) and move onto the next command.</p>
 
-<p><strong>Note</strong>: The way that the robot is &quot;facing&quot; is irrelevant. <code>&#39;R&#39;</code> will always make the robot move to the right once, <code>&#39;L&#39;</code> will always make it move left, etc. Also, assume that the magnitude of the robot&#39;s movement is the same for each move.</p>
+<p>Return the <strong>maximum squared Euclidean distance</strong> that the robot reaches at any point in its path (i.e. if the distance is <code>5</code>, return <code>25</code>).</p>
+
+<p><strong>Note:</strong></p>
+
+<ul>
+	<li>There can be an obstacle at <code>(0, 0)</code>. If this happens, the robot will ignore the obstacle until it has moved off the origin. However, it will be unable to return to <code>(0, 0)</code> due to the obstacle.</li>
+	<li>North means +Y direction.</li>
+	<li>East means +X direction.</li>
+	<li>South means -Y direction.</li>
+	<li>West means -X direction.</li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
-<strong>Input:</strong> moves = &quot;UD&quot;
-<strong>Output:</strong> true
-<strong>Explanation</strong>: The robot moves up once, and then down once. All moves have the same magnitude, so it ended up at the origin where it started. Therefore, we return true.
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">commands = [4,-1,3], obstacles = []</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">25</span></p>
+
+<p><strong>Explanation: </strong></p>
+
+<p>The robot starts at <code>(0, 0)</code>:</p>
+
+<ol>
+	<li>Move north 4 units to <code>(0, 4)</code>.</li>
+	<li>Turn right.</li>
+	<li>Move east 3 units to <code>(3, 4)</code>.</li>
+</ol>
+
+<p>The furthest point the robot ever gets from the origin is <code>(3, 4)</code>, which squared is <code>3<sup>2</sup> + 4<sup>2 </sup>= 25</code> units away.</p>
+</div>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> moves = &quot;LL&quot;
-<strong>Output:</strong> false
-<strong>Explanation</strong>: The robot moves left twice. It ends up two &quot;moves&quot; to the left of the origin. We return false because it is not at the origin at the end of its moves.
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">commands = [4,-1,4,-2,4], obstacles = [[2,4]]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">65</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>The robot starts at <code>(0, 0)</code>:</p>
+
+<ol>
+	<li>Move north 4 units to <code>(0, 4)</code>.</li>
+	<li>Turn right.</li>
+	<li>Move east 1 unit and get blocked by the obstacle at <code>(2, 4)</code>, robot is at <code>(1, 4)</code>.</li>
+	<li>Turn left.</li>
+	<li>Move north 4 units to <code>(1, 8)</code>.</li>
+</ol>
+
+<p>The furthest point the robot ever gets from the origin is <code>(1, 8)</code>, which squared is <code>1<sup>2</sup> + 8<sup>2</sup> = 65</code> units away.</p>
+</div>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">commands = [6,-1,-1,6], obstacles = [[0,0]]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">36</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>The robot starts at <code>(0, 0)</code>:</p>
+
+<ol>
+	<li>Move north 6 units to <code>(0, 6)</code>.</li>
+	<li>Turn right.</li>
+	<li>Turn right.</li>
+	<li>Move south 5 units and get blocked by the obstacle at <code>(0,0)</code>, robot is at <code>(0, 1)</code>.</li>
+</ol>
+
+<p>The furthest point the robot ever gets from the origin is <code>(0, 6)</code>, which squared is <code>6<sup>2</sup> = 36</code> units away.</p>
+</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= moves.length &lt;= 2 * 10<sup>4</sup></code></li>
-	<li><code>moves</code> only contains the characters <code>&#39;U&#39;</code>, <code>&#39;D&#39;</code>, <code>&#39;L&#39;</code> and <code>&#39;R&#39;</code>.</li>
+	<li><code>1 &lt;= commands.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>commands[i]</code> is either <code>-2</code>, <code>-1</code>, or an integer in the range <code>[1, 9]</code>.</li>
+	<li><code>0 &lt;= obstacles.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>-3 * 10<sup>4</sup> &lt;= x<sub>i</sub>, y<sub>i</sub> &lt;= 3 * 10<sup>4</sup></code></li>
+	<li>The answer is guaranteed to be less than <code>2<sup>31</sup></code>.</li>
 </ul>
