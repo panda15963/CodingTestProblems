@@ -15,11 +15,11 @@
 | 🔢 **Total** | 297 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: [PCCP 기출문제] 3번 / 충돌위험 찾기, Time: 1103.60 ms, Memory: 132 MB -BaekjoonHub
 - [level 2] Title: [PCCP 기출문제] 3번 / 충돌위험 찾기, Time: 205.17 ms, Memory: 146 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 34 ms (59.78%), Space: 52.2 MB (46.01%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
