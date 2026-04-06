@@ -15,11 +15,11 @@
 | 🔢 **Total** | 296 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 34 ms (59.78%), Space: 52.2 MB (46.01%) - LeetHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 39 ms (75%), Space: 67.8 MB (75%) - LeetHub
-- Create README - LeetHub
-- [level 2] Title: [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지, Time: 41.61 ms, Memory: 55.8 MB -BaekjoonHub
-- [level 2] Title: [PCCP 기출문제] 2번 / 퍼즐 게임 챌린지, Time: 38.34 ms, Memory: 132 MB -BaekjoonHub
+- Time: 43 ms (76.92%), Space: 67.7 MB (88.46%) - LeetHub
+- Updated stats
 
 <!-- DASHBOARD-END -->
 
