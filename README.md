@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 279 |
+| 🔵 Programmers | 280 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 296 |
+| 🔢 **Total** | 297 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: [PCCP 기출문제] 3번 / 충돌위험 찾기, Time: 205.17 ms, Memory: 146 MB -BaekjoonHub
+- Update README - Topic Tags
 - Time: 34 ms (59.78%), Space: 52.2 MB (46.01%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 43 ms (76.92%), Space: 67.7 MB (88.46%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
