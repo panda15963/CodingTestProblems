@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 281 |
+| 🔵 Programmers | 283 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 298 |
+| 🔢 **Total** | 300 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: [PCCE 기출문제] 4번 / 병과분류, Time: 199.05 ms, Memory: 74.5 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- [level 0] Title: [PCCE 기출문제] 3번 / 수 나누기, Time: 209.37 ms, Memory: 64.9 MB -BaekjoonHub
+- Update README - Topic Tags
 - Time: 42 ms (100%), Space: 71 MB (100%) - LeetHub
-- Update README - Topic Tags
-- Time: 55 ms (33.33%), Space: 72.4 MB (0%) - LeetHub
-- Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
