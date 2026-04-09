@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 287 |
+| 🔵 Programmers | 288 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 304 |
+| 🔢 **Total** | 305 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: [PCCE 기출문제] 9번 / 지폐 접기, Time: 0.05 ms, Memory: 90.8 MB -BaekjoonHub
 - [level 0] Title: [PCCE 기출문제] 8번 / 닉네임 규칙, Time: 12.83 ms, Memory: 88.1 MB -BaekjoonHub
 - [level 0] Title: [PCCE 기출문제] 7번 / 버스, Time: 0.05 ms, Memory: 76.5 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 724 ms (66.67%), Space: 141 MB (0%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
