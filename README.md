@@ -15,11 +15,11 @@
 | 🔢 **Total** | 302 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 303 ms (40%), Space: 218.4 MB (75%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 790 ms (100%), Space: 144.3 MB (0%) - LeetHub
 - Create README - LeetHub
-- [level 0] Title: [PCCE 기출문제] 6번 / 물 부족, Time: 0.02 ms, Memory: 87.4 MB -BaekjoonHub
-- [level 0] Title: [PCCE 기출문제] 5번 / 심폐소생술, Time: 0.03 ms, Memory: 76.3 MB -BaekjoonHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
