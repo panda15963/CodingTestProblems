@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 285 |
+| 🔵 Programmers | 286 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 302 |
+| 🔢 **Total** | 303 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: [PCCE 기출문제] 7번 / 버스, Time: 0.05 ms, Memory: 76.5 MB -BaekjoonHub
+- Update README - Topic Tags
 - Time: 724 ms (66.67%), Space: 141 MB (0%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 303 ms (40%), Space: 218.4 MB (75%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
