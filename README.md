@@ -16,10 +16,10 @@
 
 ## 🥇 Recently Solved (Top 5)
 - Update README - Topic Tags
+- Time: 3 ms (57.14%), Space: 55.8 MB (80.95%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 3 ms (82.64%), Space: 44.2 MB (91%) - LeetHub
-- Create README - LeetHub
-- [level 1] Title: [PCCE 기출문제] 10번 / 공원, Time: 1.81 ms, Memory: 82.2 MB -BaekjoonHub
-- [level 1] Title: [PCCE 기출문제] 9번 / 지폐 접기, Time: 0.05 ms, Memory: 90.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
