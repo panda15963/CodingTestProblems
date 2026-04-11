@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 289 |
+| 🔵 Programmers | 290 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 306 |
+| 🔢 **Total** | 307 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 5] Title: 멸종위기의 대장균 찾기, Time: , Memory: undefined -BaekjoonHub
+- Update README - Topic Tags
 - Time: 4 ms (66.67%), Space: 57.7 MB (66.67%) - LeetHub
 - Update README - Topic Tags
 - Time: 3 ms (57.14%), Space: 55.8 MB (80.95%) - LeetHub
-- Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
