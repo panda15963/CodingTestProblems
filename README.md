@@ -15,11 +15,11 @@
 | 🔢 **Total** | 308 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 4] Title: 특정 세대의 대장균 찾기, Time: , Memory: undefined -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
-- [level 5] Title: 멸종위기의 대장균 찾기, Time: , Memory: undefined -BaekjoonHub
+- Time: 137 ms (30.17%), Space: 273.7 MB (58.66%) - LeetHub
+- Updated stats
 - Update README - Topic Tags
+- Time: 357 ms (16.67%), Space: 121.2 MB (16.67%) - LeetHub
+- Create README - LeetHub
 
 <!-- DASHBOARD-END -->
 
