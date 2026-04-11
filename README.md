@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 294 |
+| 🔵 Programmers | 295 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 311 |
+| 🔢 **Total** | 312 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 3월에 태어난 여성 회원 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 흉부외과 또는 일반외과 의사 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 12세 이하인 여자 환자 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 12세 이하인 여자 환자 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 인기있는 아이스크림, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
