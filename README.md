@@ -15,11 +15,11 @@
 | 🔢 **Total** | 315 |
 
 ## 🥇 Recently Solved (Top 5)
+- 폴더구조 변경
 - [level 4] Title: 서울에 위치한 식당 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 4] Title: 서울에 위치한 식당 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 강원도에 위치한 생산공장 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 강원도에 위치한 생산공장 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 1] Title: 조건에 부합하는 중고거래 댓글 조회하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
