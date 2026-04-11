@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 291 |
+| 🔵 Programmers | 292 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 308 |
+| 🔢 **Total** | 309 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 인기있는 아이스크림, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 495 ms (10%), Space: 121.9 MB (10%) - LeetHub
 - Update README - Topic Tags
 - Time: 137 ms (30.17%), Space: 273.7 MB (58.66%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
