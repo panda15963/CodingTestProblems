@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 300 |
+| 🔵 Programmers | 301 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 317 |
+| 🔢 **Total** | 318 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 아픈 동물 찾기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - [level 4] Title: 오프라인/온라인 판매 데이터 통합하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 54 ms (27.59%), Space: 69.7 MB (20.69%) - LeetHub
-- Update README - Topic Tags
-- Time: 55 ms (20%), Space: 65.6 MB (10%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
