@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 307 |
+| 🔵 Programmers | 308 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 324 |
+| 🔢 **Total** | 325 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 잔챙이 잡은 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 조건에 맞는 개발자 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 업그레이드 된 아이템 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 상위 n개 레코드, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 상위 n개 레코드, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 1] Title: 여러 기준으로 정렬하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
