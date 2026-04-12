@@ -15,11 +15,11 @@
 | 🔢 **Total** | 316 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 16 ms (48.46%), Space: 47.1 MB (58.46%) - LeetHub
+- Create README - LeetHub
 - [level 1] Title: 모든 레코드 조회하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 모든 레코드 조회하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - 폴더구조 변경
-- [level 4] Title: 서울에 위치한 식당 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 4] Title: 서울에 위치한 식당 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
