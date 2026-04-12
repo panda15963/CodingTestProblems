@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 312 |
+| 🔵 Programmers | 313 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 329 |
+| 🔢 **Total** | 330 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 부모의 형질을 모두 가지는 대장균 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 특정 형질을 가지는 대장균 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 대장균의 크기에 따라 분류하기 1, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 대장균들의 자식의 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 특정 물고기를 잡은 총 수 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: 잔챙이 잡은 수 구하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
