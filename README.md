@@ -16,10 +16,10 @@
 
 ## 🥇 Recently Solved (Top 5)
 - [level 1] Title: 가장 비싼 상품 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
+- [level 1] Title: 가장 비싼 상품 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 3] Title: 대장균의 크기에 따라 분류하기 2, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 부모의 형질을 모두 가지는 대장균 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 특정 형질을 가지는 대장균 찾기, Time: , Memory: undefined -BaekjoonHub
-- [level 3] Title: 대장균의 크기에 따라 분류하기 1, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
