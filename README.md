@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 304 |
+| 🔵 Programmers | 305 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 321 |
+| 🔢 **Total** | 322 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 상위 n개 레코드, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
+- [level 1] Title: 상위 n개 레코드, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 여러 기준으로 정렬하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 동물의 아이디와 이름, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 어린 동물 찾기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 1] Title: 아픈 동물 찾기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
