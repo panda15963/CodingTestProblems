@@ -35,6 +35,7 @@
 | [0012-integer-to-roman](https://github.com/panda15963/CodingTestProblems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/panda15963/CodingTestProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/panda15963/CodingTestProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/panda15963/CodingTestProblems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/panda15963/CodingTestProblems/tree/master/2573-find-the-string-with-lcp) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/panda15963/CodingTestProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0010-regular-expression-matching) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/panda15963/CodingTestProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/panda15963/CodingTestProblems/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/panda15963/CodingTestProblems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
