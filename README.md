@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 308 |
+| 🔵 Programmers | 309 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 325 |
+| 🔢 **Total** | 326 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 특정 물고기를 잡은 총 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 잔챙이 잡은 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 조건에 맞는 개발자 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 업그레이드 된 아이템 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: 상위 n개 레코드, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 상위 n개 레코드, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
