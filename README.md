@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 316 |
+| 🔵 Programmers | 317 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 333 |
+| 🔢 **Total** | 334 |
 
 ## 🥇 Recently Solved (Top 5)
-- Time: 0 ms (100%), Space: 56.2 MB (31.58%) - LeetHub
-- Updated stats
+- [level 1] Title: 최댓값 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 44.8 MB (84.16%) - LeetHub
-- Create README - LeetHub
+- Time: 0 ms (100%), Space: 55.3 MB (6.12%) - LeetHub
+- Updated stats
 
 <!-- DASHBOARD-END -->
 
