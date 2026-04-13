@@ -15,11 +15,11 @@
 | 🔢 **Total** | 333 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 0 ms (100%), Space: 56.2 MB (31.58%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 0 ms (100%), Space: 44.8 MB (84.16%) - LeetHub
 - Create README - LeetHub
-- [level 2] Title: 가격이 제일 비싼 식품의 정보 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 2] Title: 가격이 제일 비싼 식품의 정보 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 1] Title: 가장 비싼 상품 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
