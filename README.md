@@ -16,10 +16,10 @@
 
 ## 🥇 Recently Solved (Top 5)
 - [level 2] Title: 중복 제거하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
+- [level 2] Title: 중복 제거하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 2] Title: 동물 수 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 2] Title: 최솟값 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 최댓값 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
