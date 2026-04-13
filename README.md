@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 317 |
+| 🔵 Programmers | 318 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 334 |
+| 🔢 **Total** | 335 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 최솟값 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 최댓값 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 55.3 MB (6.12%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
