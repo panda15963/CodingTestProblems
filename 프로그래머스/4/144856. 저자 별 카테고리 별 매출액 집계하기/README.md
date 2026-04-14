@@ -1,6 +1,6 @@
 # [level 4] 저자 별 카테고리 별 매출액 집계하기 - 144856 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/144856?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/144856?language=oracle) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 15일 06:31:11
+2026년 04월 15일 06:31:35
 
 ### 문제 설명
 
