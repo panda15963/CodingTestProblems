@@ -16,10 +16,10 @@
 
 ## 🥇 Recently Solved (Top 5)
 - [level 4] Title: 저자 별 카테고리 별 매출액 집계하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
+- [level 4] Title: 저자 별 카테고리 별 매출액 집계하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 3] Title: 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 3] Title: 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 2] Title: 연도별 대장균 크기의 편차 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: 잡은 물고기 중 가장 큰 물고기의 길이 구하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
