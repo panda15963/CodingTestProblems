@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 321 |
+| 🔵 Programmers | 322 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 338 |
+| 🔢 **Total** | 339 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 잡은 물고기 중 가장 큰 물고기의 길이 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 물고기 종류 별 대어 찾기, Time: , Memory: undefined -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 45 ms (66.13%), Space: 44.1 MB (98.39%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
