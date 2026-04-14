@@ -15,11 +15,11 @@
 | 🔢 **Total** | 337 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 45 ms (66.13%), Space: 44.1 MB (98.39%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 48 ms (0%), Space: 62.5 MB (0%) - LeetHub
 - Create README - LeetHub
-- [level 2] Title: 중복 제거하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 2] Title: 중복 제거하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 2] Title: 동물 수 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
