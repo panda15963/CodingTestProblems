@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 320 |
+| 🔵 Programmers | 321 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 337 |
+| 🔢 **Total** | 338 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 물고기 종류 별 대어 찾기, Time: , Memory: undefined -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 45 ms (66.13%), Space: 44.1 MB (98.39%) - LeetHub
 - Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
