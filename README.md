@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 326 |
+| 🔵 Programmers | 327 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 343 |
+| 🔢 **Total** | 344 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 식품분류별 가장 비싼 식품의 정보 조회하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 2] Title: 성분으로 구분한 아이스크림 총 주문량, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Time: 0 ms (100%), Space: 59.3 MB (16.67%) - LeetHub
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 58.6 MB (13.33%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
