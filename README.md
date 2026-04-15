@@ -38,6 +38,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/panda15963/CodingTestProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/panda15963/CodingTestProblems/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/panda15963/CodingTestProblems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/panda15963/CodingTestProblems/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/panda15963/CodingTestProblems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -80,6 +81,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/panda15963/CodingTestProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2463-minimum-total-distance-traveled](https://github.com/panda15963/CodingTestProblems/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/panda15963/CodingTestProblems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/panda15963/CodingTestProblems/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/panda15963/CodingTestProblems/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/2906-construct-product-matrix) |
