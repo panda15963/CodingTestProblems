@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 325 |
+| 🔵 Programmers | 326 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 342 |
+| 🔢 **Total** | 343 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 성분으로 구분한 아이스크림 총 주문량, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Time: 0 ms (100%), Space: 59.3 MB (16.67%) - LeetHub
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 58.6 MB (13.33%) - LeetHub
-- Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
