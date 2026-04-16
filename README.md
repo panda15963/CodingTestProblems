@@ -88,6 +88,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/panda15963/CodingTestProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/panda15963/CodingTestProblems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/panda15963/CodingTestProblems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/panda15963/CodingTestProblems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/panda15963/CodingTestProblems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -164,6 +165,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/panda15963/CodingTestProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3488-closest-equal-element-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/panda15963/CodingTestProblems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -201,6 +203,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [3488-closest-equal-element-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/panda15963/CodingTestProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
