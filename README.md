@@ -15,11 +15,11 @@
 | 🔢 **Total** | 346 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 154 ms (71.43%), Space: 94.8 MB (85.71%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 137 ms (24.24%), Space: 193.3 MB (23.23%) - LeetHub
 - Create README - LeetHub
-- [level 3] Title: 즐겨찾기가 가장 많은 식당 정보 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 3] Title: 즐겨찾기가 가장 많은 식당 정보 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 2] Title: 진료과별 총 예약 횟수 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 4] Title: 식품분류별 가장 비싼 식품의 정보 조회하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
