@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 332 |
+| 🔵 Programmers | 333 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 349 |
+| 🔢 **Total** | 350 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 조건에 맞는 사용자와 총 거래금액 조회하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 3] Title: 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 3] Title: 대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 3] Title: 카테고리 별 도서 판매량 집계하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 3] Title: 카테고리 별 도서 판매량 집계하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
