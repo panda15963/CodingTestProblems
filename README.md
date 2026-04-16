@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 329 |
+| 🔵 Programmers | 330 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 346 |
+| 🔢 **Total** | 347 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
+- Update README - Topic Tags
 - Time: 143 ms (66.67%), Space: 92.4 MB (66.67%) - LeetHub
 - Update README - Topic Tags
 - Time: 154 ms (71.43%), Space: 94.8 MB (85.71%) - LeetHub
-- Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
