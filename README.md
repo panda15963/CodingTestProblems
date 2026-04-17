@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 334 |
+| 🔵 Programmers | 335 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 351 |
+| 🔢 **Total** | 352 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 입양 시각 구하기(2), Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- Time: 45 ms (100%), Space: 79.3 MB (100%) - LeetHub
+- Update README - Topic Tags
 - Time: 54 ms (100%), Space: 84.6 MB (21.43%) - LeetHub
-- Update README - Topic Tags
-- Time: 50 ms (83.25%), Space: 95.1 MB (61.93%) - LeetHub
-- Update README - Topic Tags
-- Time: 50 ms (83.25%), Space: 95.1 MB (61.93%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
