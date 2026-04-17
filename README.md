@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 336 |
+| 🔵 Programmers | 337 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 353 |
+| 🔢 **Total** | 354 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 언어별 개발자 분류하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 가격대 별 상품 개수 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 4] Title: 입양 시각 구하기(2), Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 4] Title: 입양 시각 구하기(2), Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Time: 45 ms (100%), Space: 79.3 MB (100%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
