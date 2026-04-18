@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 341 |
+| 🔵 Programmers | 342 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 358 |
+| 🔢 **Total** | 359 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 경기도에 위치한 식품창고 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 2] Title: 물고기 종류 별 잡은 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 노선별 평균 역 사이 거리 조회하기, Time: , Memory: undefined -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 54.6 MB (94.66%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
