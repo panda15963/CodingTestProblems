@@ -10,15 +10,15 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 338 |
+| 🔵 Programmers | 339 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 355 |
+| 🔢 **Total** | 356 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 조건에 맞는 사원 정보 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 언어별 개발자 분류하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 가격대 별 상품 개수 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 4] Title: 입양 시각 구하기(2), Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 4] Title: 입양 시각 구하기(2), Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
