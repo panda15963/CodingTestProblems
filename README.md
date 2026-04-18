@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 339 |
+| 🔵 Programmers | 340 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 356 |
+| 🔢 **Total** | 357 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 노선별 평균 역 사이 거리 조회하기, Time: , Memory: undefined -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- Update README - Topic Tags
 - Time: 0 ms (100%), Space: 54.6 MB (94.66%) - LeetHub
 - Updated stats
-- Update README - Topic Tags
-- Time: 2 ms (15.53%), Space: 42.6 MB (65.56%) - LeetHub
-- Create README - LeetHub
 
 <!-- DASHBOARD-END -->
 
