@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 343 |
+| 🔵 Programmers | 344 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 360 |
+| 🔢 **Total** | 361 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 이름이 있는 동물의 아이디, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 이름이 없는 동물의 아이디, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 경기도에 위치한 식품창고 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 2] Title: 물고기 종류 별 잡은 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 노선별 평균 역 사이 거리 조회하기, Time: , Memory: undefined -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
