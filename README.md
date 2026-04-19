@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 350 |
+| 🔵 Programmers | 351 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 367 |
+| 🔢 **Total** | 368 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 한 해에 잡은 물고기 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 분기별 분화된 대장균의 개체 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - Update README - Topic Tags
 - Time: 32 ms (6.67%), Space: 67.8 MB (53.33%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
