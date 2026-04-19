@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 349 |
+| 🔵 Programmers | 350 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 366 |
+| 🔢 **Total** | 367 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 분기별 분화된 대장균의 개체 수 구하기, Time: , Memory: undefined -BaekjoonHub
+- Update README - Topic Tags
 - Time: 32 ms (6.67%), Space: 67.8 MB (53.33%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 33 ms (26.67%), Space: 68.8 MB (26.67%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
