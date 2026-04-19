@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 347 |
+| 🔵 Programmers | 348 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 364 |
+| 🔢 **Total** | 365 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 4] Title: 주문량이 많은 아이스크림들 조회하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 3] Title: 업그레이드 할 수 없는 아이템 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: NULL 처리하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 2] Title: NULL 처리하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 1] Title: 이름이 있는 동물의 아이디, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
