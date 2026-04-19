@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 345 |
+| 🔵 Programmers | 346 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 362 |
+| 🔢 **Total** | 363 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 업그레이드 할 수 없는 아이템 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: NULL 처리하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 2] Title: NULL 처리하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 이름이 있는 동물의 아이디, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 - [level 1] Title: 이름이 없는 동물의 아이디, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 1] Title: 경기도에 위치한 식품창고 목록 출력하기, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
