@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 353 |
+| 🔵 Programmers | 354 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 370 |
+| 🔢 **Total** | 371 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 주사위 고르기, Time: 821.36 ms, Memory: 398 MB -BaekjoonHub
 - [level 2] Title: 도넛과 막대 그래프, Time: 725.09 ms, Memory: 246 MB -BaekjoonHub
 - [level 2] Title: 도넛과 막대 그래프, Time: 359.43 ms, Memory: 338 MB -BaekjoonHub
 - [level 1] Title: 가장 많이 받은 선물, Time: 14.88 ms, Memory: 109 MB -BaekjoonHub
 - 폴더 구조 변경
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
