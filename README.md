@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 354 |
+| 🔵 Programmers | 355 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 371 |
+| 🔢 **Total** | 372 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: n + 1 카드게임, Time: 0.90 ms, Memory: 87.6 MB -BaekjoonHub
 - [level 3] Title: 주사위 고르기, Time: 821.36 ms, Memory: 398 MB -BaekjoonHub
 - [level 2] Title: 도넛과 막대 그래프, Time: 725.09 ms, Memory: 246 MB -BaekjoonHub
 - [level 2] Title: 도넛과 막대 그래프, Time: 359.43 ms, Memory: 338 MB -BaekjoonHub
 - [level 1] Title: 가장 많이 받은 선물, Time: 14.88 ms, Memory: 109 MB -BaekjoonHub
-- 폴더 구조 변경
 
 <!-- DASHBOARD-END -->
 
