@@ -15,11 +15,11 @@
 | 🔢 **Total** | 373 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 산 모양 타일링, Time: 6.07 ms, Memory: 38.7 MB -BaekjoonHub
 - [level 3] Title: 산 모양 타일링, Time: 5.96 ms, Memory: 82.3 MB -BaekjoonHub
 - [level 3] Title: n + 1 카드게임, Time: 0.90 ms, Memory: 87.6 MB -BaekjoonHub
 - [level 3] Title: 주사위 고르기, Time: 821.36 ms, Memory: 398 MB -BaekjoonHub
 - [level 2] Title: 도넛과 막대 그래프, Time: 725.09 ms, Memory: 246 MB -BaekjoonHub
-- [level 2] Title: 도넛과 막대 그래프, Time: 359.43 ms, Memory: 338 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
