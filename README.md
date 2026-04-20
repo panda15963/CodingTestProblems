@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 351 |
+| 🔵 Programmers | 352 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 368 |
+| 🔢 **Total** | 369 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 가장 많이 받은 선물, Time: 14.88 ms, Memory: 109 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 53.6 MB (100%) - LeetHub
 - Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
