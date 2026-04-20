@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 352 |
+| 🔵 Programmers | 353 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 369 |
+| 🔢 **Total** | 370 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 도넛과 막대 그래프, Time: 359.43 ms, Memory: 338 MB -BaekjoonHub
 - [level 1] Title: 가장 많이 받은 선물, Time: 14.88 ms, Memory: 109 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 53.6 MB (100%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
