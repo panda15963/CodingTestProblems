@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 356 |
+| 🔵 Programmers | 357 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 373 |
+| 🔢 **Total** | 374 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: [PCCP 기출문제] 1번 / 붕대 감기, Time: 0.07 ms, Memory: 92.3 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
 - Time: 39 ms (92.47%), Space: 120.4 MB (30.11%) - LeetHub
 - Update README - Topic Tags
-- Time: 96 ms (83.33%), Space: 95.8 MB (83.33%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
