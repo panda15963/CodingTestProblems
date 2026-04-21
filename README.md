@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 357 |
+| 🔵 Programmers | 358 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 374 |
+| 🔢 **Total** | 375 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: [PCCP 기출문제] 2번 / 석유 시추, Time: 452.81 ms, Memory: 37.5 MB -BaekjoonHub
 - [level 1] Title: [PCCP 기출문제] 1번 / 붕대 감기, Time: 0.07 ms, Memory: 92.3 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
 - Time: 39 ms (92.47%), Space: 120.4 MB (30.11%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
