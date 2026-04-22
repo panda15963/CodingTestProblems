@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 360 |
+| 🔵 Programmers | 361 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 377 |
+| 🔢 **Total** | 378 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: [PCCE 기출문제] 2번 / 피타고라스의 정리, Time: 202.33 ms, Memory: 70.3 MB -BaekjoonHub
 - 폴더 구조
 - Update README - Topic Tags
 - Time: 20 ms (30%), Space: 54.7 MB (95%) - LeetHub
 - Update README - Topic Tags
-- Time: 20 ms (30%), Space: 55.6 MB (90%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
