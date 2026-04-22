@@ -15,11 +15,11 @@
 | 🔢 **Total** | 377 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 3] Title: [PCCP 기출문제] 4번 / 수레 움직이기, Time: 296.07 ms, Memory: 333 MB -BaekjoonHub
 - [level 3] Title: [PCCP 기출문제] 4번 / 수레 움직이기, Time: 34.91 ms, Memory: 40.9 MB -BaekjoonHub
 - [level 2] Title: [PCCP 기출문제] 3번 / 아날로그 시계, Time: 0.02 ms, Memory: 76.8 MB -BaekjoonHub
 - [level 2] Title: [PCCP 기출문제] 2번 / 석유 시추, Time: 65.54 ms, Memory: 74.8 MB -BaekjoonHub
-- [level 2] Title: [PCCP 기출문제] 2번 / 석유 시추, Time: 452.81 ms, Memory: 37.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
