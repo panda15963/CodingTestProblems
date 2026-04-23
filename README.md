@@ -15,11 +15,11 @@
 | 🔢 **Total** | 379 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 0] Title: [PCCE 기출문제] 5번 / 산책, Time: 0.02 ms, Memory: 83.2 MB -BaekjoonHub
 - [level 0] Title: [PCCE 기출문제] 2번 / 피타고라스의 정리, Time: 202.33 ms, Memory: 70.3 MB -BaekjoonHub
 - 폴더 구조
 - Update README - Topic Tags
-- Time: 20 ms (30%), Space: 54.7 MB (95%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
