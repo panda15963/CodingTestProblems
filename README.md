@@ -15,11 +15,11 @@
 | 🔢 **Total** | 380 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 0] Title: [PCCE 기출문제] 7번 / 가습기, Time: 0.04 ms, Memory: 84.7 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
 - Time: 23 ms (64.57%), Space: 120 MB (65.47%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
