@@ -1,10 +1,10 @@
 # [level 5] 미로 주행 테스트 - 214295 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/214295) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/214295?language=javascript) 
 
 ### 성능 요약
 
-메모리: 705 MB, 시간: 2631.09 ms
+메모리: 302 MB, 시간: 7503.31 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 25일 10:32:13
+2026년 04월 25일 10:34:04
 
 ### 문제 설명
 
