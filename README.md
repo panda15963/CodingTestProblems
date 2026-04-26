@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 365 |
+| 🔵 Programmers | 366 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 382 |
+| 🔢 **Total** | 383 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 5] Title: 빠른 이동, Time: 232.72 ms, Memory: 100 MB -BaekjoonHub
 - 폴더 구조 변경
 - [level 5] Title: 미로 주행 테스트, Time: 7503.31 ms, Memory: 302 MB -BaekjoonHub
 - [level 5] Title: 미로 주행 테스트, Time: 2631.09 ms, Memory: 705 MB -BaekjoonHub
 - [level 1] Title: [PCCE 기출문제] 10번 / 데이터 분석, Time: 2.44 ms, Memory: 72.2 MB -BaekjoonHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
