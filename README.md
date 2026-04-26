@@ -15,11 +15,11 @@
 | 🔢 **Total** | 383 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 120 ms (54.55%), Space: 92.2 MB (90.91%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 21 ms (39.56%), Space: 126.1 MB (85.07%) - LeetHub
 - Create README - LeetHub
-- [level 5] Title: 빠른 이동, Time: 232.72 ms, Memory: 100 MB -BaekjoonHub
-- 폴더 구조 변경
-- [level 5] Title: 미로 주행 테스트, Time: 7503.31 ms, Memory: 302 MB -BaekjoonHub
-- [level 5] Title: 미로 주행 테스트, Time: 2631.09 ms, Memory: 705 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
