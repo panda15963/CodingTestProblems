@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 369 |
+| 🔵 Programmers | 370 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 386 |
+| 🔢 **Total** | 387 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 달리기 경주, Time: 212.43 ms, Memory: 380 MB -BaekjoonHub
 - [level 3] Title: 아방가르드 타일링, Time: 32.62 ms, Memory: 38.4 MB -BaekjoonHub
 - [level 3] Title: 아방가르드 타일링, Time: 4.96 ms, Memory: 83.6 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
-- Time: 79 ms (54.55%), Space: 76.2 MB (72.73%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
