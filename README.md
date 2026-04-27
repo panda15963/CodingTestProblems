@@ -15,11 +15,11 @@
 | 🔢 **Total** | 385 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 28 ms (46.39%), Space: 94.2 MB (66.74%) - LeetHub
+- Create README - LeetHub
 - [level 2] Title: 두 원 사이의 정수 쌍, Time: 11.25 ms, Memory: 37.8 MB -BaekjoonHub
 - [level 2] Title: 요격 시스템, Time: 493.15 ms, Memory: 165 MB -BaekjoonHub
 - [level 2] Title: 요격 시스템, Time: 369.80 ms, Memory: 197 MB -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Time: 106 ms (55%), Space: 93 MB (72.5%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
