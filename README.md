@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 368 |
+| 🔵 Programmers | 369 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 385 |
+| 🔢 **Total** | 386 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 아방가르드 타일링, Time: 4.96 ms, Memory: 83.6 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
 - Time: 79 ms (54.55%), Space: 76.2 MB (72.73%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
