@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 371 |
+| 🔵 Programmers | 372 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 388 |
+| 🔢 **Total** | 389 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 연속된 부분 수열의 합, Time: 18.67 ms, Memory: 149 MB -BaekjoonHub
 - [level 3] Title: 에어컨, Time: 36.59 ms, Memory: 37.3 MB -BaekjoonHub
 - [level 3] Title: 에어컨, Time: 9.93 ms, Memory: 85.3 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
-- Time: 132 ms (83.33%), Space: 80.2 MB (100%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
