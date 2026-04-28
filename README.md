@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 370 |
+| 🔵 Programmers | 371 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 387 |
+| 🔢 **Total** | 388 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 에어컨, Time: 9.93 ms, Memory: 85.3 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
 - Time: 132 ms (83.33%), Space: 80.2 MB (100%) - LeetHub
 - Update README - Topic Tags
-- Time: 34 ms (83.97%), Space: 110.5 MB (67.94%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
