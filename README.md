@@ -15,11 +15,11 @@
 | 🔢 **Total** | 388 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 에어컨, Time: 36.59 ms, Memory: 37.3 MB -BaekjoonHub
 - [level 3] Title: 에어컨, Time: 9.93 ms, Memory: 85.3 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
 - Time: 132 ms (83.33%), Space: 80.2 MB (100%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
