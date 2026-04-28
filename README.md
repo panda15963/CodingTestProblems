@@ -15,11 +15,11 @@
 | 🔢 **Total** | 387 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 34 ms (83.97%), Space: 110.5 MB (67.94%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 182 ms (50%), Space: 80.2 MB (83.33%) - LeetHub
 - Create README - LeetHub
-- [level 1] Title: 달리기 경주, Time: 167.35 ms, Memory: 84 MB -BaekjoonHub
-- [level 1] Title: 달리기 경주, Time: 212.43 ms, Memory: 380 MB -BaekjoonHub
-- [level 3] Title: 아방가르드 타일링, Time: 32.62 ms, Memory: 38.4 MB -BaekjoonHub
-- [level 3] Title: 아방가르드 타일링, Time: 4.96 ms, Memory: 83.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
