@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 372 |
+| 🔵 Programmers | 373 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 389 |
+| 🔢 **Total** | 390 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 추억 점수, Time: 0.74 ms, Memory: 34 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 81 ms (100%), Space: 65.1 MB (100%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
