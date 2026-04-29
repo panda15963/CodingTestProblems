@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 15 |
-| 🔵 Programmers | 373 |
+| 🔵 Programmers | 374 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 390 |
+| 🔢 **Total** | 391 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 과제 진행하기, Time: 8.38 ms, Memory: 99.1 MB -BaekjoonHub
 - [level 1] Title: 추억 점수, Time: 1.98 ms, Memory: 108 MB -BaekjoonHub
 - [level 1] Title: 추억 점수, Time: 0.74 ms, Memory: 34 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
-- Time: 81 ms (100%), Space: 65.1 MB (100%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
