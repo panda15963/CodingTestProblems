@@ -15,11 +15,11 @@
 | 🔢 **Total** | 389 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 89 ms (100%), Space: 65.3 MB (100%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 50 ms (82.14%), Space: 48.5 MB (64.29%) - LeetHub
 - Create README - LeetHub
-- [level 2] Title: 연속된 부분 수열의 합, Time: 18.67 ms, Memory: 149 MB -BaekjoonHub
-- [level 3] Title: 에어컨, Time: 36.59 ms, Memory: 37.3 MB -BaekjoonHub
-- [level 3] Title: 에어컨, Time: 9.93 ms, Memory: 85.3 MB -BaekjoonHub
-- 폴더 구조 변경
 
 <!-- DASHBOARD-END -->
 
