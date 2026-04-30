@@ -15,11 +15,11 @@
 | 🔢 **Total** | 391 |
 
 ## 🥇 Recently Solved (Top 5)
+- Updated stats
+- Update README - Topic Tags
+- Time: 301 ms (66.67%), Space: 272.6 MB (9.14%) - LeetHub
+- Create README - LeetHub
 - [level 2] Title: 과제 진행하기, Time: 4.17 ms, Memory: 34.8 MB -BaekjoonHub
-- [level 2] Title: 과제 진행하기, Time: 8.38 ms, Memory: 99.1 MB -BaekjoonHub
-- [level 1] Title: 추억 점수, Time: 1.98 ms, Memory: 108 MB -BaekjoonHub
-- [level 1] Title: 추억 점수, Time: 0.74 ms, Memory: 34 MB -BaekjoonHub
-- 폴더구조 변경
 
 <!-- DASHBOARD-END -->
 
