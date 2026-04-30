@@ -15,11 +15,11 @@
 | 🔢 **Total** | 391 |
 
 ## 🥇 Recently Solved (Top 5)
+- Update README - Topic Tags
+- Time: 1824 ms (16.67%), Space: 91.6 MB (16.67%) - LeetHub
 - Updated stats
 - Update README - Topic Tags
 - Time: 301 ms (66.67%), Space: 272.6 MB (9.14%) - LeetHub
-- Create README - LeetHub
-- [level 2] Title: 과제 진행하기, Time: 4.17 ms, Memory: 34.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
