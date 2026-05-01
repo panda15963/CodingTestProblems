@@ -15,11 +15,11 @@
 | 🔢 **Total** | 394 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 7 ms (27.42%), Space: 65.5 MB (87.1%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 4 ms (88.46%), Space: 67.2 MB (46.15%) - LeetHub
 - Create README - LeetHub
-- [level 2] Title: 광물 캐기, Time: 2.80 ms, Memory: 94.2 MB -BaekjoonHub
-- [level 2] Title: 광물 캐기, Time: 0.33 ms, Memory: 33.4 MB -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
-- [level 1] Title: 공원 산책, Time: 0.32 ms, Memory: 90.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
