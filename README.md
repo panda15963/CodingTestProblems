@@ -9,17 +9,17 @@
 
 | Platform | Count |
 |----------|-------|
-| 🟡 LeetCode | 15 |
+| 🟡 LeetCode | 16 |
 | 🔵 Programmers | 376 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 393 |
+| 🔢 **Total** | 394 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 2] Title: 광물 캐기, Time: 2.80 ms, Memory: 94.2 MB -BaekjoonHub
 - [level 2] Title: 광물 캐기, Time: 0.33 ms, Memory: 33.4 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - [level 1] Title: 공원 산책, Time: 0.32 ms, Memory: 90.8 MB -BaekjoonHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
