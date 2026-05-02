@@ -15,11 +15,11 @@
 | 🔢 **Total** | 398 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 3] Title: 상담원 인원, Time: 20.71 ms, Memory: 90.9 MB -BaekjoonHub
-- [level 3] Title: 상담원 인원, Time: 5.31 ms, Memory: 37.2 MB -BaekjoonHub
-- [level 4] Title: 경사로의 개수, Time: 856.70 ms, Memory: 396 MB -BaekjoonHub
-- [level 5] Title: 집합과 쿼리, Time: 201.58 ms, Memory: 241 MB -BaekjoonHub
+- Time: 1 ms (98.28%), Space: 55.3 MB (65.52%) - LeetHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- Update README - Topic Tags
+- Time: 6 ms (76.19%), Space: 56.9 MB (66.67%) - LeetHub
+- Updated stats
 
 <!-- DASHBOARD-END -->
 
