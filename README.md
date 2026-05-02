@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 16 |
-| 🔵 Programmers | 377 |
+| 🔵 Programmers | 378 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 395 |
+| 🔢 **Total** | 396 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 경사로의 개수, Time: 856.70 ms, Memory: 396 MB -BaekjoonHub
 - [level 5] Title: 집합과 쿼리, Time: 201.58 ms, Memory: 241 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Time: 4 ms (90.35%), Space: 90.5 MB (67.92%) - LeetHub
 - Update README - Topic Tags
-- Time: 7 ms (27.42%), Space: 65.5 MB (87.1%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
