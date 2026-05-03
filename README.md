@@ -15,11 +15,11 @@
 | 🔢 **Total** | 399 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 리코쳇 로봇, Time: 3.93 ms, Memory: 94.8 MB -BaekjoonHub
 - [level 2] Title: 리코쳇 로봇, Time: 9.72 ms, Memory: 37.3 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 1 ms (98.28%), Space: 55.3 MB (65.52%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
