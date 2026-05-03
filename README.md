@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 17 |
-| 🔵 Programmers | 379 |
+| 🔵 Programmers | 380 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 398 |
+| 🔢 **Total** | 399 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 리코쳇 로봇, Time: 9.72 ms, Memory: 37.3 MB -BaekjoonHub
+- Update README - Topic Tags
 - Time: 1 ms (98.28%), Space: 55.3 MB (65.52%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 6 ms (76.19%), Space: 56.9 MB (66.67%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
