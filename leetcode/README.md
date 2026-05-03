@@ -1,43 +1,23 @@
-<h2><a href="https://leetcode.com/problems/rotated-digits">804. Rotated Digits</a></h2><h3>Medium</h3><hr><p>An integer <code>x</code> is a <strong>good</strong> if after rotating each digit individually by 180 degrees, we get a valid number that is different from <code>x</code>. Each digit must be rotated - we cannot choose to leave it alone.</p>
+<h2><a href="https://leetcode.com/problems/rotate-string">812. Rotate String</a></h2><h3>Easy</h3><hr><p>Given two strings <code>s</code> and <code>goal</code>, return <code>true</code> <em>if and only if</em> <code>s</code> <em>can become</em> <code>goal</code> <em>after some number of <strong>shifts</strong> on</em> <code>s</code>.</p>
 
-<p>A number is valid if each digit remains a digit after rotation. For example:</p>
+<p>A <strong>shift</strong> on <code>s</code> consists of moving the leftmost character of <code>s</code> to the rightmost position.</p>
 
 <ul>
-	<li><code>0</code>, <code>1</code>, and <code>8</code> rotate to themselves,</li>
-	<li><code>2</code> and <code>5</code> rotate to each other (in this case they are rotated in a different direction, in other words, <code>2</code> or <code>5</code> gets mirrored),</li>
-	<li><code>6</code> and <code>9</code> rotate to each other, and</li>
-	<li>the rest of the numbers do not rotate to any other number and become invalid.</li>
+	<li>For example, if <code>s = &quot;abcde&quot;</code>, then it will be <code>&quot;bcdea&quot;</code> after one shift.</li>
 </ul>
-
-<p>Given an integer <code>n</code>, return <em>the number of <strong>good</strong> integers in the range </em><code>[1, n]</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 10
-<strong>Output:</strong> 4
-<strong>Explanation:</strong> There are four good numbers in the range [1, 10] : 2, 5, 6, 9.
-Note that 1 and 10 are not good numbers, since they remain unchanged after rotating.
+<pre><strong>Input:</strong> s = "abcde", goal = "cdeab"
+<strong>Output:</strong> true
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> s = "abcde", goal = "abced"
+<strong>Output:</strong> false
 </pre>
-
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 1
-<strong>Output:</strong> 0
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 2
-<strong>Output:</strong> 1
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n &lt;= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= s.length, goal.length &lt;= 100</code></li>
+	<li><code>s</code> and <code>goal</code> consist of lowercase English letters.</li>
 </ul>
