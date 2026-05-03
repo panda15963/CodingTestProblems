@@ -15,11 +15,11 @@
 | 🔢 **Total** | 401 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 2] Title: 당구 연습, Time: 6.18 ms, Memory: 89.7 MB -BaekjoonHub
-- [level 2] Title: 리코쳇 로봇, Time: 3.93 ms, Memory: 94.8 MB -BaekjoonHub
-- [level 2] Title: 리코쳇 로봇, Time: 9.72 ms, Memory: 37.3 MB -BaekjoonHub
 - Update README - Topic Tags
+- Time: 0 ms (100%), Space: 55.8 MB (25.98%) - LeetHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- Update README - Topic Tags
+- Time: 0 ms (100%), Space: 42.1 MB (99.47%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
