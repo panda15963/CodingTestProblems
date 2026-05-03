@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 18 |
-| 🔵 Programmers | 382 |
+| 🔵 Programmers | 383 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 402 |
+| 🔢 **Total** | 403 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 대여 기록이 존재하는 자동차 리스트 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 조건에 부합하는 중고거래 상태 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 조건에 부합하는 중고거래 상태 조회하기, Time: , Memory: undefined -BaekjoonHub
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 55.8 MB (25.98%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
