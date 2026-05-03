@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 17 |
-| 🔵 Programmers | 380 |
+| 🔵 Programmers | 381 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 399 |
+| 🔢 **Total** | 400 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 당구 연습, Time: 6.18 ms, Memory: 89.7 MB -BaekjoonHub
 - [level 2] Title: 리코쳇 로봇, Time: 3.93 ms, Memory: 94.8 MB -BaekjoonHub
 - [level 2] Title: 리코쳇 로봇, Time: 9.72 ms, Memory: 37.3 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 1 ms (98.28%), Space: 55.3 MB (65.52%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
