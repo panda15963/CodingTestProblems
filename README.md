@@ -60,6 +60,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/panda15963/CodingTestProblems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/panda15963/CodingTestProblems/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
@@ -84,6 +85,7 @@
 | [0011-container-with-most-water](https://github.com/panda15963/CodingTestProblems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/panda15963/CodingTestProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/panda15963/CodingTestProblems/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -140,6 +142,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
