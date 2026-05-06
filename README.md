@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 386 |
+| 🔵 Programmers | 387 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 407 |
+| 🔢 **Total** | 408 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 보호소에서 중성화한 동물, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 오랜 기간 보호한 동물(1), Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 있었는데요 없었습니다, Time: , Memory: undefined -BaekjoonHub
 - Time: 0 ms (100%), Space: 57.7 MB (32.23%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
