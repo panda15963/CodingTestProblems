@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 384 |
+| 🔵 Programmers | 385 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 405 |
+| 🔢 **Total** | 406 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 있었는데요 없었습니다, Time: , Memory: undefined -BaekjoonHub
 - Time: 0 ms (100%), Space: 57.7 MB (32.23%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 58.7 MB (17.72%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
