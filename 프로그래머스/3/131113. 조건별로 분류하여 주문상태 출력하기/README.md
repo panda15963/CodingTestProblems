@@ -1,6 +1,6 @@
 # [level 3] 조건별로 분류하여 주문상태 출력하기 - 131113 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131113?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131113?language=oracle) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 07일 07:19:38
+2026년 05월 07일 07:19:50
 
 ### 문제 설명
 
