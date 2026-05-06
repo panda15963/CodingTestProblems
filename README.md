@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 390 |
+| 🔵 Programmers | 391 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 411 |
+| 🔢 **Total** | 412 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 자동차 대여 기록 별 대여 금액 구하기, Time: , Memory: undefined -BaekjoonHub
+- [level 3] Title: 조건별로 분류하여 주문상태 출력하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 조건별로 분류하여 주문상태 출력하기, Time: , Memory: undefined -BaekjoonHub
 - 폴더구조 변경
 - Time: 23 ms (52.63%), Space: 83.2 MB (63.16%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
