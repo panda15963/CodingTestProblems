@@ -1,5 +1,7 @@
-SELECT a.ANIMAL_ID, a.ANIMAL_TYPE, a.NAME
-FROM ANIMAL_INS a join ANIMAL_OUTS b
-on a.ANIMAL_ID = b.ANIMAL_ID
-WHERE a.SEX_UPON_INTAKE like 'Intact%' and b.SEX_UPON_OUTCOME not like 'Intact%'
-ORDER BY a.ANIMAL_ID;
+SELECT      i.animal_id, i.animal_type, i.name
+FROM        animal_ins i
+JOIN        animal_outs o
+ON          i.animal_id = o.animal_id
+WHERE       i.sex_upon_intake like '%Intact%' 
+and         o.sex_upon_outcome not like '%Intact%' 
+ORDER BY    o.animal_id
