@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 387 |
+| 🔵 Programmers | 388 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 408 |
+| 🔢 **Total** | 409 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 5] Title: 상품을 구매한 회원 비율 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 보호소에서 중성화한 동물, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 보호소에서 중성화한 동물, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 오랜 기간 보호한 동물(1), Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 있었는데요 없었습니다, Time: , Memory: undefined -BaekjoonHub
-- Time: 0 ms (100%), Space: 57.7 MB (32.23%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
