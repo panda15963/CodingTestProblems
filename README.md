@@ -15,11 +15,11 @@
 | 🔢 **Total** | 410 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 17 ms (12.5%), Space: 125.5 MB (5.53%) - LeetHub
 - Update README - Topic Tags
-- Time: 51 ms (22.22%), Space: 84 MB (55.56%) - LeetHub
-- Create README - LeetHub
-- [level 1] Title: 자동차 대여 기록에서 장기/단기 대여 구분하기, Time: , Memory: undefined -BaekjoonHub
-- [level 5] Title: 상품을 구매한 회원 비율 구하기, Time: , Memory: undefined -BaekjoonHub
+- Time: 17 ms (12.5%), Space: 125.5 MB (5.53%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
