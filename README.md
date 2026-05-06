@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 388 |
+| 🔵 Programmers | 389 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 409 |
+| 🔢 **Total** | 410 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 자동차 대여 기록에서 장기/단기 대여 구분하기, Time: , Memory: undefined -BaekjoonHub
 - [level 5] Title: 상품을 구매한 회원 비율 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 보호소에서 중성화한 동물, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 보호소에서 중성화한 동물, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 오랜 기간 보호한 동물(1), Time: , Memory: undefined -BaekjoonHub
-- [level 3] Title: 있었는데요 없었습니다, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
