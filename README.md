@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 391 |
+| 🔵 Programmers | 392 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 412 |
+| 🔢 **Total** | 413 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 자동차 평균 대여 기간 구하기, Time: , Memory: undefined -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 38 ms (100%), Space: 96.8 MB (100%) - LeetHub
 - Updated stats
-- Update README - Topic Tags
-- Time: 5 ms (87.1%), Space: 198.7 MB (61.29%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
