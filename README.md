@@ -15,10 +15,10 @@
 | 🔢 **Total** | 413 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 2] Title: 자동차 평균 대여 기간 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: 자동차 평균 대여 기간 구하기, Time: , Memory: undefined -BaekjoonHub
+- Update README - Topic Tags
+- Time: 252 ms (80.82%), Space: 223.2 MB (52.51%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
+- Updated stats
 - Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
