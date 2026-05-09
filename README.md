@@ -15,11 +15,11 @@
 | 🔢 **Total** | 418 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 2] Title: 카테고리 별 상품 개수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 오랜 기간 보호한 동물(2), Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 중성화 여부 파악하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 이름에 el이 들어가는 동물 찾기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: 루시와 엘라 찾기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
