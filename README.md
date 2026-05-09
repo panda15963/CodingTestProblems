@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 394 |
+| 🔵 Programmers | 395 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 415 |
+| 🔢 **Total** | 416 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 중성화 여부 파악하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 이름에 el이 들어가는 동물 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 루시와 엘라 찾기, Time: , Memory: undefined -BaekjoonHub
 - Update README - Topic Tags
 - Time: 755 ms (30.77%), Space: 128.5 MB (69.23%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
