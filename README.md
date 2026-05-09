@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 395 |
+| 🔵 Programmers | 397 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 416 |
+| 🔢 **Total** | 418 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 카테고리 별 상품 개수 구하기, Time: , Memory: undefined -BaekjoonHub
+- [level 3] Title: 오랜 기간 보호한 동물(2), Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 중성화 여부 파악하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 이름에 el이 들어가는 동물 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 루시와 엘라 찾기, Time: , Memory: undefined -BaekjoonHub
-- Update README - Topic Tags
-- Time: 755 ms (30.77%), Space: 128.5 MB (69.23%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
