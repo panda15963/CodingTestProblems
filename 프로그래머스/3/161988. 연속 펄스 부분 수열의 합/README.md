@@ -1,10 +1,10 @@
 # [level 3] 연속 펄스 부분 수열의 합 - 161988 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161988) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/161988?language=javascript) 
 
 ### 성능 요약
 
-메모리: 86.7 MB, 시간: 21.86 ms
+메모리: 61.2 MB, 시간: 23.83 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 10일 17:29:09
+2026년 05월 10일 17:29:24
 
 ### 문제 설명
 
