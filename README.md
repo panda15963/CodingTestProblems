@@ -15,11 +15,11 @@
 | 🔢 **Total** | 422 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 23 ms (30%), Space: 59.8 MB (60%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 23 ms (38.89%), Space: 59.6 MB (50%) - LeetHub
 - Create README - LeetHub
-- [level 2] Title: 혼자서 하는 틱택토, Time: 0.09 ms, Memory: 74.7 MB -BaekjoonHub
-- [level 1] Title: 대충 만든 자판, Time: 0.86 ms, Memory: 31.9 MB -BaekjoonHub
-- [level 1] Title: 대충 만든 자판, Time: 7.08 ms, Memory: 77.9 MB -BaekjoonHub
-- [level 3] Title: 연속 펄스 부분 수열의 합, Time: 23.83 ms, Memory: 61.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
