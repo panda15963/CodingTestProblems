@@ -15,11 +15,11 @@
 | 🔢 **Total** | 420 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 연속 펄스 부분 수열의 합, Time: 23.83 ms, Memory: 61.2 MB -BaekjoonHub
 - [level 3] Title: 연속 펄스 부분 수열의 합, Time: 21.86 ms, Memory: 86.7 MB -BaekjoonHub
 - [level 1] Title: 덧칠하기, Time: 1.40 ms, Memory: 85.2 MB -BaekjoonHub
 - 폴더구조 변경
 - Time: 2 ms (88.06%), Space: 47.4 MB (52.24%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
