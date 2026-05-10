@@ -15,11 +15,11 @@
 | 🔢 **Total** | 422 |
 
 ## 🥇 Recently Solved (Top 5)
+- 폴더구조 변경
 - [level 2] Title: 혼자서 하는 틱택토, Time: 0.65 ms, Memory: 31.9 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 15 ms (76.79%), Space: 47.1 MB (32.14%) - LeetHub
 - Update README - Topic Tags
-- Time: 23 ms (30%), Space: 59.8 MB (60%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
