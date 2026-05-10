@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 401 |
+| 🔵 Programmers | 402 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 422 |
+| 🔢 **Total** | 423 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 카드 뭉치, Time: 0.02 ms, Memory: 74.9 MB -BaekjoonHub
 - 폴더구조 변경
 - [level 2] Title: 혼자서 하는 틱택토, Time: 0.65 ms, Memory: 31.9 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 15 ms (76.79%), Space: 47.1 MB (32.14%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
