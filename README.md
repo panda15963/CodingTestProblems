@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 397 |
+| 🔵 Programmers | 398 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 418 |
+| 🔢 **Total** | 419 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 덧칠하기, Time: 1.40 ms, Memory: 85.2 MB -BaekjoonHub
 - 폴더구조 변경
 - Time: 2 ms (88.06%), Space: 47.4 MB (52.24%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 64 ms (72.73%), Space: 59 MB (100%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
