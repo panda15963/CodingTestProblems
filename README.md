@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 403 |
+| 🔵 Programmers | 404 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 424 |
+| 🔢 **Total** | 425 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 둘만의 암호, Time: 0.16 ms, Memory: 32.7 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 6 ms (51.38%), Space: 47 MB (15.69%) - LeetHub
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 59.3 MB (57.78%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
