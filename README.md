@@ -15,11 +15,11 @@
 | 🔢 **Total** | 427 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 무인도 여행, Time: 8.72 ms, Memory: 37.5 MB -BaekjoonHub
 - [level 2] Title: 무인도 여행, Time: 4.71 ms, Memory: 66.7 MB -BaekjoonHub
 - [level 2] Title: 호텔 대실, Time: 5.43 ms, Memory: 65.1 MB -BaekjoonHub
 - [level 2] Title: 호텔 대실, Time: 9.25 ms, Memory: 38.4 MB -BaekjoonHub
 - [level 1] Title: 둘만의 암호, Time: 0.16 ms, Memory: 32.7 MB -BaekjoonHub
-- 폴더구조 변경
 
 <!-- DASHBOARD-END -->
 
