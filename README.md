@@ -15,11 +15,11 @@
 | 🔢 **Total** | 424 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 0 ms (100%), Space: 59.3 MB (57.78%) - LeetHub
+- Updated stats
 - Update README - Topic Tags
 - Time: 7 ms (42.86%), Space: 61 MB (42.86%) - LeetHub
 - Create README - LeetHub
-- [level 2] Title: 미로 탈출, Time: 0.00 ms, Memory: 0.0 MB -BaekjoonHub
-- [level 2] Title: 미로 탈출, Time: 142.13 ms, Memory: 34.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
