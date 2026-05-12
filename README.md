@@ -15,11 +15,11 @@
 | 🔢 **Total** | 428 |
 
 ## 🥇 Recently Solved (Top 5)
+- Update README - Topic Tags
+- Time: 46 ms (7.69%), Space: 84.3 MB (76.92%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 23 ms (88.46%), Space: 113.9 MB (67.31%) - LeetHub
-- Create README - LeetHub
-- [level 2] Title: 뒤에 있는 큰 수 찾기, Time: 91.47 ms, Memory: 129 MB -BaekjoonHub
-- [level 2] Title: 뒤에 있는 큰 수 찾기, Time: 28.86 ms, Memory: 156 MB -BaekjoonHub
-- [level 2] Title: 무인도 여행, Time: 8.72 ms, Memory: 37.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
