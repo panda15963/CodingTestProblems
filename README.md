@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 407 |
+| 🔵 Programmers | 408 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 428 |
+| 🔢 **Total** | 429 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 숫자 변환하기, Time: 18.45 ms, Memory: 43.2 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 39 ms (57.14%), Space: 85 MB (71.43%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
