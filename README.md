@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 410 |
+| 🔵 Programmers | 411 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 431 |
+| 🔢 **Total** | 432 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 개인정보 수집 유효기간, Time: 3.14 ms, Memory: 63.4 MB -BaekjoonHub
 - [level 3] Title: 인사고과, Time: 69.02 ms, Memory: 97.4 MB -BaekjoonHub
 - [level 2] Title: 시소 짝꿍, Time: 55.27 ms, Memory: 82.3 MB -BaekjoonHub
 - [level 2] Title: 숫자 변환하기, Time: 18.45 ms, Memory: 43.2 MB -BaekjoonHub
 - 폴더구조 변경
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
