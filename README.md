@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 409 |
+| 🔵 Programmers | 410 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 430 |
+| 🔢 **Total** | 431 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 인사고과, Time: 69.02 ms, Memory: 97.4 MB -BaekjoonHub
 - [level 2] Title: 시소 짝꿍, Time: 55.27 ms, Memory: 82.3 MB -BaekjoonHub
 - [level 2] Title: 숫자 변환하기, Time: 18.45 ms, Memory: 43.2 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
-- Time: 39 ms (57.14%), Space: 85 MB (71.43%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
