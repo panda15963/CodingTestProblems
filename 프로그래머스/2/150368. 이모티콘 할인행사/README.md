@@ -1,10 +1,10 @@
 # [level 2] 이모티콘 할인행사 - 150368 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150368) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150368?language=javascript) 
 
 ### 성능 요약
 
-메모리: 63.9 MB, 시간: 32.52 ms
+메모리: 41 MB, 시간: 42.87 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 14일 06:56:26
+2026년 05월 14일 06:56:54
 
 ### 문제 설명
 
