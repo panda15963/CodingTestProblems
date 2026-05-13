@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 411 |
+| 🔵 Programmers | 412 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 432 |
+| 🔢 **Total** | 433 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 택배 배달과 수거하기, Time: 35.78 ms, Memory: 42.9 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 6 ms (100%), Space: 76.5 MB (47.94%) - LeetHub
 - Update README - Topic Tags
-- Time: 11 ms (90.91%), Space: 67.6 MB (90.91%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
