@@ -15,11 +15,11 @@
 | 🔢 **Total** | 432 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 11 ms (90.91%), Space: 67.6 MB (90.91%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 16 ms (50%), Space: 69.3 MB (87.5%) - LeetHub
 - Create README - LeetHub
-- [level 1] Title: 개인정보 수집 유효기간, Time: 0.44 ms, Memory: 32.8 MB -BaekjoonHub
-- [level 1] Title: 개인정보 수집 유효기간, Time: 3.14 ms, Memory: 63.4 MB -BaekjoonHub
-- [level 3] Title: 인사고과, Time: 69.02 ms, Memory: 97.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
