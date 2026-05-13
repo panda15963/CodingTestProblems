@@ -15,11 +15,11 @@
 | 🔢 **Total** | 436 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 표 병합, Time: 8.56 ms, Memory: 64.9 MB -BaekjoonHub
 - [level 3] Title: 표 병합, Time: 59.18 ms, Memory: 47.2 MB -BaekjoonHub
 - [level 3] Title: 표현 가능한 이진트리, Time: 25.64 ms, Memory: 38.2 MB -BaekjoonHub
 - [level 2] Title: 이모티콘 할인행사, Time: 42.87 ms, Memory: 41 MB -BaekjoonHub
 - [level 2] Title: 이모티콘 할인행사, Time: 32.52 ms, Memory: 63.9 MB -BaekjoonHub
-- [level 2] Title: 택배 배달과 수거하기, Time: 35.78 ms, Memory: 42.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
