@@ -94,6 +94,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/panda15963/CodingTestProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/panda15963/CodingTestProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/panda15963/CodingTestProblems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/panda15963/CodingTestProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/panda15963/CodingTestProblems/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -175,6 +176,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/panda15963/CodingTestProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/panda15963/CodingTestProblems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/2906-construct-product-matrix) |
@@ -220,6 +222,7 @@
 | [0012-integer-to-roman](https://github.com/panda15963/CodingTestProblems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/panda15963/CodingTestProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/panda15963/CodingTestProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/panda15963/CodingTestProblems/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3488-closest-equal-element-queries) |
