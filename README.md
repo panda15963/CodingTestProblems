@@ -15,11 +15,11 @@
 | 🔢 **Total** | 436 |
 
 ## 🥇 Recently Solved (Top 5)
+- 폴더 구조 변경
+- Update README - Topic Tags
 - Time: 2 ms (43.75%), Space: 56.1 MB (62.5%) - LeetHub
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 58.4 MB (18.18%) - LeetHub
-- Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
