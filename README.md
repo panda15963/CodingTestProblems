@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 419 |
+| 🔵 Programmers | 420 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 440 |
+| 🔢 **Total** | 441 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 크기가 작은 부분문자열, Time: 1.70 ms, Memory: 35.4 MB -BaekjoonHub
 - [level 2] Title: 유사 칸토어 비트열, Time: 4.43 ms, Memory: 64.1 MB -BaekjoonHub
 - [level 2] Title: 마법의 엘리베이터, Time: 0.05 ms, Memory: 32.5 MB -BaekjoonHub
 - [level 4] Title: 1,2,3 떨어트리기, Time: 9.43 ms, Memory: 65 MB -BaekjoonHub
 - [level 3] Title: 미로 탈출 명령어, Time: 2.09 ms, Memory: 63.7 MB -BaekjoonHub
-- 폴더 구조 변경
 
 <!-- DASHBOARD-END -->
 
