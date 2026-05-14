@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 417 |
+| 🔵 Programmers | 418 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 438 |
+| 🔢 **Total** | 439 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 마법의 엘리베이터, Time: 0.05 ms, Memory: 32.5 MB -BaekjoonHub
 - [level 4] Title: 1,2,3 떨어트리기, Time: 9.43 ms, Memory: 65 MB -BaekjoonHub
 - [level 3] Title: 미로 탈출 명령어, Time: 2.09 ms, Memory: 63.7 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
-- Time: 2 ms (43.75%), Space: 56.1 MB (62.5%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
