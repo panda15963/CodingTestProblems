@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 415 |
+| 🔵 Programmers | 416 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 436 |
+| 🔢 **Total** | 437 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 미로 탈출 명령어, Time: 2.09 ms, Memory: 63.7 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
 - Time: 2 ms (43.75%), Space: 56.1 MB (62.5%) - LeetHub
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 58.4 MB (18.18%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
