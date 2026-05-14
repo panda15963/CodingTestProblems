@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 416 |
+| 🔵 Programmers | 417 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 437 |
+| 🔢 **Total** | 438 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 1,2,3 떨어트리기, Time: 9.43 ms, Memory: 65 MB -BaekjoonHub
 - [level 3] Title: 미로 탈출 명령어, Time: 2.09 ms, Memory: 63.7 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
 - Time: 2 ms (43.75%), Space: 56.1 MB (62.5%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
