@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 421 |
+| 🔵 Programmers | 422 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 442 |
+| 🔢 **Total** | 443 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 디펜스 게임, Time: 111.60 ms, Memory: 74.1 MB -BaekjoonHub
 - [level 2] Title: 테이블 해시 함수, Time: 7.76 ms, Memory: 117 MB -BaekjoonHub
 - [level 1] Title: 크기가 작은 부분문자열, Time: 3.70 ms, Memory: 60.7 MB -BaekjoonHub
 - [level 1] Title: 크기가 작은 부분문자열, Time: 1.70 ms, Memory: 35.4 MB -BaekjoonHub
 - [level 2] Title: 유사 칸토어 비트열, Time: 4.43 ms, Memory: 64.1 MB -BaekjoonHub
-- [level 2] Title: 마법의 엘리베이터, Time: 0.05 ms, Memory: 32.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
