@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 423 |
+| 🔵 Programmers | 424 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 444 |
+| 🔢 **Total** | 445 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 점 찍기, Time: 6.06 ms, Memory: 35.9 MB -BaekjoonHub
 - [level 1] Title: 문자열 나누기, Time: 0.39 ms, Memory: 61.3 MB -BaekjoonHub
 - [level 2] Title: 디펜스 게임, Time: 70.92 ms, Memory: 115 MB -BaekjoonHub
 - [level 2] Title: 디펜스 게임, Time: 111.60 ms, Memory: 74.1 MB -BaekjoonHub
 - [level 2] Title: 테이블 해시 함수, Time: 7.76 ms, Memory: 117 MB -BaekjoonHub
-- [level 1] Title: 크기가 작은 부분문자열, Time: 3.70 ms, Memory: 60.7 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
