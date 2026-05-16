@@ -1,10 +1,10 @@
 # [level 2] 디펜스 게임 - 142085 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142085) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142085?language=java) 
 
 ### 성능 요약
 
-메모리: 74.1 MB, 시간: 111.60 ms
+메모리: 115 MB, 시간: 70.92 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 16일 10:33:32
+2026년 05월 16일 10:34:04
 
 ### 문제 설명
 
