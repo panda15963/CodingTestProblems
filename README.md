@@ -88,6 +88,7 @@
 | [0016-3sum-closest](https://github.com/panda15963/CodingTestProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/panda15963/CodingTestProblems/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -274,6 +275,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/panda15963/CodingTestProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3488-closest-equal-element-queries) |
