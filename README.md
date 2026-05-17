@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 427 |
+| 🔵 Programmers | 429 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 448 |
+| 🔢 **Total** | 450 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 숫자 타자 대회, Time: 233.37 ms, Memory: 205 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- [level 1] Title: 기사단원의 무기, Time: 39.46 ms, Memory: 60.8 MB -BaekjoonHub
+- Update README - Topic Tags
 - Time: 10 ms (22.65%), Space: 48.5 MB (85.73%) - LeetHub
-- Update README - Topic Tags
-- Time: 8 ms (52.03%), Space: 61.3 MB (69.92%) - LeetHub
-- Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
