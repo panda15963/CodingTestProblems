@@ -15,11 +15,11 @@
 | 🔢 **Total** | 448 |
 
 ## 🥇 Recently Solved (Top 5)
+- Update README - Topic Tags
+- Time: 9 ms (54.17%), Space: 64.2 MB (56.25%) - LeetHub
+- Create README - LeetHub
 - [level 3] Title: 억억단을 외우자, Time: 185.60 ms, Memory: 127 MB -BaekjoonHub
 - [level 2] Title: 귤 고르기, Time: 58.48 ms, Memory: 63.6 MB -BaekjoonHub
-- [level 2] Title: 귤 고르기, Time: 40.44 ms, Memory: 75.4 MB -BaekjoonHub
-- [level 1] Title: 명예의 전당 (1), Time: 2.26 ms, Memory: 36.6 MB -BaekjoonHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
