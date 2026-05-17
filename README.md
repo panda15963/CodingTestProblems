@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 429 |
+| 🔵 Programmers | 430 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 450 |
+| 🔢 **Total** | 451 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 과일 장수, Time: 32.18 ms, Memory: 107 MB -BaekjoonHub
 - [level 3] Title: 숫자 타자 대회, Time: 233.37 ms, Memory: 205 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - [level 1] Title: 기사단원의 무기, Time: 39.46 ms, Memory: 60.8 MB -BaekjoonHub
 - Update README - Topic Tags
-- Time: 10 ms (22.65%), Space: 48.5 MB (85.73%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
