@@ -9,17 +9,17 @@
 
 | Platform | Count |
 |----------|-------|
-| 🟡 LeetCode | 20 |
-| 🔵 Programmers | 424 |
+| 🟡 LeetCode | 19 |
+| 🔵 Programmers | 425 |
 | 🟢 Baekjoon | 2 |
 | 🔢 **Total** | 446 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 명예의 전당 (1), Time: 2.26 ms, Memory: 36.6 MB -BaekjoonHub
+- Update README - Topic Tags
 - Time: 0 ms (100%), Space: 55.7 MB (57.81%) - LeetHub
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 53.6 MB (83.21%) - LeetHub
-- Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
