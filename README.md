@@ -15,11 +15,11 @@
 | 🔢 **Total** | 448 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 8 ms (52.03%), Space: 61.3 MB (69.92%) - LeetHub
+- Updated stats
 - Update README - Topic Tags
 - Time: 9 ms (54.17%), Space: 64.2 MB (56.25%) - LeetHub
 - Create README - LeetHub
-- [level 3] Title: 억억단을 외우자, Time: 185.60 ms, Memory: 127 MB -BaekjoonHub
-- [level 2] Title: 귤 고르기, Time: 58.48 ms, Memory: 63.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
