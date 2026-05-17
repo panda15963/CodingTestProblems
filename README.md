@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 430 |
+| 🔵 Programmers | 431 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 451 |
+| 🔢 **Total** | 452 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 숫자 카드 나누기, Time: 11.39 ms, Memory: 78.3 MB -BaekjoonHub
 - [level 1] Title: 과일 장수, Time: 32.18 ms, Memory: 107 MB -BaekjoonHub
 - [level 3] Title: 숫자 타자 대회, Time: 233.37 ms, Memory: 205 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - [level 1] Title: 기사단원의 무기, Time: 39.46 ms, Memory: 60.8 MB -BaekjoonHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
