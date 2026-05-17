@@ -15,11 +15,11 @@
 | 🔢 **Total** | 447 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 귤 고르기, Time: 58.48 ms, Memory: 63.6 MB -BaekjoonHub
 - [level 2] Title: 귤 고르기, Time: 40.44 ms, Memory: 75.4 MB -BaekjoonHub
 - [level 1] Title: 명예의 전당 (1), Time: 2.26 ms, Memory: 36.6 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 55.7 MB (57.81%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
