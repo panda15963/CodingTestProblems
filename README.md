@@ -15,11 +15,11 @@
 | 🔢 **Total** | 453 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 푸드 파이트 대회, Time: 0.06 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 1] Title: 푸드 파이트 대회, Time: 2.13 ms, Memory: 62.2 MB -BaekjoonHub
 - [level 2] Title: 숫자 카드 나누기, Time: 14.37 ms, Memory: 109 MB -BaekjoonHub
 - [level 2] Title: 숫자 카드 나누기, Time: 11.39 ms, Memory: 78.3 MB -BaekjoonHub
 - [level 1] Title: 과일 장수, Time: 32.18 ms, Memory: 107 MB -BaekjoonHub
-- [level 3] Title: 숫자 타자 대회, Time: 233.37 ms, Memory: 205 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
