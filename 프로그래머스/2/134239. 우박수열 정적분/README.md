@@ -1,10 +1,10 @@
 # [level 2] 우박수열 정적분 - 134239 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/134239) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/134239?language=java) 
 
 ### 성능 요약
 
-메모리: 40.6 MB, 시간: 3.38 ms
+메모리: 69.2 MB, 시간: 0.53 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 18일 06:28:23
+2026년 05월 18일 06:28:47
 
 ### 문제 설명
 
