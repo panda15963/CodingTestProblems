@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 433 |
+| 🔵 Programmers | 435 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 454 |
+| 🔢 **Total** | 456 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 등대, Time: 27.72 ms, Memory: 92.8 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- [level 1] Title: 햄버거 만들기, Time: 31.91 ms, Memory: 115 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 52 ms (71.97%), Space: 79.8 MB (72.57%) - LeetHub
-- Update README - Topic Tags
-- Time: 113 ms (62.79%), Space: 92.6 MB (51.16%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
