@@ -15,11 +15,11 @@
 | 🔢 **Total** | 461 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 삼총사, Time: 0.14 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 1] Title: 삼총사, Time: 0.04 ms, Memory: 60.4 MB -BaekjoonHub
 - [level 2] Title: 롤케이크 자르기, Time: 13.93 ms, Memory: 106 MB -BaekjoonHub
 - [level 2] Title: 롤케이크 자르기, Time: 98.06 ms, Memory: 70.4 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- [level 3] Title: 부대복귀, Time: 71.07 ms, Memory: 156 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
