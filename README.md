@@ -15,11 +15,11 @@
 | 🔢 **Total** | 458 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 1 ms (91.83%), Space: 63.4 MB (49.52%) - LeetHub
+- Updated stats
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 64.2 MB (48.39%) - LeetHub
 - Create README - LeetHub
-- [level 1] Title: 콜라 문제, Time: 0.06 ms, Memory: 65.5 MB -BaekjoonHub
-- [level 1] Title: 콜라 문제, Time: 0.24 ms, Memory: 32.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
