@@ -15,11 +15,11 @@
 | 🔢 **Total** | 464 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 고고학 최고의 발견, Time: 101.34 ms, Memory: 40.4 MB -BaekjoonHub
 - [level 3] Title: 고고학 최고의 발견, Time: 69.51 ms, Memory: 89.5 MB -BaekjoonHub
 - [level 3] Title: 2차원 동전 뒤집기, Time: 0.59 ms, Memory: 63.2 MB -BaekjoonHub
 - [level 3] Title: 2차원 동전 뒤집기, Time: 1.80 ms, Memory: 33.4 MB -BaekjoonHub
 - 폴더구조 변경
-- Time: 3 ms (88.24%), Space: 61.4 MB (70.59%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
