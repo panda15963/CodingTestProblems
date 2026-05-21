@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 446 |
+| 🔵 Programmers | 447 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 467 |
+| 🔢 **Total** | 468 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 숫자 짝꿍, Time: 44.07 ms, Memory: 129 MB -BaekjoonHub
 - [level 3] Title: 카운트 다운, Time: 0.56 ms, Memory: 61 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 78 ms (88.57%), Space: 74.3 MB (97.14%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
