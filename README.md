@@ -15,11 +15,11 @@
 | 🔢 **Total** | 466 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 70 ms (49.37%), Space: 80.5 MB (73.48%) - LeetHub
+- Create README - LeetHub
 - [level 2] Title: 혼자 놀기의 달인, Time: 0.24 ms, Memory: 61.6 MB -BaekjoonHub
 - [level 2] Title: 혼자 놀기의 달인, Time: 0.15 ms, Memory: 32.4 MB -BaekjoonHub
 - [level 2] Title: 연속 부분 수열 합의 개수, Time: 49.85 ms, Memory: 57.3 MB -BaekjoonHub
-- [level 2] Title: 연속 부분 수열 합의 개수, Time: 179.58 ms, Memory: 100 MB -BaekjoonHub
-- [level 3] Title: 고고학 최고의 발견, Time: 101.34 ms, Memory: 40.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
