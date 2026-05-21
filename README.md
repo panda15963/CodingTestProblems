@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 445 |
+| 🔵 Programmers | 446 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 466 |
+| 🔢 **Total** | 467 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 카운트 다운, Time: 0.56 ms, Memory: 61 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 78 ms (88.57%), Space: 74.3 MB (97.14%) - LeetHub
 - Update README - Topic Tags
-- Time: 78 ms (83.33%), Space: 73.8 MB (87.5%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
