@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 19 |
-| 🔵 Programmers | 447 |
+| 🔵 Programmers | 448 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 468 |
+| 🔢 **Total** | 469 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 할인 행사, Time: 13.29 ms, Memory: 40.3 MB -BaekjoonHub
 - [level 1] Title: 숫자 짝꿍, Time: 44.07 ms, Memory: 129 MB -BaekjoonHub
 - [level 3] Title: 카운트 다운, Time: 0.56 ms, Memory: 61 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 78 ms (88.57%), Space: 74.3 MB (97.14%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
