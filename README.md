@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 449 |
+| 🔵 Programmers | 450 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 471 |
+| 🔢 **Total** | 472 |
 
 ## 🥇 Recently Solved (Top 5)
-- Time: 0 ms (100%), Space: 53.3 MB (86.78%) - LeetHub
-- Updated stats
+- [level 3] Title: 등산코스 정하기, Time: 188.91 ms, Memory: 151 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 43.6 MB (80.27%) - LeetHub
-- Create README - LeetHub
+- Time: 0 ms (100%), Space: 55.4 MB (65.47%) - LeetHub
+- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
