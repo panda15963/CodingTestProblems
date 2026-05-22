@@ -15,11 +15,11 @@
 | 🔢 **Total** | 472 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 등산코스 정하기, Time: 81.87 ms, Memory: 131 MB -BaekjoonHub
 - [level 3] Title: 등산코스 정하기, Time: 188.91 ms, Memory: 151 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 55.4 MB (65.47%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
