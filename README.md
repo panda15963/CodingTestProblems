@@ -15,11 +15,11 @@
 | 🔢 **Total** | 475 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 1] Title: 성격 유형 검사하기, Time: 0.28 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 1] Title: 성격 유형 검사하기, Time: 0.50 ms, Memory: 63.4 MB -BaekjoonHub
 - [level 2] Title: 두 큐 합 같게 만들기, Time: 18.58 ms, Memory: 61 MB -BaekjoonHub
 - [level 3] Title: 코딩 테스트 공부, Time: 16.02 ms, Memory: 56.9 MB -BaekjoonHub
-- [level 3] Title: 등산코스 정하기, Time: 81.87 ms, Memory: 131 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
