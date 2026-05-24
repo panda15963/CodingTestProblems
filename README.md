@@ -15,11 +15,11 @@
 | 🔢 **Total** | 475 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 기차 선로, Time: 28.25 ms, Memory: 38.7 MB -BaekjoonHub
 - [level 0] Title: a와 b 출력하기, Time: 38.39 ms, Memory: 31.3 MB -BaekjoonHub
 - [level 0] Title: a와 b 출력하기, Time: 113.21 ms, Memory: 61.3 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 55.4 MB (48.33%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
