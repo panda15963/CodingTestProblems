@@ -15,11 +15,11 @@
 | 🔢 **Total** | 475 |
 
 ## 🥇 Recently Solved (Top 5)
-- Time: 0 ms (100%), Space: 53 MB (85.1%) - LeetHub
-- Updated stats
+- [level 0] Title: a와 b 출력하기, Time: 113.21 ms, Memory: 61.3 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 43.1 MB (26.54%) - LeetHub
-- Create README - LeetHub
+- Time: 0 ms (100%), Space: 55.4 MB (48.33%) - LeetHub
+- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
