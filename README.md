@@ -15,11 +15,11 @@
 | 🔢 **Total** | 475 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 두 수의 연산값 비교하기, Time: 7.35 ms, Memory: 60.7 MB -BaekjoonHub
 - [level 0] Title: 더 크게 합치기, Time: 1.26 ms, Memory: 59.5 MB -BaekjoonHub
 - [level 0] Title: 더 크게 합치기, Time: 0.05 ms, Memory: 32.5 MB -BaekjoonHub
 - [level 0] Title: 문자열 곱하기, Time: 0.02 ms, Memory: 66.7 MB -BaekjoonHub
 - [level 0] Title: 문자 리스트를 문자열로 변환하기, Time: 0.02 ms, Memory: 32.7 MB -BaekjoonHub
-- [level 0] Title: 문자 리스트를 문자열로 변환하기, Time: 0.43 ms, Memory: 62.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
