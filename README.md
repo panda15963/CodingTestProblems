@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 453 |
+| 🔵 Programmers | 454 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 475 |
+| 🔢 **Total** | 476 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 카카오프렌즈 컬러링북, Time: 6.67 ms, Memory: 67.6 MB -BaekjoonHub
 - [level 0] Title: 두 수의 연산값 비교하기, Time: 0.06 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 두 수의 연산값 비교하기, Time: 7.35 ms, Memory: 60.7 MB -BaekjoonHub
 - [level 0] Title: 더 크게 합치기, Time: 1.26 ms, Memory: 59.5 MB -BaekjoonHub
 - [level 0] Title: 더 크게 합치기, Time: 0.05 ms, Memory: 32.5 MB -BaekjoonHub
-- [level 0] Title: 문자열 곱하기, Time: 0.02 ms, Memory: 66.7 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
