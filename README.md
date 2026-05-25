@@ -15,11 +15,11 @@
 | 🔢 **Total** | 475 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자열 섞기, Time: 0.04 ms, Memory: 63.3 MB -BaekjoonHub
 - [level 0] Title: 문자열 섞기, Time: 0.05 ms, Memory: 32.8 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 23 ms (42.11%), Space: 67.5 MB (31.58%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
