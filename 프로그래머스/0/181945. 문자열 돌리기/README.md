@@ -1,10 +1,10 @@
 # [level 0] 문자열 돌리기 - 181945 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181945?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181945) 
 
 ### 성능 요약
 
-메모리: 78.4 MB, 시간: 188.78 ms
+메모리: 31.1 MB, 시간: 32.59 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 01일 10:08:48
+2026년 05월 25일 09:08:18
 
 ### 문제 설명
 
