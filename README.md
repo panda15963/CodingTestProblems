@@ -15,11 +15,11 @@
 | 🔢 **Total** | 475 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자 리스트를 문자열로 변환하기, Time: 0.02 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 문자 리스트를 문자열로 변환하기, Time: 0.43 ms, Memory: 62.3 MB -BaekjoonHub
 - [level 0] Title: 문자열 섞기, Time: 0.04 ms, Memory: 63.3 MB -BaekjoonHub
 - [level 0] Title: 문자열 섞기, Time: 0.05 ms, Memory: 32.8 MB -BaekjoonHub
 - 폴더구조 변경
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
