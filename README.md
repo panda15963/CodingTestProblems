@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 454 |
+| 🔵 Programmers | 455 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 476 |
+| 🔢 **Total** | 477 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 브라이언의 고민, Time: 17.99 ms, Memory: 70.1 MB -BaekjoonHub
 - [level 2] Title: 카카오프렌즈 컬러링북, Time: 6.67 ms, Memory: 67.6 MB -BaekjoonHub
 - [level 0] Title: 두 수의 연산값 비교하기, Time: 0.06 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 두 수의 연산값 비교하기, Time: 7.35 ms, Memory: 60.7 MB -BaekjoonHub
 - [level 0] Title: 더 크게 합치기, Time: 1.26 ms, Memory: 59.5 MB -BaekjoonHub
-- [level 0] Title: 더 크게 합치기, Time: 0.05 ms, Memory: 32.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
