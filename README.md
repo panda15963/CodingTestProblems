@@ -15,11 +15,11 @@
 | 🔢 **Total** | 475 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자열 붙여서 출력하기, Time: 36.92 ms, Memory: 31.6 MB -BaekjoonHub
 - [level 0] Title: 덧셈식 출력하기, Time: 43.65 ms, Memory: 31.2 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 22 ms (60.87%), Space: 57.9 MB (91.3%) - LeetHub
 - Update README - Topic Tags
-- Time: 22 ms (60.87%), Space: 57.9 MB (91.3%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
