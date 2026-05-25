@@ -15,11 +15,11 @@
 | 🔢 **Total** | 475 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 0] Title: 문자열 겹쳐쓰기, Time: 0.05 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 0] Title: 문자열 돌리기, Time: 32.59 ms, Memory: 31.1 MB -BaekjoonHub
 - [level 0] Title: 문자열 붙여서 출력하기, Time: 36.92 ms, Memory: 31.6 MB -BaekjoonHub
 - [level 0] Title: 덧셈식 출력하기, Time: 43.65 ms, Memory: 31.2 MB -BaekjoonHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
