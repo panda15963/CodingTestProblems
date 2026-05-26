@@ -15,11 +15,11 @@
 | 🔢 **Total** | 477 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 공배수, Time: 0.03 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 0] Title: n의 배수, Time: 0.04 ms, Memory: 33 MB -BaekjoonHub
 - [level 0] Title: n의 배수, Time: 0.01 ms, Memory: 62 MB -BaekjoonHub
 - 폴더 구조 변경
 - Update README - Topic Tags
-- Time: 2 ms (48.76%), Space: 43.6 MB (81.71%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
