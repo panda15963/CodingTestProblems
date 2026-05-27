@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 456 |
+| 🔵 Programmers | 457 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 478 |
+| 🔢 **Total** | 479 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 힌트 스테이지, Time: 16.60 ms, Memory: 63.3 MB -BaekjoonHub
 - [level 0] Title: 이어 붙인 수, Time: 0.06 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 0] Title: 원소들의 곱과 합, Time: 0.02 ms, Memory: 63 MB -BaekjoonHub
 - [level 0] Title: 원소들의 곱과 합, Time: 0.05 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 0] Title: 주사위 게임 2, Time: 0.11 ms, Memory: 61.5 MB -BaekjoonHub
-- [level 0] Title: 주사위 게임 2, Time: 0.06 ms, Memory: 32.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
