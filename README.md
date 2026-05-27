@@ -15,11 +15,11 @@
 | 🔢 **Total** | 478 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 등차수열의 특정한 항만 더하기, Time: 0.02 ms, Memory: 63.9 MB -BaekjoonHub
 - [level 0] Title: 코드 처리하기, Time: 6.21 ms, Memory: 38.6 MB -BaekjoonHub
 - [level 0] Title: 코드 처리하기, Time: 3.21 ms, Memory: 62.4 MB -BaekjoonHub
 - 폴더구조 변경
 - Time: 88 ms (65.22%), Space: 62 MB (82.61%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
