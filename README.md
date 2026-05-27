@@ -15,11 +15,11 @@
 | 🔢 **Total** | 478 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 코드 처리하기, Time: 6.21 ms, Memory: 38.6 MB -BaekjoonHub
+- [level 0] Title: 코드 처리하기, Time: 3.21 ms, Memory: 62.4 MB -BaekjoonHub
 - 폴더구조 변경
 - Time: 88 ms (65.22%), Space: 62 MB (82.61%) - LeetHub
 - Update README - Topic Tags
-- Time: 64 ms (100%), Space: 63.2 MB (85.71%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
