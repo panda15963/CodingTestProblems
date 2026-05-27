@@ -15,11 +15,11 @@
 | 🔢 **Total** | 478 |
 
 ## 🥇 Recently Solved (Top 5)
+- Update README - Topic Tags
+- Time: 64 ms (100%), Space: 63.2 MB (85.71%) - LeetHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Updated stats
 - Update README - Topic Tags
-- Time: 8 ms (97.11%), Space: 47.9 MB (85.54%) - LeetHub
-- Create README - LeetHub
-- [level 3] Title: 보물 찾기, Time: 25.20 ms, Memory: 45.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
