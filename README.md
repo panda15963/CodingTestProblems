@@ -15,11 +15,11 @@
 | 🔢 **Total** | 479 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 수 조작하기 1, Time: 3.81 ms, Memory: 60.7 MB -BaekjoonHub
 - [level 0] Title: 마지막 두 원소, Time: 0.03 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 마지막 두 원소, Time: 0.01 ms, Memory: 60.2 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
-- Time: 1555 ms (50%), Space: 253 MB (20%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
