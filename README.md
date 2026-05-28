@@ -15,11 +15,11 @@
 | 🔢 **Total** | 479 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 마지막 두 원소, Time: 0.01 ms, Memory: 60.2 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 1555 ms (50%), Space: 253 MB (20%) - LeetHub
 - Update README - Topic Tags
-- Time: 184 ms (15.47%), Space: 284.8 MB (9.94%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
