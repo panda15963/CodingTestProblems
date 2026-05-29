@@ -15,11 +15,11 @@
 | 🔢 **Total** | 479 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 0] Title: 수열과 구간 쿼리 2, Time: 2.22 ms, Memory: 62.4 MB -BaekjoonHub
-- [level 0] Title: 수열과 구간 쿼리 3, Time: 0.34 ms, Memory: 33.2 MB -BaekjoonHub
-- [level 0] Title: 수 조작하기 2, Time: 4.52 ms, Memory: 67.7 MB -BaekjoonHub
-- [level 0] Title: 수 조작하기 1, Time: 5.18 ms, Memory: 37.2 MB -BaekjoonHub
+- Update README - Topic Tags
+- Time: 90 ms (9.01%), Space: 45 MB (27.04%) - LeetHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- Update README - Topic Tags
+- Time: 2 ms (54.12%), Space: 56.1 MB (63.53%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
