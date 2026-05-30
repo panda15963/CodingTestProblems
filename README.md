@@ -15,11 +15,11 @@
 | 🔢 **Total** | 480 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 배열 만들기 4, Time: 3.07 ms, Memory: 37.3 MB -BaekjoonHub
 - [level 0] Title: 콜라츠 수열 만들기, Time: 0.24 ms, Memory: 61.5 MB -BaekjoonHub
 - [level 0] Title: 카운트 업, Time: 0.04 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 0] Title: 배열 만들기 2, Time: 214.91 ms, Memory: 361 MB -BaekjoonHub
 - [level 0] Title: 수열과 구간 쿼리 4, Time: 1.16 ms, Memory: 62.4 MB -BaekjoonHub
-- [level 0] Title: 수열과 구간 쿼리 4, Time: 3.67 ms, Memory: 36.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
