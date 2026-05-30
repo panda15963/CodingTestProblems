@@ -15,11 +15,11 @@
 | 🔢 **Total** | 480 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 1480 ms (28.57%), Space: 112.6 MB (85.71%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 431 ms (50%), Space: 282.1 MB (53%) - LeetHub
 - Create README - LeetHub
-- [level 3] Title: 발전소 회로 복구, Time: 5583.14 ms, Memory: 98.1 MB -BaekjoonHub
-- [level 0] Title: 배열 만들기 4, Time: 3.07 ms, Memory: 37.3 MB -BaekjoonHub
-- [level 0] Title: 콜라츠 수열 만들기, Time: 0.24 ms, Memory: 61.5 MB -BaekjoonHub
-- [level 0] Title: 카운트 업, Time: 0.04 ms, Memory: 32.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
