@@ -15,11 +15,11 @@
 | 🔢 **Total** | 479 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 배열 만들기 2, Time: 214.91 ms, Memory: 361 MB -BaekjoonHub
 - [level 0] Title: 수열과 구간 쿼리 4, Time: 1.16 ms, Memory: 62.4 MB -BaekjoonHub
 - [level 0] Title: 수열과 구간 쿼리 4, Time: 3.67 ms, Memory: 36.1 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 90 ms (9.01%), Space: 45 MB (27.04%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
