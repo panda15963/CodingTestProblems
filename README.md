@@ -15,11 +15,11 @@
 | 🔢 **Total** | 480 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 글자 이어 붙여 문자열 만들기, Time: 0.07 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 주사위 게임 3, Time: 0.07 ms, Memory: 32.5 MB -BaekjoonHub
 - [level 0] Title: 간단한 논리 연산, Time: 0.04 ms, Memory: 32.7 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
-- Time: 1480 ms (28.57%), Space: 112.6 MB (85.71%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
