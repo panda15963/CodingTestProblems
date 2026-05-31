@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 글자 지우기, Time: 0.07 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: 배열 만들기 1, Time: 0.14 ms, Memory: 36.6 MB -BaekjoonHub
 - [level 0] Title: 배열 만들기 1, Time: 0.05 ms, Memory: 62.7 MB -BaekjoonHub
 - [level 0] Title: 문자 개수 세기, Time: 0.23 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: qr code, Time: 0.08 ms, Memory: 65.2 MB -BaekjoonHub
-- [level 0] Title: 세로 읽기, Time: 0.09 ms, Memory: 32.7 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
