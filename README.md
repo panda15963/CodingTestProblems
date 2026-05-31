@@ -15,11 +15,11 @@
 | 🔢 **Total** | 480 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 배열 만들기 5, Time: 1.41 ms, Memory: 40.4 MB -BaekjoonHub
 - [level 3] Title: 카카오 앱 정리하기, Time: 31.77 ms, Memory: 40.5 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 88 ms (78.95%), Space: 73.7 MB (71.93%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
