@@ -15,11 +15,11 @@
 | 🔢 **Total** | 480 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 노란불 신호등, Time: 14.53 ms, Memory: 36.4 MB -BaekjoonHub
 - [level 0] Title: 접미사인지 확인하기, Time: 0.03 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 0] Title: 접미사 배열, Time: 1.66 ms, Memory: 64.3 MB -BaekjoonHub
 - [level 0] Title: 문자열의 뒤의 n글자, Time: 0.02 ms, Memory: 63.8 MB -BaekjoonHub
 - [level 0] Title: 문자열의 뒤의 n글자, Time: 0.03 ms, Memory: 32.3 MB -BaekjoonHub
-- [level 0] Title: 부분 문자열 이어 붙여 문자열 만들기, Time: 0.13 ms, Memory: 32.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
