@@ -15,11 +15,11 @@
 | 🔢 **Total** | 480 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자열의 뒤의 n글자, Time: 0.03 ms, Memory: 32.3 MB -BaekjoonHub
 - [level 0] Title: 부분 문자열 이어 붙여 문자열 만들기, Time: 0.13 ms, Memory: 32.5 MB -BaekjoonHub
 - [level 0] Title: 부분 문자열 이어 붙여 문자열 만들기, Time: 0.10 ms, Memory: 61.4 MB -BaekjoonHub
 - [level 0] Title: 배열 만들기 5, Time: 6.27 ms, Memory: 75.6 MB -BaekjoonHub
 - [level 0] Title: 배열 만들기 5, Time: 1.41 ms, Memory: 40.4 MB -BaekjoonHub
-- [level 3] Title: 카카오 앱 정리하기, Time: 31.77 ms, Memory: 40.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
