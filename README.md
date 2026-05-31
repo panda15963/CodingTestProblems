@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 가까운 1 찾기, Time: 0.03 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: 카운트 다운, Time: 0.04 ms, Memory: 32.9 MB -BaekjoonHub
 - [level 0] Title: 카운트 다운, Time: 0.01 ms, Memory: 64.2 MB -BaekjoonHub
 - [level 0] Title: 글자 지우기, Time: 0.07 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: 배열 만들기 1, Time: 0.14 ms, Memory: 36.6 MB -BaekjoonHub
-- [level 0] Title: 배열 만들기 1, Time: 0.05 ms, Memory: 62.7 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
