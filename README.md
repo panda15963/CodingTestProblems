@@ -15,11 +15,11 @@
 | 🔢 **Total** | 480 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 9로 나눈 나머지, Time: 3.34 ms, Memory: 59.9 MB -BaekjoonHub
 - [level 0] Title: 9로 나눈 나머지, Time: 2.56 ms, Memory: 36.7 MB -BaekjoonHub
 - [level 0] Title: 글자 이어 붙여 문자열 만들기, Time: 0.07 ms, Memory: 58.9 MB -BaekjoonHub
 - [level 0] Title: 글자 이어 붙여 문자열 만들기, Time: 0.07 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 주사위 게임 3, Time: 0.07 ms, Memory: 32.5 MB -BaekjoonHub
-- [level 0] Title: 간단한 논리 연산, Time: 0.04 ms, Memory: 32.7 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
