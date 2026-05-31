@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 접두사인지 확인하기, Time: 0.03 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: 접두사인지 확인하기, Time: 0.02 ms, Memory: 62.8 MB -BaekjoonHub
 - [level 0] Title: 문자열의 앞의 n글자, Time: 0.01 ms, Memory: 62.7 MB -BaekjoonHub
 - [level 0] Title: 문자열의 앞의 n글자, Time: 0.02 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 3] Title: 숫자 야구, Time: 896.39 ms, Memory: 49.7 MB -BaekjoonHub
-- [level 3] Title: 숫자 야구, Time: 561.28 ms, Memory: 363 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
