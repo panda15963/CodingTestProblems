@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 458 |
+| 🔵 Programmers | 459 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 480 |
+| 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자열의 앞의 n글자, Time: 0.02 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 3] Title: 숫자 야구, Time: 896.39 ms, Memory: 49.7 MB -BaekjoonHub
 - [level 3] Title: 숫자 야구, Time: 561.28 ms, Memory: 363 MB -BaekjoonHub
 - [level 1] Title: 노란불 신호등, Time: 14.53 ms, Memory: 36.4 MB -BaekjoonHub
 - [level 0] Title: 접미사인지 확인하기, Time: 0.03 ms, Memory: 32.6 MB -BaekjoonHub
-- [level 0] Title: 접미사 배열, Time: 1.66 ms, Memory: 64.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
