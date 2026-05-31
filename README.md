@@ -15,11 +15,11 @@
 | 🔢 **Total** | 480 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 96 ms (16.67%), Space: 75.6 MB (8.33%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 26 ms (81.52%), Space: 107.5 MB (30.95%) - LeetHub
 - Create README - LeetHub
-- [level 0] Title: 9로 나눈 나머지, Time: 3.34 ms, Memory: 59.9 MB -BaekjoonHub
-- [level 0] Title: 9로 나눈 나머지, Time: 2.56 ms, Memory: 36.7 MB -BaekjoonHub
-- [level 0] Title: 글자 이어 붙여 문자열 만들기, Time: 0.07 ms, Memory: 58.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
