@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: qr code, Time: 0.08 ms, Memory: 65.2 MB -BaekjoonHub
 - [level 0] Title: 세로 읽기, Time: 0.09 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 문자열 뒤집기, Time: 0.09 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 문자열 뒤집기, Time: 8.93 ms, Memory: 62.1 MB -BaekjoonHub
 - [level 0] Title: 접두사인지 확인하기, Time: 0.03 ms, Memory: 32.8 MB -BaekjoonHub
-- [level 0] Title: 접두사인지 확인하기, Time: 0.02 ms, Memory: 62.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
