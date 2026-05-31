@@ -1,10 +1,10 @@
 # [level 3] 카카오 앱 정리하기 - 468374 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/468374?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/468374?language=javascript) 
 
 ### 성능 요약
 
-메모리: 117 MB, 시간: 48.78 ms
+메모리: 40.5 MB, 시간: 31.77 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 02일 07:01:09
+2026년 05월 31일 19:36:43
 
 ### 문제 설명
 
