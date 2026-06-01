@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 왼쪽 오른쪽, Time: 0.02 ms, Memory: 66.1 MB -BaekjoonHub
 - [level 0] Title: 왼쪽 오른쪽, Time: 0.04 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 0] Title: 순서 바꾸기, Time: 0.02 ms, Memory: 67.6 MB -BaekjoonHub
 - [level 0] Title: n 번째 원소부터, Time: 0.02 ms, Memory: 64.5 MB -BaekjoonHub
 - [level 0] Title: n 번째 원소부터, Time: 0.02 ms, Memory: 32.9 MB -BaekjoonHub
-- [level 0] Title: 배열 조각하기, Time: 1.60 ms, Memory: 35.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
