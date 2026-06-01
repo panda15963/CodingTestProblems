@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 2 ms (53.33%), Space: 54.5 MB (100%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 6 ms (41.78%), Space: 44.6 MB (51.02%) - LeetHub
 - Create README - LeetHub
-- [level 0] Title: 가까운 1 찾기, Time: 0.03 ms, Memory: 32.8 MB -BaekjoonHub
-- [level 0] Title: 카운트 다운, Time: 0.04 ms, Memory: 32.9 MB -BaekjoonHub
-- [level 0] Title: 카운트 다운, Time: 0.01 ms, Memory: 64.2 MB -BaekjoonHub
-- [level 0] Title: 글자 지우기, Time: 0.07 ms, Memory: 32.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
