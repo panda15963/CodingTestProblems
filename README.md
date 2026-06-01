@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: n 번째 원소부터, Time: 0.02 ms, Memory: 64.5 MB -BaekjoonHub
+- [level 0] Title: n 번째 원소부터, Time: 0.02 ms, Memory: 32.9 MB -BaekjoonHub
 - [level 0] Title: 배열 조각하기, Time: 1.60 ms, Memory: 35.8 MB -BaekjoonHub
 - [level 0] Title: 배열 조각하기, Time: 152.59 ms, Memory: 70.2 MB -BaekjoonHub
 - [level 0] Title: 2의 영역, Time: 2.38 ms, Memory: 38.6 MB -BaekjoonHub
-- [level 0] Title: 배열 만들기 3, Time: 3.93 ms, Memory: 43.4 MB -BaekjoonHub
-- [level 0] Title: 첫 번째로 나오는 음수, Time: 0.01 ms, Memory: 65.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
