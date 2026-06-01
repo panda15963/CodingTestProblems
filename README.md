@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 리스트 자르기, Time: 2.10 ms, Memory: 68.1 MB -BaekjoonHub
 - [level 0] Title: 리스트 자르기, Time: 0.06 ms, Memory: 32.7 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 1 ms (90.48%), Space: 54.7 MB (45.24%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
