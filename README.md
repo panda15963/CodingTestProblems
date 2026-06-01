@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 배열 만들기 3, Time: 3.93 ms, Memory: 43.4 MB -BaekjoonHub
 - [level 0] Title: 첫 번째로 나오는 음수, Time: 0.01 ms, Memory: 65.3 MB -BaekjoonHub
 - [level 0] Title: 리스트 자르기, Time: 2.10 ms, Memory: 68.1 MB -BaekjoonHub
 - [level 0] Title: 리스트 자르기, Time: 0.06 ms, Memory: 32.7 MB -BaekjoonHub
 - 폴더구조 변경
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
