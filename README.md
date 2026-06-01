@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: n개 간격의 원소들, Time: 2.08 ms, Memory: 63.7 MB -BaekjoonHub
 - [level 0] Title: n개 간격의 원소들, Time: 0.04 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 왼쪽 오른쪽, Time: 0.02 ms, Memory: 66.1 MB -BaekjoonHub
 - [level 0] Title: 왼쪽 오른쪽, Time: 0.04 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 0] Title: 순서 바꾸기, Time: 0.02 ms, Memory: 67.6 MB -BaekjoonHub
-- [level 0] Title: n 번째 원소부터, Time: 0.02 ms, Memory: 64.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
