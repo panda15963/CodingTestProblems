@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
-- Time: 1 ms (100%), Space: 57 MB (43.59%) - LeetHub
-- Updated stats
+- [level 0] Title: 홀수 vs 짝수, Time: 0.13 ms, Memory: 32.7 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 2 ms (86.67%), Space: 58.8 MB (46.67%) - LeetHub
-- Create README - LeetHub
+- Time: 1 ms (100%), Space: 46.8 MB (77.78%) - LeetHub
+- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
