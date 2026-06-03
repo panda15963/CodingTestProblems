@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: n보다 커질 때까지 더하기, Time: 0.12 ms, Memory: 32.5 MB -BaekjoonHub
 - [level 0] Title: 할 일 목록, Time: 0.05 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 할 일 목록, Time: 0.04 ms, Memory: 64.8 MB -BaekjoonHub
 - [level 0] Title: 5명씩, Time: 0.02 ms, Memory: 65.6 MB -BaekjoonHub
 - [level 0] Title: 홀수 vs 짝수, Time: 0.13 ms, Memory: 32.7 MB -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
