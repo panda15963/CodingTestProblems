@@ -1,10 +1,10 @@
 # [level 0] 대문자로 바꾸기 - 181877 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181877?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181877?language=java) 
 
 ### 성능 요약
 
-메모리: 32.8 MB, 시간: 0.02 ms
+메모리: 64.5 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 04일 06:27:13
+2026년 06월 04일 06:27:26
 
 ### 문제 설명
 
