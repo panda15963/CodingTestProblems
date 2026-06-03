@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 소문자로 바꾸기, Time: 0.02 ms, Memory: 63.9 MB -BaekjoonHub
+- [level 0] Title: 대문자로 바꾸기, Time: 0.01 ms, Memory: 64.5 MB -BaekjoonHub
 - [level 0] Title: 대문자로 바꾸기, Time: 0.02 ms, Memory: 32.8 MB -BaekjoonHub
 - 폴더구조 변경
 - Time: 3 ms (83.33%), Space: 73.5 MB (50%) - LeetHub
-- Update README - Topic Tags
-- Time: 2 ms (100%), Space: 74.9 MB (33.33%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
