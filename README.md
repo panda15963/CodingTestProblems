@@ -15,10 +15,10 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 할 일 목록, Time: 0.04 ms, Memory: 64.8 MB -BaekjoonHub
+- [level 0] Title: 5명씩, Time: 0.02 ms, Memory: 65.6 MB -BaekjoonHub
 - [level 0] Title: 홀수 vs 짝수, Time: 0.13 ms, Memory: 32.7 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
-- Time: 1 ms (100%), Space: 46.8 MB (77.78%) - LeetHub
 - Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
