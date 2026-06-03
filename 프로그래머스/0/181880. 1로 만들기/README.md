@@ -1,10 +1,10 @@
 # [level 0] 1로 만들기 - 181880 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181880?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181880) 
 
 ### 성능 요약
 
-메모리: 83.6 MB, 시간: 0.02 ms
+메모리: 65.8 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 07일 09:59:01
+2026년 06월 03일 13:41:54
 
 ### 문제 설명
 
