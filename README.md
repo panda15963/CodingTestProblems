@@ -15,11 +15,11 @@
 | 🔢 **Total** | 481 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 길이에 따른 연산, Time: 0.04 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 0] Title: 1로 만들기, Time: 0.02 ms, Memory: 65.8 MB -BaekjoonHub
 - [level 0] Title: 조건에 맞게 수열 변환하기 2, Time: 35.19 ms, Memory: 97.4 MB -BaekjoonHub
 - [level 0] Title: 조건에 맞게 수열 변환하기 1, Time: 17.89 ms, Memory: 115 MB -BaekjoonHub
 - [level 0] Title: 조건에 맞게 수열 변환하기 1, Time: 9.45 ms, Memory: 155 MB -BaekjoonHub
-- [level 0] Title: 수열과 구간 쿼리 1, Time: 3.03 ms, Memory: 36 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
