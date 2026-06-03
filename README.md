@@ -15,11 +15,11 @@
 | 🔢 **Total** | 482 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: ad 제거하기, Time: 0.09 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: ad 제거하기, Time: 0.53 ms, Memory: 63.9 MB -BaekjoonHub
 - [level 0] Title: 문자열이 몇 번 등장하는지 세기, Time: 0.10 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: 문자열이 몇 번 등장하는지 세기, Time: 0.08 ms, Memory: 66.4 MB -BaekjoonHub
 - [level 0] Title: 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기, Time: 0.15 ms, Memory: 64.9 MB -BaekjoonHub
-- [level 0] Title: 특정한 문자를 대문자로 바꾸기, Time: 0.21 ms, Memory: 64.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
