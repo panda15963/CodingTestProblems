@@ -15,11 +15,11 @@
 | 🔢 **Total** | 482 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 공백으로 구분하기 2, Time: 0.73 ms, Memory: 64.6 MB -BaekjoonHub
 - [level 0] Title: 공백으로 구분하기 1, Time: 0.07 ms, Memory: 32.9 MB -BaekjoonHub
 - [level 0] Title: 공백으로 구분하기 1, Time: 0.30 ms, Memory: 66 MB -BaekjoonHub
 - [level 0] Title: ad 제거하기, Time: 0.09 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: ad 제거하기, Time: 0.53 ms, Memory: 63.9 MB -BaekjoonHub
-- [level 0] Title: 문자열이 몇 번 등장하는지 세기, Time: 0.10 ms, Memory: 32.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
