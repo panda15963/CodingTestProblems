@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 461 |
+| 🔵 Programmers | 462 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 483 |
+| 🔢 **Total** | 484 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자열 잘라서 정렬하기, Time: 6.54 ms, Memory: 38.8 MB -BaekjoonHub
 - [level 0] Title: x 사이의 개수, Time: 3.56 ms, Memory: 68.4 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 29 ms (78.57%), Space: 62.3 MB (64.29%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
