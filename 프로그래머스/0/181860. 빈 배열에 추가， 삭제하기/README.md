@@ -1,10 +1,10 @@
 # [level 0] 빈 배열에 추가, 삭제하기 - 181860 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181860) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181860?language=java) 
 
 ### 성능 요약
 
-메모리: 32.8 MB, 시간: 0.16 ms
+메모리: 64.3 MB, 시간: 0.22 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 05일 03:40:54
+2026년 06월 05일 03:41:40
 
 ### 문제 설명
 
