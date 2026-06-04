@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 467 |
+| 🔵 Programmers | 468 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 489 |
+| 🔢 **Total** | 490 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 빈 배열에 추가, 삭제하기, Time: 0.16 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: 배열의 원소만큼 추가하기, Time: 1.11 ms, Memory: 71.4 MB -BaekjoonHub
 - [level 0] Title: 세 개의 구분자, Time: 21.47 ms, Memory: 58.9 MB -BaekjoonHub
 - [level 0] Title: rny_string, Time: 0.03 ms, Memory: 63.2 MB -BaekjoonHub
 - [level 0] Title: 문자열 바꿔서 찾기, Time: 0.04 ms, Memory: 32.8 MB -BaekjoonHub
-- [level 0] Title: 간단한 식 계산하기, Time: 0.09 ms, Memory: 63.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
