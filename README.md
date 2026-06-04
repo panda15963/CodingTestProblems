@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 464 |
+| 🔵 Programmers | 465 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 486 |
+| 🔢 **Total** | 487 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: rny_string, Time: 0.03 ms, Memory: 63.2 MB -BaekjoonHub
 - [level 0] Title: 문자열 바꿔서 찾기, Time: 0.04 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: 간단한 식 계산하기, Time: 0.09 ms, Memory: 63.3 MB -BaekjoonHub
 - [level 0] Title: 문자열 잘라서 정렬하기, Time: 6.54 ms, Memory: 38.8 MB -BaekjoonHub
 - [level 0] Title: x 사이의 개수, Time: 3.56 ms, Memory: 68.4 MB -BaekjoonHub
-- 폴더구조 변경
 
 <!-- DASHBOARD-END -->
 
