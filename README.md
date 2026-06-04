@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 469 |
+| 🔵 Programmers | 470 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 491 |
+| 🔢 **Total** | 492 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 무작위로 K개의 수 뽑기, Time: 1.39 ms, Memory: 34.6 MB -BaekjoonHub
 - [level 0] Title: 배열 만들기 6, Time: 20.64 ms, Memory: 96.1 MB -BaekjoonHub
 - [level 0] Title: 빈 배열에 추가, 삭제하기, Time: 0.22 ms, Memory: 64.3 MB -BaekjoonHub
 - [level 0] Title: 빈 배열에 추가, 삭제하기, Time: 0.16 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: 배열의 원소만큼 추가하기, Time: 1.11 ms, Memory: 71.4 MB -BaekjoonHub
-- [level 0] Title: 세 개의 구분자, Time: 21.47 ms, Memory: 58.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
