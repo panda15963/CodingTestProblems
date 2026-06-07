@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 배열의 원소 삭제하기, Time: 2.34 ms, Memory: 64.2 MB -BaekjoonHub
 - [level 0] Title: 문자열로 변환, Time: 0.03 ms, Memory: 64.6 MB -BaekjoonHub
 - [level 0] Title: 두 수의 합, Time: 330.05 ms, Memory: 111 MB -BaekjoonHub
 - [level 0] Title: 두 수의 합, Time: 44.56 ms, Memory: 33.9 MB -BaekjoonHub
 - [level 0] Title: 0 떼기, Time: 0.06 ms, Memory: 32.7 MB -BaekjoonHub
-- [level 0] Title: 0 떼기, Time: 0.82 ms, Memory: 64.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
