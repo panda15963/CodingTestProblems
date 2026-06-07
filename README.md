@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 470 |
+| 🔵 Programmers | 471 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 492 |
+| 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 배열의 길이를 2의 거듭제곱으로 만들기, Time: 0.03 ms, Memory: 65 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 280 ms (59.26%), Space: 52.8 MB (48.15%) - LeetHub
 - Update README - Topic Tags
-- Time: 185 ms (57.14%), Space: 61.3 MB (100%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
