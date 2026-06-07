@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 정수 부분, Time: 0.02 ms, Memory: 32.5 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
+- [level 0] Title: 배열의 길이에 따라 다른 연산하기, Time: 0.08 ms, Memory: 32.7 MB -BaekjoonHub
 - Time: 100 ms (31.25%), Space: 86.1 MB (31.25%) - LeetHub
 - Updated stats
-- Update README - Topic Tags
-- Time: 70 ms (75%), Space: 84.5 MB (75%) - LeetHub
-- Create README - LeetHub
 
 <!-- DASHBOARD-END -->
 
