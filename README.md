@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자열 묶기, Time: 5.97 ms, Memory: 47.5 MB -BaekjoonHub
 - [level 0] Title: 배열 비교하기, Time: 0.08 ms, Memory: 32.5 MB -BaekjoonHub
 - [level 0] Title: 배열의 길이를 2의 거듭제곱으로 만들기, Time: 0.16 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 배열의 길이를 2의 거듭제곱으로 만들기, Time: 0.03 ms, Memory: 65 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
