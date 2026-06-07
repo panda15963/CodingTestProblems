@@ -1,10 +1,10 @@
 # [level 0] 배열의 길이를 2의 거듭제곱으로 만들기 - 181857 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181857?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181857?language=javascript) 
 
 ### 성능 요약
 
-메모리: 65 MB, 시간: 0.03 ms
+메모리: 32.7 MB, 시간: 0.16 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 07일 16:31:16
+2026년 06월 07일 16:32:51
 
 ### 문제 설명
 
