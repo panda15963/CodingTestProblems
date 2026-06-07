@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 두 수의 합, Time: 330.05 ms, Memory: 111 MB -BaekjoonHub
 - [level 0] Title: 두 수의 합, Time: 44.56 ms, Memory: 33.9 MB -BaekjoonHub
 - [level 0] Title: 0 떼기, Time: 0.06 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 0 떼기, Time: 0.82 ms, Memory: 64.4 MB -BaekjoonHub
 - [level 0] Title: 문자열을 정수로 변환하기, Time: 0.03 ms, Memory: 32.6 MB -BaekjoonHub
-- [level 0] Title: 문자열 정수의 합, Time: 0.06 ms, Memory: 32.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
