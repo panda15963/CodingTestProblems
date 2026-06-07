@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 꼬리 문자열, Time: 3.19 ms, Memory: 65.4 MB -BaekjoonHub
 - [level 0] Title: 부분 문자열, Time: 0.03 ms, Memory: 65.8 MB -BaekjoonHub
 - [level 0] Title: 부분 문자열, Time: 0.03 ms, Memory: 32.8 MB -BaekjoonHub
 - [level 0] Title: 부분 문자열인지 확인하기, Time: 0.04 ms, Memory: 66.4 MB -BaekjoonHub
 - [level 0] Title: 배열의 원소 삭제하기, Time: 0.07 ms, Memory: 32.6 MB -BaekjoonHub
-- [level 0] Title: 배열의 원소 삭제하기, Time: 2.34 ms, Memory: 64.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
