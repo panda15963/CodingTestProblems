@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 0] Title: 날짜 비교하기, Time: 0.04 ms, Memory: 32.7 MB -BaekjoonHub
 - [level 0] Title: 날짜 비교하기, Time: 0.03 ms, Memory: 66.3 MB -BaekjoonHub
 - [level 0] Title: 주사위 게임 1, Time: 0.03 ms, Memory: 32.6 MB -BaekjoonHub
 - [level 0] Title: 정수 찾기, Time: 0.02 ms, Memory: 65 MB -BaekjoonHub
-- [level 0] Title: 정수 찾기, Time: 0.12 ms, Memory: 32.7 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
