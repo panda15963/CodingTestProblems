@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 정사각형으로 만들기, Time: 0.60 ms, Memory: 45.2 MB -BaekjoonHub
 - [level 0] Title: 특별한 이차원 배열 2, Time: 0.28 ms, Memory: 44.2 MB -BaekjoonHub
 - [level 0] Title: 정수를 나선형으로 배치하기, Time: 0.16 ms, Memory: 43.7 MB -BaekjoonHub
 - [level 0] Title: 정수를 나선형으로 배치하기, Time: 0.06 ms, Memory: 85.3 MB -BaekjoonHub
 - [level 0] Title: 특별한 이차원 배열 1, Time: 0.06 ms, Memory: 91.4 MB -BaekjoonHub
-- [level 0] Title: 특별한 이차원 배열 1, Time: 0.13 ms, Memory: 44.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
