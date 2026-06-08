@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
-- Time: 4 ms (99.24%), Space: 160.1 MB (26.79%) - LeetHub
-- Updated stats
+- [level 0] Title: 커피 심부름, Time: 0.57 ms, Memory: 96.4 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 22 ms (83.33%), Space: 90.2 MB (20%) - LeetHub
-- Create README - LeetHub
+- Time: 28 ms (76.22%), Space: 88 MB (48.25%) - LeetHub
+- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
