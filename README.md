@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 특별한 이차원 배열 1, Time: 0.06 ms, Memory: 91.4 MB -BaekjoonHub
 - [level 0] Title: 특별한 이차원 배열 1, Time: 0.13 ms, Memory: 44.9 MB -BaekjoonHub
 - [level 0] Title: l로 만들기, Time: 4.41 ms, Memory: 47.7 MB -BaekjoonHub
 - [level 0] Title: l로 만들기, Time: 4.05 ms, Memory: 75.8 MB -BaekjoonHub
 - [level 0] Title: 조건에 맞게 수열 변환하기 3, Time: 8.03 ms, Memory: 129 MB -BaekjoonHub
-- [level 0] Title: 그림 확대, Time: 0.15 ms, Memory: 44.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
