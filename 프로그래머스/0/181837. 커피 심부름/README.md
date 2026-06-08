@@ -1,10 +1,10 @@
 # [level 0] 커피 심부름 - 181837 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181837?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181837?language=javascript) 
 
 ### 성능 요약
 
-메모리: 96.4 MB, 시간: 0.57 ms
+메모리: 44.1 MB, 시간: 0.22 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 09일 06:00:34
+2026년 06월 09일 06:00:50
 
 ### 문제 설명
 
