@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 두 수의 곱 구하기, Time: 0.06 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 두 수의 차 구하기, Time: 0.05 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 두 수의 합 구하기, Time: 0.05 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 두 수의 합 구하기, Time: 0.02 ms, Memory: 74.8 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
