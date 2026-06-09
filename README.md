@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 배열 두배 만들기, Time: 0.10 ms, Memory: 44 MB -BaekjoonHub
+- [level 0] Title: 배열 두배 만들기, Time: 0.03 ms, Memory: 74.3 MB -BaekjoonHub
 - [level 0] Title: 분수의 덧셈, Time: 0.09 ms, Memory: 44 MB -BaekjoonHub
 - [level 0] Title: 숫자 비교하기, Time: 0.02 ms, Memory: 75.8 MB -BaekjoonHub
 - [level 0] Title: 두 수의 나눗셈, Time: 0.02 ms, Memory: 73.4 MB -BaekjoonHub
-- [level 0] Title: 두 수의 나눗셈, Time: 0.06 ms, Memory: 44.1 MB -BaekjoonHub
-- [level 0] Title: 몫 구하기, Time: 0.06 ms, Memory: 44 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
