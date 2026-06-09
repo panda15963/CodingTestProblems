@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 1 ms (100%), Space: 62.3 MB (51.08%) - LeetHub
+- Create README - LeetHub
 - [level 0] Title: 이차원 배열 대각선 순회하기, Time: 0.05 ms, Memory: 79.3 MB -BaekjoonHub
 - [level 0] Title: 이차원 배열 대각선 순회하기, Time: 0.17 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 0] Title: 정사각형으로 만들기, Time: 0.23 ms, Memory: 82.4 MB -BaekjoonHub
-- [level 0] Title: 정사각형으로 만들기, Time: 0.60 ms, Memory: 45.2 MB -BaekjoonHub
-- [level 0] Title: 특별한 이차원 배열 2, Time: 0.28 ms, Memory: 44.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
