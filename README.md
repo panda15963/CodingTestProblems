@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 두 수의 나눗셈, Time: 0.02 ms, Memory: 73.4 MB -BaekjoonHub
 - [level 0] Title: 두 수의 나눗셈, Time: 0.06 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 0] Title: 몫 구하기, Time: 0.06 ms, Memory: 44 MB -BaekjoonHub
 - [level 0] Title: 몫 구하기, Time: 0.02 ms, Memory: 72.8 MB -BaekjoonHub
 - [level 0] Title: 두 수의 곱 구하기, Time: 0.02 ms, Memory: 73.9 MB -BaekjoonHub
-- [level 0] Title: 두 수의 곱 구하기, Time: 0.06 ms, Memory: 43.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
