@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 최빈값 구하기, Time: 0.07 ms, Memory: 73 MB -BaekjoonHub
 - [level 0] Title: 최빈값 구하기, Time: 0.18 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 중앙값 구하기, Time: 2.79 ms, Memory: 81 MB -BaekjoonHub
 - [level 0] Title: 중앙값 구하기, Time: 0.10 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 0] Title: 나머지 구하기, Time: 0.01 ms, Memory: 78.9 MB -BaekjoonHub
-- 폴더구조 변경
 
 <!-- DASHBOARD-END -->
 
