@@ -1,3 +1,13 @@
 function solution(n) {
-    return Math.ceil(n / 7);
+    let answer = 0;
+
+    if (n >= 1 && n <= 100) {
+        if (n % 7 === 0) {
+            answer = Math.floor(n / 7);
+        } else {
+            answer = Math.floor(n / 7) + 1;
+        }
+    }
+
+    return answer;
 }
