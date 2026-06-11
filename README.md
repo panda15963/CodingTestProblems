@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 590 ms (12.5%), Space: 137.8 MB (25%) - LeetHub
+- Update README - Topic Tags
+- Time: 92 ms (71.43%), Space: 299.3 MB (23.81%) - LeetHub
 - Create README - LeetHub
 - [level 0] Title: 피자 나눠 먹기 (1), Time: 0.07 ms, Memory: 44 MB -BaekjoonHub
-- [level 0] Title: 피자 나눠 먹기 (1), Time: 0.03 ms, Memory: 73 MB -BaekjoonHub
-- [level 0] Title: 짝수는 싫어요, Time: 0.05 ms, Memory: 82.6 MB -BaekjoonHub
-- [level 0] Title: 최빈값 구하기, Time: 0.07 ms, Memory: 73 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
