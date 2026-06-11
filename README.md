@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 507 ms (33.33%), Space: 136.4 MB (100%) - LeetHub
+- Update README - Topic Tags
 - Time: 590 ms (12.5%), Space: 137.8 MB (25%) - LeetHub
 - Update README - Topic Tags
 - Time: 92 ms (71.43%), Space: 299.3 MB (23.81%) - LeetHub
-- Create README - LeetHub
-- [level 0] Title: 피자 나눠 먹기 (1), Time: 0.07 ms, Memory: 44 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
