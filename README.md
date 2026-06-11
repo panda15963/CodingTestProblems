@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 뒤집힌 문자열, Time: 3.23 ms, Memory: 74.5 MB -BaekjoonHub
 - [level 0] Title: 배열 뒤집기, Time: 0.01 ms, Memory: 79.9 MB -BaekjoonHub
 - [level 0] Title: 배열 뒤집기, Time: 0.04 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 나이 출력, Time: 0.06 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 나이 출력, Time: 0.02 ms, Memory: 74.7 MB -BaekjoonHub
-- [level 0] Title: 아이스 아메리카노, Time: 0.06 ms, Memory: 43.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
