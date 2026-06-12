@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- 폴더구조 변경
 - Time: 713 ms (100%), Space: 160.4 MB (0%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 699 ms (75%), Space: 157.4 MB (75%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
