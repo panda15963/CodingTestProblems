@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 0] Title: 문자 반복 출력하기, Time: 0.08 ms, Memory: 44 MB -BaekjoonHub
-- [level 0] Title: 문자 반복 출력하기, Time: 0.03 ms, Memory: 74.1 MB -BaekjoonHub
-- [level 0] Title: 짝수 홀수 개수, Time: 0.01 ms, Memory: 72.8 MB -BaekjoonHub
-- [level 0] Title: 짝수 홀수 개수, Time: 0.08 ms, Memory: 44.1 MB -BaekjoonHub
+- Update README - Topic Tags
+- Time: 699 ms (75%), Space: 157.4 MB (75%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 140 ms (65.22%), Space: 294.5 MB (56.52%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
