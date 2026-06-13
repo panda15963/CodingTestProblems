@@ -15,11 +15,11 @@
 | 🔢 **Total** | 494 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 1 ms (100%), Space: 46.3 MB (89.99%) - LeetHub
+- Create README - LeetHub
+- [level 0] Title: 순서쌍의 개수, Time: 3.09 ms, Memory: 74.3 MB -BaekjoonHub
 - [level 0] Title: 순서쌍의 개수, Time: 2.22 ms, Memory: 49.1 MB -BaekjoonHub
 - [level 0] Title: 진료 순서 정하기, Time: 0.07 ms, Memory: 43.8 MB -BaekjoonHub
-- [level 0] Title: 진료 순서 정하기, Time: 0.02 ms, Memory: 80.9 MB -BaekjoonHub
-- [level 0] Title: 외계행성의 나이, Time: 0.54 ms, Memory: 43.7 MB -BaekjoonHub
-- [level 0] Title: 배열 자르기, Time: 0.02 ms, Memory: 79.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
