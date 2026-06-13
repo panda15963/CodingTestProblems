@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 짝수의 합, Time: 0.03 ms, Memory: 83.8 MB -BaekjoonHub
 - [level 0] Title: 양꼬치, Time: 0.01 ms, Memory: 73.5 MB -BaekjoonHub
 - [level 0] Title: 양꼬치, Time: 0.07 ms, Memory: 44 MB -BaekjoonHub
 - [level 0] Title: 각도기, Time: 0.05 ms, Memory: 43.7 MB -BaekjoonHub
 - [level 0] Title: 각도기, Time: 0.02 ms, Memory: 72.5 MB -BaekjoonHub
-- [level 0] Title: 특정 문자 제거하기, Time: 0.06 ms, Memory: 44.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
