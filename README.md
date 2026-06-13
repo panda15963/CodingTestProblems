@@ -15,11 +15,11 @@
 | 🔢 **Total** | 494 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 1 ms (95.79%), Space: 56.2 MB (82.11%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 1 ms (100%), Space: 46.3 MB (89.99%) - LeetHub
 - Create README - LeetHub
-- [level 0] Title: 순서쌍의 개수, Time: 3.09 ms, Memory: 74.3 MB -BaekjoonHub
-- [level 0] Title: 순서쌍의 개수, Time: 2.22 ms, Memory: 49.1 MB -BaekjoonHub
-- [level 0] Title: 진료 순서 정하기, Time: 0.07 ms, Memory: 43.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
