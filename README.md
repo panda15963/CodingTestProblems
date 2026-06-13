@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 471 |
+| 🔵 Programmers | 472 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 493 |
+| 🔢 **Total** | 494 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 외계행성의 나이, Time: 0.54 ms, Memory: 43.7 MB -BaekjoonHub
 - [level 0] Title: 배열 자르기, Time: 0.02 ms, Memory: 79.2 MB -BaekjoonHub
 - [level 0] Title: 배열 자르기, Time: 0.05 ms, Memory: 43.6 MB -BaekjoonHub
 - [level 0] Title: 짝수의 합, Time: 0.06 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 0] Title: 짝수의 합, Time: 0.03 ms, Memory: 83.8 MB -BaekjoonHub
-- [level 0] Title: 양꼬치, Time: 0.01 ms, Memory: 73.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
