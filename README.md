@@ -15,11 +15,11 @@
 | 🔢 **Total** | 493 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 양꼬치, Time: 0.01 ms, Memory: 73.5 MB -BaekjoonHub
+- [level 0] Title: 양꼬치, Time: 0.07 ms, Memory: 44 MB -BaekjoonHub
 - [level 0] Title: 각도기, Time: 0.05 ms, Memory: 43.7 MB -BaekjoonHub
 - [level 0] Title: 각도기, Time: 0.02 ms, Memory: 72.5 MB -BaekjoonHub
 - [level 0] Title: 특정 문자 제거하기, Time: 0.06 ms, Memory: 44.1 MB -BaekjoonHub
-- 폴더구조 변경
-- Time: 713 ms (100%), Space: 160.4 MB (0%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
