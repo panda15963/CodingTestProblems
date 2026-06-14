@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 구슬을 나누는 경우의 수, Time: 0.02 ms, Memory: 73.2 MB -BaekjoonHub
 - [level 0] Title: 구슬을 나누는 경우의 수, Time: 0.09 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 가위 바위 보, Time: 0.05 ms, Memory: 73.6 MB -BaekjoonHub
 - [level 0] Title: 모스부호 (1), Time: 0.13 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 0] Title: 개미 군단, Time: 0.06 ms, Memory: 44 MB -BaekjoonHub
-- 폴더구조 변경
 
 <!-- DASHBOARD-END -->
 
