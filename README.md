@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 472 |
+| 🔵 Programmers | 473 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 494 |
+| 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 개미 군단, Time: 0.06 ms, Memory: 44 MB -BaekjoonHub
 - 폴더구조 변경
 - Time: 4 ms (30%), Space: 59.4 MB (20%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 1 ms (95.79%), Space: 56.2 MB (82.11%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
