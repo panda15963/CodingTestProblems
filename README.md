@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 0] Title: 배열 회전시키기, Time: 0.06 ms, Memory: 43.7 MB -BaekjoonHub
 - [level 0] Title: 점의 위치 구하기, Time: 0.02 ms, Memory: 72.8 MB -BaekjoonHub
 - [level 0] Title: 2차원으로 만들기, Time: 0.07 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 0] Title: 구슬을 나누는 경우의 수, Time: 0.02 ms, Memory: 73.2 MB -BaekjoonHub
-- [level 0] Title: 구슬을 나누는 경우의 수, Time: 0.09 ms, Memory: 43.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
