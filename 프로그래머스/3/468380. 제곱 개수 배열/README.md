@@ -1,10 +1,10 @@
 # [level 3] 제곱 개수 배열 - 468380 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/468380?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/468380?language=python3) 
 
 ### 성능 요약
 
-메모리: 63.8 MB, 시간: 145.78 ms
+메모리: 15.3 MB, 시간: 48.92 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 31일 06:54:58
+2026년 06월 14일 09:45:56
 
 ### 문제 설명
 
