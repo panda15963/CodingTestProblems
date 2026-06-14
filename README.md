@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 제곱 개수 배열, Time: 48.92 ms, Memory: 15.3 MB -BaekjoonHub
+- Update README - Topic Tags
 - Time: 55 ms (80.12%), Space: 63.2 MB (9.85%) - LeetHub
 - Update README - Topic Tags
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
-- Time: 14 ms (34.15%), Space: 91.1 MB (9.75%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
