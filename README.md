@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 숨어있는 숫자의 덧셈 (1), Time: 0.08 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 0] Title: 문자열 정렬하기 (1), Time: 2.13 ms, Memory: 78.6 MB -BaekjoonHub
 - [level 0] Title: 문자열 정렬하기 (1), Time: 0.09 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 0] Title: 모음 제거, Time: 0.10 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 모음 제거, Time: 0.06 ms, Memory: 72.4 MB -BaekjoonHub
-- [level 0] Title: 팩토리얼, Time: 0.04 ms, Memory: 72.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
