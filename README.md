@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 점의 위치 구하기, Time: 0.02 ms, Memory: 72.8 MB -BaekjoonHub
 - [level 0] Title: 2차원으로 만들기, Time: 0.07 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 0] Title: 구슬을 나누는 경우의 수, Time: 0.02 ms, Memory: 73.2 MB -BaekjoonHub
 - [level 0] Title: 구슬을 나누는 경우의 수, Time: 0.09 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 가위 바위 보, Time: 0.05 ms, Memory: 73.6 MB -BaekjoonHub
-- [level 0] Title: 모스부호 (1), Time: 0.13 ms, Memory: 43.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
