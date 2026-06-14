@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 합성수 찾기, Time: 0.16 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 0] Title: 주사위의 개수, Time: 0.05 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 주사위의 개수, Time: 0.01 ms, Memory: 74.5 MB -BaekjoonHub
 - 폴더구조 변경
 - [level 3] Title: 제곱 개수 배열, Time: 48.92 ms, Memory: 15.3 MB -BaekjoonHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
