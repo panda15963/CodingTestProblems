@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 소인수분해, Time: 0.21 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 0] Title: 소인수분해, Time: 7.20 ms, Memory: 74.3 MB -BaekjoonHub
 - [level 0] Title: 숨어있는 숫자의 덧셈 (1), Time: 0.08 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 0] Title: 문자열 정렬하기 (1), Time: 2.13 ms, Memory: 78.6 MB -BaekjoonHub
 - [level 0] Title: 문자열 정렬하기 (1), Time: 0.09 ms, Memory: 44.1 MB -BaekjoonHub
-- [level 0] Title: 모음 제거, Time: 0.10 ms, Memory: 43.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
