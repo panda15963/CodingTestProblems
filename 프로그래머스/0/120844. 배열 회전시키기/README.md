@@ -1,10 +1,10 @@
 # [level 0] 배열 회전시키기 - 120844 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120844) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120844?language=javascript) 
 
 ### 성능 요약
 
-메모리: 33.3 MB, 시간: 0.03 ms
+메모리: 43.7 MB, 시간: 0.06 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 16일 08:56:55
+2026년 06월 14일 09:38:38
 
 ### 문제 설명
 
