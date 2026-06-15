@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 대문자와 소문자, Time: 0.40 ms, Memory: 73.4 MB -BaekjoonHub
 - [level 0] Title: 암호 해독, Time: 0.09 ms, Memory: 74.8 MB -BaekjoonHub
 - [level 0] Title: 암호 해독, Time: 0.16 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 369게임, Time: 0.09 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 369게임, Time: 0.04 ms, Memory: 73.2 MB -BaekjoonHub
-- [level 0] Title: 가까운 수, Time: 0.05 ms, Memory: 73.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
