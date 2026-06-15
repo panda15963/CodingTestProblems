@@ -6,7 +6,7 @@ class Solution {
         for(int i=0; i<cpr.length; i++){
             for(int j=0; j<basic_order.length; j++){
                 if(cpr[i].equals(basic_order[j])){
-                    answer[i] = j+1;
+                    answer[i] =  j+1;
                     break;
                 }
             }
