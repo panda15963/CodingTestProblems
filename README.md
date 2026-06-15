@@ -15,10 +15,10 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
-- Time: 3 ms (88.08%), Space: 103.1 MB (17.79%) - LeetHub
-- Updated stats
+- [level 0] Title: 컨트롤 제트, Time: 0.39 ms, Memory: 75 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 14 ms (13.45%), Space: 101.1 MB (27.8%) - LeetHub
+- Time: 3 ms (88.08%), Space: 103.1 MB (17.79%) - LeetHub
 - Updated stats
 
 <!-- DASHBOARD-END -->
