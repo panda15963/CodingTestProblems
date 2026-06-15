@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 가까운 수, Time: 0.10 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 삼각형의 완성조건 (1), Time: 0.09 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 0] Title: 삼각형의 완성조건 (1), Time: 1.38 ms, Memory: 73 MB -BaekjoonHub
 - [level 0] Title: 중복된 문자 제거, Time: 0.09 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 배열 원소의 길이, Time: 0.06 ms, Memory: 43.8 MB -BaekjoonHub
-- [level 0] Title: 배열 원소의 길이, Time: 0.02 ms, Memory: 73.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
