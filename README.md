@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 편지, Time: 0.05 ms, Memory: 44.1 MB -BaekjoonHub
+- [level 0] Title: 약수 구하기, Time: 0.22 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 약수 구하기, Time: 2.26 ms, Memory: 78.9 MB -BaekjoonHub
 - [level 0] Title: 한 번만 등장한 문자, Time: 0.04 ms, Memory: 74.5 MB -BaekjoonHub
 - [level 0] Title: 한 번만 등장한 문자, Time: 0.13 ms, Memory: 44.2 MB -BaekjoonHub
-- [level 0] Title: 인덱스 바꾸기, Time: 0.07 ms, Memory: 44.1 MB -BaekjoonHub
-- [level 0] Title: 인덱스 바꾸기, Time: 0.02 ms, Memory: 75.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
