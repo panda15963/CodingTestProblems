@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 영어가 싫어요, Time: 0.07 ms, Memory: 74.6 MB -BaekjoonHub
+- [level 0] Title: 영어가 싫어요, Time: 0.10 ms, Memory: 44 MB -BaekjoonHub
 - 폴더 구조
 - Update README - Topic Tags
 - Time: 130 ms (62.5%), Space: 78.2 MB (87.5%) - LeetHub
-- Update README - Topic Tags
-- Time: 158 ms (11.11%), Space: 81.9 MB (40.74%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
