@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 한 번만 등장한 문자, Time: 0.04 ms, Memory: 74.5 MB -BaekjoonHub
 - [level 0] Title: 한 번만 등장한 문자, Time: 0.13 ms, Memory: 44.2 MB -BaekjoonHub
 - [level 0] Title: 인덱스 바꾸기, Time: 0.07 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 0] Title: 인덱스 바꾸기, Time: 0.02 ms, Memory: 75.6 MB -BaekjoonHub
 - [level 0] Title: 영어가 싫어요, Time: 0.07 ms, Memory: 74.6 MB -BaekjoonHub
-- [level 0] Title: 영어가 싫어요, Time: 0.10 ms, Memory: 44 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
