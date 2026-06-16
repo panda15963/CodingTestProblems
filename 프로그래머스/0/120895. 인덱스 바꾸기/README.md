@@ -1,10 +1,10 @@
 # [level 0] 인덱스 바꾸기 - 120895 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120895) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120895?language=javascript) 
 
 ### 성능 요약
 
-메모리: 75.6 MB, 시간: 0.02 ms
+메모리: 44.1 MB, 시간: 0.07 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 17일 06:21:42
+2026년 06월 17일 06:21:56
 
 ### 문제 설명
 
