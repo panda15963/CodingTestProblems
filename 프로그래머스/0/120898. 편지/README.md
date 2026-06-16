@@ -1,10 +1,10 @@
 # [level 0] 편지 - 120898 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120898) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120898?language=java) 
 
 ### 성능 요약
 
-메모리: 44.1 MB, 시간: 0.05 ms
+메모리: 73.4 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 17일 06:24:11
+2026년 06월 17일 06:24:26
 
 ### 문제 설명
 
