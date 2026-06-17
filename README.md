@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 세균 증식, Time: 0.06 ms, Memory: 44 MB -BaekjoonHub
+- [level 0] Title: 제곱수 판별하기, Time: 0.03 ms, Memory: 79.3 MB -BaekjoonHub
 - [level 0] Title: 문자열안에 문자열, Time: 0.06 ms, Memory: 44 MB -BaekjoonHub
 - [level 0] Title: OX퀴즈, Time: 0.16 ms, Memory: 44 MB -BaekjoonHub
 - [level 0] Title: 자릿수 더하기, Time: 0.08 ms, Memory: 43.9 MB -BaekjoonHub
-- [level 0] Title: 자릿수 더하기, Time: 0.02 ms, Memory: 76.9 MB -BaekjoonHub
-- [level 0] Title: n의 배수 고르기, Time: 0.09 ms, Memory: 43.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
