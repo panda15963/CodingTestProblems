@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 자릿수 더하기, Time: 0.02 ms, Memory: 76.9 MB -BaekjoonHub
+- [level 0] Title: n의 배수 고르기, Time: 0.09 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 숫자 찾기, Time: 0.06 ms, Memory: 43.7 MB -BaekjoonHub
 - [level 0] Title: 숫자 찾기, Time: 0.02 ms, Memory: 76.5 MB -BaekjoonHub
 - 폴더 구조 변경
-- Update README - Topic Tags
-- Time: 62 ms (0%), Space: 67.4 MB (25%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
