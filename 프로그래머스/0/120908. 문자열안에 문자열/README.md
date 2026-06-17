@@ -1,10 +1,10 @@
 # [level 0] 문자열안에 문자열 - 120908 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120908) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120908?language=javascript) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.02 ms
+메모리: 44 MB, 시간: 0.06 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 20일 06:56:53
+2026년 06월 18일 06:16:29
 
 ### 문제 설명
 
