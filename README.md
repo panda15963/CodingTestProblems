@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 0] Title: 배열의 유사도, Time: 0.15 ms, Memory: 75.4 MB -BaekjoonHub
 - [level 0] Title: 문자열 계산하기, Time: 0.11 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 0] Title: 가장 큰 수 찾기, Time: 0.05 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 0] Title: 가장 큰 수 찾기, Time: 0.02 ms, Memory: 74 MB -BaekjoonHub
-- [level 0] Title: 편지, Time: 0.01 ms, Memory: 73.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
