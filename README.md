@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 0 ms (100%), Space: 56 MB (0%) - LeetHub
+- Create README - LeetHub
 - [level 0] Title: 문자열 정렬하기 (2), Time: 0.37 ms, Memory: 74.1 MB -BaekjoonHub
 - [level 0] Title: 세균 증식, Time: 0.06 ms, Memory: 44 MB -BaekjoonHub
 - [level 0] Title: 제곱수 판별하기, Time: 0.03 ms, Memory: 79.3 MB -BaekjoonHub
-- [level 0] Title: 문자열안에 문자열, Time: 0.06 ms, Memory: 44 MB -BaekjoonHub
-- [level 0] Title: OX퀴즈, Time: 0.16 ms, Memory: 44 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
