@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 캐릭터의 좌표, Time: 0.11 ms, Memory: 43.8 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 44.9 MB (43.59%) - LeetHub
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 54 MB (25.81%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
