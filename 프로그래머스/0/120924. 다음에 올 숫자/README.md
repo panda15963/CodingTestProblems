@@ -1,10 +1,10 @@
 # [level 0] 다음에 올 숫자 - 120924 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120924) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120924?language=javascript) 
 
 ### 성능 요약
 
-메모리: 74 MB, 시간: 0.02 ms
+메모리: 43.8 MB, 시간: 0.07 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 20일 14:59:19
+2026년 06월 20일 14:59:27
 
 ### 문제 설명
 
