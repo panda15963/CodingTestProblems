@@ -1,10 +1,10 @@
 # [level 1] 인기있는 아이스크림 - 133024 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133024?language=oracle) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133024?language=mysql) 
 
 ### 성능 요약
 
-메모리: 0.0 MB, 시간: 0.00 ms
+메모리: undefined, 시간: 
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 11일 11:04:08
+2026년 06월 20일 16:03:24
 
 ### 문제 설명
 
