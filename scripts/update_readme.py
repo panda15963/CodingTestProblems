@@ -11,8 +11,17 @@ def scan_directory(base_path, platform_name):
         return problems
 
     for root, dirs, files in os.walk(base_path):
-        # 각 문제 디렉토리 처리
-        if files and any(f.endswith(('.py', '.java', '.js', '.cpp')) for f in files):
+        SOURCE_EXTENSIONS = (
+            '.py',
+            '.java',
+            '.js',
+            '.ts',
+            '.cpp',
+            '.c',
+            '.sql'
+        )
+
+        if files and any(f.endswith(SOURCE_EXTENSIONS) for f in files):
             problem_path = os.path.relpath(root, '.')
             problem_name = os.path.basename(root)
 
