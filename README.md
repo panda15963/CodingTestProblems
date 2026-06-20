@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 등수 매기기, Time: 0.13 ms, Memory: 44.2 MB -BaekjoonHub
+- [level 0] Title: 등수 매기기, Time: 1.91 ms, Memory: 74.4 MB -BaekjoonHub
+- [level 0] Title: 로그인 성공?, Time: 0.02 ms, Memory: 77.4 MB -BaekjoonHub
 - [level 0] Title: 로그인 성공?, Time: 0.09 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 0] Title: 종이 자르기, Time: 0.05 ms, Memory: 43.9 MB -BaekjoonHub
-- [level 0] Title: 종이 자르기, Time: 0.01 ms, Memory: 73.9 MB -BaekjoonHub
-- [level 0] Title: k의 개수, Time: 13.34 ms, Memory: 57.8 MB -BaekjoonHub
-- [level 0] Title: k의 개수, Time: 36.22 ms, Memory: 128 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
