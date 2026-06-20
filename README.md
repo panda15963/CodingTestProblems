@@ -15,11 +15,11 @@
 | 🔢 **Total** | 496 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 특정 세대의 대장균 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 평균 일일 대여 요금 구하기, Time: , Memory: undefined -BaekjoonHub
 - 스크립트 변경
 - [level 0] Title: 옹알이 (1), Time: 1.04 ms, Memory: 78.4 MB -BaekjoonHub
 - [level 0] Title: 연속된 수의 합, Time: 0.10 ms, Memory: 43.9 MB -BaekjoonHub
-- [level 0] Title: 다음에 올 숫자, Time: 0.07 ms, Memory: 43.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
