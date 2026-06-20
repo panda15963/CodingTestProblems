@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 문자열 밀기, Time: 0.09 ms, Memory: 44.1 MB -BaekjoonHub
+- [level 0] Title: 문자열 밀기, Time: 3.80 ms, Memory: 73.6 MB -BaekjoonHub
 - [level 0] Title: 치킨 쿠폰, Time: 0.07 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 0] Title: 등수 매기기, Time: 0.13 ms, Memory: 44.2 MB -BaekjoonHub
 - [level 0] Title: 등수 매기기, Time: 1.91 ms, Memory: 74.4 MB -BaekjoonHub
-- [level 0] Title: 로그인 성공?, Time: 0.02 ms, Memory: 77.4 MB -BaekjoonHub
-- [level 0] Title: 로그인 성공?, Time: 0.09 ms, Memory: 44.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
