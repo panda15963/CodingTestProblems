@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 숨어있는 숫자의 덧셈 (2), Time: 0.07 ms, Memory: 74.6 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 43.1 MB (37.26%) - LeetHub
 - Updated stats
-- Update README - Topic Tags
-- Time: 0 ms (100%), Space: 53.9 MB (37.25%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
