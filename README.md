@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 연속된 수의 합, Time: 0.10 ms, Memory: 43.9 MB -BaekjoonHub
+- [level 0] Title: 다음에 올 숫자, Time: 0.07 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 0] Title: 다음에 올 숫자, Time: 0.02 ms, Memory: 74 MB -BaekjoonHub
 - [level 0] Title: 특이한 정렬, Time: 0.10 ms, Memory: 44.2 MB -BaekjoonHub
 - [level 0] Title: 문자열 밀기, Time: 0.09 ms, Memory: 44.1 MB -BaekjoonHub
-- [level 0] Title: 문자열 밀기, Time: 3.80 ms, Memory: 73.6 MB -BaekjoonHub
-- [level 0] Title: 치킨 쿠폰, Time: 0.07 ms, Memory: 43.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
