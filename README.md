@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 2] Title: 도넛과 막대 그래프, Time: 212.37 ms, Memory: 303 MB -BaekjoonHub
-- [level 0] Title: 숨어있는 숫자의 덧셈 (2), Time: 0.07 ms, Memory: 74.6 MB -BaekjoonHub
+- Time: 80 ms (100%), Space: 83.5 MB (87.5%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
+- Time: 87 ms (100%), Space: 84.5 MB (100%) - LeetHub
+- Updated stats
 
 <!-- DASHBOARD-END -->
 
