@@ -15,11 +15,11 @@
 | 🔢 **Total** | 495 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: 종이 자르기, Time: 0.05 ms, Memory: 43.9 MB -BaekjoonHub
+- [level 0] Title: 종이 자르기, Time: 0.01 ms, Memory: 73.9 MB -BaekjoonHub
+- [level 0] Title: k의 개수, Time: 13.34 ms, Memory: 57.8 MB -BaekjoonHub
 - [level 0] Title: k의 개수, Time: 36.22 ms, Memory: 128 MB -BaekjoonHub
 - 폴더구조 변경
-- Time: 80 ms (100%), Space: 83.5 MB (87.5%) - LeetHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
