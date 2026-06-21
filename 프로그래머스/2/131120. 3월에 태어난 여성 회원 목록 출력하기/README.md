@@ -1,10 +1,10 @@
 # [level 2] 3월에 태어난 여성 회원 목록 출력하기 - 131120 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131120?language=oracle) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131120) 
 
 ### 성능 요약
 
-메모리: 0.0 MB, 시간: 0.00 ms
+메모리: undefined, 시간: 
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 11일 11:10:38
+2026년 06월 21일 12:12:48
 
 ### 문제 설명
 
