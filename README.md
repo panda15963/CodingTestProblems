@@ -15,11 +15,11 @@
 | 🔢 **Total** | 496 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 대장균의 크기에 따라 분류하기 1, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 특정 형질을 가지는 대장균 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 인기있는 아이스크림, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 특정 세대의 대장균 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 평균 일일 대여 요금 구하기, Time: , Memory: undefined -BaekjoonHub
-- 스크립트 변경
 
 <!-- DASHBOARD-END -->
 
