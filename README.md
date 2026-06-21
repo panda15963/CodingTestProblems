@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 477 |
+| 🔵 Programmers | 478 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 499 |
+| 🔢 **Total** | 500 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: FrontEnd 개발자 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 언어별 개발자 분류하기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 조건에 부합하는 중고거래 댓글 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 연도 별 평균 미세먼지 농도 조회하기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: 물고기 종류 별 잡은 수 구하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
