@@ -15,11 +15,11 @@
 | 🔢 **Total** | 498 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 1] Title: 잡은 물고기 중 가장 큰 물고기의 길이 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 한 해에 잡은 물고기 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 특정 물고기를 잡은 총 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 대장균들의 자식의 수 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: 12세 이하인 여자 환자 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
