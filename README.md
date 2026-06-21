@@ -15,11 +15,11 @@
 | 🔢 **Total** | 501 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 업그레이드 할 수 없는 아이템 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: Python 개발자 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: FrontEnd 개발자 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 언어별 개발자 분류하기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 연간 평가점수에 해당하는 평가 등급 및 성과금 조회하기, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: 조건에 부합하는 중고거래 댓글 조회하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
