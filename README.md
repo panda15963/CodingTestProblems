@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 476 |
+| 🔵 Programmers | 477 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 498 |
+| 🔢 **Total** | 499 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 연도 별 평균 미세먼지 농도 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 물고기 종류 별 잡은 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 물고기 종류 별 대어 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 3월에 태어난 여성 회원 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 흉부외과 또는 일반외과 의사 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
