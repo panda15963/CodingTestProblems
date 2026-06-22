@@ -15,11 +15,11 @@
 | 🔢 **Total** | 504 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 동물의 아이디와 이름, Time: , Memory: undefined -BaekjoonHub
+- [level 1] Title: 동물의 아이디와 이름, Time: , Memory: undefined -BaekjoonHub
+- [level 1] Title: 어린 동물 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 아픈 동물 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 오프라인/온라인 판매 데이터 통합하기, Time: , Memory: undefined -BaekjoonHub
-- [level 4] Title: 오프라인/온라인 판매 데이터 통합하기, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: 역순 정렬하기, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: 모든 레코드 조회하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
