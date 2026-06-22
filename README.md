@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 481 |
+| 🔵 Programmers | 482 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 503 |
+| 🔢 **Total** | 504 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 역순 정렬하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 모든 레코드 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 재구매가 일어난 상품과 회원 리스트 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 서울에 위치한 식당 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 강원도에 위치한 생산공장 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
-- 폴더구조 변경
 
 <!-- DASHBOARD-END -->
 
