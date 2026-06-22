@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 480 |
+| 🔵 Programmers | 481 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 502 |
+| 🔢 **Total** | 503 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 재구매가 일어난 상품과 회원 리스트 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 서울에 위치한 식당 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 강원도에 위치한 생산공장 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
-- Time: 5 ms (77.31%), Space: 58.3 MB (20%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
