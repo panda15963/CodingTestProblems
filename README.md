@@ -15,11 +15,11 @@
 | 🔢 **Total** | 502 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 7 ms (67.03%), Space: 58.8 MB (39.56%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 3 ms (70.35%), Space: 43.4 MB (71.44%) - LeetHub
 - Create README - LeetHub
-- [level 2] Title: ROOT 아이템 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 3] Title: 업그레이드 할 수 없는 아이템 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: Python 개발자 찾기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
