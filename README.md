@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 482 |
+| 🔵 Programmers | 483 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 504 |
+| 🔢 **Total** | 505 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 조건에 맞는 회원수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 상위 n개 레코드, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 상위 n개 레코드, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 여러 기준으로 정렬하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 여러 기준으로 정렬하기, Time: , Memory: undefined -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
