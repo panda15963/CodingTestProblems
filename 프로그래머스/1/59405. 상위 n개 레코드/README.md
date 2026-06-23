@@ -1,10 +1,10 @@
 # [level 1] 상위 n개 레코드 - 59405 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59405?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59405) 
 
 ### 성능 요약
 
-메모리: 0.0 MB, 시간: 0.00 ms
+메모리: undefined, 시간: 
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 12일 15:51:48
+2026년 06월 24일 05:24:51
 
 ### 문제 설명
 
