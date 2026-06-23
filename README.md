@@ -15,11 +15,11 @@
 | 🔢 **Total** | 504 |
 
 ## 🥇 Recently Solved (Top 5)
+- Update README - Topic Tags
+- Time: 664 ms (0%), Space: 62.1 MB (66.67%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 442 ms (55%), Space: 46.4 MB (90%) - LeetHub
-- Create README - LeetHub
-- [level 1] Title: 동물의 아이디와 이름, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: 동물의 아이디와 이름, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: 어린 동물 찾기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
