@@ -1,10 +1,10 @@
 # [level 2] 중복 제거하기 - 59408 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59408?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59408?language=oracle) 
 
 ### 성능 요약
 
-메모리: 0.0 MB, 시간: 0.00 ms
+메모리: undefined, 시간: 
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 14일 06:26:55
+2026년 06월 24일 05:33:15
 
 ### 문제 설명
 
