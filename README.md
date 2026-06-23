@@ -15,11 +15,11 @@
 | 🔢 **Total** | 505 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 중복 제거하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 동물 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 최솟값 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 최댓값 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 최댓값 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: 가격이 제일 비싼 식품의 정보 출력하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
