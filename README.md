@@ -15,10 +15,10 @@
 | 🔢 **Total** | 505 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 가장 비싼 상품 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 조건에 맞는 회원수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 상위 n개 레코드, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 상위 n개 레코드, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: 여러 기준으로 정렬하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 여러 기준으로 정렬하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
