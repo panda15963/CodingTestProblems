@@ -15,11 +15,11 @@
 | 🔢 **Total** | 504 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 여러 기준으로 정렬하기, Time: , Memory: undefined -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Time: 665 ms (57.14%), Space: 60.4 MB (57.14%) - LeetHub
 - Update README - Topic Tags
 - Time: 664 ms (0%), Space: 62.1 MB (66.67%) - LeetHub
-- Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
