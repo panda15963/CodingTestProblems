@@ -15,11 +15,11 @@
 | 🔢 **Total** | 505 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 1527 ms (25%), Space: 75.2 MB (75%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 461 ms (29.03%), Space: 46.9 MB (45.16%) - LeetHub
 - Create README - LeetHub
-- [level 4] Title: 주문량이 많은 아이스크림들 조회하기, Time: , Memory: undefined -BaekjoonHub
-- [level 4] Title: 주문량이 많은 아이스크림들 조회하기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: 중복 제거하기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: 동물 수 구하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
