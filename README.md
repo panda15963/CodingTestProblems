@@ -15,11 +15,11 @@
 | 🔢 **Total** | 505 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - [level 4] Title: 주문량이 많은 아이스크림들 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 주문량이 많은 아이스크림들 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 중복 제거하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 동물 수 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: 최솟값 구하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
