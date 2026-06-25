@@ -1,10 +1,10 @@
 # [level 2] NULL 처리하기 - 59410 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59410?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/59410) 
 
 ### 성능 요약
 
-메모리: 0.0 MB, 시간: 0.00 ms
+메모리: undefined, 시간: 
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 19일 13:58:08
+2026년 06월 25일 12:42:23
 
 ### 문제 설명
 
