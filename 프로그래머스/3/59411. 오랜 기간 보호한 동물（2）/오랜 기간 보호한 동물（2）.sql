@@ -1,9 +1,8 @@
-select animal_id, name
-from (
-    SELECT i.ANIMAL_ID, i.NAME
-    from ANIMAL_INS i
-    join ANIMAL_OUTS o
-    on i.ANIMAL_ID = o.ANIMAL_ID
-    order by o.DATETIME - i.DATETIME desc
-)
-where rownum <= 2
+SELECT
+    I.ANIMAL_ID,
+    I.NAME
+FROM ANIMAL_INS I
+JOIN ANIMAL_OUTS O
+    ON I.ANIMAL_ID = O.ANIMAL_ID
+ORDER BY DATEDIFF(O.DATETIME, I.DATETIME) DESC
+LIMIT 2;
