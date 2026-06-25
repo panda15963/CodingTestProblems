@@ -15,11 +15,11 @@
 | 🔢 **Total** | 507 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 조건에 부합하는 중고거래 상태 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 대여 기록이 존재하는 자동차 리스트 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 상품 별 오프라인 매출 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 오랜 기간 보호한 동물(1), Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 오랜 기간 보호한 동물(1), Time: , Memory: undefined -BaekjoonHub
-- [level 3] Title: 있었는데요 없었습니다, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
