@@ -15,11 +15,11 @@
 | 🔢 **Total** | 512 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: [PCCP 기출문제] 3번 / 아날로그 시계, Time: 0.04 ms, Memory: 75.4 MB -BaekjoonHub
 - [level 3] Title: n + 1 카드게임, Time: 15.96 ms, Memory: 84.4 MB -BaekjoonHub
 - [level 2] Title: H-Index, Time: 0.46 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 2] Title: H-Index, Time: 4.14 ms, Memory: 78.2 MB -BaekjoonHub
 - [level 2] Title: 가장 큰 수, Time: 121.41 ms, Memory: 129 MB -BaekjoonHub
-- [level 1] Title: K번째수, Time: 0.12 ms, Memory: 44.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
