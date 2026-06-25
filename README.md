@@ -15,11 +15,11 @@
 | 🔢 **Total** | 505 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 진료과별 총 예약 횟수 출력하기, Time: , Memory: undefined -BaekjoonHub
+- [level 2] Title: 진료과별 총 예약 횟수 출력하기, Time: , Memory: undefined -BaekjoonHub
+- [level 4] Title: 식품분류별 가장 비싼 식품의 정보 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 성분으로 구분한 아이스크림 총 주문량, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 저자 별 카테고리 별 매출액 집계하기, Time: , Memory: undefined -BaekjoonHub
-- 폴더구조 변경
-- Time: 775 ms (25%), Space: 63.6 MB (12.5%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
