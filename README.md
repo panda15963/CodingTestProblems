@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 486 |
+| 🔵 Programmers | 487 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 508 |
+| 🔢 **Total** | 509 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 자동차 대여 기록 별 대여 금액 구하기, Time: , Memory: undefined -BaekjoonHub
+- [level 1] Title: 자동차 대여 기록에서 장기/단기 대여 구분하기, Time: , Memory: undefined -BaekjoonHub
+- [level 3] Title: 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 조건별로 분류하여 주문상태 출력하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 조건에 맞는 사용자 정보 조회하기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: 조건에 부합하는 중고거래 상태 조회하기, Time: , Memory: undefined -BaekjoonHub
-- [level 3] Title: 대여 기록이 존재하는 자동차 리스트 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: 상품 별 오프라인 매출 구하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
