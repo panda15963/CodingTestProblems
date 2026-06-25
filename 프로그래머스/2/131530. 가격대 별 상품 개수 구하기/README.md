@@ -1,10 +1,10 @@
 # [level 2] 가격대 별 상품 개수 구하기 - 131530 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131530?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131530) 
 
 ### 성능 요약
 
-메모리: 0.0 MB, 시간: 0.00 ms
+메모리: undefined, 시간: 
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 17일 19:30:24
+2026년 06월 25일 12:39:22
 
 ### 문제 설명
 
