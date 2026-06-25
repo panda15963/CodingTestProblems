@@ -1,10 +1,10 @@
 # [level 2] 조건에 맞는 도서와 저자 리스트 출력하기 - 144854 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/144854?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/144854) 
 
 ### 성능 요약
 
-메모리: 0.0 MB, 시간: 0.00 ms
+메모리: undefined, 시간: 
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 19일 14:10:21
+2026년 06월 25일 12:49:39
 
 ### 문제 설명
 
