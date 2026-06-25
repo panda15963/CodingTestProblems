@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 484 |
+| 🔵 Programmers | 485 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 506 |
+| 🔢 **Total** | 507 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 상품 별 오프라인 매출 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 오랜 기간 보호한 동물(1), Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 오랜 기간 보호한 동물(1), Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 있었는데요 없었습니다, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 없어진 기록 찾기, Time: , Memory: undefined -BaekjoonHub
-- [level 4] Title: 그룹별 조건에 맞는 식당 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
