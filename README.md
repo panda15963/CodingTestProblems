@@ -15,11 +15,11 @@
 | 🔢 **Total** | 505 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: NULL 처리하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 이름이 없는 동물의 아이디, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 경기도에 위치한 식품창고 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 가격대 별 상품 개수 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: 입양 시각 구하기(1), Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
