@@ -1,10 +1,10 @@
 # [level 2] 성분으로 구분한 아이스크림 총 주문량 - 133026 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133026?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/133026) 
 
 ### 성능 요약
 
-메모리: 0.0 MB, 시간: 0.00 ms
+메모리: undefined, 시간: 
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 16일 06:32:08
+2026년 06월 25일 12:28:09
 
 ### 문제 설명
 
