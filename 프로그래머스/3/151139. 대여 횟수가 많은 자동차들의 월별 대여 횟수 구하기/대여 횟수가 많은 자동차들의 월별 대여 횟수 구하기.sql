@@ -1,17 +1,22 @@
-SELECT EXTRACT(MONTH FROM start_date) AS month,
-       car_id,
-       COUNT(history_id) AS records
-FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY
-WHERE start_date >= DATE '2022-08-01'
-  AND start_date < DATE '2022-11-01'
-  AND car_id IN (
-      SELECT car_id
-      FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY
-      WHERE start_date >= DATE '2022-08-01'
-        AND start_date < DATE '2022-11-01'
-      GROUP BY car_id
-      HAVING COUNT(history_id) > 4
-  )
-GROUP BY EXTRACT(MONTH FROM start_date), car_id
-HAVING COUNT(history_id) > 0  -- 별칭 대신 COUNT(history_id) 사용
-ORDER BY month, car_id DESC;
+SELECT
+    EXTRACT(MONTH FROM H.START_DATE) AS MONTH,
+    H.CAR_ID,
+    COUNT(*) AS RECORDS
+FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY H
+WHERE H.START_DATE >= DATE '2022-08-01'
+  AND H.START_DATE < DATE '2022-11-01'
+  AND H.CAR_ID IN (
+        SELECT CAR_ID
+        FROM CAR_RENTAL_COMPANY_RENTAL_HISTORY
+        WHERE START_DATE >= DATE '2022-08-01'
+          AND START_DATE < DATE '2022-11-01'
+        GROUP BY CAR_ID
+        HAVING COUNT(*) >= 5
+    )
+GROUP BY
+    EXTRACT(MONTH FROM H.START_DATE),
+    H.CAR_ID
+HAVING COUNT(*) > 0
+ORDER BY
+    MONTH ASC,
+    CAR_ID DESC;
