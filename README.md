@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 488 |
+| 🔵 Programmers | 489 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 510 |
+| 🔢 **Total** | 511 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 취소되지 않은 진료 예약 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 특정 옵션이 포함된 자동차 리스트 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 자동차 대여 기록 별 대여 금액 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 자동차 대여 기록에서 장기/단기 대여 구분하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기, Time: , Memory: undefined -BaekjoonHub
-- [level 3] Title: 조건별로 분류하여 주문상태 출력하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
