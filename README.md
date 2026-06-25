@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 483 |
+| 🔵 Programmers | 484 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 505 |
+| 🔢 **Total** | 506 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 그룹별 조건에 맞는 식당 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
+- [level 2] Title: 조건에 맞는 도서와 저자 리스트 출력하기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: NULL 처리하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 이름이 없는 동물의 아이디, Time: , Memory: undefined -BaekjoonHub
-- [level 1] Title: 경기도에 위치한 식품창고 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: 가격대 별 상품 개수 구하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
