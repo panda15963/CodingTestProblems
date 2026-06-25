@@ -15,11 +15,11 @@
 | 🔢 **Total** | 505 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 즐겨찾기가 가장 많은 식당 정보 출력하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 즐겨찾기가 가장 많은 식당 정보 출력하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 진료과별 총 예약 횟수 출력하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 진료과별 총 예약 횟수 출력하기, Time: , Memory: undefined -BaekjoonHub
-- [level 4] Title: 식품분류별 가장 비싼 식품의 정보 조회하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
