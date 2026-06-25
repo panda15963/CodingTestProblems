@@ -1,6 +1,6 @@
 # [level 1] 자동차 대여 기록에서 장기/단기 대여 구분하기 - 151138 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/151138?language=mysql) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/151138) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 06일 21:29:02
+2026년 06월 25일 13:15:37
 
 ### 문제 설명
 
