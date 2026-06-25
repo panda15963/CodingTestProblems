@@ -15,11 +15,11 @@
 | 🔢 **Total** | 506 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 오랜 기간 보호한 동물(1), Time: , Memory: undefined -BaekjoonHub
+- [level 3] Title: 있었는데요 없었습니다, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 없어진 기록 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 그룹별 조건에 맞는 식당 목록 출력하기, Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 조건에 맞는 도서와 저자 리스트 출력하기, Time: , Memory: undefined -BaekjoonHub
-- [level 4] Title: 특정 기간동안 대여 가능한 자동차들의 대여비용 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 2] Title: NULL 처리하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
