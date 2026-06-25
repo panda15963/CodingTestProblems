@@ -15,11 +15,11 @@
 | 🔢 **Total** | 511 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 카테고리 별 상품 개수 구하기, Time: , Memory: undefined -BaekjoonHub
 - [level 3] Title: 오랜 기간 보호한 동물(2), Time: , Memory: undefined -BaekjoonHub
 - [level 2] Title: 이름에 el이 들어가는 동물 찾기, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 취소되지 않은 진료 예약 조회하기, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 특정 옵션이 포함된 자동차 리스트 구하기, Time: , Memory: undefined -BaekjoonHub
-- [level 4] Title: 자동차 대여 기록 별 대여 금액 구하기, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
