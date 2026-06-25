@@ -1,10 +1,10 @@
 # [level 4] 식품분류별 가장 비싼 식품의 정보 조회하기 - 131116 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131116?language=oracle) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131116) 
 
 ### 성능 요약
 
-메모리: 0.0 MB, 시간: 0.00 ms
+메모리: undefined, 시간: 
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 04월 16일 06:33:39
+2026년 06월 25일 12:28:51
 
 ### 문제 설명
 
