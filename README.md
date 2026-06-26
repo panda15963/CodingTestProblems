@@ -15,11 +15,11 @@
 | 🔢 **Total** | 512 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 의상, Time: 0.12 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 2] Title: 전화번호 목록, Time: 180.06 ms, Memory: 222 MB -BaekjoonHub
 - [level 2] Title: 전화번호 목록, Time: 241.82 ms, Memory: 118 MB -BaekjoonHub
 - [level 1] Title: 폰켓몬, Time: 0.53 ms, Memory: 44.2 MB -BaekjoonHub
 - 폴더구조 변경
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
