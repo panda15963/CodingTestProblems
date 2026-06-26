@@ -15,11 +15,11 @@
 | 🔢 **Total** | 512 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 38 ms (33.33%), Space: 78.8 MB (44.44%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 14 ms (67.21%), Space: 88 MB (72.13%) - LeetHub
 - Create README - LeetHub
-- [level 2] Title: [PCCP 기출문제] 3번 / 아날로그 시계, Time: 0.04 ms, Memory: 75.4 MB -BaekjoonHub
-- [level 3] Title: n + 1 카드게임, Time: 15.96 ms, Memory: 84.4 MB -BaekjoonHub
-- [level 2] Title: H-Index, Time: 0.46 ms, Memory: 44.1 MB -BaekjoonHub
-- [level 2] Title: H-Index, Time: 4.14 ms, Memory: 78.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
