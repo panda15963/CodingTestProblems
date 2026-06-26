@@ -15,11 +15,11 @@
 | 🔢 **Total** | 512 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 폰켓몬, Time: 0.53 ms, Memory: 44.2 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 36 ms (33.33%), Space: 79.4 MB (16.67%) - LeetHub
 - Update README - Topic Tags
-- Time: 38 ms (33.33%), Space: 78.8 MB (44.44%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
