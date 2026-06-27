@@ -15,11 +15,11 @@
 | 🔢 **Total** | 515 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 피로도, Time: 3.10 ms, Memory: 49.4 MB -BaekjoonHub
 - [level 2] Title: 피로도, Time: 1.52 ms, Memory: 73.7 MB -BaekjoonHub
 - [level 2] Title: 카펫, Time: 0.03 ms, Memory: 74.7 MB -BaekjoonHub
 - [level 2] Title: 소수 찾기, Time: 7.80 ms, Memory: 82.9 MB -BaekjoonHub
 - [level 2] Title: 소수 찾기, Time: 1.68 ms, Memory: 49.4 MB -BaekjoonHub
-- [level 1] Title: 최소직사각형, Time: 2.15 ms, Memory: 52.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
