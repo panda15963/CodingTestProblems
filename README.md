@@ -15,11 +15,11 @@
 | 🔢 **Total** | 515 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 도둑질, Time: 16.65 ms, Memory: 72.9 MB -BaekjoonHub
 - [level 3] Title: 등굣길, Time: 3.53 ms, Memory: 49.6 MB -BaekjoonHub
 - [level 3] Title: 단속카메라, Time: 5.51 ms, Memory: 58.5 MB -BaekjoonHub
 - [level 2] Title: 구명보트, Time: 13.65 ms, Memory: 51 MB -BaekjoonHub
 - [level 3] Title: 이중우선순위큐, Time: 63.76 ms, Memory: 74.9 MB -BaekjoonHub
-- [level 3] Title: 이중우선순위큐, Time: 41.07 ms, Memory: 134 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
