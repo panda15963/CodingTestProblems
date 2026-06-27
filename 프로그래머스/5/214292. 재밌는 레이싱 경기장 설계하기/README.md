@@ -1,10 +1,10 @@
 # [level 5] 재밌는 레이싱 경기장 설계하기 - 214292 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/214292?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/214292?language=javascript) 
 
 ### 성능 요약
 
-메모리: 90.5 MB, 시간: 45.55 ms
+메모리: 60.1 MB, 시간: 60.19 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 27일 21:12:32
+2026년 06월 27일 21:13:28
 
 ### 문제 설명
 
