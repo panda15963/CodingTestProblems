@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 491 |
+| 🔵 Programmers | 492 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 513 |
+| 🔢 **Total** | 514 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: [PCCE 기출문제] 4번 / 저축, Time: 132.58 ms, Memory: 80.2 MB -BaekjoonHub
 - [level 2] Title: 다리를 지나는 트럭, Time: 10.76 ms, Memory: 81.9 MB -BaekjoonHub
 - [level 2] Title: 다리를 지나는 트럭, Time: 57.74 ms, Memory: 50.8 MB -BaekjoonHub
 - [level 2] Title: 프로세스, Time: 0.70 ms, Memory: 44.6 MB -BaekjoonHub
 - [level 2] Title: 올바른 괄호, Time: 6.25 ms, Memory: 50.9 MB -BaekjoonHub
-- [level 2] Title: 기능개발, Time: 0.12 ms, Memory: 43.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
