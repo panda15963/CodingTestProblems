@@ -15,11 +15,11 @@
 | 🔢 **Total** | 513 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 52 ms (86.05%), Space: 67.8 MB (51.16%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 39 ms (100%), Space: 72 MB (80%) - LeetHub
 - Create README - LeetHub
-- [level 5] Title: 방의 개수, Time: 117.86 ms, Memory: 150 MB -BaekjoonHub
-- [level 4] Title: 징검다리, Time: 27.86 ms, Memory: 56.1 MB -BaekjoonHub
-- [level 3] Title: 베스트앨범, Time: 0.21 ms, Memory: 44.1 MB -BaekjoonHub
-- [level 2] Title: 의상, Time: 0.12 ms, Memory: 43.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
