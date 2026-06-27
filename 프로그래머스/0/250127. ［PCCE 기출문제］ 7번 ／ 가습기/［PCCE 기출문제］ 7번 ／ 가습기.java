@@ -16,7 +16,7 @@ class Solution {
             return 3;
         else if (humidity >= 10)
             return 4;
-         else
+        else
             return 5;
     }
 
@@ -36,7 +36,7 @@ class Solution {
             answer = func1(humidity, val_set);
         }
         else if(mode_type.equals("minimum")){
-            answer = func3(humidity, val_set);
+            answer = func3(humidity, val_set);;
         }
 
         return answer;
