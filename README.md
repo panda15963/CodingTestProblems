@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 495 |
+| 🔵 Programmers | 496 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 517 |
+| 🔢 **Total** | 518 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 5] Title: 재밌는 레이싱 경기장 설계하기, Time: 45.55 ms, Memory: 90.5 MB -BaekjoonHub
 - [level 5] Title: 중요한 도로, Time: 149.74 ms, Memory: 163 MB -BaekjoonHub
 - [level 0] Title: [PCCE 기출문제] 8번 / 창고 정리, Time: 0.04 ms, Memory: 74.4 MB -BaekjoonHub
 - [level 4] Title: 도둑질, Time: 16.65 ms, Memory: 72.9 MB -BaekjoonHub
 - [level 3] Title: 등굣길, Time: 3.53 ms, Memory: 49.6 MB -BaekjoonHub
-- [level 3] Title: 단속카메라, Time: 5.51 ms, Memory: 58.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
