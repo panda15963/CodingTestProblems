@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 492 |
+| 🔵 Programmers | 493 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 514 |
+| 🔢 **Total** | 515 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 피로도, Time: 1.52 ms, Memory: 73.7 MB -BaekjoonHub
+- [level 2] Title: 카펫, Time: 0.03 ms, Memory: 74.7 MB -BaekjoonHub
 - [level 2] Title: 소수 찾기, Time: 7.80 ms, Memory: 82.9 MB -BaekjoonHub
 - [level 2] Title: 소수 찾기, Time: 1.68 ms, Memory: 49.4 MB -BaekjoonHub
 - [level 1] Title: 최소직사각형, Time: 2.15 ms, Memory: 52.5 MB -BaekjoonHub
-- [level 0] Title: [PCCE 기출문제] 7번 / 가습기, Time: 0.04 ms, Memory: 75.3 MB -BaekjoonHub
-- [level 0] Title: [PCCE 기출문제] 4번 / 저축, Time: 132.58 ms, Memory: 80.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
