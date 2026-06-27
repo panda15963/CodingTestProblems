@@ -15,11 +15,11 @@
 | 🔢 **Total** | 513 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 올바른 괄호, Time: 6.25 ms, Memory: 50.9 MB -BaekjoonHub
 - [level 2] Title: 기능개발, Time: 0.12 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 1] Title: 같은 숫자는 싫어, Time: 17.18 ms, Memory: 120 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
-- Time: 52 ms (86.05%), Space: 67.8 MB (51.16%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
