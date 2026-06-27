@@ -15,11 +15,11 @@
 | 🔢 **Total** | 515 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 이중우선순위큐, Time: 41.07 ms, Memory: 134 MB -BaekjoonHub
 - [level 3] Title: 디스크 컨트롤러, Time: 2.31 ms, Memory: 74.7 MB -BaekjoonHub
 - [level 3] Title: 디스크 컨트롤러, Time: 1.71 ms, Memory: 45.5 MB -BaekjoonHub
 - [level 2] Title: 더 맵게, Time: 652.84 ms, Memory: 140 MB -BaekjoonHub
 - [level 2] Title: 피로도, Time: 3.10 ms, Memory: 49.4 MB -BaekjoonHub
-- [level 2] Title: 피로도, Time: 1.52 ms, Memory: 73.7 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
