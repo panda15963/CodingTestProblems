@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 493 |
+| 🔵 Programmers | 494 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 515 |
+| 🔢 **Total** | 516 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 0] Title: [PCCE 기출문제] 8번 / 창고 정리, Time: 0.04 ms, Memory: 74.4 MB -BaekjoonHub
 - [level 4] Title: 도둑질, Time: 16.65 ms, Memory: 72.9 MB -BaekjoonHub
 - [level 3] Title: 등굣길, Time: 3.53 ms, Memory: 49.6 MB -BaekjoonHub
 - [level 3] Title: 단속카메라, Time: 5.51 ms, Memory: 58.5 MB -BaekjoonHub
 - [level 2] Title: 구명보트, Time: 13.65 ms, Memory: 51 MB -BaekjoonHub
-- [level 3] Title: 이중우선순위큐, Time: 63.76 ms, Memory: 74.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
