@@ -1,10 +1,10 @@
 # [level 4] 경사로의 개수 - 214290 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/214290?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/214290?language=javascript) 
 
 ### 성능 요약
 
-메모리: 384 MB, 시간: 495.64 ms
+메모리: 60.3 MB, 시간: 406.33 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 06월 27일 21:16:42
+2026년 06월 27일 21:18:17
 
 ### 문제 설명
 
