@@ -15,11 +15,11 @@
 | 🔢 **Total** | 518 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 8 ms (100%), Space: 66.9 MB (0%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 12 ms (6.67%), Space: 77.6 MB (41.25%) - LeetHub
 - Create README - LeetHub
-- [level 4] Title: 경사로의 개수, Time: 406.33 ms, Memory: 60.3 MB -BaekjoonHub
-- [level 4] Title: 경사로의 개수, Time: 495.64 ms, Memory: 384 MB -BaekjoonHub
-- [level 5] Title: 재밌는 레이싱 경기장 설계하기, Time: 60.19 ms, Memory: 60.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
