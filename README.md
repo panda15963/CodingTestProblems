@@ -15,11 +15,11 @@
 | 🔢 **Total** | 518 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 공원 산책, Time: 0.22 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 1] Title: 추억 점수, Time: 0.40 ms, Memory: 44.3 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 11 ms (27.78%), Space: 65.7 MB (38.89%) - LeetHub
 - Update README - Topic Tags
-- Time: 8 ms (100%), Space: 66.9 MB (0%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
