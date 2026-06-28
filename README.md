@@ -15,11 +15,11 @@
 | 🔢 **Total** | 519 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 인사고과, Time: 38.18 ms, Memory: 78 MB -BaekjoonHub
 - [level 3] Title: 인사고과, Time: 52.15 ms, Memory: 112 MB -BaekjoonHub
 - [level 2] Title: 시소 짝꿍, Time: 50.44 ms, Memory: 98.5 MB -BaekjoonHub
 - [level 2] Title: 숫자 변환하기, Time: 15.37 ms, Memory: 78.1 MB -BaekjoonHub
 - [level 2] Title: 숫자 변환하기, Time: 10.77 ms, Memory: 57.3 MB -BaekjoonHub
-- [level 2] Title: 뒤에 있는 큰 수 찾기, Time: 148.72 ms, Memory: 213 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
