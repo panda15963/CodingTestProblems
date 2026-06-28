@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 496 |
+| 🔵 Programmers | 497 |
 | 🟢 Baekjoon | 2 |
-| 🔢 **Total** | 518 |
+| 🔢 **Total** | 519 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 바탕화면 정리, Time: 0.11 ms, Memory: 74.9 MB -BaekjoonHub
 - 폴더구조 변경
 - [level 2] Title: 당구 연습, Time: 0.47 ms, Memory: 44.6 MB -BaekjoonHub
 - [level 1] Title: 공원 산책, Time: 0.22 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 1] Title: 추억 점수, Time: 0.40 ms, Memory: 44.3 MB -BaekjoonHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
