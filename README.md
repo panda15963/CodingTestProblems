@@ -15,11 +15,11 @@
 | 🔢 **Total** | 519 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 숫자 변환하기, Time: 10.77 ms, Memory: 57.3 MB -BaekjoonHub
 - [level 2] Title: 뒤에 있는 큰 수 찾기, Time: 148.72 ms, Memory: 213 MB -BaekjoonHub
 - [level 3] Title: 연속 펄스 부분 수열의 합, Time: 15.72 ms, Memory: 72.3 MB -BaekjoonHub
 - [level 1] Title: 바탕화면 정리, Time: 0.11 ms, Memory: 74.9 MB -BaekjoonHub
 - 폴더구조 변경
-- [level 2] Title: 당구 연습, Time: 0.47 ms, Memory: 44.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
