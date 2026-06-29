@@ -15,11 +15,11 @@
 | 🔢 **Total** | 521 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 등대, Time: 44.07 ms, Memory: 132 MB -BaekjoonHub
 - [level 1] Title: 햄버거 만들기, Time: 60.06 ms, Memory: 122 MB -BaekjoonHub
 - [level 2] Title: 우박수열 정적분, Time: 1.80 ms, Memory: 52.4 MB -BaekjoonHub
 - [level 1] Title: 푸드 파이트 대회, Time: 0.10 ms, Memory: 44 MB -BaekjoonHub
 - [level 2] Title: 숫자 카드 나누기, Time: 15.35 ms, Memory: 153 MB -BaekjoonHub
-- [level 2] Title: 숫자 카드 나누기, Time: 9.03 ms, Memory: 92.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
