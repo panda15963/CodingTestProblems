@@ -15,11 +15,11 @@
 | 🔢 **Total** | 521 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 콜라 문제, Time: 2.27 ms, Memory: 44.3 MB -BaekjoonHub
 - [level 1] Title: 콜라 문제, Time: 0.05 ms, Memory: 75.2 MB -BaekjoonHub
 - [level 3] Title: 등대, Time: 84.04 ms, Memory: 144 MB -BaekjoonHub
 - [level 3] Title: 등대, Time: 44.07 ms, Memory: 132 MB -BaekjoonHub
 - [level 1] Title: 햄버거 만들기, Time: 60.06 ms, Memory: 122 MB -BaekjoonHub
-- [level 2] Title: 우박수열 정적분, Time: 1.80 ms, Memory: 52.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
