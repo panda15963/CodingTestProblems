@@ -15,11 +15,11 @@
 | 🔢 **Total** | 519 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 유사 칸토어 비트열, Time: 4.43 ms, Memory: 78.1 MB -BaekjoonHub
+- Update README - Topic Tags
 - Time: 0 ms (100%), Space: 43.4 MB (38.69%) - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 53.8 MB (62.5%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
