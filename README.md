@@ -15,11 +15,11 @@
 | 🔢 **Total** | 520 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 점 찍기, Time: 5.45 ms, Memory: 50.4 MB -BaekjoonHub
 - [level 1] Title: 가장 가까운 같은 글자, Time: 221.30 ms, Memory: 51.6 MB -BaekjoonHub
 - [level 2] Title: 테이블 해시 함수, Time: 8.17 ms, Memory: 164 MB -BaekjoonHub
 - [level 1] Title: 크기가 작은 부분문자열, Time: 2.87 ms, Memory: 73.4 MB -BaekjoonHub
 - [level 1] Title: 크기가 작은 부분문자열, Time: 0.91 ms, Memory: 50 MB -BaekjoonHub
-- [level 2] Title: 유사 칸토어 비트열, Time: 4.43 ms, Memory: 78.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
