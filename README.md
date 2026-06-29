@@ -15,11 +15,11 @@
 | 🔢 **Total** | 521 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 연속 부분 수열 합의 개수, Time: 58.65 ms, Memory: 71.5 MB -BaekjoonHub
 - [level 3] Title: 고고학 최고의 발견, Time: 95.40 ms, Memory: 53 MB -BaekjoonHub
 - [level 3] Title: 2차원 동전 뒤집기, Time: 0.51 ms, Memory: 74.4 MB -BaekjoonHub
 - [level 2] Title: 택배상자, Time: 16.02 ms, Memory: 83.7 MB -BaekjoonHub
 - [level 1] Title: 삼총사, Time: 0.08 ms, Memory: 44.1 MB -BaekjoonHub
-- [level 1] Title: 삼총사, Time: 0.03 ms, Memory: 74.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
