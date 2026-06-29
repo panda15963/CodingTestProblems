@@ -15,11 +15,11 @@
 | 🔢 **Total** | 521 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 숫자 카드 나누기, Time: 15.35 ms, Memory: 153 MB -BaekjoonHub
 - [level 2] Title: 숫자 카드 나누기, Time: 9.03 ms, Memory: 92.4 MB -BaekjoonHub
 - [level 1] Title: 과일 장수, Time: 122.24 ms, Memory: 97.4 MB -BaekjoonHub
 - [level 1] Title: 과일 장수, Time: 30.55 ms, Memory: 111 MB -BaekjoonHub
 - [level 3] Title: 숫자 타자 대회, Time: 62.89 ms, Memory: 155 MB -BaekjoonHub
-- [level 1] Title: 기사단원의 무기, Time: 39.89 ms, Memory: 81.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
