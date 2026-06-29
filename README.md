@@ -15,11 +15,11 @@
 | 🔢 **Total** | 519 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 3] Title: 미로 탈출 명령어, Time: 2.83 ms, Memory: 80.1 MB -BaekjoonHub
-- [level 3] Title: 표현 가능한 이진트리, Time: 12.39 ms, Memory: 52.5 MB -BaekjoonHub
-- [level 2] Title: 이모티콘 할인행사, Time: 38.35 ms, Memory: 76.9 MB -BaekjoonHub
-- [level 1] Title: 개인정보 수집 유효기간, Time: 3.01 ms, Memory: 73.9 MB -BaekjoonHub
+- Update README - Topic Tags
+- Time: 0 ms (100%), Space: 53.8 MB (62.5%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 0 ms (100%), Space: 54.2 MB (96.43%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
