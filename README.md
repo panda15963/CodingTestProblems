@@ -15,11 +15,11 @@
 | 🔢 **Total** | 521 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 삼총사, Time: 0.08 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 1] Title: 삼총사, Time: 0.03 ms, Memory: 74.5 MB -BaekjoonHub
 - [level 2] Title: 롤케이크 자르기, Time: 92.81 ms, Memory: 81.6 MB -BaekjoonHub
 - [level 3] Title: 부대복귀, Time: 88.73 ms, Memory: 225 MB -BaekjoonHub
 - [level 3] Title: 부대복귀, Time: 83.84 ms, Memory: 207 MB -BaekjoonHub
-- [level 1] Title: 콜라 문제, Time: 2.27 ms, Memory: 44.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
