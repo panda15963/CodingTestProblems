@@ -15,11 +15,11 @@
 | 🔢 **Total** | 519 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 테이블 해시 함수, Time: 8.17 ms, Memory: 164 MB -BaekjoonHub
 - [level 1] Title: 크기가 작은 부분문자열, Time: 2.87 ms, Memory: 73.4 MB -BaekjoonHub
 - [level 1] Title: 크기가 작은 부분문자열, Time: 0.91 ms, Memory: 50 MB -BaekjoonHub
 - [level 2] Title: 유사 칸토어 비트열, Time: 4.43 ms, Memory: 78.1 MB -BaekjoonHub
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 43.4 MB (38.69%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
