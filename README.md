@@ -15,11 +15,11 @@
 | 🔢 **Total** | 521 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 고고학 최고의 발견, Time: 95.40 ms, Memory: 53 MB -BaekjoonHub
+- [level 3] Title: 2차원 동전 뒤집기, Time: 0.51 ms, Memory: 74.4 MB -BaekjoonHub
 - [level 2] Title: 택배상자, Time: 16.02 ms, Memory: 83.7 MB -BaekjoonHub
 - [level 1] Title: 삼총사, Time: 0.08 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 1] Title: 삼총사, Time: 0.03 ms, Memory: 74.5 MB -BaekjoonHub
-- [level 2] Title: 롤케이크 자르기, Time: 92.81 ms, Memory: 81.6 MB -BaekjoonHub
-- [level 3] Title: 부대복귀, Time: 88.73 ms, Memory: 225 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
