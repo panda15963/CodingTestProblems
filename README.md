@@ -15,11 +15,11 @@
 | 🔢 **Total** | 521 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 명예의 전당 (1), Time: 2.00 ms, Memory: 50.2 MB -BaekjoonHub
 - 폴더구조 변경
 - [level 4] Title: 쌍둥이 빌딩 숲, Time: 1.13 ms, Memory: 52.5 MB -BaekjoonHub
 - [level 2] Title: 점 찍기, Time: 5.45 ms, Memory: 50.4 MB -BaekjoonHub
 - [level 1] Title: 가장 가까운 같은 글자, Time: 221.30 ms, Memory: 51.6 MB -BaekjoonHub
-- [level 2] Title: 테이블 해시 함수, Time: 8.17 ms, Memory: 164 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
