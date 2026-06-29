@@ -15,11 +15,11 @@
 | 🔢 **Total** | 521 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 과일 장수, Time: 30.55 ms, Memory: 111 MB -BaekjoonHub
 - [level 3] Title: 숫자 타자 대회, Time: 62.89 ms, Memory: 155 MB -BaekjoonHub
 - [level 1] Title: 기사단원의 무기, Time: 39.89 ms, Memory: 81.1 MB -BaekjoonHub
 - [level 3] Title: 억억단을 외우자, Time: 186.91 ms, Memory: 138 MB -BaekjoonHub
 - [level 1] Title: 명예의 전당 (1), Time: 2.00 ms, Memory: 50.2 MB -BaekjoonHub
-- 폴더구조 변경
 
 <!-- DASHBOARD-END -->
 
