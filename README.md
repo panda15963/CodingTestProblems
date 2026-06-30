@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 504 |
+| 🔵 Programmers | 505 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 524 |
+| 🔢 **Total** | 525 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: k진수에서 소수 개수 구하기, Time: 6.86 ms, Memory: 78.1 MB -BaekjoonHub
 - [level 2] Title: 주차 요금 계산, Time: 7.23 ms, Memory: 80.5 MB -BaekjoonHub
 - [level 2] Title: 양궁대회, Time: 9039.44 ms, Memory: 49.6 MB -BaekjoonHub
 - [level 3] Title: 양과 늑대, Time: 5.25 ms, Memory: 55.8 MB -BaekjoonHub
 - [level 3] Title: 양과 늑대, Time: 8.88 ms, Memory: 82.4 MB -BaekjoonHub
-- [level 3] Title: 파괴되지 않은 건물, Time: 32.77 ms, Memory: 300 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
