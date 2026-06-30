@@ -15,11 +15,11 @@
 | 🔢 **Total** | 519 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 등산코스 정하기, Time: 84.04 ms, Memory: 153 MB -BaekjoonHub
 - [level 3] Title: 등산코스 정하기, Time: 144.68 ms, Memory: 202 MB -BaekjoonHub
 - [level 4] Title: 행렬과 연산, Time: 33.96 ms, Memory: 126 MB -BaekjoonHub
 - [level 2] Title: 할인 행사, Time: 30.13 ms, Memory: 108 MB -BaekjoonHub
 - [level 2] Title: 할인 행사, Time: 9.13 ms, Memory: 58.7 MB -BaekjoonHub
-- [level 1] Title: 숫자 짝꿍, Time: 48.00 ms, Memory: 144 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
