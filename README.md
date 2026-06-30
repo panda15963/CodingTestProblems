@@ -15,11 +15,11 @@
 | 🔢 **Total** | 519 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 할인 행사, Time: 30.13 ms, Memory: 108 MB -BaekjoonHub
 - [level 2] Title: 할인 행사, Time: 9.13 ms, Memory: 58.7 MB -BaekjoonHub
 - [level 1] Title: 숫자 짝꿍, Time: 48.00 ms, Memory: 144 MB -BaekjoonHub
 - [level 2] Title: 혼자 놀기의 달인, Time: 0.27 ms, Memory: 74.4 MB -BaekjoonHub
 - [level 2] Title: 혼자 놀기의 달인, Time: 0.16 ms, Memory: 44.2 MB -BaekjoonHub
-- 폴더구조 변경
 
 <!-- DASHBOARD-END -->
 
