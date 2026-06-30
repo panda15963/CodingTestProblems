@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 503 |
+| 🔵 Programmers | 504 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 523 |
+| 🔢 **Total** | 524 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 주차 요금 계산, Time: 7.23 ms, Memory: 80.5 MB -BaekjoonHub
 - [level 2] Title: 양궁대회, Time: 9039.44 ms, Memory: 49.6 MB -BaekjoonHub
 - [level 3] Title: 양과 늑대, Time: 5.25 ms, Memory: 55.8 MB -BaekjoonHub
 - [level 3] Title: 양과 늑대, Time: 8.88 ms, Memory: 82.4 MB -BaekjoonHub
 - [level 3] Title: 파괴되지 않은 건물, Time: 32.77 ms, Memory: 300 MB -BaekjoonHub
-- [level 3] Title: 사라지는 발판, Time: 8.07 ms, Memory: 82.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
