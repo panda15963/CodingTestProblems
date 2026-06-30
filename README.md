@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 499 |
+| 🔵 Programmers | 500 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 519 |
+| 🔢 **Total** | 520 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 사라지는 발판, Time: 8.07 ms, Memory: 82.4 MB -BaekjoonHub
 - [level 1] Title: 성격 유형 검사하기, Time: 0.24 ms, Memory: 44.3 MB -BaekjoonHub
 - [level 2] Title: 두 큐 합 같게 만들기, Time: 4.04 ms, Memory: 112 MB -BaekjoonHub
 - [level 2] Title: 두 큐 합 같게 만들기, Time: 22.72 ms, Memory: 74 MB -BaekjoonHub
 - [level 3] Title: 등산코스 정하기, Time: 84.04 ms, Memory: 153 MB -BaekjoonHub
-- [level 3] Title: 등산코스 정하기, Time: 144.68 ms, Memory: 202 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
