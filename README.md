@@ -15,11 +15,11 @@
 | 🔢 **Total** | 519 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- 백준 삭제
-- 백준 서비스 종료
-- [level 2] Title: 연속 부분 수열 합의 개수, Time: 58.65 ms, Memory: 71.5 MB -BaekjoonHub
-- [level 3] Title: 고고학 최고의 발견, Time: 95.40 ms, Memory: 53 MB -BaekjoonHub
+- Update README - Topic Tags
+- Time: 10 ms (87.1%), Space: 56.7 MB (77.42%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 13 ms (72.65%), Space: 46.2 MB (78.62%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
