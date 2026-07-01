@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 518 |
+| 🔵 Programmers | 519 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 538 |
+| 🔢 **Total** | 539 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 거리두기 확인하기, Time: 0.39 ms, Memory: 79.9 MB -BaekjoonHub
 - [level 3] Title: 표 편집, Time: 319.35 ms, Memory: 153 MB -BaekjoonHub
 - [level 3] Title: 표 편집, Time: 821.53 ms, Memory: 149 MB -BaekjoonHub
 - [level 4] Title: 미로 탈출, Time: 14.37 ms, Memory: 91.2 MB -BaekjoonHub
 - [level 5] Title: 시험장 나누기, Time: 110.22 ms, Memory: 71.5 MB -BaekjoonHub
-- [level 1] Title: 부족한 금액 계산하기, Time: 0.06 ms, Memory: 78 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
