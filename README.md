@@ -15,11 +15,11 @@
 | 🔢 **Total** | 530 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 697 ms (81.82%), Space: 105.3 MB (18.18%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 2371 ms (0%), Space: 111.2 MB (0%) - LeetHub
 - Create README - LeetHub
-- [level 2] Title: 교점에 별 만들기, Time: 12.18 ms, Memory: 80.4 MB -BaekjoonHub
-- [level 1] Title: 나머지가 1이 되는 수 찾기, Time: 2.71 ms, Memory: 74.7 MB -BaekjoonHub
-- [level 2] Title: n^2 배열 자르기, Time: 3.27 ms, Memory: 92.3 MB -BaekjoonHub
-- [level 3] Title: 공 이동 시뮬레이션, Time: 9.14 ms, Memory: 113 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
