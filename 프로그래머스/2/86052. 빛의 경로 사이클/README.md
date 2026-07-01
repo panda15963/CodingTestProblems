@@ -1,10 +1,10 @@
 # [level 2] 빛의 경로 사이클 - 86052 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86052?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86052?language=javascript) 
 
 ### 성능 요약
 
-메모리: 88.1 MB, 시간: 38.76 ms
+메모리: 85.1 MB, 시간: 64.24 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 02일 05:58:35
+2026년 07월 02일 05:58:46
 
 ### 문제 설명
 
