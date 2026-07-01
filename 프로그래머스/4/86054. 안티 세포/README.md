@@ -1,10 +1,10 @@
 # [level 4] 안티 세포 - 86054 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86054?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86054?language=javascript) 
 
 ### 성능 요약
 
-메모리: 259 MB, 시간: 159.60 ms
+메모리: 201 MB, 시간: 150.83 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 02일 05:55:46
+2026년 07월 02일 05:56:01
 
 ### 문제 설명
 
