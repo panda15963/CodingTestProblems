@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 516 |
+| 🔵 Programmers | 517 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 536 |
+| 🔢 **Total** | 537 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 미로 탈출, Time: 14.37 ms, Memory: 91.2 MB -BaekjoonHub
 - [level 5] Title: 시험장 나누기, Time: 110.22 ms, Memory: 71.5 MB -BaekjoonHub
 - [level 1] Title: 부족한 금액 계산하기, Time: 0.06 ms, Memory: 78 MB -BaekjoonHub
 - [level 1] Title: 없는 숫자 더하기, Time: 0.05 ms, Memory: 73.6 MB -BaekjoonHub
 - [level 2] Title: 빛의 경로 사이클, Time: 64.24 ms, Memory: 85.1 MB -BaekjoonHub
-- [level 2] Title: 빛의 경로 사이클, Time: 38.76 ms, Memory: 88.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
