@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 511 |
+| 🔵 Programmers | 512 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 531 |
+| 🔢 **Total** | 532 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 금과 은 운반하기, Time: 36.92 ms, Memory: 107 MB -BaekjoonHub
 - [level 4] Title: 안티 세포, Time: 150.83 ms, Memory: 201 MB -BaekjoonHub
 - [level 4] Title: 안티 세포, Time: 159.60 ms, Memory: 259 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
-- Time: 171 ms (37.46%), Space: 127.4 MB (16.19%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
