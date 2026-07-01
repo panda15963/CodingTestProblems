@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 510 |
+| 🔵 Programmers | 511 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 530 |
+| 🔢 **Total** | 531 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 안티 세포, Time: 159.60 ms, Memory: 259 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 171 ms (37.46%), Space: 127.4 MB (16.19%) - LeetHub
 - Update README - Topic Tags
-- Time: 697 ms (81.82%), Space: 105.3 MB (18.18%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
