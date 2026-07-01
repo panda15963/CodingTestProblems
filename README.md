@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 513 |
+| 🔵 Programmers | 514 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 533 |
+| 🔢 **Total** | 534 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 없는 숫자 더하기, Time: 0.05 ms, Memory: 73.6 MB -BaekjoonHub
 - [level 2] Title: 빛의 경로 사이클, Time: 64.24 ms, Memory: 85.1 MB -BaekjoonHub
 - [level 2] Title: 빛의 경로 사이클, Time: 38.76 ms, Memory: 88.1 MB -BaekjoonHub
 - [level 3] Title: 금과 은 운반하기, Time: 36.92 ms, Memory: 107 MB -BaekjoonHub
 - [level 4] Title: 안티 세포, Time: 150.83 ms, Memory: 201 MB -BaekjoonHub
-- [level 4] Title: 안티 세포, Time: 159.60 ms, Memory: 259 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
