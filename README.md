@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 521 |
+| 🔵 Programmers | 522 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 541 |
+| 🔢 **Total** | 542 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 2개 이하로 다른 비트, Time: 3.61 ms, Memory: 101 MB -BaekjoonHub
 - [level 3] Title: 110 옮기기, Time: 57.53 ms, Memory: 96.2 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - [level 3] Title: 110 옮기기, Time: 2806.13 ms, Memory: 98 MB -BaekjoonHub
 - Update README - Topic Tags
-- Time: 17 ms (86.21%), Space: 61 MB (89.66%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
