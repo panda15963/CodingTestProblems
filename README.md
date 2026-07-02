@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 525 |
+| 🔵 Programmers | 526 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 545 |
+| 🔢 **Total** | 546 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 행렬 테두리 회전하기, Time: 34.26 ms, Memory: 115 MB -BaekjoonHub
 - [level 3] Title: 다단계 칫솔 판매, Time: 35.58 ms, Memory: 63.8 MB -BaekjoonHub
 - [level 3] Title: 다단계 칫솔 판매, Time: 40.79 ms, Memory: 141 MB -BaekjoonHub
 - [level 3] Title: 헤비 유저가 소유한 장소, Time: , Memory: undefined -BaekjoonHub
 - [level 1] Title: 약수의 개수와 덧셈, Time: 0.07 ms, Memory: 73.1 MB -BaekjoonHub
-- [level 1] Title: 약수의 개수와 덧셈, Time: 0.26 ms, Memory: 44.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
