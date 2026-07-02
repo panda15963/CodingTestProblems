@@ -15,11 +15,11 @@
 | 🔢 **Total** | 542 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 2개 이하로 다른 비트, Time: 19.43 ms, Memory: 75.3 MB -BaekjoonHub
 - [level 2] Title: 2개 이하로 다른 비트, Time: 3.61 ms, Memory: 101 MB -BaekjoonHub
 - [level 3] Title: 110 옮기기, Time: 57.53 ms, Memory: 96.2 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - [level 3] Title: 110 옮기기, Time: 2806.13 ms, Memory: 98 MB -BaekjoonHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
