@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 530 |
+| 🔵 Programmers | 531 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 550 |
+| 🔢 **Total** | 551 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 매출 하락 최소화, Time: 91.37 ms, Memory: 169 MB -BaekjoonHub
 - [level 1] Title: 음양 더하기, Time: 0.13 ms, Memory: 44.2 MB -BaekjoonHub
 - [level 2] Title: 괄호 회전하기, Time: 15.50 ms, Memory: 52 MB -BaekjoonHub
 - [level 2] Title: 괄호 회전하기, Time: 35.68 ms, Memory: 86 MB -BaekjoonHub
 - [level 3] Title: 모두 0으로 만들기, Time: 301.49 ms, Memory: 259 MB -BaekjoonHub
-- [level 5] Title: RPG와 쿼리, Time: 478.52 ms, Memory: 339 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
