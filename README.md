@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 527 |
+| 🔵 Programmers | 528 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 547 |
+| 🔢 **Total** | 548 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 모두 0으로 만들기, Time: 301.49 ms, Memory: 259 MB -BaekjoonHub
 - [level 5] Title: RPG와 쿼리, Time: 478.52 ms, Memory: 339 MB -BaekjoonHub
 - [level 2] Title: 행렬 테두리 회전하기, Time: 34.26 ms, Memory: 115 MB -BaekjoonHub
 - [level 3] Title: 다단계 칫솔 판매, Time: 35.58 ms, Memory: 63.8 MB -BaekjoonHub
 - [level 3] Title: 다단계 칫솔 판매, Time: 40.79 ms, Memory: 141 MB -BaekjoonHub
-- [level 3] Title: 헤비 유저가 소유한 장소, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
