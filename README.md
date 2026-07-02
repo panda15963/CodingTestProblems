@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 536 |
+| 🔵 Programmers | 537 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 556 |
+| 🔢 **Total** | 557 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 신규 아이디 추천, Time: 3.13 ms, Memory: 74.5 MB -BaekjoonHub
 - [level 2] Title: 메뉴 리뉴얼, Time: 4.37 ms, Memory: 77.4 MB -BaekjoonHub
 - [level 2] Title: 메뉴 리뉴얼, Time: 3.22 ms, Memory: 53.2 MB -BaekjoonHub
 - [level 2] Title: 순위 검색, Time: 447.53 ms, Memory: 173 MB -BaekjoonHub
 - [level 2] Title: 순위 검색, Time: 659.08 ms, Memory: 272 MB -BaekjoonHub
-- [level 3] Title: 합승 택시 요금, Time: 42.89 ms, Memory: 74.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
