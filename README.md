@@ -15,11 +15,11 @@
 | 🔢 **Total** | 540 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 20 ms (86.67%), Space: 62.4 MB (100%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
 - Time: 16 ms (63.11%), Space: 46.8 MB (93.44%) - LeetHub
 - Create README - LeetHub
-- [level 1] Title: 숫자 문자열과 영단어, Time: 0.06 ms, Memory: 74.5 MB -BaekjoonHub
-- [level 2] Title: 거리두기 확인하기, Time: 0.39 ms, Memory: 79.9 MB -BaekjoonHub
-- [level 3] Title: 표 편집, Time: 319.35 ms, Memory: 153 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
