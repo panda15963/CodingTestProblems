@@ -15,11 +15,11 @@
 | 🔢 **Total** | 543 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 약수의 개수와 덧셈, Time: 0.07 ms, Memory: 73.1 MB -BaekjoonHub
 - [level 1] Title: 약수의 개수와 덧셈, Time: 0.26 ms, Memory: 44.5 MB -BaekjoonHub
 - [level 2] Title: 2개 이하로 다른 비트, Time: 19.43 ms, Memory: 75.3 MB -BaekjoonHub
 - [level 2] Title: 2개 이하로 다른 비트, Time: 3.61 ms, Memory: 101 MB -BaekjoonHub
 - [level 3] Title: 110 옮기기, Time: 57.53 ms, Memory: 96.2 MB -BaekjoonHub
-- 🤖 auto: organize LeetCode problems into leetcode/ folder
 
 <!-- DASHBOARD-END -->
 
