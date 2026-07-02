@@ -1,10 +1,10 @@
 # [level 3] 110 옮기기 - 77886 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77886) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77886?language=javascript) 
 
 ### 성능 요약
 
-메모리: 98 MB, 시간: 2806.13 ms
+메모리: 96.2 MB, 시간: 57.53 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 02일 21:39:58
+2026년 07월 02일 21:40:18
 
 ### 문제 설명
 
