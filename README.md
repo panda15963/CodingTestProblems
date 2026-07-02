@@ -15,11 +15,11 @@
 | 🔢 **Total** | 541 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 110 옮기기, Time: 57.53 ms, Memory: 96.2 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - [level 3] Title: 110 옮기기, Time: 2806.13 ms, Memory: 98 MB -BaekjoonHub
 - Update README - Topic Tags
 - Time: 17 ms (86.21%), Space: 61 MB (89.66%) - LeetHub
-- Update README - Topic Tags
-- Time: 20 ms (86.67%), Space: 62.4 MB (100%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
