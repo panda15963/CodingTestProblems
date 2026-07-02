@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 520 |
+| 🔵 Programmers | 521 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 540 |
+| 🔢 **Total** | 541 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 110 옮기기, Time: 2806.13 ms, Memory: 98 MB -BaekjoonHub
+- Update README - Topic Tags
 - Time: 17 ms (86.21%), Space: 61 MB (89.66%) - LeetHub
 - Update README - Topic Tags
 - Time: 20 ms (86.67%), Space: 62.4 MB (100%) - LeetHub
-- Updated stats
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
