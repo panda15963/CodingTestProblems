@@ -15,11 +15,11 @@
 | 🔢 **Total** | 559 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 816 ms (33.33%), Space: 117 MB (47.62%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 242 ms (28.71%), Space: 165.7 MB (76.24%) - LeetHub
 - Create README - LeetHub
-- [level 3] Title: 스타 수열, Time: 216.84 ms, Memory: 292 MB -BaekjoonHub
-- [level 5] Title: 가짜 해밀토니안, Time: 1128.69 ms, Memory: 509 MB -BaekjoonHub
-- [level 1] Title: 신규 아이디 추천, Time: 3.13 ms, Memory: 74.5 MB -BaekjoonHub
-- [level 2] Title: 메뉴 리뉴얼, Time: 4.37 ms, Memory: 77.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
