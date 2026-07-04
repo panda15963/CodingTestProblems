@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 541 |
+| 🔵 Programmers | 542 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 561 |
+| 🔢 **Total** | 562 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 쿼드압축 후 개수 세기, Time: 23.93 ms, Memory: 90.7 MB -BaekjoonHub
 - [level 4] Title: 트리 트리오 중간값, Time: 185.41 ms, Memory: 173 MB -BaekjoonHub
 - [level 2] Title: 이진 변환 반복하기, Time: 0.76 ms, Memory: 44.6 MB -BaekjoonHub
 - 폴더 구조 변경
 - Time: 28 ms (59.87%), Space: 159.2 MB (81.58%) - LeetHub
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
