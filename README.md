@@ -15,11 +15,11 @@
 | 🔢 **Total** | 565 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 두 개 뽑아서 더하기, Time: 3.96 ms, Memory: 77.4 MB -BaekjoonHub
 - [level 1] Title: 두 개 뽑아서 더하기, Time: 0.83 ms, Memory: 50.1 MB -BaekjoonHub
 - [level 4] Title: 짝수 행 세기, Time: 37.87 ms, Memory: 83.4 MB -BaekjoonHub
 - [level 1] Title: 3진법 뒤집기, Time: 0.06 ms, Memory: 74.6 MB -BaekjoonHub
 - [level 2] Title: 쿼드압축 후 개수 세기, Time: 23.93 ms, Memory: 90.7 MB -BaekjoonHub
-- [level 4] Title: 트리 트리오 중간값, Time: 185.41 ms, Memory: 173 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
