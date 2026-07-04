@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 539 |
+| 🔵 Programmers | 540 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 559 |
+| 🔢 **Total** | 560 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 이진 변환 반복하기, Time: 0.76 ms, Memory: 44.6 MB -BaekjoonHub
 - 폴더 구조 변경
 - Time: 28 ms (59.87%), Space: 159.2 MB (81.58%) - LeetHub
 - Update README - Topic Tags
 - Time: 316 ms (50%), Space: 119.2 MB (57.69%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
