@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 555 |
+| 🔵 Programmers | 556 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 575 |
+| 🔢 **Total** | 576 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 블록 이동하기, Time: 8.76 ms, Memory: 80.6 MB -BaekjoonHub
 - [level 4] Title: 우유와 요거트가 담긴 장바구니, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 우유와 요거트가 담긴 장바구니, Time: , Memory: undefined -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
-- Time: 14 ms (58.82%), Space: 44.5 MB (91.76%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
