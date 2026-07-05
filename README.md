@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 553 |
+| 🔵 Programmers | 554 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 573 |
+| 🔢 **Total** | 574 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 크레인 인형뽑기 게임, Time: 0.50 ms, Memory: 44.2 MB -BaekjoonHub
 - [level 3] Title: 징검다리 건너기, Time: 61.16 ms, Memory: 72.6 MB -BaekjoonHub
 - [level 3] Title: 불량 사용자, Time: 27.91 ms, Memory: 91 MB -BaekjoonHub
 - [level 2] Title: 튜플, Time: 16.42 ms, Memory: 56.7 MB -BaekjoonHub
 - [level 1] Title: [카카오 인턴] 키패드 누르기, Time: 0.20 ms, Memory: 75.7 MB -BaekjoonHub
-- [level 2] Title: [카카오 인턴] 수식 최대화, Time: 0.38 ms, Memory: 44.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
