@@ -15,10 +15,10 @@
 | 🔢 **Total** | 577 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 가사 검색, Time: 465.10 ms, Memory: 453 MB -BaekjoonHub
 - [level 4] Title: 가사 검색, Time: 1816.56 ms, Memory: 710 MB -BaekjoonHub
 - [level 3] Title: 블록 이동하기, Time: 12.06 ms, Memory: 56.9 MB -BaekjoonHub
 - [level 3] Title: 블록 이동하기, Time: 8.76 ms, Memory: 80.6 MB -BaekjoonHub
-- [level 4] Title: 우유와 요거트가 담긴 장바구니, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 우유와 요거트가 담긴 장바구니, Time: , Memory: undefined -BaekjoonHub
 
 <!-- DASHBOARD-END -->
