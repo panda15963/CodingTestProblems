@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 568 |
+| 🔵 Programmers | 569 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 588 |
+| 🔢 **Total** | 589 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 오픈채팅방, Time: 99.37 ms, Memory: 178 MB -BaekjoonHub
 - [level 1] Title: 실패율, Time: 3.67 ms, Memory: 78.8 MB -BaekjoonHub
 - [level 2] Title: 후보키, Time: 5.19 ms, Memory: 83.4 MB -BaekjoonHub
 - [level 4] Title: 무지의 먹방 라이브, Time: 364.15 ms, Memory: 139 MB -BaekjoonHub
 - [level 3] Title: 길 찾기 게임, Time: 32.72 ms, Memory: 112 MB -BaekjoonHub
-- [level 3] Title: 매칭 점수, Time: 24.31 ms, Memory: 79 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
