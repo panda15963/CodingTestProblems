@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 548 |
+| 🔵 Programmers | 549 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 568 |
+| 🔢 **Total** | 569 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: [카카오 인턴] 수식 최대화, Time: 2.45 ms, Memory: 74.4 MB -BaekjoonHub
 - [level 3] Title: [카카오 인턴] 보석 쇼핑, Time: 42.91 ms, Memory: 97.8 MB -BaekjoonHub
 - [level 3] Title: [카카오 인턴] 경주로 건설, Time: 5.37 ms, Memory: 55.1 MB -BaekjoonHub
 - [level 3] Title: [카카오 인턴] 경주로 건설, Time: 6.73 ms, Memory: 77.8 MB -BaekjoonHub
 - [level 4] Title: [카카오 인턴] 동굴 탐험, Time: 410.38 ms, Memory: 245 MB -BaekjoonHub
-- [level 4] Title: [카카오 인턴] 동굴 탐험, Time: 254.67 ms, Memory: 246 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
