@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 561 |
+| 🔵 Programmers | 562 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 581 |
+| 🔢 **Total** | 582 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 스킬트리, Time: 0.05 ms, Memory: 75.8 MB -BaekjoonHub
 - [level 4] Title: 쿠키 구입, Time: 29.65 ms, Memory: 48.4 MB -BaekjoonHub
 - [level 2] Title: 문자열 압축, Time: 4.77 ms, Memory: 79.4 MB -BaekjoonHub
 - [level 2] Title: 괄호 변환, Time: 1.52 ms, Memory: 74.7 MB -BaekjoonHub
 - [level 3] Title: 자물쇠와 열쇠, Time: 22.18 ms, Memory: 51.6 MB -BaekjoonHub
-- [level 3] Title: 자물쇠와 열쇠, Time: 12.57 ms, Memory: 79.7 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
