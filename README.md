@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 556 |
+| 🔵 Programmers | 557 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 576 |
+| 🔢 **Total** | 577 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 가사 검색, Time: 1816.56 ms, Memory: 710 MB -BaekjoonHub
 - [level 3] Title: 블록 이동하기, Time: 12.06 ms, Memory: 56.9 MB -BaekjoonHub
 - [level 3] Title: 블록 이동하기, Time: 8.76 ms, Memory: 80.6 MB -BaekjoonHub
 - [level 4] Title: 우유와 요거트가 담긴 장바구니, Time: , Memory: undefined -BaekjoonHub
 - [level 4] Title: 우유와 요거트가 담긴 장바구니, Time: , Memory: undefined -BaekjoonHub
-- 폴더구조 변경
 
 <!-- DASHBOARD-END -->
 
