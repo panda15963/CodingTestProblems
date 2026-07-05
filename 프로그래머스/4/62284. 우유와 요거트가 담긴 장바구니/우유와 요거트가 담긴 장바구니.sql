@@ -6,4 +6,4 @@ WHERE NAME = 'Milk'
       FROM CART_PRODUCTS
       WHERE NAME = 'Yogurt'
   )
-ORDER BY CART_ID ASC;
+ORDER BY CART_ID;
