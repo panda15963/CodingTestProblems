@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 559 |
+| 🔵 Programmers | 560 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 579 |
+| 🔢 **Total** | 580 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 문자열 압축, Time: 4.77 ms, Memory: 79.4 MB -BaekjoonHub
 - [level 2] Title: 괄호 변환, Time: 1.52 ms, Memory: 74.7 MB -BaekjoonHub
 - [level 3] Title: 자물쇠와 열쇠, Time: 22.18 ms, Memory: 51.6 MB -BaekjoonHub
 - [level 3] Title: 자물쇠와 열쇠, Time: 12.57 ms, Memory: 79.7 MB -BaekjoonHub
 - [level 4] Title: 가사 검색, Time: 465.10 ms, Memory: 453 MB -BaekjoonHub
-- [level 4] Title: 가사 검색, Time: 1816.56 ms, Memory: 710 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
