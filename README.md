@@ -15,11 +15,11 @@
 | 🔢 **Total** | 578 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 자물쇠와 열쇠, Time: 22.18 ms, Memory: 51.6 MB -BaekjoonHub
 - [level 3] Title: 자물쇠와 열쇠, Time: 12.57 ms, Memory: 79.7 MB -BaekjoonHub
 - [level 4] Title: 가사 검색, Time: 465.10 ms, Memory: 453 MB -BaekjoonHub
 - [level 4] Title: 가사 검색, Time: 1816.56 ms, Memory: 710 MB -BaekjoonHub
 - [level 3] Title: 블록 이동하기, Time: 12.06 ms, Memory: 56.9 MB -BaekjoonHub
-- [level 3] Title: 블록 이동하기, Time: 8.76 ms, Memory: 80.6 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
