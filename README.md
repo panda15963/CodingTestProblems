@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 554 |
+| 🔵 Programmers | 555 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 574 |
+| 🔢 **Total** | 575 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 우유와 요거트가 담긴 장바구니, Time: , Memory: undefined -BaekjoonHub
+- [level 4] Title: 우유와 요거트가 담긴 장바구니, Time: , Memory: undefined -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 14 ms (58.82%), Space: 44.5 MB (91.76%) - LeetHub
-- Update README - Topic Tags
-- Time: 71 ms (66.67%), Space: 60.9 MB (83.33%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
