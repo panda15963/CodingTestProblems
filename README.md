@@ -15,11 +15,11 @@
 | 🔢 **Total** | 605 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 영어 끝말잇기, Time: 0.08 ms, Memory: 79.4 MB -BaekjoonHub
 - [level 2] Title: 영어 끝말잇기, Time: 0.13 ms, Memory: 44 MB -BaekjoonHub
 - [level 1] Title: 예산, Time: 0.15 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 1] Title: 예산, Time: 3.35 ms, Memory: 74.4 MB -BaekjoonHub
 - [level 4] Title: 단어 퍼즐, Time: 24.82 ms, Memory: 50.8 MB -BaekjoonHub
-- [level 4] Title: 지형 편집, Time: 82.96 ms, Memory: 55.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
