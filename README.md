@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 579 |
+| 🔵 Programmers | 580 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 599 |
+| 🔢 **Total** | 600 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 숫자 게임, Time: 67.82 ms, Memory: 54.9 MB -BaekjoonHub
+- [level 3] Title: 숫자 게임, Time: 39.28 ms, Memory: 68.8 MB -BaekjoonHub
 - [level 3] Title: [1차] 추석 트래픽, Time: 48.53 ms, Memory: 52.6 MB -BaekjoonHub
 - [level 3] Title: [1차] 추석 트래픽, Time: 27.82 ms, Memory: 84 MB -BaekjoonHub
 - [level 2] Title: [1차] 뉴스 클러스터링, Time: 0.45 ms, Memory: 43.7 MB -BaekjoonHub
-- [level 3] Title: [1차] 셔틀버스, Time: 1.65 ms, Memory: 44.5 MB -BaekjoonHub
-- [level 3] Title: [1차] 셔틀버스, Time: 4.45 ms, Memory: 78.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
