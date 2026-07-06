@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 573 |
+| 🔵 Programmers | 574 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 593 |
+| 🔢 **Total** | 594 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: [1차] 비밀지도, Time: 0.16 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 2] Title: [3차] 방금그곡, Time: 5.14 ms, Memory: 53.6 MB -BaekjoonHub
 - [level 2] Title: [3차] 압축, Time: 0.40 ms, Memory: 44.2 MB -BaekjoonHub
 - [level 2] Title: [3차] 압축, Time: 16.03 ms, Memory: 78.8 MB -BaekjoonHub
 - [level 2] Title: [3차] 파일명 정렬, Time: 13.90 ms, Memory: 78.4 MB -BaekjoonHub
-- [level 2] Title: [3차] n진수 게임, Time: 3.40 ms, Memory: 52.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
