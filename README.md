@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 574 |
+| 🔵 Programmers | 575 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 594 |
+| 🔢 **Total** | 595 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: [1차] 캐시, Time: 19.61 ms, Memory: 55.3 MB -BaekjoonHub
+- [level 2] Title: [1차] 캐시, Time: 39.41 ms, Memory: 123 MB -BaekjoonHub
 - [level 1] Title: [1차] 비밀지도, Time: 2.63 ms, Memory: 88 MB -BaekjoonHub
 - [level 1] Title: [1차] 비밀지도, Time: 0.16 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 2] Title: [3차] 방금그곡, Time: 5.14 ms, Memory: 53.6 MB -BaekjoonHub
-- [level 2] Title: [3차] 압축, Time: 0.40 ms, Memory: 44.2 MB -BaekjoonHub
-- [level 2] Title: [3차] 압축, Time: 16.03 ms, Memory: 78.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
