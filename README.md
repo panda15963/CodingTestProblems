@@ -15,11 +15,11 @@
 | 🔢 **Total** | 601 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 예상 대진표, Time: 0.10 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 2] Title: 예상 대진표, Time: 0.02 ms, Memory: 80 MB -BaekjoonHub
 - [level 3] Title: 숫자 게임, Time: 67.82 ms, Memory: 54.9 MB -BaekjoonHub
 - [level 3] Title: 숫자 게임, Time: 39.28 ms, Memory: 68.8 MB -BaekjoonHub
 - [level 3] Title: [1차] 추석 트래픽, Time: 48.53 ms, Memory: 52.6 MB -BaekjoonHub
-- [level 3] Title: [1차] 추석 트래픽, Time: 27.82 ms, Memory: 84 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
