@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 571 |
+| 🔵 Programmers | 572 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 591 |
+| 🔢 **Total** | 592 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: [3차] 압축, Time: 0.40 ms, Memory: 44.2 MB -BaekjoonHub
+- [level 2] Title: [3차] 압축, Time: 16.03 ms, Memory: 78.8 MB -BaekjoonHub
 - [level 2] Title: [3차] 파일명 정렬, Time: 13.90 ms, Memory: 78.4 MB -BaekjoonHub
 - [level 2] Title: [3차] n진수 게임, Time: 3.40 ms, Memory: 52.2 MB -BaekjoonHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
-- Time: 4 ms (83.33%), Space: 58.1 MB (91.67%) - LeetHub
-- Time: 5 ms (53.19%), Space: 56 MB (91.49%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
