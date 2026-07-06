@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 582 |
+| 🔵 Programmers | 583 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 602 |
+| 🔢 **Total** | 603 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 단어 퍼즐, Time: 24.82 ms, Memory: 50.8 MB -BaekjoonHub
 - [level 4] Title: 지형 편집, Time: 82.96 ms, Memory: 55.1 MB -BaekjoonHub
 - [level 2] Title: 예상 대진표, Time: 0.10 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 2] Title: 예상 대진표, Time: 0.02 ms, Memory: 80 MB -BaekjoonHub
 - [level 3] Title: 숫자 게임, Time: 67.82 ms, Memory: 54.9 MB -BaekjoonHub
-- [level 3] Title: 숫자 게임, Time: 39.28 ms, Memory: 68.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
