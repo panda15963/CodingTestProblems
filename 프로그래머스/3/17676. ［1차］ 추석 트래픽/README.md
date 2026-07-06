@@ -1,10 +1,10 @@
 # [level 3] [1차] 추석 트래픽 - 17676 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17676?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/17676?language=javascript) 
 
 ### 성능 요약
 
-메모리: 84 MB, 시간: 27.82 ms
+메모리: 52.6 MB, 시간: 48.53 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 07일 05:48:36
+2026년 07월 07일 05:49:07
 
 ### 문제 설명
 
