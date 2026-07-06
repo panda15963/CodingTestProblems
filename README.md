@@ -15,11 +15,11 @@
 | 🔢 **Total** | 589 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 5 ms (53.19%), Space: 56 MB (91.49%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 6 ms (93.21%), Space: 46.5 MB (43.52%) - LeetHub
 - Create README - LeetHub
-- [level 2] Title: 오픈채팅방, Time: 98.93 ms, Memory: 129 MB -BaekjoonHub
-- [level 2] Title: 오픈채팅방, Time: 99.37 ms, Memory: 178 MB -BaekjoonHub
-- [level 1] Title: 실패율, Time: 3.67 ms, Memory: 78.8 MB -BaekjoonHub
-- [level 2] Title: 후보키, Time: 5.19 ms, Memory: 83.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
