@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 577 |
+| 🔵 Programmers | 578 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 597 |
+| 🔢 **Total** | 598 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: [1차] 뉴스 클러스터링, Time: 0.45 ms, Memory: 43.7 MB -BaekjoonHub
 - [level 3] Title: [1차] 셔틀버스, Time: 1.65 ms, Memory: 44.5 MB -BaekjoonHub
 - [level 3] Title: [1차] 셔틀버스, Time: 4.45 ms, Memory: 78.2 MB -BaekjoonHub
 - [level 2] Title: [1차] 프렌즈4블록, Time: 18.66 ms, Memory: 83.6 MB -BaekjoonHub
 - [level 2] Title: [1차] 캐시, Time: 19.61 ms, Memory: 55.3 MB -BaekjoonHub
-- [level 2] Title: [1차] 캐시, Time: 39.41 ms, Memory: 123 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
