@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 585 |
+| 🔵 Programmers | 586 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 605 |
+| 🔢 **Total** | 606 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 점프와 순간 이동, Time: 0.04 ms, Memory: 74.2 MB -BaekjoonHub
 - [level 2] Title: 영어 끝말잇기, Time: 0.08 ms, Memory: 79.4 MB -BaekjoonHub
 - [level 2] Title: 영어 끝말잇기, Time: 0.13 ms, Memory: 44 MB -BaekjoonHub
 - [level 1] Title: 예산, Time: 0.15 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 1] Title: 예산, Time: 3.35 ms, Memory: 74.4 MB -BaekjoonHub
-- [level 4] Title: 단어 퍼즐, Time: 24.82 ms, Memory: 50.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
