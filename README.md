@@ -15,11 +15,11 @@
 | 🔢 **Total** | 616 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: N개의 최소공배수, Time: 0.16 ms, Memory: 44.2 MB -BaekjoonHub
 - [level 2] Title: N개의 최소공배수, Time: 2.60 ms, Memory: 73.1 MB -BaekjoonHub
 - [level 1] Title: x만큼 간격이 있는 n개의 숫자, Time: 0.03 ms, Memory: 78.4 MB -BaekjoonHub
 - [level 1] Title: 직사각형 별찍기, Time: 159.28 ms, Memory: 83.3 MB -BaekjoonHub
 - [level 3] Title: 스티커 모으기(2), Time: 6.13 ms, Memory: 52.7 MB -BaekjoonHub
-- [level 3] Title: 스티커 모으기(2), Time: 5.87 ms, Memory: 76.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
