@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 600 |
+| 🔵 Programmers | 601 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 620 |
+| 🔢 **Total** | 621 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 하샤드 수, Time: 0.09 ms, Memory: 44 MB -BaekjoonHub
 - [level 1] Title: 핸드폰 번호 가리기, Time: 2.17 ms, Memory: 78.4 MB -BaekjoonHub
 - [level 2] Title: 행렬의 곱셈, Time: 5.12 ms, Memory: 51.8 MB -BaekjoonHub
 - [level 1] Title: 행렬의 덧셈, Time: 1.96 ms, Memory: 120 MB -BaekjoonHub
 - [level 2] Title: N-Queen, Time: 434.08 ms, Memory: 49.6 MB -BaekjoonHub
-- [level 2] Title: N-Queen, Time: 281.81 ms, Memory: 78.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
