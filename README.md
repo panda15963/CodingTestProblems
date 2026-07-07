@@ -15,11 +15,11 @@
 | 🔢 **Total** | 609 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 소수 만들기, Time: 0.97 ms, Memory: 49.2 MB -BaekjoonHub
 - [level 1] Title: 소수 만들기, Time: 6.60 ms, Memory: 71 MB -BaekjoonHub
 - [level 2] Title: 배달, Time: 5.64 ms, Memory: 45.7 MB -BaekjoonHub
 - [level 2] Title: 배달, Time: 2.15 ms, Memory: 75.2 MB -BaekjoonHub
 - 폴더구조 변경
-- Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
 
