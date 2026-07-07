@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 592 |
+| 🔵 Programmers | 593 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 612 |
+| 🔢 **Total** | 613 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 스티커 모으기(2), Time: 5.87 ms, Memory: 76.5 MB -BaekjoonHub
 - [level 2] Title: 짝지어 제거하기, Time: 44.71 ms, Memory: 51.9 MB -BaekjoonHub
 - [level 5] Title: 직사각형의 넓이, Time: 488.25 ms, Memory: 150 MB -BaekjoonHub
 - [level 5] Title: 중력 작용, Time: 549.71 ms, Memory: 188 MB -BaekjoonHub
 - [level 5] Title: 중력 작용, Time: 1828.61 ms, Memory: 731 MB -BaekjoonHub
-- [level 1] Title: 소수 만들기, Time: 0.97 ms, Memory: 49.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
