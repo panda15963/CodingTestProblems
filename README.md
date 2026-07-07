@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 593 |
+| 🔵 Programmers | 594 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 613 |
+| 🔢 **Total** | 614 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 직사각형 별찍기, Time: 159.28 ms, Memory: 83.3 MB -BaekjoonHub
 - [level 3] Title: 스티커 모으기(2), Time: 6.13 ms, Memory: 52.7 MB -BaekjoonHub
 - [level 3] Title: 스티커 모으기(2), Time: 5.87 ms, Memory: 76.5 MB -BaekjoonHub
 - [level 2] Title: 짝지어 제거하기, Time: 44.71 ms, Memory: 51.9 MB -BaekjoonHub
 - [level 5] Title: 직사각형의 넓이, Time: 488.25 ms, Memory: 150 MB -BaekjoonHub
-- [level 5] Title: 중력 작용, Time: 549.71 ms, Memory: 188 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
