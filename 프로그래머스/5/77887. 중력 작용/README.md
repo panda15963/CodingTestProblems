@@ -1,10 +1,10 @@
 # [level 5] 중력 작용 - 77887 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77887) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77887?language=javascript) 
 
 ### 성능 요약
 
-메모리: 731 MB, 시간: 1828.61 ms
+메모리: 188 MB, 시간: 549.71 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 07일 21:03:15
+2026년 07월 07일 21:06:49
 
 ### 문제 설명
 
