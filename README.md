@@ -15,11 +15,11 @@
 | 🔢 **Total** | 607 |
 
 ## 🥇 Recently Solved (Top 5)
-- Create README - LeetHub
-- [level 3] Title: 기지국 설치, Time: 0.43 ms, Memory: 57.8 MB -BaekjoonHub
-- [level 2] Title: 점프와 순간 이동, Time: 0.11 ms, Memory: 43.6 MB -BaekjoonHub
-- [level 2] Title: 점프와 순간 이동, Time: 0.04 ms, Memory: 74.2 MB -BaekjoonHub
-- [level 2] Title: 영어 끝말잇기, Time: 0.08 ms, Memory: 79.4 MB -BaekjoonHub
+- Update README - Topic Tags
+- Time: 0 ms (100%), Space: 57.6 MB (14.29%) - LeetHub
+- Updated stats
+- Update README - Topic Tags
+- Time: 1 ms (99.85%), Space: 42.8 MB (34.98%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
