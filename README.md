@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 588 |
+| 🔵 Programmers | 589 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 608 |
+| 🔢 **Total** | 609 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 소수 만들기, Time: 6.60 ms, Memory: 71 MB -BaekjoonHub
 - [level 2] Title: 배달, Time: 5.64 ms, Memory: 45.7 MB -BaekjoonHub
 - [level 2] Title: 배달, Time: 2.15 ms, Memory: 75.2 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
-- Time: 1 ms (60%), Space: 56.3 MB (93.33%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
