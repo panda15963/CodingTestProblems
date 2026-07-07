@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 587 |
+| 🔵 Programmers | 588 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 607 |
+| 🔢 **Total** | 608 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 배달, Time: 2.15 ms, Memory: 75.2 MB -BaekjoonHub
 - 폴더구조 변경
 - Update README - Topic Tags
 - Time: 1 ms (60%), Space: 56.3 MB (93.33%) - LeetHub
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 57.6 MB (14.29%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
