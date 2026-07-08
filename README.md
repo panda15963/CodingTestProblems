@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 608 |
+| 🔵 Programmers | 609 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 628 |
+| 🔢 **Total** | 629 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 짝수와 홀수, Time: 0.02 ms, Memory: 76.6 MB -BaekjoonHub
 - [level 3] Title: 최고의 집합, Time: 2.17 ms, Memory: 48.9 MB -BaekjoonHub
 - [level 3] Title: 최고의 집합, Time: 0.16 ms, Memory: 58.3 MB -BaekjoonHub
 - [level 2] Title: 최댓값과 최솟값, Time: 0.13 ms, Memory: 44 MB -BaekjoonHub
 - [level 1] Title: 최대공약수와 최소공배수, Time: 0.09 ms, Memory: 44 MB -BaekjoonHub
-- [level 1] Title: 최대공약수와 최소공배수, Time: 0.02 ms, Memory: 74.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
