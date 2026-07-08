@@ -15,11 +15,11 @@
 | 🔢 **Total** | 645 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 소수 찾기, Time: 26.20 ms, Memory: 56.6 MB -BaekjoonHub
 - [level 1] Title: 소수 찾기, Time: 15.03 ms, Memory: 57.6 MB -BaekjoonHub
 - [level 1] Title: 수박수박수박수박수박수?, Time: 0.27 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 2] Title: 숫자 블록, Time: 61.21 ms, Memory: 57.7 MB -BaekjoonHub
 - [level 2] Title: 숫자의 표현, Time: 0.15 ms, Memory: 57 MB -BaekjoonHub
-- [level 1] Title: 문자열을 정수로 바꾸기, Time: 0.06 ms, Memory: 43.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
