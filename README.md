@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 616 |
+| 🔵 Programmers | 617 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 636 |
+| 🔢 **Total** | 637 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 4] Title: 올바른 괄호의 갯수, Time: 81.54 ms, Memory: 78.1 MB -BaekjoonHub
 - [level 1] Title: 이상한 문자 만들기, Time: 0.14 ms, Memory: 43.6 MB -BaekjoonHub
 - [level 1] Title: 자릿수 더하기, Time: 0.05 ms, Memory: 75 MB -BaekjoonHub
 - [level 1] Title: 자릿수 더하기, Time: 0.08 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 1] Title: 자연수 뒤집어 배열로 만들기, Time: 0.02 ms, Memory: 75.3 MB -BaekjoonHub
-- [level 1] Title: 자연수 뒤집어 배열로 만들기, Time: 0.08 ms, Memory: 44 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
