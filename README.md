@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 610 |
+| 🔵 Programmers | 611 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 630 |
+| 🔢 **Total** | 631 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 제일 작은 수 제거하기, Time: 2.91 ms, Memory: 56.6 MB -BaekjoonHub
+- [level 1] Title: 제일 작은 수 제거하기, Time: 5.45 ms, Memory: 96.1 MB -BaekjoonHub
 - [level 2] Title: 줄 서는 방법, Time: 0.04 ms, Memory: 78.3 MB -BaekjoonHub
 - [level 1] Title: 짝수와 홀수, Time: 0.06 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 1] Title: 짝수와 홀수, Time: 0.02 ms, Memory: 76.6 MB -BaekjoonHub
-- [level 3] Title: 최고의 집합, Time: 2.17 ms, Memory: 48.9 MB -BaekjoonHub
-- [level 3] Title: 최고의 집합, Time: 0.16 ms, Memory: 58.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
