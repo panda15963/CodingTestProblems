@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 622 |
+| 🔵 Programmers | 623 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 642 |
+| 🔢 **Total** | 643 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 숫자 블록, Time: 61.21 ms, Memory: 57.7 MB -BaekjoonHub
 - [level 2] Title: 숫자의 표현, Time: 0.15 ms, Memory: 57 MB -BaekjoonHub
 - [level 1] Title: 문자열을 정수로 바꾸기, Time: 0.06 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 1] Title: 문자열을 정수로 바꾸기, Time: 0.02 ms, Memory: 75.3 MB -BaekjoonHub
 - [level 1] Title: 시저 암호, Time: 0.96 ms, Memory: 51 MB -BaekjoonHub
-- [level 3] Title: 야근 지수, Time: 72.45 ms, Memory: 73.4 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
