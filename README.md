@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 613 |
+| 🔵 Programmers | 614 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 633 |
+| 🔢 **Total** | 634 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 자연수 뒤집어 배열로 만들기, Time: 0.08 ms, Memory: 44 MB -BaekjoonHub
 - [level 1] Title: 정수 내림차순으로 배치하기, Time: 0.35 ms, Memory: 75.2 MB -BaekjoonHub
 - [level 1] Title: 정수 제곱근 판별, Time: 0.07 ms, Memory: 44.2 MB -BaekjoonHub
 - [level 1] Title: 정수 제곱근 판별, Time: 0.03 ms, Memory: 77.8 MB -BaekjoonHub
 - [level 1] Title: 제일 작은 수 제거하기, Time: 2.91 ms, Memory: 56.6 MB -BaekjoonHub
-- [level 1] Title: 제일 작은 수 제거하기, Time: 5.45 ms, Memory: 96.1 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
