@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 619 |
+| 🔵 Programmers | 621 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 639 |
+| 🔢 **Total** | 641 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 문자열을 정수로 바꾸기, Time: 0.02 ms, Memory: 75.3 MB -BaekjoonHub
+- [level 1] Title: 시저 암호, Time: 0.96 ms, Memory: 51 MB -BaekjoonHub
 - [level 3] Title: 야근 지수, Time: 72.45 ms, Memory: 73.4 MB -BaekjoonHub
 - [level 1] Title: 약수의 합, Time: 0.05 ms, Memory: 73.6 MB -BaekjoonHub
 - [level 4] Title: 올바른 괄호의 갯수, Time: 81.54 ms, Memory: 78.1 MB -BaekjoonHub
-- [level 1] Title: 이상한 문자 만들기, Time: 0.14 ms, Memory: 43.6 MB -BaekjoonHub
-- [level 1] Title: 자릿수 더하기, Time: 0.05 ms, Memory: 75 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
