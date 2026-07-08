@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 607 |
+| 🔵 Programmers | 608 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 627 |
+| 🔢 **Total** | 628 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 최고의 집합, Time: 0.16 ms, Memory: 58.3 MB -BaekjoonHub
 - [level 2] Title: 최댓값과 최솟값, Time: 0.13 ms, Memory: 44 MB -BaekjoonHub
 - [level 1] Title: 최대공약수와 최소공배수, Time: 0.09 ms, Memory: 44 MB -BaekjoonHub
 - [level 1] Title: 최대공약수와 최소공배수, Time: 0.02 ms, Memory: 74.1 MB -BaekjoonHub
 - [level 1] Title: 콜라츠 추측, Time: 0.03 ms, Memory: 75.9 MB -BaekjoonHub
-- [level 1] Title: 평균 구하기, Time: 0.04 ms, Memory: 73.5 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
