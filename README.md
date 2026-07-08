@@ -15,11 +15,11 @@
 | 🔢 **Total** | 635 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 자릿수 더하기, Time: 0.05 ms, Memory: 75 MB -BaekjoonHub
 - [level 1] Title: 자릿수 더하기, Time: 0.08 ms, Memory: 43.9 MB -BaekjoonHub
 - [level 1] Title: 자연수 뒤집어 배열로 만들기, Time: 0.02 ms, Memory: 75.3 MB -BaekjoonHub
 - [level 1] Title: 자연수 뒤집어 배열로 만들기, Time: 0.08 ms, Memory: 44 MB -BaekjoonHub
 - [level 1] Title: 정수 내림차순으로 배치하기, Time: 0.35 ms, Memory: 75.2 MB -BaekjoonHub
-- [level 1] Title: 정수 제곱근 판별, Time: 0.07 ms, Memory: 44.2 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
