@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 625 |
+| 🔵 Programmers | 626 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 645 |
+| 🔢 **Total** | 646 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 3] Title: 선입 선출 스케줄링, Time: 3.45 ms, Memory: 57.9 MB -BaekjoonHub
 - [level 1] Title: 소수 찾기, Time: 26.20 ms, Memory: 56.6 MB -BaekjoonHub
 - [level 1] Title: 소수 찾기, Time: 15.03 ms, Memory: 57.6 MB -BaekjoonHub
 - [level 1] Title: 수박수박수박수박수박수?, Time: 0.27 ms, Memory: 44.1 MB -BaekjoonHub
 - [level 2] Title: 숫자 블록, Time: 61.21 ms, Memory: 57.7 MB -BaekjoonHub
-- [level 2] Title: 숫자의 표현, Time: 0.15 ms, Memory: 57 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
