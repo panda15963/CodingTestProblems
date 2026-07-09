@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 635 |
+| 🔵 Programmers | 636 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 655 |
+| 🔢 **Total** | 656 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 2016년, Time: 0.09 ms, Memory: 44.4 MB -BaekjoonHub
 - [level 2] Title: 3 x n 타일링, Time: 37.40 ms, Memory: 49.4 MB -BaekjoonHub
 - [level 3] Title: 가장 긴 팰린드롬, Time: 73.19 ms, Memory: 50.7 MB -BaekjoonHub
 - [level 2] Title: 다음 큰 숫자, Time: 0.10 ms, Memory: 44 MB -BaekjoonHub
 - [level 1] Title: 두 정수 사이의 합, Time: 0.03 ms, Memory: 74.3 MB -BaekjoonHub
-- [level 2] Title: 땅따먹기, Time: 50.01 ms, Memory: 99.3 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
