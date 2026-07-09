@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 626 |
+| 🔵 Programmers | 628 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 646 |
+| 🔢 **Total** | 648 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 1] Title: 문자열 내 p와 y의 개수, Time: 0.11 ms, Memory: 43.8 MB -BaekjoonHub
+- [level 1] Title: 문자열 내림차순으로 배치하기, Time: 1.29 ms, Memory: 73.1 MB -BaekjoonHub
 - [level 3] Title: 선입 선출 스케줄링, Time: 3.45 ms, Memory: 57.9 MB -BaekjoonHub
 - [level 1] Title: 소수 찾기, Time: 26.20 ms, Memory: 56.6 MB -BaekjoonHub
 - [level 1] Title: 소수 찾기, Time: 15.03 ms, Memory: 57.6 MB -BaekjoonHub
-- [level 1] Title: 수박수박수박수박수박수?, Time: 0.27 ms, Memory: 44.1 MB -BaekjoonHub
-- [level 2] Title: 숫자 블록, Time: 61.21 ms, Memory: 57.7 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
