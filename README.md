@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 632 |
+| 🔵 Programmers | 633 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 652 |
+| 🔢 **Total** | 653 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 다음 큰 숫자, Time: 0.10 ms, Memory: 44 MB -BaekjoonHub
 - [level 1] Title: 두 정수 사이의 합, Time: 0.03 ms, Memory: 74.3 MB -BaekjoonHub
 - [level 2] Title: 땅따먹기, Time: 50.01 ms, Memory: 99.3 MB -BaekjoonHub
 - [level 2] Title: 멀리 뛰기, Time: 0.08 ms, Memory: 75.9 MB -BaekjoonHub
 - [level 1] Title: 문자열 내 마음대로 정렬하기, Time: 2.21 ms, Memory: 79.2 MB -BaekjoonHub
-- [level 1] Title: 문자열 내 p와 y의 개수, Time: 0.11 ms, Memory: 43.8 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
