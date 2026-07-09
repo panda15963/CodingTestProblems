@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 630 |
+| 🔵 Programmers | 631 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 650 |
+| 🔢 **Total** | 651 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 2] Title: 땅따먹기, Time: 50.01 ms, Memory: 99.3 MB -BaekjoonHub
 - [level 2] Title: 멀리 뛰기, Time: 0.08 ms, Memory: 75.9 MB -BaekjoonHub
 - [level 1] Title: 문자열 내 마음대로 정렬하기, Time: 2.21 ms, Memory: 79.2 MB -BaekjoonHub
 - [level 1] Title: 문자열 내 p와 y의 개수, Time: 0.11 ms, Memory: 43.8 MB -BaekjoonHub
 - [level 1] Title: 문자열 내림차순으로 배치하기, Time: 1.29 ms, Memory: 73.1 MB -BaekjoonHub
-- [level 3] Title: 선입 선출 스케줄링, Time: 3.45 ms, Memory: 57.9 MB -BaekjoonHub
 
 <!-- DASHBOARD-END -->
 
