@@ -1,10 +1,10 @@
 # [level 5] 스마트한 프로도 - 1840 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1840?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1840?language=java) 
 
 ### 성능 요약
 
-메모리: 73.1 MB, 시간: 990.93 ms
+메모리: 192 MB, 시간: 412.69 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 11일 10:01:38
+2026년 07월 11일 10:02:49
 
 ### 문제 설명
 
