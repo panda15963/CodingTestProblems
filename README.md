@@ -10,16 +10,16 @@
 | Platform | Count |
 |----------|-------|
 | 🟡 LeetCode | 20 |
-| 🔵 Programmers | 638 |
+| 🔵 Programmers | 639 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 658 |
+| 🔢 **Total** | 659 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 5] Title: 스마트한 프로도, Time: 990.93 ms, Memory: 73.1 MB -BaekjoonHub
+- Time: 22 ms (84.09%), Space: 66.5 MB (36.36%) - LeetHub
+- Update README - Topic Tags
 - Time: 22 ms (80%), Space: 67.1 MB (13.33%) - LeetHub
 - Updated stats
-- Update README - Topic Tags
-- Time: 10 ms (69.17%), Space: 47.1 MB (97.94%) - LeetHub
-- Create README - LeetHub
 
 <!-- DASHBOARD-END -->
 
