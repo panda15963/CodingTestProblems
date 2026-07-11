@@ -15,11 +15,11 @@
 | 🔢 **Total** | 659 |
 
 ## 🥇 Recently Solved (Top 5)
+- [level 5] Title: 스마트한 프로도, Time: 412.69 ms, Memory: 192 MB -BaekjoonHub
+- 🤖 auto: organize LeetCode problems into leetcode/ folder
 - [level 5] Title: 스마트한 프로도, Time: 990.93 ms, Memory: 73.1 MB -BaekjoonHub
 - Time: 22 ms (84.09%), Space: 66.5 MB (36.36%) - LeetHub
 - Update README - Topic Tags
-- Time: 22 ms (80%), Space: 67.1 MB (13.33%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
