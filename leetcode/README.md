@@ -1,45 +1,32 @@
-<h2><a href="https://leetcode.com/problems/merge-k-sorted-lists">23. Merge k Sorted Lists</a></h2><h3>Hard</h3><hr><p>You are given an array of <code>k</code> linked-lists <code>lists</code>, each linked-list is sorted in ascending order.</p>
+<h2><a href="https://leetcode.com/problems/divide-two-integers">29. Divide Two Integers</a></h2><h3>Medium</h3><hr><p>Given two integers <code>dividend</code> and <code>divisor</code>, divide two integers <strong>without</strong> using multiplication, division, and mod operator.</p>
 
-<p><em>Merge all the linked-lists into one sorted linked-list and return it.</em></p>
+<p>The integer division should truncate toward zero, which means losing its fractional part. For example, <code>8.345</code> would be truncated to <code>8</code>, and <code>-2.7335</code> would be truncated to <code>-2</code>.</p>
+
+<p>Return <em>the <strong>quotient</strong> after dividing </em><code>dividend</code><em> by </em><code>divisor</code>.</p>
+
+<p><strong>Note: </strong>Assume we are dealing with an environment that could only store integers within the <strong>32-bit</strong> signed integer range: <code>[&minus;2<sup>31</sup>, 2<sup>31</sup> &minus; 1]</code>. For this problem, if the quotient is <strong>strictly greater than</strong> <code>2<sup>31</sup> - 1</code>, then return <code>2<sup>31</sup> - 1</code>, and if the quotient is <strong>strictly less than</strong> <code>-2<sup>31</sup></code>, then return <code>-2<sup>31</sup></code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> lists = [[1,4,5],[1,3,4],[2,6]]
-<strong>Output:</strong> [1,1,2,3,4,4,5,6]
-<strong>Explanation:</strong> The linked-lists are:
-[
-  1-&gt;4-&gt;5,
-  1-&gt;3-&gt;4,
-  2-&gt;6
-]
-merging them into one sorted linked list:
-1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4-&gt;5-&gt;6
+<strong>Input:</strong> dividend = 10, divisor = 3
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> 10/3 = 3.33333.. which is truncated to 3.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> lists = []
-<strong>Output:</strong> []
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> lists = [[]]
-<strong>Output:</strong> []
+<strong>Input:</strong> dividend = 7, divisor = -3
+<strong>Output:</strong> -2
+<strong>Explanation:</strong> 7/-3 = -2.33333.. which is truncated to -2.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>k == lists.length</code></li>
-	<li><code>0 &lt;= k &lt;= 10<sup>4</sup></code></li>
-	<li><code>0 &lt;= lists[i].length &lt;= 500</code></li>
-	<li><code>-10<sup>4</sup> &lt;= lists[i][j] &lt;= 10<sup>4</sup></code></li>
-	<li><code>lists[i]</code> is sorted in <strong>ascending order</strong>.</li>
-	<li>The sum of <code>lists[i].length</code> will not exceed <code>10<sup>4</sup></code>.</li>
+	<li><code>-2<sup>31</sup> &lt;= dividend, divisor &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>divisor != 0</code></li>
 </ul>
