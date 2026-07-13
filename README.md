@@ -83,6 +83,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/panda15963/CodingTestProblems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/panda15963/CodingTestProblems/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/panda15963/CodingTestProblems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -495,6 +496,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/panda15963/CodingTestProblems/tree/master/0029-divide-two-integers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
