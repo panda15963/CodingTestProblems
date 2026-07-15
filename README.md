@@ -128,6 +128,7 @@
 | [0016-3sum-closest](https://github.com/panda15963/CodingTestProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/panda15963/CodingTestProblems/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/panda15963/CodingTestProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/panda15963/CodingTestProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
@@ -429,6 +430,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/panda15963/CodingTestProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/panda15963/CodingTestProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/panda15963/CodingTestProblems/tree/master/2540-minimum-common-value) |
