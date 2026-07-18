@@ -11,7 +11,6 @@
 |----------|-------|
 | 🟡 LeetCode | 28 |
 | 🔵 Programmers | 639 |
-| 🟢 Baekjoon | 0 |
 | 🔢 **Total** | 667 |
 
 ## 🥇 Recently Solved (Top 5)
