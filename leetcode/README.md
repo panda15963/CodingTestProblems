@@ -1,39 +1,36 @@
-<h2><a href="https://leetcode.com/problems/combination-sum-ii">40. Combination Sum II</a></h2><h3>Medium</h3><hr><p>Given a collection of candidate numbers (<code>candidates</code>) and a target number (<code>target</code>), find all unique combinations in <code>candidates</code>&nbsp;where the candidate numbers sum to <code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/first-missing-positive">41. First Missing Positive</a></h2><h3>Hard</h3><hr><p>Given an unsorted integer array <code>nums</code>. Return the <em>smallest positive integer</em> that is <em>not present</em> in <code>nums</code>.</p>
 
-<p>Each number in <code>candidates</code>&nbsp;may only be used <strong>once</strong> in the combination.</p>
-
-<p><strong>Note:</strong>&nbsp;The solution set must not contain duplicate combinations.</p>
+<p>You must implement an algorithm that runs in <code>O(n)</code> time and uses <code>O(1)</code> auxiliary space.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> candidates = [10,1,2,7,6,1,5], target = 8
-<strong>Output:</strong> 
-[
-[1,1,6],
-[1,2,5],
-[1,7],
-[2,6]
-]
+<strong>Input:</strong> nums = [1,2,0]
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> The numbers in the range [1,2] are all in the array.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> candidates = [2,5,2,1,2], target = 5
-<strong>Output:</strong> 
-[
-[1,2,2],
-[5]
-]
+<strong>Input:</strong> nums = [3,4,-1,1]
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> 1 is in the array but 2 is missing.
+</pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [7,8,9,11,12]
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> The smallest positive integer 1 is missing.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;=&nbsp;candidates.length &lt;= 100</code></li>
-	<li><code>1 &lt;=&nbsp;candidates[i] &lt;= 50</code></li>
-	<li><code>1 &lt;= target &lt;= 30</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
