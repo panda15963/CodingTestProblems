@@ -142,6 +142,7 @@
 | [0039-combination-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/panda15963/CodingTestProblems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
@@ -320,6 +321,7 @@
 | [0018-4sum](https://github.com/panda15963/CodingTestProblems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/panda15963/CodingTestProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/panda15963/CodingTestProblems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/panda15963/CodingTestProblems/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
@@ -339,6 +341,7 @@
 | [0010-regular-expression-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/panda15963/CodingTestProblems/tree/master/1301-number-of-paths-with-max-score) |
@@ -456,6 +459,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/panda15963/CodingTestProblems/tree/master/2751-robot-collisions) |
@@ -607,5 +611,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
