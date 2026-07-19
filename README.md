@@ -141,6 +141,7 @@
 | [0037-sudoku-solver](https://github.com/panda15963/CodingTestProblems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/panda15963/CodingTestProblems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
@@ -375,6 +376,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/panda15963/CodingTestProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/panda15963/CodingTestProblems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/panda15963/CodingTestProblems/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/panda15963/CodingTestProblems/tree/master/0041-first-missing-positive) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
