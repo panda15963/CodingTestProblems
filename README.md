@@ -38,6 +38,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/panda15963/CodingTestProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/panda15963/CodingTestProblems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -89,6 +90,7 @@
 | [0007-reverse-integer](https://github.com/panda15963/CodingTestProblems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/panda15963/CodingTestProblems/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/panda15963/CodingTestProblems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -427,6 +429,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1260-shift-2d-grid) |
