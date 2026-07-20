@@ -9,17 +9,17 @@
 
 | Platform | Count |
 |----------|-------|
-| 🟡 LeetCode | 31 |
+| 🟡 LeetCode | 32 |
 | 🔵 Programmers | 639 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 670 |
+| 🔢 **Total** | 671 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - 폴더구조 변경
 - Updated stats
 - Update README - Topic Tags
 - Time: 9 ms (7.14%), Space: 60.9 MB (78.57%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
