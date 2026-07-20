@@ -70,6 +70,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/panda15963/CodingTestProblems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0045-jump-game-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/panda15963/CodingTestProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -147,6 +148,7 @@
 | [0040-combination-sum-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/panda15963/CodingTestProblems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
@@ -349,6 +351,7 @@
 | [0032-longest-valid-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0045-jump-game-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/panda15963/CodingTestProblems/tree/master/1301-number-of-paths-with-max-score) |
