@@ -151,6 +151,7 @@
 | [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/panda15963/CodingTestProblems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
@@ -244,6 +245,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/panda15963/CodingTestProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/panda15963/CodingTestProblems/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0047-permutations-ii) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1340-jump-game-v) |
@@ -428,6 +430,7 @@
 | [0039-combination-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/panda15963/CodingTestProblems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0047-permutations-ii) |
 ## Enumeration
 |  |
 | ------- |
