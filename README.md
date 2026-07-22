@@ -41,6 +41,7 @@
 | [0043-multiply-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/panda15963/CodingTestProblems/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/panda15963/CodingTestProblems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/panda15963/CodingTestProblems/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
