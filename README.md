@@ -101,6 +101,7 @@
 | [0043-multiply-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/panda15963/CodingTestProblems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/panda15963/CodingTestProblems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -369,6 +370,7 @@
 | [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/panda15963/CodingTestProblems/tree/master/1301-number-of-paths-with-max-score) |
@@ -646,6 +648,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
