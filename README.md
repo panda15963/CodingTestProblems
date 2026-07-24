@@ -101,6 +101,7 @@
 | [0043-multiply-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/panda15963/CodingTestProblems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -406,6 +407,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/panda15963/CodingTestProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/panda15963/CodingTestProblems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
 | ------- |
