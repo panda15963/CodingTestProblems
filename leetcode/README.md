@@ -1,31 +1,33 @@
-<h2><a href="https://leetcode.com/problems/unique-paths">62. Unique Paths</a></h2><h3>Medium</h3><hr><p>There is a robot on an <code>m x n</code> grid. The robot is initially located at the <strong>top-left corner</strong> (i.e., <code>grid[0][0]</code>). The robot tries to move to the <strong>bottom-right corner</strong> (i.e., <code>grid[m - 1][n - 1]</code>). The robot can only move either down or right at any point in time.</p>
+<h2><a href="https://leetcode.com/problems/permutation-sequence">60. Permutation Sequence</a></h2><h3>Hard</h3><hr><p>The set <code>[1, 2, 3, ...,&nbsp;n]</code> contains a total of <code>n!</code> unique permutations.</p>
 
-<p>Given the two integers <code>m</code> and <code>n</code>, return <em>the number of possible unique paths that the robot can take to reach the bottom-right corner</em>.</p>
+<p>By listing and labeling all of the permutations in order, we get the following sequence for <code>n = 3</code>:</p>
 
-<p>The test cases are generated so that the answer will be less than or equal to <code>2 * 10<sup>9</sup></code>.</p>
+<ol>
+	<li><code>&quot;123&quot;</code></li>
+	<li><code>&quot;132&quot;</code></li>
+	<li><code>&quot;213&quot;</code></li>
+	<li><code>&quot;231&quot;</code></li>
+	<li><code>&quot;312&quot;</code></li>
+	<li><code>&quot;321&quot;</code></li>
+</ol>
+
+<p>Given <code>n</code> and <code>k</code>, return the <code>k<sup>th</sup></code> permutation sequence.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img src="https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png" style="width: 400px; height: 183px;" />
-<pre>
-<strong>Input:</strong> m = 3, n = 7
-<strong>Output:</strong> 28
+<pre><strong>Input:</strong> n = 3, k = 3
+<strong>Output:</strong> "213"
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> n = 4, k = 9
+<strong>Output:</strong> "2314"
+</pre><p><strong class="example">Example 3:</strong></p>
+<pre><strong>Input:</strong> n = 3, k = 1
+<strong>Output:</strong> "123"
 </pre>
-
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> m = 3, n = 2
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> From the top-left corner, there are a total of 3 ways to reach the bottom-right corner:
-1. Right -&gt; Down -&gt; Down
-2. Down -&gt; Down -&gt; Right
-3. Down -&gt; Right -&gt; Down
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= m, n &lt;= 100</code></li>
+	<li><code>1 &lt;= n &lt;= 9</code></li>
+	<li><code>1 &lt;= k &lt;= n!</code></li>
 </ul>
