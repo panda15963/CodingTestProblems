@@ -104,6 +104,7 @@
 | [0060-permutation-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/panda15963/CodingTestProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
@@ -170,6 +171,7 @@
 | [0068-text-justification](https://github.com/panda15963/CodingTestProblems/tree/master/0068-text-justification) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
@@ -265,6 +267,7 @@
 | [0018-4sum](https://github.com/panda15963/CodingTestProblems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/panda15963/CodingTestProblems/tree/master/0049-group-anagrams) |
+| [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1340-jump-game-v) |
