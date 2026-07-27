@@ -1,29 +1,26 @@
-<h2><a href="https://leetcode.com/problems/minimum-path-sum">64. Minimum Path Sum</a></h2><h3>Medium</h3><hr><p>Given a <code>m x n</code> <code>grid</code> filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path.</p>
+<h2><a href="https://leetcode.com/problems/n-queens-ii">52. N-Queens II</a></h2><h3>Hard</h3><hr><p>The <strong>n-queens</strong> puzzle is the problem of placing <code>n</code> queens on an <code>n x n</code> chessboard such that no two queens attack each other.</p>
 
-<p><strong>Note:</strong> You can only move either down or right at any point in time.</p>
+<p>Given an integer <code>n</code>, return <em>the number of distinct solutions to the&nbsp;<strong>n-queens puzzle</strong></em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/11/05/minpath.jpg" style="width: 242px; height: 242px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2020/11/13/queens.jpg" style="width: 600px; height: 268px;" />
 <pre>
-<strong>Input:</strong> grid = [[1,3,1],[1,5,1],[4,2,1]]
-<strong>Output:</strong> 7
-<strong>Explanation:</strong> Because the path 1 &rarr; 3 &rarr; 1 &rarr; 1 &rarr; 1 minimizes the sum.
+<strong>Input:</strong> n = 4
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> There are two distinct solutions to the 4-queens puzzle as shown.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> grid = [[1,2,3],[4,5,6]]
-<strong>Output:</strong> 12
+<strong>Input:</strong> n = 1
+<strong>Output:</strong> 1
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>m == grid.length</code></li>
-	<li><code>n == grid[i].length</code></li>
-	<li><code>1 &lt;= m, n &lt;= 200</code></li>
-	<li><code>0 &lt;= grid[i][j] &lt;= 200</code></li>
+	<li><code>1 &lt;= n &lt;= 9</code></li>
 </ul>
