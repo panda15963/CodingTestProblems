@@ -103,6 +103,7 @@
 | [0050-powx-n](https://github.com/panda15963/CodingTestProblems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/panda15963/CodingTestProblems/tree/master/0089-gray-code) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -472,6 +473,7 @@
 | [0047-permutations-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/panda15963/CodingTestProblems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/panda15963/CodingTestProblems/tree/master/0089-gray-code) |
 ## Enumeration
 |  |
 | ------- |
@@ -619,6 +621,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/panda15963/CodingTestProblems/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/panda15963/CodingTestProblems/tree/master/0089-gray-code) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/panda15963/CodingTestProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
