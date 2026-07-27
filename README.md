@@ -167,6 +167,7 @@
 | [0048-rotate-image](https://github.com/panda15963/CodingTestProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/panda15963/CodingTestProblems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/panda15963/CodingTestProblems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0064-minimum-path-sum) |
@@ -387,6 +388,7 @@
 | [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0064-minimum-path-sum) |
@@ -549,6 +551,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0053-maximum-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/panda15963/CodingTestProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/panda15963/CodingTestProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
