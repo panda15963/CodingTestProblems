@@ -44,6 +44,7 @@
 | [0065-valid-number](https://github.com/panda15963/CodingTestProblems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/panda15963/CodingTestProblems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/panda15963/CodingTestProblems/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0072-edit-distance) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -404,6 +405,7 @@
 | [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0072-edit-distance) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/panda15963/CodingTestProblems/tree/master/1301-number-of-paths-with-max-score) |
