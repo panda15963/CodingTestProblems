@@ -1,35 +1,91 @@
-<h2><a href="https://leetcode.com/problems/insert-interval/">57. Insert Interval</a></h2><h3>Medium</h3><hr><p>You are given an array of non-overlapping intervals <code>intervals</code> where <code>intervals[i] = [start<sub>i</sub>, end<sub>i</sub>]</code> represent the start and the end of the <code>i<sup>th</sup></code> interval and <code>intervals</code> is sorted in ascending order by <code>start<sub>i</sub></code>. You are also given an interval <code>newInterval = [start, end]</code> that represents the start and end of another interval.</p>
+<h2><a href="https://leetcode.com/problems/simplify-path">71. Simplify Path</a></h2><h3>Medium</h3><hr><p>You are given an <em>absolute</em> path for a Unix-style file system, which always begins with a slash <code>&#39;/&#39;</code>. Your task is to transform this absolute path into its <strong>simplified canonical path</strong>.</p>
 
-<p>Insert <code>newInterval</code> into <code>intervals</code> such that <code>intervals</code> is still sorted in ascending order by <code>start<sub>i</sub></code> and <code>intervals</code> still does not have any overlapping intervals (merge overlapping intervals if necessary).</p>
+<p>The <em>rules</em> of a Unix-style file system are as follows:</p>
 
-<p>Return <code>intervals</code><em> after the insertion</em>.</p>
+<ul>
+	<li>A single period <code>&#39;.&#39;</code> represents the current directory.</li>
+	<li>A double period <code>&#39;..&#39;</code> represents the previous/parent directory.</li>
+	<li>Multiple consecutive slashes such as <code>&#39;//&#39;</code> and <code>&#39;///&#39;</code> are treated as a single slash <code>&#39;/&#39;</code>.</li>
+	<li>Any sequence of periods that does <strong>not match</strong> the rules above should be treated as a <strong>valid directory or</strong> <strong>file </strong><strong>name</strong>. For example, <code>&#39;...&#39; </code>and <code>&#39;....&#39;</code> are valid directory or file names.</li>
+</ul>
 
-<p><strong>Note</strong> that you don&#39;t need to modify <code>intervals</code> in-place. You can make a new array and return it.</p>
+<p>The simplified canonical path should follow these <em>rules</em>:</p>
+
+<ul>
+	<li>The path must start with a single slash <code>&#39;/&#39;</code>.</li>
+	<li>Directories within the path must be separated by exactly one slash <code>&#39;/&#39;</code>.</li>
+	<li>The path must not end with a slash <code>&#39;/&#39;</code>, unless it is the root directory.</li>
+	<li>The path must not have any single or double periods (<code>&#39;.&#39;</code> and <code>&#39;..&#39;</code>) used to denote current or parent directories.</li>
+</ul>
+
+<p>Return the <strong>simplified canonical path</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
-<strong>Input:</strong> intervals = [[1,3],[6,9]], newInterval = [2,5]
-<strong>Output:</strong> [[1,5],[6,9]]
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">path = &quot;/home/&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">&quot;/home&quot;</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>The trailing slash should be removed.</p>
+</div>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> intervals = [[1,2],[3,5],[6,7],[8,10],[12,16]], newInterval = [4,8]
-<strong>Output:</strong> [[1,2],[3,10],[12,16]]
-<strong>Explanation:</strong> Because the new interval [4,8] overlaps with [3,5],[6,7],[8,10].
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">path = &quot;/home//foo/&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">&quot;/home/foo&quot;</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>Multiple consecutive slashes are replaced by a single one.</p>
+</div>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">path = &quot;/home/user/Documents/../Pictures&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">&quot;/home/user/Pictures&quot;</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>A double period <code>&quot;..&quot;</code> refers to the directory up a level (the parent directory).</p>
+</div>
+
+<p><strong class="example">Example 4:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">path = &quot;/../&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">&quot;/&quot;</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>Going one level up from the root directory is not possible.</p>
+</div>
+
+<p><strong class="example">Example 5:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">path = &quot;/.../a/../b/c/../d/./&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">&quot;/.../b/d&quot;</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p><code>&quot;...&quot;</code> is a valid name for a directory in this problem.</p>
+</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= intervals.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>intervals[i].length == 2</code></li>
-	<li><code>0 &lt;= start<sub>i</sub> &lt;= end<sub>i</sub> &lt;= 10<sup>5</sup></code></li>
-	<li><code>intervals</code> is sorted by <code>start<sub>i</sub></code> in <strong>ascending</strong> order.</li>
-	<li><code>newInterval.length == 2</code></li>
-	<li><code>0 &lt;= start &lt;= end &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= path.length &lt;= 3000</code></li>
+	<li><code>path</code> consists of English letters, digits, period <code>&#39;.&#39;</code>, slash <code>&#39;/&#39;</code> or <code>&#39;_&#39;</code>.</li>
+	<li><code>path</code> is a valid absolute Unix path.</li>
 </ul>

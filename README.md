@@ -15,11 +15,11 @@
 | 🔢 **Total** | 679 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - Update README - Topic Tags
 - Time: 3 ms (60.48%), Space: 59.3 MB (21.97%) - LeetHub
 - Updated stats
 - Update README - Topic Tags
-- Time: 1 ms (98.08%), Space: 47.3 MB (7.18%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
