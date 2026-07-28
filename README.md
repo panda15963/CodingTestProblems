@@ -173,6 +173,7 @@
 | [0053-maximum-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/panda15963/CodingTestProblems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0064-minimum-path-sum) |
@@ -276,6 +277,7 @@
 | [0018-4sum](https://github.com/panda15963/CodingTestProblems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/panda15963/CodingTestProblems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
