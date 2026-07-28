@@ -15,11 +15,11 @@
 | 🔢 **Total** | 678 |
 
 ## 🥇 Recently Solved (Top 5)
-- Time: 0 ms (100%), Space: 53.9 MB (33.83%) - LeetHub
-- Updated stats
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 43 MB (43.36%) - LeetHub
 - Create README - LeetHub
+- Update README - Topic Tags
+- Time: 347 ms (22.73%), Space: 72.3 MB (50%) - LeetHub
 
 <!-- DASHBOARD-END -->
 
@@ -77,6 +77,7 @@
 | [0011-container-with-most-water](https://github.com/panda15963/CodingTestProblems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/panda15963/CodingTestProblems/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/panda15963/CodingTestProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -171,6 +172,7 @@
 | [0051-n-queens](https://github.com/panda15963/CodingTestProblems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/panda15963/CodingTestProblems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0064-minimum-path-sum) |
@@ -394,6 +396,7 @@
 | [0044-wildcard-matching](https://github.com/panda15963/CodingTestProblems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/panda15963/CodingTestProblems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0064-minimum-path-sum) |
