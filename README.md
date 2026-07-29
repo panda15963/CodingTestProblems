@@ -408,6 +408,7 @@
 | [0063-unique-paths-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/panda15963/CodingTestProblems/tree/master/1301-number-of-paths-with-max-score) |
@@ -490,6 +491,7 @@
 | [0051-n-queens](https://github.com/panda15963/CodingTestProblems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/panda15963/CodingTestProblems/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0095-unique-binary-search-trees-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -659,12 +661,14 @@
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/panda15963/CodingTestProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Counting Sort
 |  |
@@ -706,4 +710,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
