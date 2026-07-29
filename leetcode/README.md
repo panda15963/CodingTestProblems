@@ -1,42 +1,37 @@
-<h2><a href="https://leetcode.com/problems/edit-distance">72. Edit Distance</a></h2><h3>Medium</h3><hr><p>Given two strings <code>word1</code> and <code>word2</code>, return <em>the minimum number of operations required to convert <code>word1</code> to <code>word2</code></em>.</p>
+<h2><a href="https://leetcode.com/problems/set-matrix-zeroes">73. Set Matrix Zeroes</a></h2><h3>Medium</h3><hr><p>Given an <code>m x n</code> integer matrix <code>matrix</code>, if an element is <code>0</code>, set its entire row and column to <code>0</code>&#39;s.</p>
 
-<p>You have the following three operations permitted on a word:</p>
-
-<ul>
-	<li>Insert a character</li>
-	<li>Delete a character</li>
-	<li>Replace a character</li>
-</ul>
+<p>You must do it <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in place</a>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/08/17/mat1.jpg" style="width: 450px; height: 169px;" />
 <pre>
-<strong>Input:</strong> word1 = &quot;horse&quot;, word2 = &quot;ros&quot;
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> 
-horse -&gt; rorse (replace &#39;h&#39; with &#39;r&#39;)
-rorse -&gt; rose (remove &#39;r&#39;)
-rose -&gt; ros (remove &#39;e&#39;)
+<strong>Input:</strong> matrix = [[1,1,1],[1,0,1],[1,1,1]]
+<strong>Output:</strong> [[1,0,1],[0,0,0],[1,0,1]]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/08/17/mat2.jpg" style="width: 450px; height: 137px;" />
 <pre>
-<strong>Input:</strong> word1 = &quot;intention&quot;, word2 = &quot;execution&quot;
-<strong>Output:</strong> 5
-<strong>Explanation:</strong> 
-intention -&gt; inention (remove &#39;t&#39;)
-inention -&gt; enention (replace &#39;i&#39; with &#39;e&#39;)
-enention -&gt; exention (replace &#39;n&#39; with &#39;x&#39;)
-exention -&gt; exection (replace &#39;n&#39; with &#39;c&#39;)
-exection -&gt; execution (insert &#39;u&#39;)
+<strong>Input:</strong> matrix = [[0,1,2,0],[3,4,5,2],[1,3,1,5]]
+<strong>Output:</strong> [[0,0,0,0],[0,4,5,0],[0,3,1,0]]
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= word1.length, word2.length &lt;= 500</code></li>
-	<li><code>word1</code> and <code>word2</code> consist of lowercase English letters.</li>
+	<li><code>m == matrix.length</code></li>
+	<li><code>n == matrix[0].length</code></li>
+	<li><code>1 &lt;= m, n &lt;= 200</code></li>
+	<li><code>-2<sup>31</sup> &lt;= matrix[i][j] &lt;= 2<sup>31</sup> - 1</code></li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong></p>
+
+<ul>
+	<li>A straightforward solution using <code>O(mn)</code> space is probably a bad idea.</li>
+	<li>A simple improvement uses <code>O(m + n)</code> space, but still not the best solution.</li>
+	<li>Could you devise a constant space solution?</li>
 </ul>
