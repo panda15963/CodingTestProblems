@@ -1,35 +1,32 @@
-<h2><a href="https://leetcode.com/problems/search-a-2d-matrix">74. Search a 2D Matrix</a></h2><h3>Medium</h3><hr><p>You are given an <code>m x n</code> integer matrix <code>matrix</code> with the following two properties:</p>
+<h2><a href="https://leetcode.com/problems/sort-colors">75. Sort Colors</a></h2><h3>Medium</h3><hr><p>Given an array <code>nums</code> with <code>n</code> objects colored red, white, or blue, sort them <strong><a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in-place</a> </strong>so that objects of the same color are adjacent, with the colors in the order red, white, and blue.</p>
 
-<ul>
-	<li>Each row is sorted in non-decreasing order.</li>
-	<li>The first integer of each row is greater than the last integer of the previous row.</li>
-</ul>
+<p>We will use the integers <code>0</code>, <code>1</code>, and <code>2</code> to represent the color red, white, and blue, respectively.</p>
 
-<p>Given an integer <code>target</code>, return <code>true</code> <em>if</em> <code>target</code> <em>is in</em> <code>matrix</code> <em>or</em> <code>false</code> <em>otherwise</em>.</p>
-
-<p>You must write a solution in <code>O(log(m * n))</code> time complexity.</p>
+<p>You must solve this problem without using the library&#39;s sort function.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/10/05/mat.jpg" style="width: 322px; height: 242px;" />
+
 <pre>
-<strong>Input:</strong> matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3
-<strong>Output:</strong> true
+<strong>Input:</strong> nums = [2,0,2,1,1,0]
+<strong>Output:</strong> [0,0,1,1,2,2]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/10/05/mat2.jpg" style="width: 322px; height: 242px;" />
+
 <pre>
-<strong>Input:</strong> matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13
-<strong>Output:</strong> false
+<strong>Input:</strong> nums = [2,0,1]
+<strong>Output:</strong> [0,1,2]
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>m == matrix.length</code></li>
-	<li><code>n == matrix[i].length</code></li>
-	<li><code>1 &lt;= m, n &lt;= 100</code></li>
-	<li><code>-10<sup>4</sup> &lt;= matrix[i][j], target &lt;= 10<sup>4</sup></code></li>
+	<li><code>n == nums.length</code></li>
+	<li><code>1 &lt;= n &lt;= 300</code></li>
+	<li><code>nums[i]</code> is either <code>0</code>, <code>1</code>, or <code>2</code>.</li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong>&nbsp;Could you come up with a one-pass algorithm using only&nbsp;constant extra space?</p>
