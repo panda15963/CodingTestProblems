@@ -392,6 +392,7 @@
 | [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/panda15963/CodingTestProblems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/panda15963/CodingTestProblems/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/panda15963/CodingTestProblems/tree/master/0086-partition-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -642,6 +643,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/panda15963/CodingTestProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/panda15963/CodingTestProblems/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/panda15963/CodingTestProblems/tree/master/0086-partition-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
