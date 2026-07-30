@@ -45,6 +45,7 @@
 | [0068-text-justification](https://github.com/panda15963/CodingTestProblems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/panda15963/CodingTestProblems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/panda15963/CodingTestProblems/tree/master/0087-scramble-string) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -421,6 +422,7 @@
 | [0064-minimum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/panda15963/CodingTestProblems/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
