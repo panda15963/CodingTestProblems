@@ -188,6 +188,7 @@
 | [0068-text-justification](https://github.com/panda15963/CodingTestProblems/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/panda15963/CodingTestProblems/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/panda15963/CodingTestProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -554,6 +555,7 @@
 | [0032-longest-valid-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/panda15963/CodingTestProblems/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/panda15963/CodingTestProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/panda15963/CodingTestProblems/tree/master/2751-robot-collisions) |
@@ -718,6 +720,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/panda15963/CodingTestProblems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/panda15963/CodingTestProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 |  |
