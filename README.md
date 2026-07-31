@@ -192,6 +192,7 @@
 | [0068-text-justification](https://github.com/panda15963/CodingTestProblems/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/panda15963/CodingTestProblems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/panda15963/CodingTestProblems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/panda15963/CodingTestProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0085-maximal-rectangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -512,6 +513,7 @@
 | [0051-n-queens](https://github.com/panda15963/CodingTestProblems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/panda15963/CodingTestProblems/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/panda15963/CodingTestProblems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/panda15963/CodingTestProblems/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0095-unique-binary-search-trees-ii) |
 ## Enumeration
@@ -669,6 +671,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/panda15963/CodingTestProblems/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/panda15963/CodingTestProblems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/panda15963/CodingTestProblems/tree/master/0089-gray-code) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/panda15963/CodingTestProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
