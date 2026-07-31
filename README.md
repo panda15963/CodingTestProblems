@@ -45,6 +45,7 @@
 | [0068-text-justification](https://github.com/panda15963/CodingTestProblems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/panda15963/CodingTestProblems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/panda15963/CodingTestProblems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/panda15963/CodingTestProblems/tree/master/0087-scramble-string) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
@@ -469,6 +470,7 @@
 | [0037-sudoku-solver](https://github.com/panda15963/CodingTestProblems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/panda15963/CodingTestProblems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/panda15963/CodingTestProblems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/panda15963/CodingTestProblems/tree/master/0076-minimum-window-substring) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -676,6 +678,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/panda15963/CodingTestProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/panda15963/CodingTestProblems/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/panda15963/CodingTestProblems/tree/master/1871-jump-game-vii) |
 ## Binary Indexed Tree
