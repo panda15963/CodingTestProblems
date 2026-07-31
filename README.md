@@ -46,6 +46,7 @@
 | [0071-simplify-path](https://github.com/panda15963/CodingTestProblems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/panda15963/CodingTestProblems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/panda15963/CodingTestProblems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/panda15963/CodingTestProblems/tree/master/0087-scramble-string) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
@@ -193,6 +194,7 @@
 | [0074-search-a-2d-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/panda15963/CodingTestProblems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/panda15963/CodingTestProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/panda15963/CodingTestProblems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/panda15963/CodingTestProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0085-maximal-rectangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -344,6 +346,7 @@
 | [0063-unique-paths-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/panda15963/CodingTestProblems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/panda15963/CodingTestProblems/tree/master/1301-number-of-paths-with-max-score) |
@@ -514,6 +517,7 @@
 | [0052-n-queens-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/panda15963/CodingTestProblems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/panda15963/CodingTestProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/panda15963/CodingTestProblems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/panda15963/CodingTestProblems/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0095-unique-binary-search-trees-ii) |
 ## Enumeration
@@ -608,6 +612,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/panda15963/CodingTestProblems/tree/master/0079-word-search) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
