@@ -1,25 +1,19 @@
-<h2><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii">82. Remove Duplicates from Sorted List II</a></h2><h3>Medium</h3><hr><p>Given the <code>head</code> of a sorted linked list, <em>delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list</em>. Return <em>the linked list <strong>sorted</strong> as well</em>.</p>
+<h2><a href="https://leetcode.com/problems/subsets-ii">90. Subsets II</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> that may contain duplicates, return <em>all possible</em> <span data-keyword="subset"><em>subsets</em></span><em> (the power set)</em>.</p>
+
+<p>The solution set <strong>must not</strong> contain duplicate subsets. Return the solution in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/linkedlist1.jpg" style="width: 500px; height: 142px;" />
-<pre>
-<strong>Input:</strong> head = [1,2,3,3,4,4,5]
-<strong>Output:</strong> [1,2,5]
+<pre><strong>Input:</strong> nums = [1,2,2]
+<strong>Output:</strong> [[],[1],[1,2],[1,2,2],[2],[2,2]]
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> nums = [0]
+<strong>Output:</strong> [[],[0]]
 </pre>
-
-<p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/01/04/linkedlist2.jpg" style="width: 500px; height: 205px;" />
-<pre>
-<strong>Input:</strong> head = [1,1,1,2,3]
-<strong>Output:</strong> [2,3]
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the list is in the range <code>[0, 300]</code>.</li>
-	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
-	<li>The list is guaranteed to be <strong>sorted</strong> in ascending order.</li>
+	<li><code>1 &lt;= nums.length &lt;= 10</code></li>
+	<li><code>-10 &lt;= nums[i] &lt;= 10</code></li>
 </ul>
