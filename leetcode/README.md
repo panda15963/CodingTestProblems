@@ -1,29 +1,37 @@
-<h2><a href="https://leetcode.com/problems/reverse-linked-list-ii">92. Reverse Linked List II</a></h2><h3>Medium</h3><hr><p>Given the <code>head</code> of a singly linked list and two integers <code>left</code> and <code>right</code> where <code>left &lt;= right</code>, reverse the nodes of the list from position <code>left</code> to position <code>right</code>, and return <em>the reversed list</em>.</p>
+<h2><a href="https://leetcode.com/problems/restore-ip-addresses">93. Restore IP Addresses</a></h2><h3>Medium</h3><hr><p>A <strong>valid IP address</strong> consists of exactly four integers separated by single dots. Each integer is between <code>0</code> and <code>255</code> (<strong>inclusive</strong>) and cannot have leading zeros.</p>
+
+<ul>
+	<li>For example, <code>&quot;0.1.2.201&quot;</code> and <code>&quot;192.168.1.1&quot;</code> are <strong>valid</strong> IP addresses, but <code>&quot;0.011.255.245&quot;</code>, <code>&quot;192.168.1.312&quot;</code> and <code>&quot;192.168@1.1&quot;</code> are <strong>invalid</strong> IP addresses.</li>
+</ul>
+
+<p>Given a string <code>s</code> containing only digits, return <em>all possible valid IP addresses that can be formed by inserting dots into </em><code>s</code>. You are <strong>not</strong> allowed to reorder or remove any digits in <code>s</code>. You may return the valid IP addresses in <strong>any</strong> order.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/rev2ex2.jpg" style="width: 542px; height: 222px;" />
+
 <pre>
-<strong>Input:</strong> head = [1,2,3,4,5], left = 2, right = 4
-<strong>Output:</strong> [1,4,3,2,5]
+<strong>Input:</strong> s = &quot;25525511135&quot;
+<strong>Output:</strong> [&quot;255.255.11.135&quot;,&quot;255.255.111.35&quot;]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> head = [5], left = 1, right = 1
-<strong>Output:</strong> [5]
+<strong>Input:</strong> s = &quot;0000&quot;
+<strong>Output:</strong> [&quot;0.0.0.0&quot;]
+</pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> s = &quot;101023&quot;
+<strong>Output:</strong> [&quot;1.0.10.23&quot;,&quot;1.0.102.3&quot;,&quot;10.1.0.23&quot;,&quot;10.10.2.3&quot;,&quot;101.0.2.3&quot;]
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the list is <code>n</code>.</li>
-	<li><code>1 &lt;= n &lt;= 500</code></li>
-	<li><code>-500 &lt;= Node.val &lt;= 500</code></li>
-	<li><code>1 &lt;= left &lt;= right &lt;= n</code></li>
+	<li><code>1 &lt;= s.length &lt;= 20</code></li>
+	<li><code>s</code> consists of digits only.</li>
 </ul>
-
-<p>&nbsp;</p>
-<strong>Follow up:</strong> Could you do it in one pass?
