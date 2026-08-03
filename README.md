@@ -677,6 +677,7 @@
 | [0061-rotate-list](https://github.com/panda15963/CodingTestProblems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/panda15963/CodingTestProblems/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0092-reverse-linked-list-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
