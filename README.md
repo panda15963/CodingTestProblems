@@ -122,6 +122,7 @@
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/panda15963/CodingTestProblems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/panda15963/CodingTestProblems/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -215,6 +216,7 @@
 | [1340-jump-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -447,6 +449,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/panda15963/CodingTestProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/panda15963/CodingTestProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/panda15963/CodingTestProblems/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/panda15963/CodingTestProblems/tree/master/2463-minimum-total-distance-traveled) |
@@ -770,4 +773,13 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
