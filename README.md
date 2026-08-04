@@ -638,6 +638,7 @@
 | ------- |
 | [0079-word-search](https://github.com/panda15963/CodingTestProblems/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0099-recover-binary-search-tree) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -728,6 +729,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0099-recover-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/panda15963/CodingTestProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -737,6 +739,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0099-recover-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Counting Sort
 |  |
@@ -786,6 +789,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0099-recover-binary-search-tree) |
 ## Game Theory
 |  |
 | ------- |
