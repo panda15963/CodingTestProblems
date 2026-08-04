@@ -1,33 +1,29 @@
-<h2><a href="https://leetcode.com/problems/validate-binary-search-tree">98. Validate Binary Search Tree</a></h2><h3>Medium</h3><hr><p>Given the <code>root</code> of a binary tree, <em>determine if it is a valid binary search tree (BST)</em>.</p>
-
-<p>A <strong>valid BST</strong> is defined as follows:</p>
-
-<ul>
-	<li>The left <span data-keyword="subtree">subtree</span> of a node contains only nodes with keys&nbsp;<strong>strictly less than</strong> the node&#39;s key.</li>
-	<li>The right subtree of a node contains only nodes with keys <strong>strictly greater than</strong> the node&#39;s key.</li>
-	<li>Both the left and right subtrees must also be binary search trees.</li>
-</ul>
+<h2><a href="https://leetcode.com/problems/recover-binary-search-tree">99. Recover Binary Search Tree</a></h2><h3>Medium</h3><hr><p>You are given the <code>root</code> of a binary search tree (BST), where the values of <strong>exactly</strong> two nodes of the tree were swapped by mistake. <em>Recover the tree without changing its structure</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/12/01/tree1.jpg" style="width: 302px; height: 182px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/28/recover1.jpg" style="width: 422px; height: 302px;" />
 <pre>
-<strong>Input:</strong> root = [2,1,3]
-<strong>Output:</strong> true
+<strong>Input:</strong> root = [1,3,null,null,2]
+<strong>Output:</strong> [3,1,null,null,2]
+<strong>Explanation:</strong> 3 cannot be a left child of 1 because 3 &gt; 1. Swapping 1 and 3 makes the BST valid.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/12/01/tree2.jpg" style="width: 422px; height: 292px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/28/recover2.jpg" style="width: 581px; height: 302px;" />
 <pre>
-<strong>Input:</strong> root = [5,1,4,null,null,3,6]
-<strong>Output:</strong> false
-<strong>Explanation:</strong> The root node&#39;s value is 5 but its right child&#39;s value is 4.
+<strong>Input:</strong> root = [3,1,4,null,null,2]
+<strong>Output:</strong> [2,1,4,null,null,3]
+<strong>Explanation:</strong> 2 cannot be in the right subtree of 3 because 2 &lt; 3. Swapping 2 and 3 makes the BST valid.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the tree is in the range <code>[1, 10<sup>4</sup>]</code>.</li>
+	<li>The number of nodes in the tree is in the range <code>[2, 1000]</code>.</li>
 	<li><code>-2<sup>31</sup> &lt;= Node.val &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> A solution using <code>O(n)</code> space is pretty straight-forward. Could you devise a constant <code>O(1)</code> space solution?
