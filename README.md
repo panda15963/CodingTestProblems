@@ -206,6 +206,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/panda15963/CodingTestProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -495,6 +496,7 @@
 | [0041-first-missing-positive](https://github.com/panda15963/CodingTestProblems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/panda15963/CodingTestProblems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/panda15963/CodingTestProblems/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -629,6 +631,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/panda15963/CodingTestProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -732,6 +735,7 @@
 | [0096-unique-binary-search-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/panda15963/CodingTestProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -743,6 +747,7 @@
 | [0096-unique-binary-search-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Counting Sort
