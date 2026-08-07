@@ -1,40 +1,37 @@
-<h2><a href="https://leetcode.com/problems/path-sum">112. Path Sum</a></h2><h3>Easy</h3><hr><p>Given the <code>root</code> of a binary tree and an integer <code>targetSum</code>, return <code>true</code> if the tree has a <strong>root-to-leaf</strong> path such that adding up all the values along the path equals <code>targetSum</code>.</p>
+<h2><a href="https://leetcode.com/problems/distinct-subsequences">115. Distinct Subsequences</a></h2><h3>Hard</h3><hr><p>Given two strings s and t, return <i>the number of distinct</i> <b><i>subsequences</i></b><i> of </i>s<i> which equals </i>t.</p>
 
-<p>A <strong>leaf</strong> is a node with no children.</p>
+<p>The test cases are generated so that the answer fits on a 32-bit signed integer.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum1.jpg" style="width: 500px; height: 356px;" />
+
 <pre>
-<strong>Input:</strong> root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22
-<strong>Output:</strong> true
-<strong>Explanation:</strong> The root-to-leaf path with the target sum is shown.
+<strong>Input:</strong> s = &quot;rabbbit&quot;, t = &quot;rabbit&quot;
+<strong>Output:</strong> 3
+<strong>Explanation:</strong>
+As shown below, there are 3 ways you can generate &quot;rabbit&quot; from s.
+<code><strong><u>rabb</u></strong>b<strong><u>it</u></strong></code>
+<code><strong><u>ra</u></strong>b<strong><u>bbit</u></strong></code>
+<code><strong><u>rab</u></strong>b<strong><u>bit</u></strong></code>
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/01/18/pathsum2.jpg" />
-<pre>
-<strong>Input:</strong> root = [1,2,3], targetSum = 5
-<strong>Output:</strong> false
-<strong>Explanation:</strong> There are two root-to-leaf paths in the tree:
-(1 --&gt; 2): The sum is 3.
-(1 --&gt; 3): The sum is 4.
-There is no root-to-leaf path with sum = 5.
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> root = [], targetSum = 0
-<strong>Output:</strong> false
-<strong>Explanation:</strong> Since the tree is empty, there are no root-to-leaf paths.
-</pre>
+<strong>Input:</strong> s = &quot;babgbag&quot;, t = &quot;bag&quot;
+<strong>Output:</strong> 5
+<strong>Explanation:</strong>
+As shown below, there are 5 ways you can generate &quot;bag&quot; from s.
+<code><strong><u>ba</u></strong>b<u><strong>g</strong></u>bag</code>
+<code><strong><u>ba</u></strong>bgba<strong><u>g</u></strong></code>
+<code><u><strong>b</strong></u>abgb<strong><u>ag</u></strong></code>
+<code>ba<u><strong>b</strong></u>gb<u><strong>ag</strong></u></code>
+<code>babg<strong><u>bag</u></strong></code></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the tree is in the range <code>[0, 5000]</code>.</li>
-	<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>
-	<li><code>-1000 &lt;= targetSum &lt;= 1000</code></li>
+	<li><code>1 &lt;= s.length, t.length &lt;= 1000</code></li>
+	<li><code>s</code> and <code>t</code> consist of English letters.</li>
 </ul>
