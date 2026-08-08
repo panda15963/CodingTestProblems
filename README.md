@@ -216,6 +216,7 @@
 | [0090-subsets-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/panda15963/CodingTestProblems/tree/master/0118-pascals-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -462,6 +463,7 @@
 | [0096-unique-binary-search-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/panda15963/CodingTestProblems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/panda15963/CodingTestProblems/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
