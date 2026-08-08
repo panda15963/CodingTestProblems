@@ -163,6 +163,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/panda15963/CodingTestProblems/tree/master/0155-min-stack) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -617,6 +618,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/panda15963/CodingTestProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/panda15963/CodingTestProblems/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/panda15963/CodingTestProblems/tree/master/2751-robot-collisions) |
