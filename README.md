@@ -220,6 +220,7 @@
 | [0118-pascals-triangle](https://github.com/panda15963/CodingTestProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/panda15963/CodingTestProblems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/panda15963/CodingTestProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/panda15963/CodingTestProblems/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
@@ -473,6 +474,7 @@
 | [0118-pascals-triangle](https://github.com/panda15963/CodingTestProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/panda15963/CodingTestProblems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/panda15963/CodingTestProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
