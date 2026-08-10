@@ -481,6 +481,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/panda15963/CodingTestProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -691,6 +692,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/panda15963/CodingTestProblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -809,6 +811,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/panda15963/CodingTestProblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/panda15963/CodingTestProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -831,6 +834,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/panda15963/CodingTestProblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Counting Sort
 |  |
@@ -910,4 +914,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1510-stone-game-iv) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
