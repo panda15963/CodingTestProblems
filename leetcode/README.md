@@ -1,39 +1,30 @@
-<h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii">123. Best Time to Buy and Sell Stock III</a></h2><h3>Hard</h3><hr><p>You are given an array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day.</p>
+<h2><a href="https://leetcode.com/problems/binary-tree-maximum-path-sum">124. Binary Tree Maximum Path Sum</a></h2><h3>Hard</h3><hr><p>A <strong>path</strong> in a binary tree is a sequence of nodes where each pair of adjacent nodes in the sequence has an edge connecting them. A node can only appear in the sequence <strong>at most once</strong>. Note that the path does not need to pass through the root.</p>
 
-<p>Find the maximum profit you can achieve. You may complete <strong>at most two transactions</strong>.</p>
+<p>The <strong>path sum</strong> of a path is the sum of the node&#39;s values in the path.</p>
 
-<p><strong>Note:</strong> You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).</p>
+<p>Given the <code>root</code> of a binary tree, return <em>the maximum <strong>path sum</strong> of any <strong>non-empty</strong> path</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/13/exx1.jpg" style="width: 322px; height: 182px;" />
 <pre>
-<strong>Input:</strong> prices = [3,3,5,0,0,3,1,4]
+<strong>Input:</strong> root = [1,2,3]
 <strong>Output:</strong> 6
-<strong>Explanation:</strong> Buy on day 4 (price = 0) and sell on day 6 (price = 3), profit = 3-0 = 3.
-Then buy on day 7 (price = 1) and sell on day 8 (price = 4), profit = 4-1 = 3.</pre>
-
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> prices = [1,2,3,4,5]
-<strong>Output:</strong> 4
-<strong>Explanation:</strong> Buy on day 1 (price = 1) and sell on day 5 (price = 5), profit = 5-1 = 4.
-Note that you cannot buy on day 1, buy on day 2 and sell them later, as you are engaging multiple transactions at the same time. You must sell before buying again.
+<strong>Explanation:</strong> The optimal path is 2 -&gt; 1 -&gt; 3 with a path sum of 2 + 1 + 3 = 6.
 </pre>
 
-<p><strong class="example">Example 3:</strong></p>
-
+<p><strong class="example">Example 2:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2020/10/13/exx2.jpg" />
 <pre>
-<strong>Input:</strong> prices = [7,6,4,3,1]
-<strong>Output:</strong> 0
-<strong>Explanation:</strong> In this case, no transaction is done, i.e. max profit = 0.
+<strong>Input:</strong> root = [-10,9,20,null,null,15,7]
+<strong>Output:</strong> 42
+<strong>Explanation:</strong> The optimal path is 15 -&gt; 20 -&gt; 7 with a path sum of 15 + 20 + 7 = 42.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= prices.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>0 &lt;= prices[i] &lt;= 10<sup>5</sup></code></li>
+	<li>The number of nodes in the tree is in the range <code>[1, 3 * 10<sup>4</sup>]</code>.</li>
+	<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>
 </ul>
