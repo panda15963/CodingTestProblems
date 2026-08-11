@@ -9,16 +9,16 @@
 
 | Platform | Count |
 |----------|-------|
-| 🟡 LeetCode | 69 |
+| 🟡 LeetCode | 70 |
 | 🔵 Programmers | 639 |
 | 🟢 Baekjoon | 0 |
-| 🔢 **Total** | 708 |
+| 🔢 **Total** | 709 |
 
 ## 🥇 Recently Solved (Top 5)
-- Time: 1 ms (45.65%), Space: 56 MB (21.74%) - LeetHub
+- Time: 22 ms (18.41%), Space: 47.3 MB (57.47%) - LeetHub
+- Create README - LeetHub
 - Update README - Topic Tags
-- Time: 0 ms (100%), Space: 58 MB (12%) - LeetHub
-- Updated stats
+- Time: 1 ms (45.65%), Space: 56 MB (21.74%) - LeetHub
 - Update README - Topic Tags
 
 <!-- DASHBOARD-END -->
