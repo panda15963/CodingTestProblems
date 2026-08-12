@@ -1,44 +1,40 @@
-<h2><a href="https://leetcode.com/problems/sum-root-to-leaf-numbers">129. Sum Root to Leaf Numbers</a></h2><h3>Medium</h3><hr><p>You are given the <code>root</code> of a binary tree containing digits from <code>0</code> to <code>9</code> only.</p>
-
-<p>Each root-to-leaf path in the tree represents a number.</p>
+<h2><a href="https://leetcode.com/problems/surrounded-regions">130. Surrounded Regions</a></h2><h3>Medium</h3><hr><p>You are given an <code>m x n</code> matrix <code>board</code> containing <strong>letters</strong> <code>&#39;X&#39;</code> and <code>&#39;O&#39;</code>, <strong>capture regions</strong> that are <strong>surrounded</strong>:</p>
 
 <ul>
-	<li>For example, the root-to-leaf path <code>1 -&gt; 2 -&gt; 3</code> represents the number <code>123</code>.</li>
+	<li><strong>Connect</strong>: A cell is connected to adjacent cells horizontally or vertically.</li>
+	<li><strong>Region</strong>: To form a region <strong>connect every</strong> <code>&#39;O&#39;</code> cell.</li>
+	<li><strong>Surround</strong>: A region is surrounded if none of the <code>&#39;O&#39;</code> cells in that region are on the edge of the board. Such regions are <strong>completely enclosed </strong>by <code>&#39;X&#39;</code> cells.</li>
 </ul>
 
-<p>Return <em>the total sum of all root-to-leaf numbers</em>. Test cases are generated so that the answer will fit in a <strong>32-bit</strong> integer.</p>
-
-<p>A <strong>leaf</strong> node is a node with no children.</p>
+<p>To capture a <strong>surrounded region</strong>, replace all <code>&#39;O&#39;</code>s with <code>&#39;X&#39;</code>s <strong>in-place</strong> within the original board. You do not need to return anything.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/num1tree.jpg" style="width: 212px; height: 182px;" />
-<pre>
-<strong>Input:</strong> root = [1,2,3]
-<strong>Output:</strong> 25
-<strong>Explanation:</strong>
-The root-to-leaf path <code>1-&gt;2</code> represents the number <code>12</code>.
-The root-to-leaf path <code>1-&gt;3</code> represents the number <code>13</code>.
-Therefore, sum = 12 + 13 = <code>25</code>.
-</pre>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">board = [[&quot;X&quot;,&quot;X&quot;,&quot;X&quot;,&quot;X&quot;],[&quot;X&quot;,&quot;O&quot;,&quot;O&quot;,&quot;X&quot;],[&quot;X&quot;,&quot;X&quot;,&quot;O&quot;,&quot;X&quot;],[&quot;X&quot;,&quot;O&quot;,&quot;X&quot;,&quot;X&quot;]]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">[[&quot;X&quot;,&quot;X&quot;,&quot;X&quot;,&quot;X&quot;],[&quot;X&quot;,&quot;X&quot;,&quot;X&quot;,&quot;X&quot;],[&quot;X&quot;,&quot;X&quot;,&quot;X&quot;,&quot;X&quot;],[&quot;X&quot;,&quot;O&quot;,&quot;X&quot;,&quot;X&quot;]]</span></p>
+
+<p><strong>Explanation:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/xogrid.jpg" style="width: 367px; height: 158px;" />
+<p>In the above diagram, the bottom region is not captured because it is on the edge of the board and cannot be surrounded.</p>
+</div>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/02/19/num2tree.jpg" style="width: 292px; height: 302px;" />
-<pre>
-<strong>Input:</strong> root = [4,9,0,5,1]
-<strong>Output:</strong> 1026
-<strong>Explanation:</strong>
-The root-to-leaf path <code>4-&gt;9-&gt;5</code> represents the number 495.
-The root-to-leaf path <code>4-&gt;9-&gt;1</code> represents the number 491.
-The root-to-leaf path <code>4-&gt;0</code> represents the number 40.
-Therefore, sum = 495 + 491 + 40 = <code>1026</code>.
-</pre>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">board = [[&quot;X&quot;]]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">[[&quot;X&quot;]]</span></p>
+</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the tree is in the range <code>[1, 1000]</code>.</li>
-	<li><code>0 &lt;= Node.val &lt;= 9</code></li>
-	<li>The depth of the tree will not exceed <code>10</code>.</li>
+	<li><code>m == board.length</code></li>
+	<li><code>n == board[i].length</code></li>
+	<li><code>1 &lt;= m, n &lt;= 200</code></li>
+	<li><code>board[i][j]</code> is <code>&#39;X&#39;</code> or <code>&#39;O&#39;</code>.</li>
 </ul>
