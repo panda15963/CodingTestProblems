@@ -100,6 +100,7 @@
 | [0055-jump-game](https://github.com/panda15963/CodingTestProblems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/panda15963/CodingTestProblems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/panda15963/CodingTestProblems/tree/master/0135-candy) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/panda15963/CodingTestProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -236,6 +237,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/panda15963/CodingTestProblems/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/panda15963/CodingTestProblems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/panda15963/CodingTestProblems/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/panda15963/CodingTestProblems/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
