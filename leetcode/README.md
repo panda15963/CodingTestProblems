@@ -1,62 +1,45 @@
-<h2><a href="https://leetcode.com/problems/clone-graph/">133. Clone Graph</a></h2><h3>Medium</h3><hr><p>Given a reference of a node in a <strong><a href="https://en.wikipedia.org/wiki/Connectivity_(graph_theory)#Connected_graph" target="_blank">connected</a></strong> undirected graph.</p>
+<h2><a href="https://leetcode.com/problems/gas-station">134. Gas Station</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> gas stations along a circular route, where the amount of gas at the <code>i<sup>th</sup></code> station is <code>gas[i]</code>.</p>
 
-<p>Return a <a href="https://en.wikipedia.org/wiki/Object_copying#Deep_copy" target="_blank"><strong>deep copy</strong></a> (clone) of the graph.</p>
+<p>You have a car with an unlimited gas tank and it costs <code>cost[i]</code> of gas to travel from the <code>i<sup>th</sup></code> station to its next <code>(i + 1)<sup>th</sup></code> station. You begin the journey with an empty tank at one of the gas stations.</p>
 
-<p>Each node in the graph contains a value (<code>int</code>) and a list (<code>List[Node]</code>) of its neighbors.</p>
-
-<pre>
-class Node {
-    public int val;
-    public List&lt;Node&gt; neighbors;
-}
-</pre>
-
-<p>&nbsp;</p>
-
-<p><strong>Test case format:</strong></p>
-
-<p>For simplicity, each node&#39;s value is the same as the node&#39;s index (1-indexed). For example, the first node with <code>val == 1</code>, the second node with <code>val == 2</code>, and so on. The graph is represented in the test case using an adjacency list.</p>
-
-<p><b>An adjacency list</b> is a collection of unordered <b>lists</b> used to represent a finite graph. Each list describes the set of neighbors of a node in the graph.</p>
-
-<p>The given node will always be the first node with <code>val = 1</code>. You must return the <strong>copy of the given node</strong> as a reference to the cloned graph.</p>
+<p>Given two integer arrays <code>gas</code> and <code>cost</code>, return <em>the starting gas station&#39;s index if you can travel around the circuit once in the clockwise direction, otherwise return</em> <code>-1</code>. If there exists a solution, it is <strong>guaranteed</strong> to be <strong>unique</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2019/11/04/133_clone_graph_question.png" style="width: 454px; height: 500px;" />
+
 <pre>
-<strong>Input:</strong> adjList = [[2,4],[1,3],[2,4],[1,3]]
-<strong>Output:</strong> [[2,4],[1,3],[2,4],[1,3]]
-<strong>Explanation:</strong> There are 4 nodes in the graph.
-1st node (val = 1)&#39;s neighbors are 2nd node (val = 2) and 4th node (val = 4).
-2nd node (val = 2)&#39;s neighbors are 1st node (val = 1) and 3rd node (val = 3).
-3rd node (val = 3)&#39;s neighbors are 2nd node (val = 2) and 4th node (val = 4).
-4th node (val = 4)&#39;s neighbors are 1st node (val = 1) and 3rd node (val = 3).
+<strong>Input:</strong> gas = [1,2,3,4,5], cost = [3,4,5,1,2]
+<strong>Output:</strong> 3
+<strong>Explanation:</strong>
+Start at station 3 (index 3) and fill up with 4 unit of gas. Your tank = 0 + 4 = 4
+Travel to station 4. Your tank = 4 - 1 + 5 = 8
+Travel to station 0. Your tank = 8 - 2 + 1 = 7
+Travel to station 1. Your tank = 7 - 3 + 2 = 6
+Travel to station 2. Your tank = 6 - 4 + 3 = 5
+Travel to station 3. The cost is 5. Your gas is just enough to travel back to station 3.
+Therefore, return 3 as the starting index.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/01/07/graph.png" style="width: 163px; height: 148px;" />
-<pre>
-<strong>Input:</strong> adjList = [[]]
-<strong>Output:</strong> [[]]
-<strong>Explanation:</strong> Note that the input contains one empty list. The graph consists of only one node with val = 1 and it does not have any neighbors.
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> adjList = []
-<strong>Output:</strong> []
-<strong>Explanation:</strong> This an empty graph, it does not have any nodes.
+<strong>Input:</strong> gas = [2,3,4], cost = [3,4,3]
+<strong>Output:</strong> -1
+<strong>Explanation:</strong>
+You can&#39;t start at station 0 or 1, as there is not enough gas to travel to the next station.
+Let&#39;s start at station 2 and fill up with 4 unit of gas. Your tank = 0 + 4 = 4
+Travel to station 0. Your tank = 4 - 3 + 2 = 3
+Travel to station 1. Your tank = 3 - 3 + 3 = 3
+You cannot travel back to station 2, as it requires 4 unit of gas but you only have 3.
+Therefore, you can&#39;t travel around the circuit once no matter where you start.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the graph is in the range <code>[0, 100]</code>.</li>
-	<li><code>1 &lt;= Node.val &lt;= 100</code></li>
-	<li><code>Node.val</code> is unique for each node.</li>
-	<li>There are no repeated edges and no self-loops in the graph.</li>
-	<li>The Graph is connected and all nodes can be visited starting from the given node.</li>
+	<li><code>n == gas.length == cost.length</code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= gas[i], cost[i] &lt;= 10<sup>4</sup></code></li>
+	<li>The input is generated such that the answer is unique.</li>
 </ul>
