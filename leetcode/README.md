@@ -1,45 +1,38 @@
-<h2><a href="https://leetcode.com/problems/gas-station">134. Gas Station</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> gas stations along a circular route, where the amount of gas at the <code>i<sup>th</sup></code> station is <code>gas[i]</code>.</p>
+<h2><a href="https://leetcode.com/problems/candy">135. Candy</a></h2><h3>Hard</h3><hr><p>There are <code>n</code> children standing in a line.</p>
 
-<p>You have a car with an unlimited gas tank and it costs <code>cost[i]</code> of gas to travel from the <code>i<sup>th</sup></code> station to its next <code>(i + 1)<sup>th</sup></code> station. You begin the journey with an empty tank at one of the gas stations.</p>
+<p>Each child is assigned a rating value given in the integer array <code>ratings</code>.</p>
 
-<p>Given two integer arrays <code>gas</code> and <code>cost</code>, return <em>the starting gas station&#39;s index if you can travel around the circuit once in the clockwise direction, otherwise return</em> <code>-1</code>. If there exists a solution, it is <strong>guaranteed</strong> to be <strong>unique</strong>.</p>
+<p>You are giving candies to these children subjected to the following requirements:</p>
+
+<ul>
+	<li>Each child must have <strong>at least</strong> one candy.</li>
+	<li>Children with a <strong>higher</strong> rating get more candies than their neighbors.</li>
+</ul>
+
+<p>Return the <strong>minimum</strong> number of candies you need to have to distribute the candies to the children.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> gas = [1,2,3,4,5], cost = [3,4,5,1,2]
-<strong>Output:</strong> 3
-<strong>Explanation:</strong>
-Start at station 3 (index 3) and fill up with 4 unit of gas. Your tank = 0 + 4 = 4
-Travel to station 4. Your tank = 4 - 1 + 5 = 8
-Travel to station 0. Your tank = 8 - 2 + 1 = 7
-Travel to station 1. Your tank = 7 - 3 + 2 = 6
-Travel to station 2. Your tank = 6 - 4 + 3 = 5
-Travel to station 3. The cost is 5. Your gas is just enough to travel back to station 3.
-Therefore, return 3 as the starting index.
+<strong>Input:</strong> ratings = [1,0,2]
+<strong>Output:</strong> 5
+<strong>Explanation:</strong> You can allocate to the first, second and third child with 2, 1, 2 candies respectively.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> gas = [2,3,4], cost = [3,4,3]
-<strong>Output:</strong> -1
-<strong>Explanation:</strong>
-You can&#39;t start at station 0 or 1, as there is not enough gas to travel to the next station.
-Let&#39;s start at station 2 and fill up with 4 unit of gas. Your tank = 0 + 4 = 4
-Travel to station 0. Your tank = 4 - 3 + 2 = 3
-Travel to station 1. Your tank = 3 - 3 + 3 = 3
-You cannot travel back to station 2, as it requires 4 unit of gas but you only have 3.
-Therefore, you can&#39;t travel around the circuit once no matter where you start.
+<strong>Input:</strong> ratings = [1,2,2]
+<strong>Output:</strong> 4
+<strong>Explanation:</strong> You can allocate to the first, second and third child with 1, 2, 1 candies respectively.
+The third child gets 1 candy because it satisfies the above two conditions.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>n == gas.length == cost.length</code></li>
-	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
-	<li><code>0 &lt;= gas[i], cost[i] &lt;= 10<sup>4</sup></code></li>
-	<li>The input is generated such that the answer is unique.</li>
+	<li><code>1 &lt;= n == ratings.length &lt;= 5 * 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= ratings[i] &lt;= 5 * 10<sup>4</sup></code></li>
 </ul>
