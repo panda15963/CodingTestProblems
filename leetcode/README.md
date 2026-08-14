@@ -1,38 +1,37 @@
-<h2><a href="https://leetcode.com/problems/candy">135. Candy</a></h2><h3>Hard</h3><hr><p>There are <code>n</code> children standing in a line.</p>
+<h2><a href="https://leetcode.com/problems/single-number">136. Single Number</a></h2><h3>Easy</h3><hr><p>Given a <strong>non-empty</strong>&nbsp;array of integers <code>nums</code>, every element appears <em>twice</em> except for one. Find that single one.</p>
 
-<p>Each child is assigned a rating value given in the integer array <code>ratings</code>.</p>
-
-<p>You are giving candies to these children subjected to the following requirements:</p>
-
-<ul>
-	<li>Each child must have <strong>at least</strong> one candy.</li>
-	<li>Children with a <strong>higher</strong> rating get more candies than their neighbors.</li>
-</ul>
-
-<p>Return the <strong>minimum</strong> number of candies you need to have to distribute the candies to the children.</p>
+<p>You must&nbsp;implement a solution with a linear runtime complexity and use&nbsp;only constant&nbsp;extra space.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
-<strong>Input:</strong> ratings = [1,0,2]
-<strong>Output:</strong> 5
-<strong>Explanation:</strong> You can allocate to the first, second and third child with 2, 1, 2 candies respectively.
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">nums = [2,2,1]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">1</span></p>
+</div>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> ratings = [1,2,2]
-<strong>Output:</strong> 4
-<strong>Explanation:</strong> You can allocate to the first, second and third child with 1, 2, 1 candies respectively.
-The third child gets 1 candy because it satisfies the above two conditions.
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">nums = [4,1,2,1,2]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">4</span></p>
+</div>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">nums = [1]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">1</span></p>
+</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n == ratings.length &lt;= 5 * 10<sup>4</sup></code></li>
-	<li><code>0 &lt;= ratings[i] &lt;= 5 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>-3 * 10<sup>4</sup> &lt;= nums[i] &lt;= 3 * 10<sup>4</sup></code></li>
+	<li>Each element in the array appears twice except for one element which appears only once.</li>
 </ul>
