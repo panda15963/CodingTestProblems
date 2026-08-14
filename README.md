@@ -238,6 +238,7 @@
 | [0130-surrounded-regions](https://github.com/panda15963/CodingTestProblems/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/panda15963/CodingTestProblems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/panda15963/CodingTestProblems/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/panda15963/CodingTestProblems/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/panda15963/CodingTestProblems/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
@@ -814,6 +815,7 @@
 | [0078-subsets](https://github.com/panda15963/CodingTestProblems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/panda15963/CodingTestProblems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/panda15963/CodingTestProblems/tree/master/0136-single-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/panda15963/CodingTestProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
