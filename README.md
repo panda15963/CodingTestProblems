@@ -58,6 +58,7 @@
 | [0131-palindrome-partitioning](https://github.com/panda15963/CodingTestProblems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/panda15963/CodingTestProblems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -243,6 +244,7 @@
 | [0136-single-number](https://github.com/panda15963/CodingTestProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/panda15963/CodingTestProblems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/panda15963/CodingTestProblems/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
@@ -510,6 +512,7 @@
 | [0131-palindrome-partitioning](https://github.com/panda15963/CodingTestProblems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/panda15963/CodingTestProblems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -566,6 +569,7 @@
 | [0133-clone-graph](https://github.com/panda15963/CodingTestProblems/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/panda15963/CodingTestProblems/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/panda15963/CodingTestProblems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -621,6 +625,7 @@
 | [0113-path-sum-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/panda15963/CodingTestProblems/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
@@ -750,6 +755,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/panda15963/CodingTestProblems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/panda15963/CodingTestProblems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/panda15963/CodingTestProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3093-longest-common-suffix-queries) |
@@ -989,6 +995,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/panda15963/CodingTestProblems/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
