@@ -561,6 +561,7 @@
 | [0127-word-ladder](https://github.com/panda15963/CodingTestProblems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/panda15963/CodingTestProblems/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/panda15963/CodingTestProblems/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -799,6 +800,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/panda15963/CodingTestProblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/panda15963/CodingTestProblems/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
