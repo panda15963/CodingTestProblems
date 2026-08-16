@@ -1,36 +1,53 @@
-<h2><a href="https://leetcode.com/problems/reorder-list/">143. Reorder List</a></h2><h3>Medium</h3><hr><p>You are given the head of a singly linked-list. The list can be represented as:</p>
-
-<pre>
-L<sub>0</sub> &rarr; L<sub>1</sub> &rarr; &hellip; &rarr; L<sub>n - 1</sub> &rarr; L<sub>n</sub>
-</pre>
-
-<p><em>Reorder the list to be on the following form:</em></p>
-
-<pre>
-L<sub>0</sub> &rarr; L<sub>n</sub> &rarr; L<sub>1</sub> &rarr; L<sub>n - 1</sub> &rarr; L<sub>2</sub> &rarr; L<sub>n - 2</sub> &rarr; &hellip;
-</pre>
-
-<p>You may not modify the values in the list&#39;s nodes. Only nodes themselves may be changed.</p>
+<h2><a href="https://leetcode.com/problems/binary-tree-preorder-traversal">144. Binary Tree Preorder Traversal</a></h2><h3>Easy</h3><hr><p>Given the <code>root</code> of a binary tree, return <em>the preorder traversal of its nodes&#39; values</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/03/04/reorder1linked-list.jpg" style="width: 422px; height: 222px;" />
-<pre>
-<strong>Input:</strong> head = [1,2,3,4]
-<strong>Output:</strong> [1,4,2,3]
-</pre>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">root = [1,null,2,3]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">[1,2,3]</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p><img alt="" src="https://assets.leetcode.com/uploads/2024/08/29/screenshot-2024-08-29-202743.png" style="width: 200px; height: 264px;" /></p>
+</div>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/03/09/reorder2-linked-list.jpg" style="width: 542px; height: 222px;" />
-<pre>
-<strong>Input:</strong> head = [1,2,3,4,5]
-<strong>Output:</strong> [1,5,2,4,3]
-</pre>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">root = [1,2,3,4,5,null,8,null,null,6,7,9]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">[1,2,4,5,6,7,3,8,9]</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p><img alt="" src="https://assets.leetcode.com/uploads/2024/08/29/tree_2.png" style="width: 350px; height: 286px;" /></p>
+</div>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">root = []</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">[]</span></p>
+</div>
+
+<p><strong class="example">Example 4:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">root = [1]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">[1]</span></p>
+</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the list is in the range <code>[1, 5 * 10<sup>4</sup>]</code>.</li>
-	<li><code>1 &lt;= Node.val &lt;= 1000</code></li>
+	<li>The number of nodes in the tree is in the range <code>[0, 100]</code>.</li>
+	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Recursive solution is trivial, could you do it iteratively?</p>
