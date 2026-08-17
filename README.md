@@ -138,6 +138,7 @@
 | [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/panda15963/CodingTestProblems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -249,6 +250,7 @@
 | [0137-single-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/panda15963/CodingTestProblems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/panda15963/CodingTestProblems/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
@@ -587,6 +589,7 @@
 | [0141-linked-list-cycle](https://github.com/panda15963/CodingTestProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/panda15963/CodingTestProblems/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -795,6 +798,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/panda15963/CodingTestProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Breadth-First Search
 |  |
@@ -1049,4 +1053,12 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/panda15963/CodingTestProblems/tree/master/0146-lru-cache) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
