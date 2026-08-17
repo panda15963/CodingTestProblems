@@ -1,34 +1,26 @@
-<h2><a href="https://leetcode.com/problems/sort-list">148. Sort List</a></h2><h3>Medium</h3><hr><p>Given the <code>head</code> of a linked list, return <em>the list after sorting it in <strong>ascending order</strong></em>.</p>
+<h2><a href="https://leetcode.com/problems/max-points-on-a-line">149. Max Points on a Line</a></h2><h3>Hard</h3><hr><p>Given an array of <code>points</code> where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> represents a point on the <strong>X-Y</strong> plane, return <em>the maximum number of points that lie on the same straight line</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/09/14/sort_list_1.jpg" style="width: 450px; height: 194px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/02/25/plane1.jpg" style="width: 300px; height: 294px;" />
 <pre>
-<strong>Input:</strong> head = [4,2,1,3]
-<strong>Output:</strong> [1,2,3,4]
+<strong>Input:</strong> points = [[1,1],[2,2],[3,3]]
+<strong>Output:</strong> 3
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/09/14/sort_list_2.jpg" style="width: 550px; height: 184px;" />
+<img alt="" src="https://assets.leetcode.com/uploads/2021/02/25/plane2.jpg" style="width: 300px; height: 294px;" />
 <pre>
-<strong>Input:</strong> head = [-1,5,3,4,0]
-<strong>Output:</strong> [-1,0,3,4,5]
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> head = []
-<strong>Output:</strong> []
+<strong>Input:</strong> points = [[1,1],[3,2],[5,3],[4,1],[2,3],[1,4]]
+<strong>Output:</strong> 4
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the list is in the range <code>[0, 5 * 10<sup>4</sup>]</code>.</li>
-	<li><code>-10<sup>5</sup> &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= points.length &lt;= 300</code></li>
+	<li><code>points[i].length == 2</code></li>
+	<li><code>-10<sup>4</sup> &lt;= x<sub>i</sub>, y<sub>i</sub> &lt;= 10<sup>4</sup></code></li>
+	<li>All the <code>points</code> are <strong>unique</strong>.</li>
 </ul>
-
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong> Can you sort the linked list in <code>O(n logn)</code> time and <code>O(1)</code> memory (i.e. constant space)?</p>
