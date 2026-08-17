@@ -1,53 +1,43 @@
-<h2><a href="https://leetcode.com/problems/evaluate-reverse-polish-notation">150. Evaluate Reverse Polish Notation</a></h2><h3>Medium</h3><hr><p>You are given an array of strings <code>tokens</code> that represents an arithmetic expression in a <a href="http://en.wikipedia.org/wiki/Reverse_Polish_notation" target="_blank">Reverse Polish Notation</a>.</p>
+<h2><a href="https://leetcode.com/problems/reverse-words-in-a-string">151. Reverse Words in a String</a></h2><h3>Medium</h3><hr><p>Given an input string <code>s</code>, reverse the order of the <strong>words</strong>.</p>
 
-<p>Evaluate the expression. Return <em>an integer that represents the value of the expression</em>.</p>
+<p>A <strong>word</strong> is defined as a sequence of non-space characters. The <strong>words</strong> in <code>s</code> will be separated by at least one space.</p>
 
-<p><strong>Note</strong> that:</p>
+<p>Return <em>a string of the words in reverse order concatenated by a single space.</em></p>
 
-<ul>
-	<li>The valid operators are <code>&#39;+&#39;</code>, <code>&#39;-&#39;</code>, <code>&#39;*&#39;</code>, and <code>&#39;/&#39;</code>.</li>
-	<li>Each operand may be an integer or another expression.</li>
-	<li>The division between two integers always <strong>truncates toward zero</strong>.</li>
-	<li>There will not be any division by zero.</li>
-	<li>The input represents a valid arithmetic expression in a reverse polish notation.</li>
-	<li>The answer and all the intermediate calculations can be represented in a <strong>32-bit</strong> integer.</li>
-</ul>
+<p><b>Note</b> that <code>s</code> may contain leading or trailing spaces or multiple spaces between two words. The returned string should only have a single space separating the words. Do not include any extra spaces.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> tokens = [&quot;2&quot;,&quot;1&quot;,&quot;+&quot;,&quot;3&quot;,&quot;*&quot;]
-<strong>Output:</strong> 9
-<strong>Explanation:</strong> ((2 + 1) * 3) = 9
+<strong>Input:</strong> s = &quot;the sky is blue&quot;
+<strong>Output:</strong> &quot;blue is sky the&quot;
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> tokens = [&quot;4&quot;,&quot;13&quot;,&quot;5&quot;,&quot;/&quot;,&quot;+&quot;]
-<strong>Output:</strong> 6
-<strong>Explanation:</strong> (4 + (13 / 5)) = 6
+<strong>Input:</strong> s = &quot;  hello world  &quot;
+<strong>Output:</strong> &quot;world hello&quot;
+<strong>Explanation:</strong> Your reversed string should not contain leading or trailing spaces.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> tokens = [&quot;10&quot;,&quot;6&quot;,&quot;9&quot;,&quot;3&quot;,&quot;+&quot;,&quot;-11&quot;,&quot;*&quot;,&quot;/&quot;,&quot;*&quot;,&quot;17&quot;,&quot;+&quot;,&quot;5&quot;,&quot;+&quot;]
-<strong>Output:</strong> 22
-<strong>Explanation:</strong> ((10 * (6 / ((9 + 3) * -11))) + 17) + 5
-= ((10 * (6 / (12 * -11))) + 17) + 5
-= ((10 * (6 / -132)) + 17) + 5
-= ((10 * 0) + 17) + 5
-= (0 + 17) + 5
-= 17 + 5
-= 22
+<strong>Input:</strong> s = &quot;a good   example&quot;
+<strong>Output:</strong> &quot;example good a&quot;
+<strong>Explanation:</strong> You need to reduce multiple spaces between two words to a single space in the reversed string.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= tokens.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>tokens[i]</code> is either an operator: <code>&quot;+&quot;</code>, <code>&quot;-&quot;</code>, <code>&quot;*&quot;</code>, or <code>&quot;/&quot;</code>, or an integer in the range <code>[-200, 200]</code>.</li>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>s</code> contains English letters (upper-case and lower-case), digits, and spaces <code>&#39; &#39;</code>.</li>
+	<li>There is <strong>at least one</strong> word in <code>s</code>.</li>
 </ul>
+
+<p>&nbsp;</p>
+<p><b data-stringify-type="bold">Follow-up:&nbsp;</b>If the string data type is mutable in your language, can&nbsp;you solve it&nbsp;<b data-stringify-type="bold">in-place</b>&nbsp;with&nbsp;<code data-stringify-type="code">O(1)</code>&nbsp;extra space?</p>
