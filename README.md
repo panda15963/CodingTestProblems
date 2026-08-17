@@ -139,6 +139,7 @@
 | [0089-gray-code](https://github.com/panda15963/CodingTestProblems/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/panda15963/CodingTestProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -251,6 +252,7 @@
 | [0139-word-break](https://github.com/panda15963/CodingTestProblems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/panda15963/CodingTestProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/panda15963/CodingTestProblems/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
@@ -710,6 +712,7 @@
 | [0143-reorder-list](https://github.com/panda15963/CodingTestProblems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/panda15963/CodingTestProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/panda15963/CodingTestProblems/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
