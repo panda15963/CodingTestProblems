@@ -1,43 +1,31 @@
-<h2><a href="https://leetcode.com/problems/reverse-words-in-a-string">151. Reverse Words in a String</a></h2><h3>Medium</h3><hr><p>Given an input string <code>s</code>, reverse the order of the <strong>words</strong>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-product-subarray">152. Maximum Product Subarray</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, find a <span data-keyword="subarray-nonempty">subarray</span> that has the largest product, and return <em>the product</em>.</p>
 
-<p>A <strong>word</strong> is defined as a sequence of non-space characters. The <strong>words</strong> in <code>s</code> will be separated by at least one space.</p>
+<p>The test cases are generated so that the answer will fit in a <strong>32-bit</strong> integer.</p>
 
-<p>Return <em>a string of the words in reverse order concatenated by a single space.</em></p>
-
-<p><b>Note</b> that <code>s</code> may contain leading or trailing spaces or multiple spaces between two words. The returned string should only have a single space separating the words. Do not include any extra spaces.</p>
+<p><strong>Note</strong> that the product of an array with a single element is the value of that element.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;the sky is blue&quot;
-<strong>Output:</strong> &quot;blue is sky the&quot;
+<strong>Input:</strong> nums = [2,3,-2,4]
+<strong>Output:</strong> 6
+<strong>Explanation:</strong> [2,3] has the largest product 6.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;  hello world  &quot;
-<strong>Output:</strong> &quot;world hello&quot;
-<strong>Explanation:</strong> Your reversed string should not contain leading or trailing spaces.
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;a good   example&quot;
-<strong>Output:</strong> &quot;example good a&quot;
-<strong>Explanation:</strong> You need to reduce multiple spaces between two words to a single space in the reversed string.
+<strong>Input:</strong> nums = [-2,0,-1]
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> The result cannot be 2, because [-2,-1] is not a subarray.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>s</code> contains English letters (upper-case and lower-case), digits, and spaces <code>&#39; &#39;</code>.</li>
-	<li>There is <strong>at least one</strong> word in <code>s</code>.</li>
+	<li><code>1 &lt;= nums.length &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>-10 &lt;= nums[i] &lt;= 10</code></li>
+	<li>The product of any subarray of <code>nums</code> is <strong>guaranteed</strong> to fit in a <strong>32-bit</strong> integer.</li>
 </ul>
-
-<p>&nbsp;</p>
-<p><b data-stringify-type="bold">Follow-up:&nbsp;</b>If the string data type is mutable in your language, can&nbsp;you solve it&nbsp;<b data-stringify-type="bold">in-place</b>&nbsp;with&nbsp;<code data-stringify-type="code">O(1)</code>&nbsp;extra space?</p>
