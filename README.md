@@ -61,6 +61,7 @@
 | [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/panda15963/CodingTestProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -143,6 +144,7 @@
 | [0096-unique-binary-search-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/panda15963/CodingTestProblems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/panda15963/CodingTestProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -605,6 +607,7 @@
 | [0146-lru-cache](https://github.com/panda15963/CodingTestProblems/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/panda15963/CodingTestProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
