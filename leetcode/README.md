@@ -1,45 +1,37 @@
-<h2><a href="https://leetcode.com/problems/excel-sheet-column-number">171. Excel Sheet Column Number</a></h2><h3>Easy</h3><hr><p>Given a string <code>columnTitle</code> that represents the column title as appears in an Excel sheet, return <em>its corresponding column number</em>.</p>
+<h2><a href="https://leetcode.com/problems/factorial-trailing-zeroes">172. Factorial Trailing Zeroes</a></h2><h3>Medium</h3><hr><p>Given an integer <code>n</code>, return <em>the number of trailing zeroes in </em><code>n!</code>.</p>
 
-<p>For example:</p>
-
-<pre>
-A -&gt; 1
-B -&gt; 2
-C -&gt; 3
-...
-Z -&gt; 26
-AA -&gt; 27
-AB -&gt; 28 
-...
-</pre>
+<p>Note that <code>n! = n * (n - 1) * (n - 2) * ... * 3 * 2 * 1</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> columnTitle = &quot;A&quot;
-<strong>Output:</strong> 1
+<strong>Input:</strong> n = 3
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> 3! = 6, no trailing zero.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> columnTitle = &quot;AB&quot;
-<strong>Output:</strong> 28
+<strong>Input:</strong> n = 5
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> 5! = 120, one trailing zero.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> columnTitle = &quot;ZY&quot;
-<strong>Output:</strong> 701
+<strong>Input:</strong> n = 0
+<strong>Output:</strong> 0
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= columnTitle.length &lt;= 7</code></li>
-	<li><code>columnTitle</code> consists only of uppercase English letters.</li>
-	<li><code>columnTitle</code> is in the range <code>[&quot;A&quot;, &quot;FXSHRXW&quot;]</code>.</li>
+	<li><code>0 &lt;= n &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Could you write a solution that works in logarithmic time complexity?</p>
