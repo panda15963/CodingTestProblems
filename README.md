@@ -266,6 +266,7 @@
 | [0162-find-peak-element](https://github.com/panda15963/CodingTestProblems/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/panda15963/CodingTestProblems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/panda15963/CodingTestProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -382,6 +383,7 @@
 | [0147-insertion-sort-list](https://github.com/panda15963/CodingTestProblems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/panda15963/CodingTestProblems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/panda15963/CodingTestProblems/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -613,6 +615,7 @@
 | [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/panda15963/CodingTestProblems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -774,6 +777,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/panda15963/CodingTestProblems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/panda15963/CodingTestProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/panda15963/CodingTestProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -816,6 +820,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/panda15963/CodingTestProblems/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/panda15963/CodingTestProblems/tree/master/2833-furthest-point-from-origin) |
@@ -1102,4 +1107,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/panda15963/CodingTestProblems/tree/master/0164-maximum-gap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
