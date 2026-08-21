@@ -195,6 +195,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/panda15963/CodingTestProblems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/panda15963/CodingTestProblems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0173-binary-search-tree-iterator) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -745,6 +746,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/panda15963/CodingTestProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/panda15963/CodingTestProblems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0173-binary-search-tree-iterator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/panda15963/CodingTestProblems/tree/master/2751-robot-collisions) |
@@ -952,6 +954,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0173-binary-search-tree-iterator) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/panda15963/CodingTestProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -978,6 +981,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0173-binary-search-tree-iterator) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Counting Sort
 |  |
@@ -1033,6 +1037,7 @@
 | [0098-validate-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0173-binary-search-tree-iterator) |
 ## Game Theory
 |  |
 | ------- |
@@ -1120,4 +1125,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
