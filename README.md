@@ -272,6 +272,7 @@
 | [0164-maximum-gap](https://github.com/panda15963/CodingTestProblems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/panda15963/CodingTestProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/panda15963/CodingTestProblems/tree/master/0174-dungeon-game) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -443,6 +444,7 @@
 | [0079-word-search](https://github.com/panda15963/CodingTestProblems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/panda15963/CodingTestProblems/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/panda15963/CodingTestProblems/tree/master/0174-dungeon-game) |
 | [1260-shift-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/panda15963/CodingTestProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -556,6 +558,7 @@
 | [0139-word-break](https://github.com/panda15963/CodingTestProblems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/panda15963/CodingTestProblems/tree/master/0174-dungeon-game) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
