@@ -1,37 +1,69 @@
-<h2><a href="https://leetcode.com/problems/dungeon-game">174. Dungeon Game</a></h2><h3>Hard</h3><hr><p>The demons had captured the princess and imprisoned her in <strong>the bottom-right corner</strong> of a <code>dungeon</code>. The <code>dungeon</code> consists of <code>m x n</code> rooms laid out in a 2D grid. Our valiant knight was initially positioned in <strong>the top-left room</strong> and must fight his way through <code>dungeon</code> to rescue the princess.</p>
+<h2><a href="https://leetcode.com/problems/combine-two-tables">175. Combine Two Tables</a></h2><h3>Easy</h3><hr><p>Table: <code>Person</code></p>
 
-<p>The knight has an initial health point represented by a positive integer. If at any point his health point drops to <code>0</code> or below, he dies immediately.</p>
+<pre>
++-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| personId    | int     |
+| lastName    | varchar |
+| firstName   | varchar |
++-------------+---------+
+personId is the primary key (column with unique values) for this table.
+This table contains information about the ID of some persons and their first and last names.
+</pre>
 
-<p>Some of the rooms are guarded by demons (represented by negative integers), so the knight loses health upon entering these rooms; other rooms are either empty (represented as 0) or contain magic orbs that increase the knight&#39;s health (represented by positive integers).</p>
+<p>&nbsp;</p>
 
-<p>To reach the princess as quickly as possible, the knight decides to move only <strong>rightward</strong> or <strong>downward</strong> in each step.</p>
+<p>Table: <code>Address</code></p>
 
-<p>Return <em>the knight&#39;s minimum initial health so that he can rescue the princess</em>.</p>
+<pre>
++-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| addressId   | int     |
+| personId    | int     |
+| city        | varchar |
+| state       | varchar |
++-------------+---------+
+addressId is the primary key (column with unique values) for this table.
+Each row of this table contains information about the city and state of one person with ID = PersonId.
+</pre>
 
-<p><strong>Note</strong> that any room can contain threats or power-ups, even the first room the knight enters and the bottom-right room where the princess is imprisoned.</p>
+<p>&nbsp;</p>
+
+<p>Write a solution to report the first name, last name, city, and state of each person in the <code>Person</code> table. If the address of a <code>personId</code> is not present in the <code>Address</code> table, report <code>null</code> instead.</p>
+
+<p>Return the result table in <strong>any order</strong>.</p>
+
+<p>The result format is in the following example.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/03/13/dungeon-grid-1.jpg" style="width: 253px; height: 253px;" />
-<pre>
-<strong>Input:</strong> dungeon = [[-2,-3,3],[-5,-10,1],[10,30,-5]]
-<strong>Output:</strong> 7
-<strong>Explanation:</strong> The initial health of the knight must be at least 7 if he follows the optimal path: RIGHT-&gt; RIGHT -&gt; DOWN -&gt; DOWN.
-</pre>
-
-<p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> dungeon = [[0]]
-<strong>Output:</strong> 1
+<strong>Input:</strong> 
+Person table:
++----------+----------+-----------+
+| personId | lastName | firstName |
++----------+----------+-----------+
+| 1        | Wang     | Allen     |
+| 2        | Alice    | Bob       |
++----------+----------+-----------+
+Address table:
++-----------+----------+---------------+------------+
+| addressId | personId | city          | state      |
++-----------+----------+---------------+------------+
+| 1         | 2        | New York City | New York   |
+| 2         | 3        | Leetcode      | California |
++-----------+----------+---------------+------------+
+<strong>Output:</strong> 
++-----------+----------+---------------+----------+
+| firstName | lastName | city          | state    |
++-----------+----------+---------------+----------+
+| Allen     | Wang     | Null          | Null     |
+| Bob       | Alice    | New York City | New York |
++-----------+----------+---------------+----------+
+<strong>Explanation:</strong> 
+There is no address in the address table for the personId = 1 so we return null in their city and state.
+addressId = 1 contains information about the address of personId = 2.
 </pre>
-
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
-
-<ul>
-	<li><code>m == dungeon.length</code></li>
-	<li><code>n == dungeon[i].length</code></li>
-	<li><code>1 &lt;= m, n &lt;= 200</code></li>
-	<li><code>-1000 &lt;= dungeon[i][j] &lt;= 1000</code></li>
-</ul>
