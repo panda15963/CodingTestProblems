@@ -72,6 +72,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1871-jump-game-vii](https://github.com/panda15963/CodingTestProblems/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/panda15963/CodingTestProblems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/panda15963/CodingTestProblems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/panda15963/CodingTestProblems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/panda15963/CodingTestProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -116,6 +117,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/panda15963/CodingTestProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/panda15963/CodingTestProblems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/panda15963/CodingTestProblems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/panda15963/CodingTestProblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/panda15963/CodingTestProblems/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/panda15963/CodingTestProblems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/panda15963/CodingTestProblems/tree/master/2126-destroying-asteroids) |
@@ -162,6 +164,7 @@
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/panda15963/CodingTestProblems/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/panda15963/CodingTestProblems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/panda15963/CodingTestProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/panda15963/CodingTestProblems/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/panda15963/CodingTestProblems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -1050,6 +1053,7 @@
 | [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/panda15963/CodingTestProblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/panda15963/CodingTestProblems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
