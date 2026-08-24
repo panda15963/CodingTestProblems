@@ -65,6 +65,7 @@
 | [0168-excel-sheet-column-title](https://github.com/panda15963/CodingTestProblems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/panda15963/CodingTestProblems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/panda15963/CodingTestProblems/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -637,6 +638,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/panda15963/CodingTestProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -925,6 +927,7 @@
 | [0090-subsets-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/panda15963/CodingTestProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/panda15963/CodingTestProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -938,6 +941,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/panda15963/CodingTestProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/panda15963/CodingTestProblems/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/panda15963/CodingTestProblems/tree/master/1871-jump-game-vii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/panda15963/CodingTestProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1153,4 +1157,20 @@
 | ------- |
 | [0177-nth-highest-salary](https://github.com/panda15963/CodingTestProblems/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/panda15963/CodingTestProblems/tree/master/0184-department-highest-salary) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
