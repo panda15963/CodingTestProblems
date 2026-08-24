@@ -1,26 +1,71 @@
-<h2><a href="https://leetcode.com/problems/largest-number">179. Largest Number</a></h2><h3>Medium</h3><hr><p>Given a list of non-negative integers <code>nums</code>, arrange them such that they form the largest number and return it.</p>
+<h2><a href="https://leetcode.com/problems/department-highest-salary">184. Department Highest Salary</a></h2><h3>Medium</h3><hr><p>Table: <code>Employee</code></p>
 
-<p>Since the result may be very large, so you need to return a string instead of an integer.</p>
+<pre>
++--------------+---------+
+| Column Name  | Type    |
++--------------+---------+
+| id           | int     |
+| name         | varchar |
+| salary       | int     |
+| departmentId | int     |
++--------------+---------+
+id is the primary key (column with unique values) for this table.
+departmentId is a foreign key (reference columns) of the ID from the <code>Department </code>table.
+Each row of this table indicates the ID, name, and salary of an employee. It also contains the ID of their department.
+</pre>
+
+<p>&nbsp;</p>
+
+<p>Table: <code>Department</code></p>
+
+<pre>
++-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| id          | int     |
+| name        | varchar |
++-------------+---------+
+id is the primary key (column with unique values) for this table. It is guaranteed that department name is not <code>NULL.</code>
+Each row of this table indicates the ID of a department and its name.
+</pre>
+
+<p>&nbsp;</p>
+
+<p>Write a solution to find employees who have the highest salary in each of the departments.</p>
+
+<p>Return the result table in <strong>any order</strong>.</p>
+
+<p>The result format is in the following example.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [10,2]
-<strong>Output:</strong> &quot;210&quot;
+<strong>Input:</strong> 
+Employee table:
++----+-------+--------+--------------+
+| id | name  | salary | departmentId |
++----+-------+--------+--------------+
+| 1  | Joe   | 70000  | 1            |
+| 2  | Jim   | 90000  | 1            |
+| 3  | Henry | 80000  | 2            |
+| 4  | Sam   | 60000  | 2            |
+| 5  | Max   | 90000  | 1            |
++----+-------+--------+--------------+
+Department table:
++----+-------+
+| id | name  |
++----+-------+
+| 1  | IT    |
+| 2  | Sales |
++----+-------+
+<strong>Output:</strong> 
++------------+----------+--------+
+| Department | Employee | Salary |
++------------+----------+--------+
+| IT         | Jim      | 90000  |
+| Sales      | Henry    | 80000  |
+| IT         | Max      | 90000  |
++------------+----------+--------+
+<strong>Explanation:</strong> Max and Jim both have the highest salary in the IT department and Henry has the highest salary in the Sales department.
 </pre>
-
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums = [3,30,34,5,9]
-<strong>Output:</strong> &quot;9534330&quot;
-</pre>
-
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
-
-<ul>
-	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
-	<li><code>0 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
-</ul>
