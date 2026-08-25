@@ -1,31 +1,67 @@
-<h2><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv">188. Best Time to Buy and Sell Stock IV</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>prices</code> where <code>prices[i]</code> is the price of a given stock on the <code>i<sup>th</sup></code> day, and an integer <code>k</code>.</p>
-
-<p>Find the maximum profit you can achieve. You may complete at most <code>k</code> transactions: i.e. you may buy at most <code>k</code> times and sell at most <code>k</code> times.</p>
-
-<p><strong>Note:</strong> You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).</p>
+<h2><a href="https://leetcode.com/problems/reverse-bits">190. Reverse Bits</a></h2><h3>Easy</h3><hr><p>Reverse bits of a given 32 bits signed integer.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
-<strong>Input:</strong> k = 2, prices = [2,4,1]
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> Buy on day 1 (price = 2) and sell on day 2 (price = 4), profit = 4-2 = 2.
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">n = 43261596</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">964176192</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<table>
+	<tbody>
+		<tr>
+			<th>Integer</th>
+			<th>Binary</th>
+		</tr>
+		<tr>
+			<td>43261596</td>
+			<td>00000010100101000001111010011100</td>
+		</tr>
+		<tr>
+			<td>964176192</td>
+			<td>00111001011110000010100101000000</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> k = 2, prices = [3,2,6,5,0,3]
-<strong>Output:</strong> 7
-<strong>Explanation:</strong> Buy on day 2 (price = 2) and sell on day 3 (price = 6), profit = 6-2 = 4. Then buy on day 5 (price = 0) and sell on day 6 (price = 3), profit = 3-0 = 3.
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">n = 2147483644</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">1073741822</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<table>
+	<tbody>
+		<tr>
+			<th>Integer</th>
+			<th>Binary</th>
+		</tr>
+		<tr>
+			<td>2147483644</td>
+			<td>01111111111111111111111111111100</td>
+		</tr>
+		<tr>
+			<td>1073741822</td>
+			<td>00111111111111111111111111111110</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= k &lt;= 100</code></li>
-	<li><code>1 &lt;= prices.length &lt;= 1000</code></li>
-	<li><code>0 &lt;= prices[i] &lt;= 1000</code></li>
+	<li><code>0 &lt;= n &lt;= 2<sup>31</sup> - 2</code></li>
+	<li><code>n</code> is even.</li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> If this function is called many times, how would you optimize it?</p>
