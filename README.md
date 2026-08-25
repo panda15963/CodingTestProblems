@@ -811,6 +811,7 @@
 | [0148-sort-list](https://github.com/panda15963/CodingTestProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/panda15963/CodingTestProblems/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/panda15963/CodingTestProblems/tree/master/0191-number-of-1-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/panda15963/CodingTestProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/panda15963/CodingTestProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -937,6 +938,7 @@
 | [0137-single-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/panda15963/CodingTestProblems/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/panda15963/CodingTestProblems/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/panda15963/CodingTestProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
