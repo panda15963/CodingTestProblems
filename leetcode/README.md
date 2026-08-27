@@ -1,48 +1,48 @@
-<h2><a href="https://leetcode.com/problems/number-of-1-bits">191. Number of 1 Bits</a></h2><h3>Easy</h3><hr><p>Given a positive integer <code>n</code>, write a function that returns the number of <span data-keyword="set-bit">set bits</span> in its binary representation (also known as the <a href="http://en.wikipedia.org/wiki/Hamming_weight" target="_blank">Hamming weight</a>).</p>
+<h2><a href="https://leetcode.com/problems/rising-temperature">197. Rising Temperature</a></h2><h3>Easy</h3><hr><p>Table: <code>Weather</code></p>
+
+<pre>
++---------------+---------+
+| Column Name   | Type    |
++---------------+---------+
+| id            | int     |
+| recordDate    | date    |
+| temperature   | int     |
++---------------+---------+
+id is the column with unique values for this table.
+There are no different rows with the same recordDate.
+This table contains information about the temperature on a certain day.
+</pre>
+
+<p>&nbsp;</p>
+
+<p>Write a solution to find all dates&#39; <code>id</code> with higher temperatures compared to its previous dates (yesterday).</p>
+
+<p>Return the result table in <strong>any order</strong>.</p>
+
+<p>The result format is in the following example.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">n = 11</span></p>
-
-<p><strong>Output:</strong> <span class="example-io">3</span></p>
-
-<p><strong>Explanation:</strong></p>
-
-<p>The input binary string <strong>1011</strong> has a total of three set bits.</p>
-</div>
-
-<p><strong class="example">Example 2:</strong></p>
-
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">n = 128</span></p>
-
-<p><strong>Output:</strong> <span class="example-io">1</span></p>
-
-<p><strong>Explanation:</strong></p>
-
-<p>The input binary string <strong>10000000</strong> has a total of one set bit.</p>
-</div>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">n = 2147483645</span></p>
-
-<p><strong>Output:</strong> <span class="example-io">30</span></p>
-
-<p><strong>Explanation:</strong></p>
-
-<p>The input binary string <strong>1111111111111111111111111111101</strong> has a total of thirty set bits.</p>
-</div>
-
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
-
-<ul>
-	<li><code>1 &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
-</ul>
-
-<p>&nbsp;</p>
-<strong>Follow up:</strong> If this function is called many times, how would you optimize it?
+<pre>
+<strong>Input:</strong> 
+Weather table:
++----+------------+-------------+
+| id | recordDate | temperature |
++----+------------+-------------+
+| 1  | 2015-01-01 | 10          |
+| 2  | 2015-01-02 | 25          |
+| 3  | 2015-01-03 | 20          |
+| 4  | 2015-01-04 | 30          |
++----+------------+-------------+
+<strong>Output:</strong> 
++----+
+| id |
++----+
+| 2  |
+| 4  |
++----+
+<strong>Explanation:</strong> 
+In 2015-01-02, the temperature was higher than the previous day (10 -&gt; 25).
+In 2015-01-04, the temperature was higher than the previous day (20 -&gt; 30).
+</pre>
