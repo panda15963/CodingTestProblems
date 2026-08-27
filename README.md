@@ -1175,6 +1175,7 @@
 | ------- |
 | [0177-nth-highest-salary](https://github.com/panda15963/CodingTestProblems/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/panda15963/CodingTestProblems/tree/master/0184-department-highest-salary) |
+| [0197-rising-temperature](https://github.com/panda15963/CodingTestProblems/tree/master/0197-rising-temperature) |
 ## Rolling Hash
 |  |
 | ------- |
