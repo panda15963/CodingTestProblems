@@ -160,6 +160,7 @@
 | [0171-excel-sheet-column-number](https://github.com/panda15963/CodingTestProblems/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/panda15963/CodingTestProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/panda15963/CodingTestProblems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/panda15963/CodingTestProblems/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -535,6 +536,7 @@
 | [0165-compare-version-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/panda15963/CodingTestProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/panda15963/CodingTestProblems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/panda15963/CodingTestProblems/tree/master/0202-happy-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -654,6 +656,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/panda15963/CodingTestProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/panda15963/CodingTestProblems/tree/master/0202-happy-number) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -1153,6 +1156,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/panda15963/CodingTestProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/panda15963/CodingTestProblems/tree/master/0202-happy-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
