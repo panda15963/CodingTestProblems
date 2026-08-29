@@ -66,6 +66,7 @@
 | [0171-excel-sheet-column-number](https://github.com/panda15963/CodingTestProblems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/panda15963/CodingTestProblems/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0205-isomorphic-strings) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -662,6 +663,7 @@
 | [0169-majority-element](https://github.com/panda15963/CodingTestProblems/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/panda15963/CodingTestProblems/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0205-isomorphic-strings) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
