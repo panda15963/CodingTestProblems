@@ -161,6 +161,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/panda15963/CodingTestProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/panda15963/CodingTestProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/panda15963/CodingTestProblems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -292,6 +293,7 @@
 | [0189-rotate-array](https://github.com/panda15963/CodingTestProblems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/panda15963/CodingTestProblems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/panda15963/CodingTestProblems/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -723,6 +725,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/panda15963/CodingTestProblems/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/panda15963/CodingTestProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/panda15963/CodingTestProblems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -945,6 +948,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/panda15963/CodingTestProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/panda15963/CodingTestProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1216,4 +1220,16 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
