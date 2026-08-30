@@ -298,6 +298,7 @@
 | [0198-house-robber](https://github.com/panda15963/CodingTestProblems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/panda15963/CodingTestProblems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -503,6 +504,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/panda15963/CodingTestProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/panda15963/CodingTestProblems/tree/master/1732-find-the-highest-altitude) |
@@ -816,6 +818,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/panda15963/CodingTestProblems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/panda15963/CodingTestProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/panda15963/CodingTestProblems/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -996,6 +999,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/panda15963/CodingTestProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/panda15963/CodingTestProblems/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/panda15963/CodingTestProblems/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/panda15963/CodingTestProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
