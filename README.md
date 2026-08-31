@@ -70,6 +70,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -795,6 +796,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/panda15963/CodingTestProblems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Stack
@@ -1242,14 +1244,17 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -1270,4 +1275,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/panda15963/CodingTestProblems/tree/master/0207-course-schedule) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
