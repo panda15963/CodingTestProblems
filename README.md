@@ -69,6 +69,7 @@
 | [0205-isomorphic-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0212-word-search-ii) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -301,6 +302,7 @@
 | [0200-number-of-islands](https://github.com/panda15963/CodingTestProblems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0212-word-search-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -480,6 +482,7 @@
 | [0130-surrounded-regions](https://github.com/panda15963/CodingTestProblems/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/panda15963/CodingTestProblems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/panda15963/CodingTestProblems/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/panda15963/CodingTestProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -733,6 +736,7 @@
 | [0126-word-ladder-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/panda15963/CodingTestProblems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0212-word-search-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
@@ -891,6 +895,7 @@
 | [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0212-word-search-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/panda15963/CodingTestProblems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/panda15963/CodingTestProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3093-longest-common-suffix-queries) |
