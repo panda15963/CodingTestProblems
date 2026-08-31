@@ -68,6 +68,7 @@
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -215,6 +216,7 @@
 | [0155-min-stack](https://github.com/panda15963/CodingTestProblems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -872,6 +874,7 @@
 | [0200-number-of-islands](https://github.com/panda15963/CodingTestProblems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/panda15963/CodingTestProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -887,6 +890,7 @@
 | [0139-word-break](https://github.com/panda15963/CodingTestProblems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/panda15963/CodingTestProblems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/panda15963/CodingTestProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3093-longest-common-suffix-queries) |
