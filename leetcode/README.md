@@ -1,41 +1,32 @@
-<h2><a href="https://leetcode.com/problems/design-add-and-search-words-data-structure">211. Design Add and Search Words Data Structure</a></h2><h3>Medium</h3><hr><p>Design a data structure that supports adding new words and finding if a string matches any previously added string.</p>
+<h2><a href="https://leetcode.com/problems/word-search-ii">212. Word Search II</a></h2><h3>Hard</h3><hr><p>Given an <code>m x n</code> <code>board</code>&nbsp;of characters and a list of strings <code>words</code>, return <em>all words on the board</em>.</p>
 
-<p>Implement the <code>WordDictionary</code> class:</p>
-
-<ul>
-	<li><code>WordDictionary()</code>&nbsp;Initializes the object.</li>
-	<li><code>void addWord(word)</code> Adds <code>word</code> to the data structure, it can be matched later.</li>
-	<li><code>bool search(word)</code>&nbsp;Returns <code>true</code> if there is any string in the data structure that matches <code>word</code>&nbsp;or <code>false</code> otherwise. <code>word</code> may contain dots <code>&#39;.&#39;</code> where dots can be matched with any letter.</li>
-</ul>
+<p>Each word must be constructed from letters of sequentially adjacent cells, where <strong>adjacent cells</strong> are horizontally or vertically neighboring. The same letter cell may not be used more than once in a word.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example:</strong></p>
-
+<p><strong class="example">Example 1:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2020/11/07/search1.jpg" style="width: 322px; height: 322px;" />
 <pre>
-<strong>Input</strong>
-[&quot;WordDictionary&quot;,&quot;addWord&quot;,&quot;addWord&quot;,&quot;addWord&quot;,&quot;search&quot;,&quot;search&quot;,&quot;search&quot;,&quot;search&quot;]
-[[],[&quot;bad&quot;],[&quot;dad&quot;],[&quot;mad&quot;],[&quot;pad&quot;],[&quot;bad&quot;],[&quot;.ad&quot;],[&quot;b..&quot;]]
-<strong>Output</strong>
-[null,null,null,null,false,true,true,true]
+<strong>Input:</strong> board = [[&quot;o&quot;,&quot;a&quot;,&quot;a&quot;,&quot;n&quot;],[&quot;e&quot;,&quot;t&quot;,&quot;a&quot;,&quot;e&quot;],[&quot;i&quot;,&quot;h&quot;,&quot;k&quot;,&quot;r&quot;],[&quot;i&quot;,&quot;f&quot;,&quot;l&quot;,&quot;v&quot;]], words = [&quot;oath&quot;,&quot;pea&quot;,&quot;eat&quot;,&quot;rain&quot;]
+<strong>Output:</strong> [&quot;eat&quot;,&quot;oath&quot;]
+</pre>
 
-<strong>Explanation</strong>
-WordDictionary wordDictionary = new WordDictionary();
-wordDictionary.addWord(&quot;bad&quot;);
-wordDictionary.addWord(&quot;dad&quot;);
-wordDictionary.addWord(&quot;mad&quot;);
-wordDictionary.search(&quot;pad&quot;); // return False
-wordDictionary.search(&quot;bad&quot;); // return True
-wordDictionary.search(&quot;.ad&quot;); // return True
-wordDictionary.search(&quot;b..&quot;); // return True
+<p><strong class="example">Example 2:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2020/11/07/search2.jpg" style="width: 162px; height: 162px;" />
+<pre>
+<strong>Input:</strong> board = [[&quot;a&quot;,&quot;b&quot;],[&quot;c&quot;,&quot;d&quot;]], words = [&quot;abcb&quot;]
+<strong>Output:</strong> []
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= word.length &lt;= 25</code></li>
-	<li><code>word</code> in <code>addWord</code> consists of lowercase English letters.</li>
-	<li><code>word</code> in <code>search</code> consist of <code>&#39;.&#39;</code> or lowercase English letters.</li>
-	<li>There will be at most <code>2</code> dots in <code>word</code> for <code>search</code> queries.</li>
-	<li>At most <code>10<sup>4</sup></code> calls will be made to <code>addWord</code> and <code>search</code>.</li>
+	<li><code>m == board.length</code></li>
+	<li><code>n == board[i].length</code></li>
+	<li><code>1 &lt;= m, n &lt;= 12</code></li>
+	<li><code>board[i][j]</code> is a lowercase English letter.</li>
+	<li><code>1 &lt;= words.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= words[i].length &lt;= 10</code></li>
+	<li><code>words[i]</code> consists of lowercase English letters.</li>
+	<li>All the strings of <code>words</code> are unique.</li>
 </ul>
