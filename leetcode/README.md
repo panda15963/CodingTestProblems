@@ -1,21 +1,47 @@
-<h2><a href="https://leetcode.com/problems/kth-largest-element-in-an-array">215. Kth Largest Element in an Array</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the</em> <code>k<sup>th</sup></code> <em>largest element in the array</em>.</p>
+<h2><a href="https://leetcode.com/problems/combination-sum-iii">216. Combination Sum III</a></h2><h3>Medium</h3><hr><p>Find all valid combinations of <code>k</code> numbers that sum up to <code>n</code> such that the following conditions are true:</p>
 
-<p>Note that it is the <code>k<sup>th</sup></code> largest element in the sorted order, not the <code>k<sup>th</sup></code> distinct element.</p>
+<ul>
+	<li>Only numbers <code>1</code> through <code>9</code> are used.</li>
+	<li>Each number is used <strong>at most once</strong>.</li>
+</ul>
 
-<p>Can you solve it without sorting?</p>
+<p>Return <em>a list of all possible valid combinations</em>. The list must not contain the same combination twice, and the combinations may be returned in any order.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<pre><strong>Input:</strong> nums = [3,2,1,5,6,4], k = 2
-<strong>Output:</strong> 5
-</pre><p><strong class="example">Example 2:</strong></p>
-<pre><strong>Input:</strong> nums = [3,2,3,1,2,4,5,5,6], k = 4
-<strong>Output:</strong> 4
+
+<pre>
+<strong>Input:</strong> k = 3, n = 7
+<strong>Output:</strong> [[1,2,4]]
+<strong>Explanation:</strong>
+1 + 2 + 4 = 7
+There are no other valid combinations.</pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> k = 3, n = 9
+<strong>Output:</strong> [[1,2,6],[1,3,5],[2,3,4]]
+<strong>Explanation:</strong>
+1 + 2 + 6 = 9
+1 + 3 + 5 = 9
+2 + 3 + 4 = 9
+There are no other valid combinations.
 </pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> k = 4, n = 1
+<strong>Output:</strong> []
+<strong>Explanation:</strong> There are no valid combinations.
+Using 4 different numbers in the range [1,9], the smallest sum we can get is 1+2+3+4 = 10 and since 10 &gt; 1, there are no valid combination.
+</pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= k &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
+	<li><code>2 &lt;= k &lt;= 9</code></li>
+	<li><code>1 &lt;= n &lt;= 60</code></li>
 </ul>
