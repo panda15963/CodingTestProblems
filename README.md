@@ -224,6 +224,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/panda15963/CodingTestProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3161-block-placement-queries) |
@@ -308,6 +309,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/panda15963/CodingTestProblems/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -434,6 +436,7 @@
 | [0179-largest-number](https://github.com/panda15963/CodingTestProblems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/panda15963/CodingTestProblems/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -469,6 +472,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -868,6 +872,7 @@
 | [0190-reverse-bits](https://github.com/panda15963/CodingTestProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/panda15963/CodingTestProblems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/panda15963/CodingTestProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/panda15963/CodingTestProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1038,6 +1043,7 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [3161-block-placement-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3161-block-placement-queries) |
 ## Tree
 |  |
@@ -1200,6 +1206,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/panda15963/CodingTestProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Memoization
 |  |
@@ -1301,4 +1308,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0215-kth-largest-element-in-an-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
