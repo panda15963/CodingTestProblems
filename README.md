@@ -312,6 +312,7 @@
 | [0217-contains-duplicate](https://github.com/panda15963/CodingTestProblems/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/panda15963/CodingTestProblems/tree/master/0221-maximal-square) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -500,6 +501,7 @@
 | [0174-dungeon-game](https://github.com/panda15963/CodingTestProblems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/panda15963/CodingTestProblems/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/panda15963/CodingTestProblems/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/panda15963/CodingTestProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -623,6 +625,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/panda15963/CodingTestProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/panda15963/CodingTestProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/panda15963/CodingTestProblems/tree/master/0221-maximal-square) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
