@@ -71,6 +71,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/panda15963/CodingTestProblems/tree/master/0224-basic-calculator) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -169,6 +170,7 @@
 | [0202-happy-number](https://github.com/panda15963/CodingTestProblems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/panda15963/CodingTestProblems/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/panda15963/CodingTestProblems/tree/master/0224-basic-calculator) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -671,6 +673,7 @@
 | [0143-reorder-list](https://github.com/panda15963/CodingTestProblems/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/panda15963/CodingTestProblems/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
@@ -839,6 +842,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/panda15963/CodingTestProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/panda15963/CodingTestProblems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/panda15963/CodingTestProblems/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/panda15963/CodingTestProblems/tree/master/2751-robot-collisions) |
