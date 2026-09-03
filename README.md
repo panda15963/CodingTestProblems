@@ -168,6 +168,7 @@
 | [0189-rotate-array](https://github.com/panda15963/CodingTestProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/panda15963/CodingTestProblems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/panda15963/CodingTestProblems/tree/master/0223-rectangle-area) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -945,6 +946,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/panda15963/CodingTestProblems/tree/master/0223-rectangle-area) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/panda15963/CodingTestProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Breadth-First Search
 |  |
