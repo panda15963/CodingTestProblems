@@ -1,29 +1,46 @@
-<h2><a href="https://leetcode.com/problems/basic-calculator-ii">227. Basic Calculator II</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code> which represents an expression, <em>evaluate this expression and return its value</em>.&nbsp;</p>
+<h2><a href="https://leetcode.com/problems/summary-ranges">228. Summary Ranges</a></h2><h3>Easy</h3><hr><p>You are given a <strong>sorted unique</strong> integer array <code>nums</code>.</p>
 
-<p>The integer division should truncate toward zero.</p>
+<p>A <strong>range</strong> <code>[a,b]</code> is the set of all integers from <code>a</code> to <code>b</code> (inclusive).</p>
 
-<p>You may assume that the given expression is always valid. All intermediate results will be in the range of <code>[-2<sup>31</sup>, 2<sup>31</sup> - 1]</code>.</p>
+<p>Return <em>the <strong>smallest sorted</strong> list of ranges that <strong>cover all the numbers in the array exactly</strong></em>. That is, each element of <code>nums</code> is covered by exactly one of the ranges, and there is no integer <code>x</code> such that <code>x</code> is in one of the ranges but not in <code>nums</code>.</p>
 
-<p><strong>Note:</strong> You are not allowed to use any built-in function which evaluates strings as mathematical expressions, such as <code>eval()</code>.</p>
+<p>Each range <code>[a,b]</code> in the list should be output as:</p>
+
+<ul>
+	<li><code>&quot;a-&gt;b&quot;</code> if <code>a != b</code></li>
+	<li><code>&quot;a&quot;</code> if <code>a == b</code></li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<pre><strong>Input:</strong> s = "3+2*2"
-<strong>Output:</strong> 7
-</pre><p><strong class="example">Example 2:</strong></p>
-<pre><strong>Input:</strong> s = " 3/2 "
-<strong>Output:</strong> 1
-</pre><p><strong class="example">Example 3:</strong></p>
-<pre><strong>Input:</strong> s = " 3+5 / 2 "
-<strong>Output:</strong> 5
+
+<pre>
+<strong>Input:</strong> nums = [0,1,2,4,5,7]
+<strong>Output:</strong> [&quot;0-&gt;2&quot;,&quot;4-&gt;5&quot;,&quot;7&quot;]
+<strong>Explanation:</strong> The ranges are:
+[0,2] --&gt; &quot;0-&gt;2&quot;
+[4,5] --&gt; &quot;4-&gt;5&quot;
+[7,7] --&gt; &quot;7&quot;
 </pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [0,2,3,4,6,8,9]
+<strong>Output:</strong> [&quot;0&quot;,&quot;2-&gt;4&quot;,&quot;6&quot;,&quot;8-&gt;9&quot;]
+<strong>Explanation:</strong> The ranges are:
+[0,0] --&gt; &quot;0&quot;
+[2,4] --&gt; &quot;2-&gt;4&quot;
+[6,6] --&gt; &quot;6&quot;
+[8,9] --&gt; &quot;8-&gt;9&quot;
+</pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length &lt;= 3 * 10<sup>5</sup></code></li>
-	<li><code>s</code> consists of integers and operators <code>(&#39;+&#39;, &#39;-&#39;, &#39;*&#39;, &#39;/&#39;)</code> separated by some number of spaces.</li>
-	<li><code>s</code> represents a valid expression.</li>
-	<li>All the integers in the expression are non-negative integers in the range <code>[0, 2<sup>31</sup> - 1]</code>.</li>
-	<li>The answer is <strong>guaranteed</strong> to fit in a <strong>32-bit integer</strong>.</li>
+	<li><code>0 &lt;= nums.length &lt;= 20</code></li>
+	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
+	<li>All the values of <code>nums</code> are <strong>unique</strong>.</li>
+	<li><code>nums</code> is sorted in ascending order.</li>
 </ul>
