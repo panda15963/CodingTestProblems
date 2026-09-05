@@ -173,6 +173,7 @@
 | [0223-rectangle-area](https://github.com/panda15963/CodingTestProblems/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/panda15963/CodingTestProblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/panda15963/CodingTestProblems/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -683,6 +684,7 @@
 | [0203-remove-linked-list-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/panda15963/CodingTestProblems/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/panda15963/CodingTestProblems/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -1049,6 +1051,7 @@
 | [0190-reverse-bits](https://github.com/panda15963/CodingTestProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/panda15963/CodingTestProblems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/panda15963/CodingTestProblems/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/panda15963/CodingTestProblems/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/panda15963/CodingTestProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
