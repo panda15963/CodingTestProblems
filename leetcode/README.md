@@ -1,23 +1,27 @@
-<h2><a href="https://leetcode.com/problems/number-of-digit-one">233. Number of Digit One</a></h2><h3>Hard</h3><hr><p>Given an integer <code>n</code>, count <em>the total number of digit </em><code>1</code><em> appearing in all non-negative integers less than or equal to</em> <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/palindrome-linked-list">234. Palindrome Linked List</a></h2><h3>Easy</h3><hr><p>Given the <code>head</code> of a singly linked list, return <code>true</code><em> if it is a </em><span data-keyword="palindrome-sequence"><em>palindrome</em></span><em> or </em><code>false</code><em> otherwise</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/03/pal1linked-list.jpg" style="width: 422px; height: 62px;" />
 <pre>
-<strong>Input:</strong> n = 13
-<strong>Output:</strong> 6
+<strong>Input:</strong> head = [1,2,2,1]
+<strong>Output:</strong> true
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/03/pal2linked-list.jpg" style="width: 182px; height: 62px;" />
 <pre>
-<strong>Input:</strong> n = 0
-<strong>Output:</strong> 0
+<strong>Input:</strong> head = [1,2]
+<strong>Output:</strong> false
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= n &lt;= 10<sup>9</sup></code></li>
+	<li>The number of nodes in the list is in the range <code>[1, 10<sup>5</sup>]</code>.</li>
+	<li><code>0 &lt;= Node.val &lt;= 9</code></li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> Could you do it in <code>O(n)</code> time and <code>O(1)</code> space?
