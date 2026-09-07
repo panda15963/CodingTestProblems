@@ -1,34 +1,49 @@
-<h2><a href="https://leetcode.com/problems/distinct-subsequences-ii">977. Distinct Subsequences II</a></h2><h3>Hard</h3><hr><p>Given a string s, return <em>the number of <strong>distinct non-empty subsequences</strong> of</em> <code>s</code>. Since the answer may be very large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
-A <strong>subsequence</strong> of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., <code>&quot;ace&quot;</code> is a subsequence of <code>&quot;<u>a</u>b<u>c</u>d<u>e</u>&quot;</code> while <code>&quot;aec&quot;</code> is not.
+<h2><a href="https://leetcode.com/problems/delete-node-in-a-linked-list">237. Delete Node in a Linked List</a></h2><h3>Medium</h3><hr><p>There is a singly-linked list <code>head</code> and we want to delete a node <code>node</code> in it.</p>
+
+<p>You are given the node to be deleted <code>node</code>. You will <strong>not be given access</strong> to the first node of <code>head</code>.</p>
+
+<p>All the values of the linked list are <strong>unique</strong>, and it is guaranteed that the given node <code>node</code> is not the last node in the linked list.</p>
+
+<p>Delete the given node. Note that by deleting the node, we do not mean removing it from memory. We mean:</p>
+
+<ul>
+	<li>The value of the given node should not exist in the linked list.</li>
+	<li>The number of nodes in the linked list should decrease by one.</li>
+	<li>All the values before <code>node</code> should be in the same order.</li>
+	<li>All the values after <code>node</code> should be in the same order.</li>
+</ul>
+
+<p><strong>Custom testing:</strong></p>
+
+<ul>
+	<li>For the input, you should provide the entire linked list <code>head</code> and the node to be given <code>node</code>. <code>node</code> should not be the last node of the list and should be an actual node in the list.</li>
+	<li>We will build the linked list and pass the node to your function.</li>
+	<li>The output will be the entire list after calling your function.</li>
+</ul>
+
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/01/node1.jpg" style="width: 400px; height: 286px;" />
 <pre>
-<strong>Input:</strong> s = &quot;abc&quot;
-<strong>Output:</strong> 7
-<strong>Explanation:</strong> The 7 distinct subsequences are &quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;ab&quot;, &quot;ac&quot;, &quot;bc&quot;, and &quot;abc&quot;.
+<strong>Input:</strong> head = [4,5,1,9], node = 5
+<strong>Output:</strong> [4,1,9]
+<strong>Explanation: </strong>You are given the second node with value 5, the linked list should become 4 -&gt; 1 -&gt; 9 after calling your function.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/09/01/node2.jpg" style="width: 400px; height: 315px;" />
 <pre>
-<strong>Input:</strong> s = &quot;aba&quot;
-<strong>Output:</strong> 6
-<strong>Explanation:</strong> The 6 distinct subsequences are &quot;a&quot;, &quot;b&quot;, &quot;ab&quot;, &quot;aa&quot;, &quot;ba&quot;, and &quot;aba&quot;.
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;aaa&quot;
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> The 3 distinct subsequences are &quot;a&quot;, &quot;aa&quot; and &quot;aaa&quot;.
+<strong>Input:</strong> head = [4,5,1,9], node = 1
+<strong>Output:</strong> [4,5,9]
+<strong>Explanation: </strong>You are given the third node with value 1, the linked list should become 4 -&gt; 5 -&gt; 9 after calling your function.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length &lt;= 2000</code></li>
-	<li><code>s</code> consists of lowercase English letters.</li>
+	<li>The number of the nodes in the given list is in the range <code>[2, 1000]</code>.</li>
+	<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>
+	<li>The value of each node in the list is <strong>unique</strong>.</li>
+	<li>The <code>node</code> to be deleted is <strong>in the list</strong> and is <strong>not a tail</strong> node.</li>
 </ul>
