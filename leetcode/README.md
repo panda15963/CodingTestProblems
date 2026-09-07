@@ -1,35 +1,34 @@
-<h2><a href="https://leetcode.com/problems/single-number-iii">260. Single Number III</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once. You can return the answer in <strong>any order</strong>.</p>
-
-<p>You must write an&nbsp;algorithm that runs in linear runtime complexity and uses&nbsp;only constant extra space.</p>
-
+<h2><a href="https://leetcode.com/problems/distinct-subsequences-ii">977. Distinct Subsequences II</a></h2><h3>Hard</h3><hr><p>Given a string s, return <em>the number of <strong>distinct non-empty subsequences</strong> of</em> <code>s</code>. Since the answer may be very large, return it <strong>modulo</strong> <code>10<sup>9</sup> + 7</code>.</p>
+A <strong>subsequence</strong> of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., <code>&quot;ace&quot;</code> is a subsequence of <code>&quot;<u>a</u>b<u>c</u>d<u>e</u>&quot;</code> while <code>&quot;aec&quot;</code> is not.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [1,2,1,3,2,5]
-<strong>Output:</strong> [3,5]
-<strong>Explanation: </strong> [5, 3] is also a valid answer.
+<strong>Input:</strong> s = &quot;abc&quot;
+<strong>Output:</strong> 7
+<strong>Explanation:</strong> The 7 distinct subsequences are &quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;ab&quot;, &quot;ac&quot;, &quot;bc&quot;, and &quot;abc&quot;.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [-1,0]
-<strong>Output:</strong> [-1,0]
+<strong>Input:</strong> s = &quot;aba&quot;
+<strong>Output:</strong> 6
+<strong>Explanation:</strong> The 6 distinct subsequences are &quot;a&quot;, &quot;b&quot;, &quot;ab&quot;, &quot;aa&quot;, &quot;ba&quot;, and &quot;aba&quot;.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [0,1]
-<strong>Output:</strong> [1,0]
+<strong>Input:</strong> s = &quot;aaa&quot;
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> The 3 distinct subsequences are &quot;a&quot;, &quot;aa&quot; and &quot;aaa&quot;.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>2 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
-	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
-	<li>Each integer in <code>nums</code> will appear twice, only two integers will appear once.</li>
+	<li><code>1 &lt;= s.length &lt;= 2000</code></li>
+	<li><code>s</code> consists of lowercase English letters.</li>
 </ul>
