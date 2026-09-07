@@ -1,25 +1,36 @@
-<h2><a href="https://leetcode.com/problems/product-of-array-except-self">238. Product of Array Except Self</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, return <em>an array</em> <code>answer</code> <em>such that</em> <code>answer[i]</code> <em>is equal to the product of all the elements of</em> <code>nums</code> <em>except</em> <code>nums[i]</code>.</p>
+<h2><a href="https://leetcode.com/problems/sliding-window-maximum">239. Sliding Window Maximum</a></h2><h3>Hard</h3><hr><p>You are given an array of integers&nbsp;<code>nums</code>, there is a sliding window of size <code>k</code> which is moving from the very left of the array to the very right. You can only see the <code>k</code> numbers in the window. Each time the sliding window moves right by one position.</p>
 
-<p>The product of any prefix or suffix of <code>nums</code> is <strong>guaranteed</strong> to fit in a <strong>32-bit</strong> integer.</p>
-
-<p>You must write an algorithm that runs in&nbsp;<code>O(n)</code>&nbsp;time and without using the division operation.</p>
+<p>Return <em>the max sliding window</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<pre><strong>Input:</strong> nums = [1,2,3,4]
-<strong>Output:</strong> [24,12,8,6]
-</pre><p><strong class="example">Example 2:</strong></p>
-<pre><strong>Input:</strong> nums = [-1,1,0,-3,3]
-<strong>Output:</strong> [0,0,9,0,0]
+
+<pre>
+<strong>Input:</strong> nums = [1,3,-1,-3,5,3,6,7], k = 3
+<strong>Output:</strong> [3,3,5,5,6,7]
+<strong>Explanation:</strong> 
+Window position                Max
+---------------               -----
+[1  3  -1] -3  5  3  6  7       <strong>3</strong>
+ 1 [3  -1  -3] 5  3  6  7       <strong>3</strong>
+ 1  3 [-1  -3  5] 3  6  7      <strong> 5</strong>
+ 1  3  -1 [-3  5  3] 6  7       <strong>5</strong>
+ 1  3  -1  -3 [5  3  6] 7       <strong>6</strong>
+ 1  3  -1  -3  5 [3  6  7]      <strong>7</strong>
 </pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [1], k = 1
+<strong>Output:</strong> [1]
+</pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>2 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>-30 &lt;= nums[i] &lt;= 30</code></li>
-	<li>The input is generated such that <code>answer[i]</code> is <strong>guaranteed</strong> to fit in a <strong>32-bit</strong> integer.</li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= k &lt;= nums.length</code></li>
 </ul>
-
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong>&nbsp;Can you solve the problem in <code>O(1)</code>&nbsp;extra&nbsp;space complexity? (The output array <strong>does not</strong> count as extra space for space complexity analysis.)</p>
