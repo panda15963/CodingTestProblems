@@ -73,6 +73,7 @@
 | [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/panda15963/CodingTestProblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -176,6 +177,7 @@
 | [0227-basic-calculator-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/panda15963/CodingTestProblems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/panda15963/CodingTestProblems/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -653,6 +655,7 @@
 | [0213-house-robber-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/panda15963/CodingTestProblems/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/panda15963/CodingTestProblems/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -700,6 +703,7 @@
 | [0231-power-of-two](https://github.com/panda15963/CodingTestProblems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/panda15963/CodingTestProblems/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -1282,6 +1286,7 @@
 | ------- |
 | [0139-word-break](https://github.com/panda15963/CodingTestProblems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -1405,4 +1410,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/panda15963/CodingTestProblems/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
