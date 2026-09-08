@@ -1,37 +1,29 @@
-<h2><a href="https://leetcode.com/problems/different-ways-to-add-parentheses">241. Different Ways to Add Parentheses</a></h2><h3>Medium</h3><hr><p>Given a string <code>expression</code> of numbers and operators, return <em>all possible results from computing all the different possible ways to group numbers and operators</em>. You may return the answer in <strong>any order</strong>.</p>
-
-<p>The test cases are generated such that the output values fit in a 32-bit integer and the number of different results does not exceed <code>10<sup>4</sup></code>.</p>
+<h2><a href="https://leetcode.com/problems/valid-anagram">242. Valid Anagram</a></h2><h3>Easy</h3><hr><p>Given two strings <code>s</code> and <code>t</code>, return <code>true</code> if <code>t</code> is an <span data-keyword="anagram">anagram</span> of <code>s</code>, and <code>false</code> otherwise.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
-<strong>Input:</strong> expression = &quot;2-1-1&quot;
-<strong>Output:</strong> [0,2]
-<strong>Explanation:</strong>
-((2-1)-1) = 0 
-(2-(1-1)) = 2
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;anagram&quot;, t = &quot;nagaram&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">true</span></p>
+</div>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> expression = &quot;2*3-4*5&quot;
-<strong>Output:</strong> [-34,-14,-10,-10,10]
-<strong>Explanation:</strong>
-(2*(3-(4*5))) = -34 
-((2*3)-(4*5)) = -14 
-((2*(3-4))*5) = -10 
-(2*((3-4)*5)) = -10 
-(((2*3)-4)*5) = 10
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;rat&quot;, t = &quot;car&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">false</span></p>
+</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= expression.length &lt;= 20</code></li>
-	<li><code>expression</code> consists of digits and the operator <code>&#39;+&#39;</code>, <code>&#39;-&#39;</code>, and <code>&#39;*&#39;</code>.</li>
-	<li>All the integer values in the input expression are in the range <code>[0, 99]</code>.</li>
-	<li>The integer values in the input expression do not have a leading <code>&#39;-&#39;</code> or <code>&#39;+&#39;</code> denoting the sign.</li>
+	<li><code>1 &lt;= s.length, t.length &lt;= 5 * 10<sup>4</sup></code></li>
+	<li><code>s</code> and <code>t</code> consist of lowercase English letters.</li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> What if the inputs contain Unicode characters? How would you adapt your solution to such a case?</p>
