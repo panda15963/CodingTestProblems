@@ -1,29 +1,27 @@
-<h2><a href="https://leetcode.com/problems/valid-anagram">242. Valid Anagram</a></h2><h3>Easy</h3><hr><p>Given two strings <code>s</code> and <code>t</code>, return <code>true</code> if <code>t</code> is an <span data-keyword="anagram">anagram</span> of <code>s</code>, and <code>false</code> otherwise.</p>
+<h2><a href="https://leetcode.com/problems/ugly-number-ii">264. Ugly Number II</a></h2><h3>Medium</h3><hr><p>An <strong>ugly number</strong> is a positive integer whose prime factors are limited to <code>2</code>, <code>3</code>, and <code>5</code>.</p>
+
+<p>Given an integer <code>n</code>, return <em>the</em> <code>n<sup>th</sup></code> <em><strong>ugly number</strong></em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">s = &quot;anagram&quot;, t = &quot;nagaram&quot;</span></p>
-
-<p><strong>Output:</strong> <span class="example-io">true</span></p>
-</div>
+<pre>
+<strong>Input:</strong> n = 10
+<strong>Output:</strong> 12
+<strong>Explanation:</strong> [1, 2, 3, 4, 5, 6, 8, 9, 10, 12] is the sequence of the first 10 ugly numbers.
+</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">s = &quot;rat&quot;, t = &quot;car&quot;</span></p>
-
-<p><strong>Output:</strong> <span class="example-io">false</span></p>
-</div>
+<pre>
+<strong>Input:</strong> n = 1
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> 1 has no prime factors, therefore all of its prime factors are limited to 2, 3, and 5.
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length, t.length &lt;= 5 * 10<sup>4</sup></code></li>
-	<li><code>s</code> and <code>t</code> consist of lowercase English letters.</li>
+	<li><code>1 &lt;= n &lt;= 1690</code></li>
 </ul>
-
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong> What if the inputs contain Unicode characters? How would you adapt your solution to such a case?</p>
