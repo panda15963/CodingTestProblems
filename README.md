@@ -74,6 +74,7 @@
 | [0224-basic-calculator](https://github.com/panda15963/CodingTestProblems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/panda15963/CodingTestProblems/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -464,6 +465,7 @@
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/panda15963/CodingTestProblems/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -737,6 +739,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/panda15963/CodingTestProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/panda15963/CodingTestProblems/tree/master/0242-valid-anagram) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
