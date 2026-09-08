@@ -179,6 +179,7 @@
 | [0231-power-of-two](https://github.com/panda15963/CodingTestProblems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/panda15963/CodingTestProblems/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -503,6 +504,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/panda15963/CodingTestProblems/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -658,6 +660,7 @@
 | [0221-maximal-square](https://github.com/panda15963/CodingTestProblems/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/panda15963/CodingTestProblems/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -740,6 +743,7 @@
 | [0217-contains-duplicate](https://github.com/panda15963/CodingTestProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/panda15963/CodingTestProblems/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0264-ugly-number-ii) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
