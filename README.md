@@ -75,6 +75,7 @@
 | [0227-basic-calculator-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/panda15963/CodingTestProblems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -811,6 +812,7 @@
 | [0140-word-break-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
@@ -966,6 +968,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0257-binary-tree-paths) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1150,6 +1153,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/panda15963/CodingTestProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1182,6 +1186,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Counting Sort
 |  |
