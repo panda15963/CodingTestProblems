@@ -1,28 +1,30 @@
-<h2><a href="https://leetcode.com/problems/binary-tree-paths">257. Binary Tree Paths</a></h2><h3>Easy</h3><hr><p>You are given the <code>root</code> of a binary tree.</p>
-
-<p>Return all <strong>root-to-leaf</strong> paths<em> </em>in <strong>any order</strong>.</p>
-
-<p>A <strong>leaf</strong> is a node with no children.</p>
+<h2><a href="https://leetcode.com/problems/add-digits">258. Add Digits</a></h2><h3>Easy</h3><hr><p>Given an integer <code>num</code>, repeatedly add all its digits until the result has only one digit, and return it.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/03/12/paths-tree.jpg" style="width: 207px; height: 293px;" />
+
 <pre>
-<strong>Input:</strong> root = [1,2,3,null,5]
-<strong>Output:</strong> [&quot;1-&gt;2-&gt;5&quot;,&quot;1-&gt;3&quot;]
+<strong>Input:</strong> num = 38
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> The process is
+38 --&gt; 3 + 8 --&gt; 11
+11 --&gt; 1 + 1 --&gt; 2 
+Since 2 has only one digit, return it.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> root = [1]
-<strong>Output:</strong> [&quot;1&quot;]
+<strong>Input:</strong> num = 0
+<strong>Output:</strong> 0
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the tree is in the range <code>[1, 100]</code>.</li>
-	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
+	<li><code>0 &lt;= num &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong> Could you do it without any loop/recursion in <code>O(1)</code> runtime?</p>
