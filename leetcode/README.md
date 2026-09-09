@@ -1,32 +1,44 @@
-<h2><a href="https://leetcode.com/problems/h-index-ii">275. H-Index II</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>citations</code> where <code>citations[i]</code> is the number of citations a researcher received for their <code>i<sup>th</sup></code> paper and <code>citations</code> is sorted in <strong>non-descending order</strong>, return <em>the researcher&#39;s h-index</em>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-duplicate-number/">287. Find the Duplicate Number</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>nums</code> containing&nbsp;<code>n + 1</code> integers where each integer is in the range <code>[1, n]</code> inclusive.</p>
 
-<p>According to the <a href="https://en.wikipedia.org/wiki/H-index" target="_blank">definition of h-index on Wikipedia</a>: The h-index is defined as the maximum value of <code>h</code> such that the given researcher has published at least <code>h</code> papers that have each been cited at least <code>h</code> times.</p>
+<p>There is only <strong>one repeated number</strong> in <code>nums</code>, return <em>this&nbsp;repeated&nbsp;number</em>.</p>
 
-<p>You must write an algorithm that runs in logarithmic time.</p>
+<p>You must solve the problem <strong>without</strong> modifying the array <code>nums</code>&nbsp;and using only constant extra space.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> citations = [0,1,3,5,6]
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> [0,1,3,5,6] means the researcher has 5 papers in total and each of them had received 0, 1, 3, 5, 6 citations respectively.
-Since the researcher has 3 papers with at least 3 citations each and the remaining two with no more than 3 citations each, their h-index is 3.
+<strong>Input:</strong> nums = [1,3,4,2,2]
+<strong>Output:</strong> 2
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> citations = [1,2,100]
-<strong>Output:</strong> 2
+<strong>Input:</strong> nums = [3,1,3,4,2]
+<strong>Output:</strong> 3
 </pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [3,3,3,3,3]
+<strong>Output:</strong> 3</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>n == citations.length</code></li>
 	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
-	<li><code>0 &lt;= citations[i] &lt;= 1000</code></li>
-	<li><code>citations</code> is sorted in <strong>ascending order</strong>.</li>
+	<li><code>nums.length == n + 1</code></li>
+	<li><code>1 &lt;= nums[i] &lt;= n</code></li>
+	<li>All the integers in <code>nums</code> appear only <strong>once</strong> except for <strong>precisely one integer</strong> which appears <strong>two or more</strong> times.</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><b>Follow up:</b></p>
+
+<ul>
+	<li>How can we prove that at least one duplicate number must exist in <code>nums</code>?</li>
+	<li>Can you solve the problem in linear runtime complexity?</li>
 </ul>
