@@ -339,6 +339,7 @@
 | [0260-single-number-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/panda15963/CodingTestProblems/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -612,6 +613,7 @@
 | [0189-rotate-array](https://github.com/panda15963/CodingTestProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/panda15963/CodingTestProblems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -911,6 +913,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/panda15963/CodingTestProblems/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/panda15963/CodingTestProblems/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1101,6 +1104,7 @@
 | [0231-power-of-two](https://github.com/panda15963/CodingTestProblems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/panda15963/CodingTestProblems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/panda15963/CodingTestProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1321,6 +1325,7 @@
 | [0141-linked-list-cycle](https://github.com/panda15963/CodingTestProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/panda15963/CodingTestProblems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1346,6 +1351,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/panda15963/CodingTestProblems/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
