@@ -185,6 +185,7 @@
 | [0264-ugly-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/panda15963/CodingTestProblems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/panda15963/CodingTestProblems/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/panda15963/CodingTestProblems/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -674,6 +675,7 @@
 | [0233-number-of-digit-one](https://github.com/panda15963/CodingTestProblems/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/panda15963/CodingTestProblems/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -1041,6 +1043,7 @@
 | [0207-course-schedule](https://github.com/panda15963/CodingTestProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/panda15963/CodingTestProblems/tree/master/0279-perfect-squares) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1458,4 +1461,12 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/panda15963/CodingTestProblems/tree/master/0278-first-bad-version) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/panda15963/CodingTestProblems/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/panda15963/CodingTestProblems/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
