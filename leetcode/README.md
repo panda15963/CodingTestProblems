@@ -1,21 +1,26 @@
-<h2><a href="https://leetcode.com/problems/h-index">274. H-Index</a></h2><h3>Medium</h3><hr><p>Given an array of integers <code>citations</code> where <code>citations[i]</code> is the number of citations a researcher received for their <code>i<sup>th</sup></code> paper, return <em>the researcher&#39;s h-index</em>.</p>
+<h2><a href="https://leetcode.com/problems/first-bad-version">278. First Bad Version</a></h2><h3>Easy</h3><hr><p>You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.</p>
 
-<p>According to the <a href="https://en.wikipedia.org/wiki/H-index" target="_blank">definition of h-index on Wikipedia</a>: The h-index is defined as the maximum value of <code>h</code> such that the given researcher has published at least <code>h</code> papers that have each been cited at least <code>h</code> times.</p>
+<p>Suppose you have <code>n</code> versions <code>[1, 2, ..., n]</code> and you want to find out the first bad one, which causes all the following ones to be bad.</p>
+
+<p>You are given an API <code>bool isBadVersion(version)</code> which returns whether <code>version</code> is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> citations = [3,0,6,1,5]
-<strong>Output:</strong> 3
-<strong>Explanation:</strong> [3,0,6,1,5] means the researcher has 5 papers in total and each of them had received 3, 0, 6, 1, 5 citations respectively.
-Since the researcher has 3 papers with at least 3 citations each and the remaining two with no more than 3 citations each, their h-index is 3.
+<strong>Input:</strong> n = 5, bad = 4
+<strong>Output:</strong> 4
+<strong>Explanation:</strong>
+call isBadVersion(3) -&gt; false
+call isBadVersion(5)&nbsp;-&gt; true
+call isBadVersion(4)&nbsp;-&gt; true
+Then 4 is the first bad version.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> citations = [1,3,1]
+<strong>Input:</strong> n = 1, bad = 1
 <strong>Output:</strong> 1
 </pre>
 
@@ -23,7 +28,5 @@ Since the researcher has 3 papers with at least 3 citations each and the remaini
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>n == citations.length</code></li>
-	<li><code>1 &lt;= n &lt;= 5000</code></li>
-	<li><code>0 &lt;= citations[i] &lt;= 1000</code></li>
+	<li><code>1 &lt;= bad &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
