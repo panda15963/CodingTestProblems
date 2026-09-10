@@ -918,6 +918,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/panda15963/CodingTestProblems/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/panda15963/CodingTestProblems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/panda15963/CodingTestProblems/tree/master/2540-minimum-common-value) |
@@ -1453,4 +1454,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/panda15963/CodingTestProblems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
