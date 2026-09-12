@@ -78,6 +78,7 @@
 | [0257-binary-tree-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/panda15963/CodingTestProblems/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/panda15963/CodingTestProblems/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0290-word-pattern) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -773,6 +774,7 @@
 | [0242-valid-anagram](https://github.com/panda15963/CodingTestProblems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/panda15963/CodingTestProblems/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0290-word-pattern) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
