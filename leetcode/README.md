@@ -1,39 +1,44 @@
-<h2><a href="https://leetcode.com/problems/expression-add-operators">282. Expression Add Operators</a></h2><h3>Hard</h3><hr><p>Given a string <code>num</code> that contains only digits and an integer <code>target</code>, return <em><strong>all possibilities</strong> to insert the binary operators </em><code>&#39;+&#39;</code><em>, </em><code>&#39;-&#39;</code><em>, and/or </em><code>&#39;*&#39;</code><em> between the digits of </em><code>num</code><em> so that the resultant expression evaluates to the </em><code>target</code><em> value</em>.</p>
+<h2><a href="https://leetcode.com/problems/peeking-iterator/">284. Peeking Iterator</a></h2><h3>Medium</h3><hr><p>Design an iterator that supports the <code>peek</code> operation on an existing iterator in addition to the <code>hasNext</code> and the <code>next</code> operations.</p>
 
-<p>Note that operands in the returned expressions <strong>should not</strong> contain leading zeros.</p>
+<p>Implement the <code>PeekingIterator</code> class:</p>
 
-<p><strong>Note</strong> that a number can contain multiple digits.</p>
+<ul>
+	<li><code>PeekingIterator(Iterator&lt;int&gt; nums)</code> Initializes the object with the given integer iterator <code>iterator</code>.</li>
+	<li><code>int next()</code> Returns the next element in the array and moves the pointer to the next element.</li>
+	<li><code>boolean hasNext()</code> Returns <code>true</code> if there are still elements in the array.</li>
+	<li><code>int peek()</code> Returns the next element in the array <strong>without</strong> moving the pointer.</li>
+</ul>
+
+<p><strong>Note:</strong> Each language may have a different implementation of the constructor and <code>Iterator</code>, but they all support the <code>int next()</code> and <code>boolean hasNext()</code> functions.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> num = &quot;123&quot;, target = 6
-<strong>Output:</strong> [&quot;1*2*3&quot;,&quot;1+2+3&quot;]
-<strong>Explanation:</strong> Both &quot;1*2*3&quot; and &quot;1+2+3&quot; evaluate to 6.
-</pre>
+<strong>Input</strong>
+[&quot;PeekingIterator&quot;, &quot;next&quot;, &quot;peek&quot;, &quot;next&quot;, &quot;next&quot;, &quot;hasNext&quot;]
+[[[1, 2, 3]], [], [], [], [], []]
+<strong>Output</strong>
+[null, 1, 2, 2, 3, false]
 
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> num = &quot;232&quot;, target = 8
-<strong>Output:</strong> [&quot;2*3+2&quot;,&quot;2+3*2&quot;]
-<strong>Explanation:</strong> Both &quot;2*3+2&quot; and &quot;2+3*2&quot; evaluate to 8.
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> num = &quot;3456237490&quot;, target = 9191
-<strong>Output:</strong> []
-<strong>Explanation:</strong> There are no expressions that can be created from &quot;3456237490&quot; to evaluate to 9191.
+<strong>Explanation</strong>
+PeekingIterator peekingIterator = new PeekingIterator([1, 2, 3]); // [<u><strong>1</strong></u>,2,3]
+peekingIterator.next();    // return 1, the pointer moves to the next element [1,<u><strong>2</strong></u>,3].
+peekingIterator.peek();    // return 2, the pointer does not move [1,<u><strong>2</strong></u>,3].
+peekingIterator.next();    // return 2, the pointer moves to the next element [1,2,<u><strong>3</strong></u>]
+peekingIterator.next();    // return 3, the pointer moves to the next element [1,2,3]
+peekingIterator.hasNext(); // return False
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= num.length &lt;= 10</code></li>
-	<li><code>num</code> consists of only digits.</li>
-	<li><code>-2<sup>31</sup> &lt;= target &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 1000</code></li>
+	<li>All the calls to <code>next</code> and <code>peek</code> are valid.</li>
+	<li>At most <code>1000</code> calls will be made to <code>next</code>, <code>hasNext</code>, and <code>peek</code>.</li>
 </ul>
+
+<p>&nbsp;</p>
+<strong>Follow up:</strong> How would you extend your design to be generic and work with all types, not just integer?
