@@ -1,44 +1,49 @@
-<h2><a href="https://leetcode.com/problems/peeking-iterator/">284. Peeking Iterator</a></h2><h3>Medium</h3><hr><p>Design an iterator that supports the <code>peek</code> operation on an existing iterator in addition to the <code>hasNext</code> and the <code>next</code> operations.</p>
+<h2><a href="https://leetcode.com/problems/game-of-life">289. Game of Life</a></h2><h3>Medium</h3><hr><p>According to <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="_blank">Wikipedia&#39;s article</a>: &quot;The <b>Game of Life</b>, also known simply as <b>Life</b>, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.&quot;</p>
 
-<p>Implement the <code>PeekingIterator</code> class:</p>
+<p>The board is made up of an <code>m x n</code> grid of cells, where each cell has an initial state: <b>live</b> (represented by a <code>1</code>) or <b>dead</b> (represented by a <code>0</code>). Each cell interacts with its <a href="https://en.wikipedia.org/wiki/Moore_neighborhood" target="_blank">eight neighbors</a> (horizontal, vertical, diagonal) using the following four rules (taken from the above Wikipedia article):</p>
 
-<ul>
-	<li><code>PeekingIterator(Iterator&lt;int&gt; nums)</code> Initializes the object with the given integer iterator <code>iterator</code>.</li>
-	<li><code>int next()</code> Returns the next element in the array and moves the pointer to the next element.</li>
-	<li><code>boolean hasNext()</code> Returns <code>true</code> if there are still elements in the array.</li>
-	<li><code>int peek()</code> Returns the next element in the array <strong>without</strong> moving the pointer.</li>
-</ul>
+<ol>
+	<li>Any live cell with fewer than two live neighbors dies as if caused by under-population.</li>
+	<li>Any live cell with two or three live neighbors lives on to the next generation.</li>
+	<li>Any live cell with more than three live neighbors dies, as if by over-population.</li>
+	<li>Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.</li>
+</ol>
 
-<p><strong>Note:</strong> Each language may have a different implementation of the constructor and <code>Iterator</code>, but they all support the <code>int next()</code> and <code>boolean hasNext()</code> functions.</p>
+<p><span>The next state of the board is determined by applying the above rules simultaneously to every cell in the current state of the <code>m x n</code> grid <code>board</code>. In this process, births and deaths occur <strong>simultaneously</strong>.</span></p>
+
+<p><span>Given the current state of the <code>board</code>, <strong>update</strong> the <code>board</code> to reflect its next state.</span></p>
+
+<p><strong>Note</strong> that you do not need to return anything.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2020/12/26/grid1.jpg" style="width: 562px; height: 322px;" />
 <pre>
-<strong>Input</strong>
-[&quot;PeekingIterator&quot;, &quot;next&quot;, &quot;peek&quot;, &quot;next&quot;, &quot;next&quot;, &quot;hasNext&quot;]
-[[[1, 2, 3]], [], [], [], [], []]
-<strong>Output</strong>
-[null, 1, 2, 2, 3, false]
+<strong>Input:</strong> board = [[0,1,0],[0,0,1],[1,1,1],[0,0,0]]
+<strong>Output:</strong> [[0,0,0],[1,0,1],[0,1,1],[0,1,0]]
+</pre>
 
-<strong>Explanation</strong>
-PeekingIterator peekingIterator = new PeekingIterator([1, 2, 3]); // [<u><strong>1</strong></u>,2,3]
-peekingIterator.next();    // return 1, the pointer moves to the next element [1,<u><strong>2</strong></u>,3].
-peekingIterator.peek();    // return 2, the pointer does not move [1,<u><strong>2</strong></u>,3].
-peekingIterator.next();    // return 2, the pointer moves to the next element [1,2,<u><strong>3</strong></u>]
-peekingIterator.next();    // return 3, the pointer moves to the next element [1,2,3]
-peekingIterator.hasNext(); // return False
+<p><strong class="example">Example 2:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2020/12/26/grid2.jpg" style="width: 402px; height: 162px;" />
+<pre>
+<strong>Input:</strong> board = [[1,1],[1,0]]
+<strong>Output:</strong> [[1,1],[1,1]]
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 1000</code></li>
-	<li>All the calls to <code>next</code> and <code>peek</code> are valid.</li>
-	<li>At most <code>1000</code> calls will be made to <code>next</code>, <code>hasNext</code>, and <code>peek</code>.</li>
+	<li><code>m == board.length</code></li>
+	<li><code>n == board[i].length</code></li>
+	<li><code>1 &lt;= m, n &lt;= 25</code></li>
+	<li><code>board[i][j]</code> is <code>0</code> or <code>1</code>.</li>
 </ul>
 
 <p>&nbsp;</p>
-<strong>Follow up:</strong> How would you extend your design to be generic and work with all types, not just integer?
+<p><strong>Follow up:</strong></p>
+
+<ul>
+	<li>Could you solve it in-place? Remember that the board needs to be updated simultaneously: You cannot update some cells first and then use their updated values to update other cells.</li>
+	<li>In this question, we represent the board using a 2D array. In principle, the board is infinite, which would cause problems when the active area encroaches upon the border of the array (i.e., live cells reach the border). How would you address these problems?</li>
+</ul>
