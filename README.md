@@ -244,6 +244,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0284-peeking-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0284-peeking-iterator) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -346,6 +347,7 @@
 | [0268-missing-number](https://github.com/panda15963/CodingTestProblems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/panda15963/CodingTestProblems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1386,6 +1388,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0284-peeking-iterator) |
 ## Database
 |  |
 | ------- |
