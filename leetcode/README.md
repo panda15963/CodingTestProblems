@@ -1,49 +1,55 @@
-<h2><a href="https://leetcode.com/problems/game-of-life">289. Game of Life</a></h2><h3>Medium</h3><hr><p>According to <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="_blank">Wikipedia&#39;s article</a>: &quot;The <b>Game of Life</b>, also known simply as <b>Life</b>, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.&quot;</p>
+<h2><a href="https://leetcode.com/problems/word-pattern">290. Word Pattern</a></h2><h3>Easy</h3><hr><p>Given a <code>pattern</code> and a string <code>s</code>, find if <code>s</code>&nbsp;follows the same pattern.</p>
 
-<p>The board is made up of an <code>m x n</code> grid of cells, where each cell has an initial state: <b>live</b> (represented by a <code>1</code>) or <b>dead</b> (represented by a <code>0</code>). Each cell interacts with its <a href="https://en.wikipedia.org/wiki/Moore_neighborhood" target="_blank">eight neighbors</a> (horizontal, vertical, diagonal) using the following four rules (taken from the above Wikipedia article):</p>
+<p>Here <b>follow</b> means a full match, such that there is a bijection between a letter in <code>pattern</code> and a <b>non-empty</b> word in <code>s</code>. Specifically:</p>
 
-<ol>
-	<li>Any live cell with fewer than two live neighbors dies as if caused by under-population.</li>
-	<li>Any live cell with two or three live neighbors lives on to the next generation.</li>
-	<li>Any live cell with more than three live neighbors dies, as if by over-population.</li>
-	<li>Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.</li>
-</ol>
-
-<p><span>The next state of the board is determined by applying the above rules simultaneously to every cell in the current state of the <code>m x n</code> grid <code>board</code>. In this process, births and deaths occur <strong>simultaneously</strong>.</span></p>
-
-<p><span>Given the current state of the <code>board</code>, <strong>update</strong> the <code>board</code> to reflect its next state.</span></p>
-
-<p><strong>Note</strong> that you do not need to return anything.</p>
+<ul>
+	<li>Each letter in <code>pattern</code> maps to <strong>exactly</strong> one unique word in <code>s</code>.</li>
+	<li>Each unique word in <code>s</code> maps to <strong>exactly</strong> one letter in <code>pattern</code>.</li>
+	<li>No two letters map to the same word, and no two words map to the same letter.</li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/12/26/grid1.jpg" style="width: 562px; height: 322px;" />
-<pre>
-<strong>Input:</strong> board = [[0,1,0],[0,0,1],[1,1,1],[0,0,0]]
-<strong>Output:</strong> [[0,0,0],[1,0,1],[0,1,1],[0,1,0]]
-</pre>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">pattern = &quot;abba&quot;, s = &quot;dog cat cat dog&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">true</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>The bijection can be established as:</p>
+
+<ul>
+	<li><code>&#39;a&#39;</code> maps to <code>&quot;dog&quot;</code>.</li>
+	<li><code>&#39;b&#39;</code> maps to <code>&quot;cat&quot;</code>.</li>
+</ul>
+</div>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/12/26/grid2.jpg" style="width: 402px; height: 162px;" />
-<pre>
-<strong>Input:</strong> board = [[1,1],[1,0]]
-<strong>Output:</strong> [[1,1],[1,1]]
-</pre>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">pattern = &quot;abba&quot;, s = &quot;dog cat cat fish&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">false</span></p>
+</div>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">pattern = &quot;aaaa&quot;, s = &quot;dog cat cat dog&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">false</span></p>
+</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>m == board.length</code></li>
-	<li><code>n == board[i].length</code></li>
-	<li><code>1 &lt;= m, n &lt;= 25</code></li>
-	<li><code>board[i][j]</code> is <code>0</code> or <code>1</code>.</li>
-</ul>
-
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong></p>
-
-<ul>
-	<li>Could you solve it in-place? Remember that the board needs to be updated simultaneously: You cannot update some cells first and then use their updated values to update other cells.</li>
-	<li>In this question, we represent the board using a 2D array. In principle, the board is infinite, which would cause problems when the active area encroaches upon the border of the array (i.e., live cells reach the border). How would you address these problems?</li>
+	<li><code>1 &lt;= pattern.length &lt;= 300</code></li>
+	<li><code>pattern</code> contains only lower-case English letters.</li>
+	<li><code>1 &lt;= s.length &lt;= 3000</code></li>
+	<li><code>s</code> contains only lowercase English letters and spaces <code>&#39; &#39;</code>.</li>
+	<li><code>s</code> <strong>does not contain</strong> any leading or trailing spaces.</li>
+	<li>All the words in <code>s</code> are separated by a <strong>single space</strong>.</li>
 </ul>
