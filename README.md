@@ -81,6 +81,7 @@
 | [0290-word-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/panda15963/CodingTestProblems/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -853,6 +854,7 @@
 | [0216-combination-sum-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/panda15963/CodingTestProblems/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
@@ -1080,6 +1082,7 @@
 | [0226-invert-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/panda15963/CodingTestProblems/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0301-remove-invalid-parentheses) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
