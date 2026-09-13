@@ -247,6 +247,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0284-peeking-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/panda15963/CodingTestProblems/tree/master/0295-find-median-from-data-stream) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -491,6 +492,7 @@
 | [0242-valid-anagram](https://github.com/panda15963/CodingTestProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/panda15963/CodingTestProblems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/panda15963/CodingTestProblems/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/panda15963/CodingTestProblems/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -530,6 +532,7 @@
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/panda15963/CodingTestProblems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/panda15963/CodingTestProblems/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -633,6 +636,7 @@
 | [0202-happy-number](https://github.com/panda15963/CodingTestProblems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/panda15963/CodingTestProblems/tree/master/0295-find-median-from-data-stream) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1503,4 +1507,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/panda15963/CodingTestProblems/tree/master/0292-nim-game) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/panda15963/CodingTestProblems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
