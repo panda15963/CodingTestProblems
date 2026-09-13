@@ -1,35 +1,34 @@
-<h2><a href="https://leetcode.com/problems/longest-increasing-subsequence">300. Longest Increasing Subsequence</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, return <em>the length of the longest <strong>strictly increasing </strong></em><span data-keyword="subsequence-array"><em><strong>subsequence</strong></em></span>.</p>
+<h2><a href="https://leetcode.com/problems/remove-invalid-parentheses">301. Remove Invalid Parentheses</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code> that contains parentheses and letters, remove the minimum number of invalid parentheses to make the input string valid.</p>
+
+<p>Return <em>a list of <strong>unique strings</strong> that are valid with the minimum number of removals</em>. You may return the answer in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [10,9,2,5,3,7,101,18]
-<strong>Output:</strong> 4
-<strong>Explanation:</strong> The longest increasing subsequence is [2,3,7,101], therefore the length is 4.
+<strong>Input:</strong> s = &quot;()())()&quot;
+<strong>Output:</strong> [&quot;(())()&quot;,&quot;()()()&quot;]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [0,1,0,3,2,3]
-<strong>Output:</strong> 4
+<strong>Input:</strong> s = &quot;(a)())()&quot;
+<strong>Output:</strong> [&quot;(a())()&quot;,&quot;(a)()()&quot;]
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [7,7,7,7,7,7,7]
-<strong>Output:</strong> 1
+<strong>Input:</strong> s = &quot;)(&quot;
+<strong>Output:</strong> [&quot;&quot;]
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 2500</code></li>
-	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= s.length &lt;= 25</code></li>
+	<li><code>s</code> consists of lowercase English letters and parentheses <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>.</li>
+	<li>There will be at most <code>20</code> parentheses in <code>s</code>.</li>
 </ul>
-
-<p>&nbsp;</p>
-<p><b>Follow up:</b>&nbsp;Can you come up with an algorithm that runs in&nbsp;<code>O(n log(n))</code> time complexity?</p>
