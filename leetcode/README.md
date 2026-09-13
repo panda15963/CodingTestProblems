@@ -1,28 +1,44 @@
-<h2><a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">297. Serialize and Deserialize Binary Tree</a></h2><h3>Hard</h3><hr><p>Serialization is the process of converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network connection link to be reconstructed later in the same or another computer environment.</p>
+<h2><a href="https://leetcode.com/problems/bulls-and-cows">299. Bulls and Cows</a></h2><h3>Medium</h3><hr><p>You are playing the <strong><a href="https://en.wikipedia.org/wiki/Bulls_and_Cows" target="_blank">Bulls and Cows</a></strong> game with your friend.</p>
 
-<p>Design an algorithm to serialize and deserialize a binary tree. There is no restriction on how your serialization/deserialization algorithm should work. You just need to ensure that a binary tree can be serialized to a string and this string can be deserialized to the original tree structure.</p>
+<p>You write down a secret number and ask your friend to guess what the number is. When your friend makes a guess, you provide a hint with the following info:</p>
 
-<p><strong>Clarification:</strong> The input/output format is the same as <a href="https://support.leetcode.com/hc/en-us/articles/32442719377939-How-to-create-test-cases-on-LeetCode#h_01J5EGREAW3NAEJ14XC07GRW1A" target="_blank">how LeetCode serializes a binary tree</a>. You do not necessarily need to follow this format, so please be creative and come up with different approaches yourself.</p>
+<ul>
+	<li>The number of &quot;bulls&quot;, which are digits in the guess that are in the correct position.</li>
+	<li>The number of &quot;cows&quot;, which are digits in the guess that are in your secret number but are located in the wrong position. Specifically, the non-bull digits in the guess that could be rearranged such that they become bulls.</li>
+</ul>
+
+<p>Given the secret number <code>secret</code> and your friend&#39;s guess <code>guess</code>, return <em>the hint for your friend&#39;s guess</em>.</p>
+
+<p>The hint should be formatted as <code>&quot;xAyB&quot;</code>, where <code>x</code> is the number of bulls and <code>y</code> is the number of cows. Note that both <code>secret</code> and <code>guess</code> may contain duplicate digits.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/09/15/serdeser.jpg" style="width: 442px; height: 324px;" />
+
 <pre>
-<strong>Input:</strong> root = [1,2,3,null,null,4,5]
-<strong>Output:</strong> [1,2,3,null,null,4,5]
-</pre>
+<strong>Input:</strong> secret = &quot;1807&quot;, guess = &quot;7810&quot;
+<strong>Output:</strong> &quot;1A3B&quot;
+<strong>Explanation:</strong> Bulls are connected with a &#39;|&#39; and cows are underlined:
+&quot;1807&quot;
+  |
+&quot;<u>7</u>8<u>10</u>&quot;</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> root = []
-<strong>Output:</strong> []
+<strong>Input:</strong> secret = &quot;1123&quot;, guess = &quot;0111&quot;
+<strong>Output:</strong> &quot;1A1B&quot;
+<strong>Explanation:</strong> Bulls are connected with a &#39;|&#39; and cows are underlined:
+&quot;1123&quot;        &quot;1123&quot;
+  |      or     |
+&quot;01<u>1</u>1&quot;        &quot;011<u>1</u>&quot;
+Note that only one of the two unmatched 1s is counted as a cow since the non-bull digits can only be rearranged to allow one 1 to be a bull.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the tree is in the range <code>[0, 10<sup>4</sup>]</code>.</li>
-	<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>
+	<li><code>1 &lt;= secret.length, guess.length &lt;= 1000</code></li>
+	<li><code>secret.length == guess.length</code></li>
+	<li><code>secret</code> and <code>guess</code> consist of digits only.</li>
 </ul>
