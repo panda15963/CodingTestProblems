@@ -1,44 +1,50 @@
-<h2><a href="https://leetcode.com/problems/nim-game">292. Nim Game</a></h2><h3>Easy</h3><hr><p>You are playing the following Nim Game with your friend:</p>
+<h2><a href="https://leetcode.com/problems/find-median-from-data-stream/">295. Find Median from Data Stream</a></h2><h3>Hard</h3><hr><p>The <strong>median</strong> is the middle value in an ordered integer list. If the size of the list is even, there is no middle value, and the median is the mean of the two middle values.</p>
 
 <ul>
-	<li>Initially, there is a heap of stones on the table.</li>
-	<li>You and your friend will alternate taking turns, and <strong>you go first</strong>.</li>
-	<li>On each turn, the person whose turn it is will remove 1 to 3 stones from the heap.</li>
-	<li>The one who removes the last stone is the winner.</li>
+	<li>For example, for <code>arr = [2,3,4]</code>, the median is <code>3</code>.</li>
+	<li>For example, for <code>arr = [2,3]</code>, the median is <code>(2 + 3) / 2 = 2.5</code>.</li>
 </ul>
 
-<p>Given <code>n</code>, the number of stones in the heap, return <code>true</code><em> if you can win the game assuming both you and your friend play optimally, otherwise return </em><code>false</code>.</p>
+<p>Implement the MedianFinder class:</p>
+
+<ul>
+	<li><code>MedianFinder()</code> initializes the <code>MedianFinder</code> object.</li>
+	<li><code>void addNum(int num)</code> adds the integer <code>num</code> from the data stream to the data structure.</li>
+	<li><code>double findMedian()</code> returns the median of all elements so far. Answers within <code>10<sup>-5</sup></code> of the actual answer will be accepted.</li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> n = 4
-<strong>Output:</strong> false
-<strong>Explanation:</strong> These are the possible outcomes:
-1. You remove 1 stone. Your friend removes 3 stones, including the last stone. Your friend wins.
-2. You remove 2 stones. Your friend removes 2 stones, including the last stone. Your friend wins.
-3. You remove 3 stones. Your friend removes the last stone. Your friend wins.
-In all outcomes, your friend wins.
-</pre>
+<strong>Input</strong>
+[&quot;MedianFinder&quot;, &quot;addNum&quot;, &quot;addNum&quot;, &quot;findMedian&quot;, &quot;addNum&quot;, &quot;findMedian&quot;]
+[[], [1], [2], [], [3], []]
+<strong>Output</strong>
+[null, null, null, 1.5, null, 2.0]
 
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 1
-<strong>Output:</strong> true
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 2
-<strong>Output:</strong> true
+<strong>Explanation</strong>
+MedianFinder medianFinder = new MedianFinder();
+medianFinder.addNum(1);    // arr = [1]
+medianFinder.addNum(2);    // arr = [1, 2]
+medianFinder.findMedian(); // return 1.5 (i.e., (1 + 2) / 2)
+medianFinder.addNum(3);    // arr[1, 2, 3]
+medianFinder.findMedian(); // return 2.0
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>-10<sup>5</sup> &lt;= num &lt;= 10<sup>5</sup></code></li>
+	<li>There will be at least one element in the data structure before calling <code>findMedian</code>.</li>
+	<li>At most <code>5 * 10<sup>4</sup></code> calls will be made to <code>addNum</code> and <code>findMedian</code>.</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong></p>
+
+<ul>
+	<li>If all integer numbers from the stream are in the range <code>[0, 100]</code>, how would you optimize your solution?</li>
+	<li>If <code>99%</code> of all integer numbers from the stream are in the range <code>[0, 100]</code>, how would you optimize your solution?</li>
 </ul>
