@@ -356,6 +356,7 @@
 | [0284-peeking-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/panda15963/CodingTestProblems/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -697,6 +698,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/panda15963/CodingTestProblems/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -951,6 +953,7 @@
 | [0275-h-index-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/panda15963/CodingTestProblems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0300-longest-increasing-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/panda15963/CodingTestProblems/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1520,4 +1523,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/panda15963/CodingTestProblems/tree/master/0295-find-median-from-data-stream) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
