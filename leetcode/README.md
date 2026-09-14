@@ -1,34 +1,26 @@
-<h2><a href="https://leetcode.com/problems/remove-invalid-parentheses">301. Remove Invalid Parentheses</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code> that contains parentheses and letters, remove the minimum number of invalid parentheses to make the input string valid.</p>
+<h2><a href="https://leetcode.com/problems/rectangle-overlap">866. Rectangle Overlap</a></h2><h3>Easy</h3><hr><p>An axis-aligned rectangle is represented as a list <code>[x1, y1, x2, y2]</code>, where <code>(x1, y1)</code> is the coordinate of its bottom-left corner, and <code>(x2, y2)</code> is the coordinate of its top-right corner. Its top and bottom edges are parallel to the X-axis, and its left and right edges are parallel to the Y-axis.</p>
 
-<p>Return <em>a list of <strong>unique strings</strong> that are valid with the minimum number of removals</em>. You may return the answer in <strong>any order</strong>.</p>
+<p>Two rectangles overlap if the area of their intersection is <strong>positive</strong>. To be clear, two rectangles that only touch at the corner or edges do not overlap.</p>
+
+<p>Given two axis-aligned rectangles <code>rec1</code> and <code>rec2</code>, return <code>true</code><em> if they overlap, otherwise return </em><code>false</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;()())()&quot;
-<strong>Output:</strong> [&quot;(())()&quot;,&quot;()()()&quot;]
+<pre><strong>Input:</strong> rec1 = [0,0,2,2], rec2 = [1,1,3,3]
+<strong>Output:</strong> true
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> rec1 = [0,0,1,1], rec2 = [1,0,2,1]
+<strong>Output:</strong> false
+</pre><p><strong class="example">Example 3:</strong></p>
+<pre><strong>Input:</strong> rec1 = [0,0,1,1], rec2 = [2,2,3,3]
+<strong>Output:</strong> false
 </pre>
-
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;(a)())()&quot;
-<strong>Output:</strong> [&quot;(a())()&quot;,&quot;(a)()()&quot;]
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;)(&quot;
-<strong>Output:</strong> [&quot;&quot;]
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length &lt;= 25</code></li>
-	<li><code>s</code> consists of lowercase English letters and parentheses <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>.</li>
-	<li>There will be at most <code>20</code> parentheses in <code>s</code>.</li>
+	<li><code>rec1.length == 4</code></li>
+	<li><code>rec2.length == 4</code></li>
+	<li><code>-10<sup>9</sup> &lt;= rec1[i], rec2[i] &lt;= 10<sup>9</sup></code></li>
+	<li><code>rec1</code> and <code>rec2</code> represent a valid rectangle with a non-zero area.</li>
 </ul>
