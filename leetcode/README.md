@@ -1,26 +1,39 @@
-<h2><a href="https://leetcode.com/problems/rectangle-overlap">866. Rectangle Overlap</a></h2><h3>Easy</h3><hr><p>An axis-aligned rectangle is represented as a list <code>[x1, y1, x2, y2]</code>, where <code>(x1, y1)</code> is the coordinate of its bottom-left corner, and <code>(x2, y2)</code> is the coordinate of its top-right corner. Its top and bottom edges are parallel to the X-axis, and its left and right edges are parallel to the Y-axis.</p>
+<h2><a href="https://leetcode.com/problems/range-sum-query-immutable">303. Range Sum Query - Immutable</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code>, handle multiple queries of the following type:</p>
 
-<p>Two rectangles overlap if the area of their intersection is <strong>positive</strong>. To be clear, two rectangles that only touch at the corner or edges do not overlap.</p>
+<ol>
+	<li>Calculate the <strong>sum</strong> of the elements of <code>nums</code> between indices <code>left</code> and <code>right</code> <strong>inclusive</strong> where <code>left &lt;= right</code>.</li>
+</ol>
 
-<p>Given two axis-aligned rectangles <code>rec1</code> and <code>rec2</code>, return <code>true</code><em> if they overlap, otherwise return </em><code>false</code>.</p>
+<p>Implement the <code>NumArray</code> class:</p>
+
+<ul>
+	<li><code>NumArray(int[] nums)</code> Initializes the object with the integer array <code>nums</code>.</li>
+	<li><code>int sumRange(int left, int right)</code> Returns the <strong>sum</strong> of the elements of <code>nums</code> between indices <code>left</code> and <code>right</code> <strong>inclusive</strong> (i.e. <code>nums[left] + nums[left + 1] + ... + nums[right]</code>).</li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<pre><strong>Input:</strong> rec1 = [0,0,2,2], rec2 = [1,1,3,3]
-<strong>Output:</strong> true
-</pre><p><strong class="example">Example 2:</strong></p>
-<pre><strong>Input:</strong> rec1 = [0,0,1,1], rec2 = [1,0,2,1]
-<strong>Output:</strong> false
-</pre><p><strong class="example">Example 3:</strong></p>
-<pre><strong>Input:</strong> rec1 = [0,0,1,1], rec2 = [2,2,3,3]
-<strong>Output:</strong> false
+
+<pre>
+<strong>Input</strong>
+[&quot;NumArray&quot;, &quot;sumRange&quot;, &quot;sumRange&quot;, &quot;sumRange&quot;]
+[[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]
+<strong>Output</strong>
+[null, 1, -1, -3]
+
+<strong>Explanation</strong>
+NumArray numArray = new NumArray([-2, 0, 3, -5, 2, -1]);
+numArray.sumRange(0, 2); // return (-2) + 0 + 3 = 1
+numArray.sumRange(2, 5); // return 3 + (-5) + 2 + (-1) = -1
+numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3
 </pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>rec1.length == 4</code></li>
-	<li><code>rec2.length == 4</code></li>
-	<li><code>-10<sup>9</sup> &lt;= rec1[i], rec2[i] &lt;= 10<sup>9</sup></code></li>
-	<li><code>rec1</code> and <code>rec2</code> represent a valid rectangle with a non-zero area.</li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= left &lt;= right &lt; nums.length</code></li>
+	<li>At most <code>10<sup>4</sup></code> calls will be made to <code>sumRange</code>.</li>
 </ul>
