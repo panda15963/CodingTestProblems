@@ -254,6 +254,7 @@
 | [0295-find-median-from-data-stream](https://github.com/panda15963/CodingTestProblems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -361,6 +362,7 @@
 | [0289-game-of-life](https://github.com/panda15963/CodingTestProblems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -567,6 +569,7 @@
 | [0221-maximal-square](https://github.com/panda15963/CodingTestProblems/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/panda15963/CodingTestProblems/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/panda15963/CodingTestProblems/tree/master/1301-number-of-paths-with-max-score) |
@@ -598,6 +601,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/panda15963/CodingTestProblems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1140-stone-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/panda15963/CodingTestProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/panda15963/CodingTestProblems/tree/master/1732-find-the-highest-altitude) |
