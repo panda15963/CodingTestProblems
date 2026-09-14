@@ -1,39 +1,44 @@
-<h2><a href="https://leetcode.com/problems/range-sum-query-immutable">303. Range Sum Query - Immutable</a></h2><h3>Easy</h3><hr><p>Given an integer array <code>nums</code>, handle multiple queries of the following type:</p>
-
-<ol>
-	<li>Calculate the <strong>sum</strong> of the elements of <code>nums</code> between indices <code>left</code> and <code>right</code> <strong>inclusive</strong> where <code>left &lt;= right</code>.</li>
-</ol>
-
-<p>Implement the <code>NumArray</code> class:</p>
+<h2><a href="https://leetcode.com/problems/range-sum-query-2d-immutable/">304. Range Sum Query 2D - Immutable</a></h2><h3>Medium</h3><hr><p>Given a 2D matrix <code>matrix</code>, handle multiple queries of the following type:</p>
 
 <ul>
-	<li><code>NumArray(int[] nums)</code> Initializes the object with the integer array <code>nums</code>.</li>
-	<li><code>int sumRange(int left, int right)</code> Returns the <strong>sum</strong> of the elements of <code>nums</code> between indices <code>left</code> and <code>right</code> <strong>inclusive</strong> (i.e. <code>nums[left] + nums[left + 1] + ... + nums[right]</code>).</li>
+	<li>Calculate the <strong>sum</strong> of the elements of <code>matrix</code> inside the rectangle defined by its <strong>upper left corner</strong> <code>(row1, col1)</code> and <strong>lower right corner</strong> <code>(row2, col2)</code>.</li>
 </ul>
+
+<p>Implement the <code>NumMatrix</code> class:</p>
+
+<ul>
+	<li><code>NumMatrix(int[][] matrix)</code> Initializes the object with the integer matrix <code>matrix</code>.</li>
+	<li><code>int sumRegion(int row1, int col1, int row2, int col2)</code> Returns the <strong>sum</strong> of the elements of <code>matrix</code> inside the rectangle defined by its <strong>upper left corner</strong> <code>(row1, col1)</code> and <strong>lower right corner</strong> <code>(row2, col2)</code>.</li>
+</ul>
+
+<p>You must design an algorithm where <code>sumRegion</code> works on <code>O(1)</code> time complexity.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/14/sum-grid.jpg" style="width: 415px; height: 415px;" />
 <pre>
 <strong>Input</strong>
-[&quot;NumArray&quot;, &quot;sumRange&quot;, &quot;sumRange&quot;, &quot;sumRange&quot;]
-[[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]
+[&quot;NumMatrix&quot;, &quot;sumRegion&quot;, &quot;sumRegion&quot;, &quot;sumRegion&quot;]
+[[[[3, 0, 1, 4, 2], [5, 6, 3, 2, 1], [1, 2, 0, 1, 5], [4, 1, 0, 1, 7], [1, 0, 3, 0, 5]]], [2, 1, 4, 3], [1, 1, 2, 2], [1, 2, 2, 4]]
 <strong>Output</strong>
-[null, 1, -1, -3]
+[null, 8, 11, 12]
 
 <strong>Explanation</strong>
-NumArray numArray = new NumArray([-2, 0, 3, -5, 2, -1]);
-numArray.sumRange(0, 2); // return (-2) + 0 + 3 = 1
-numArray.sumRange(2, 5); // return 3 + (-5) + 2 + (-1) = -1
-numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3
+NumMatrix numMatrix = new NumMatrix([[3, 0, 1, 4, 2], [5, 6, 3, 2, 1], [1, 2, 0, 1, 5], [4, 1, 0, 1, 7], [1, 0, 3, 0, 5]]);
+numMatrix.sumRegion(2, 1, 4, 3); // return 8 (i.e sum of the red rectangle)
+numMatrix.sumRegion(1, 1, 2, 2); // return 11 (i.e sum of the green rectangle)
+numMatrix.sumRegion(1, 2, 2, 4); // return 12 (i.e sum of the blue rectangle)
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
-	<li><code>0 &lt;= left &lt;= right &lt; nums.length</code></li>
-	<li>At most <code>10<sup>4</sup></code> calls will be made to <code>sumRange</code>.</li>
+	<li><code>m == matrix.length</code></li>
+	<li><code>n == matrix[i].length</code></li>
+	<li><code>1 &lt;= m, n &lt;= 200</code></li>
+	<li><code>-10<sup>4</sup> &lt;= matrix[i][j] &lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= row1 &lt;= row2 &lt; m</code></li>
+	<li><code>0 &lt;= col1 &lt;= col2 &lt; n</code></li>
+	<li>At most <code>10<sup>4</sup></code> calls will be made to <code>sumRegion</code>.</li>
 </ul>
