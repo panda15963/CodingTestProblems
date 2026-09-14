@@ -256,12 +256,14 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/panda15963/CodingTestProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3161-block-placement-queries) |
@@ -364,6 +366,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -997,6 +1000,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/panda15963/CodingTestProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/panda15963/CodingTestProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1192,6 +1196,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
 | [3161-block-placement-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3161-block-placement-queries) |
 ## Tree
 |  |
@@ -1541,4 +1546,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0300-longest-increasing-subsequence) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
