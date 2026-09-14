@@ -1,39 +1,43 @@
-<h2><a href="https://leetcode.com/problems/additive-number">306. Additive Number</a></h2><h3>Medium</h3><hr><p>An <strong>additive number</strong> is a string whose digits can form an <strong>additive sequence</strong>.</p>
+<h2><a href="https://leetcode.com/problems/range-sum-query-mutable">307. Range Sum Query - Mutable</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, handle multiple queries of the following types:</p>
 
-<p>A valid <strong>additive sequence</strong> should contain <strong>at least</strong> three numbers. Except for the first two numbers, each subsequent number in the sequence must be the sum of the preceding two.</p>
+<ol>
+	<li><strong>Update</strong> the value of an element in <code>nums</code>.</li>
+	<li>Calculate the <strong>sum</strong> of the elements of <code>nums</code> between indices <code>left</code> and <code>right</code> <strong>inclusive</strong> where <code>left &lt;= right</code>.</li>
+</ol>
 
-<p>Given a string containing only digits, return <code>true</code> if it is an <strong>additive number</strong> or <code>false</code> otherwise.</p>
+<p>Implement the <code>NumArray</code> class:</p>
 
-<p><strong>Note:</strong> Numbers in the additive sequence <strong>cannot</strong> have leading zeros, so sequence <code>1, 2, 03</code> or <code>1, 02, 3</code> is invalid.</p>
+<ul>
+	<li><code>NumArray(int[] nums)</code> Initializes the object with the integer array <code>nums</code>.</li>
+	<li><code>void update(int index, int val)</code> <strong>Updates</strong> the value of <code>nums[index]</code> to be <code>val</code>.</li>
+	<li><code>int sumRange(int left, int right)</code> Returns the <strong>sum</strong> of the elements of <code>nums</code> between indices <code>left</code> and <code>right</code> <strong>inclusive</strong> (i.e. <code>nums[left] + nums[left + 1] + ... + nums[right]</code>).</li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> &quot;112358&quot;
-<strong>Output:</strong> true
-<strong>Explanation:</strong> 
-The digits can form an additive sequence: 1, 1, 2, 3, 5, 8. 
-1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8
-</pre>
+<strong>Input</strong>
+[&quot;NumArray&quot;, &quot;sumRange&quot;, &quot;update&quot;, &quot;sumRange&quot;]
+[[[1, 3, 5]], [0, 2], [1, 2], [0, 2]]
+<strong>Output</strong>
+[null, 9, null, 8]
 
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> &quot;199100199&quot;
-<strong>Output:</strong> true
-<strong>Explanation:</strong> 
-The additive sequence is: 1, 99, 100, 199.&nbsp;
-1 + 99 = 100, 99 + 100 = 199
+<strong>Explanation</strong>
+NumArray numArray = new NumArray([1, 3, 5]);
+numArray.sumRange(0, 2); // return 1 + 3 + 5 = 9
+numArray.update(1, 2);   // nums = [1, 2, 5]
+numArray.sumRange(0, 2); // return 1 + 2 + 5 = 8
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= num.length &lt;= 35</code></li>
-	<li><code>num</code> consists only of digits.</li>
+	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
+	<li><code>0 &lt;= index &lt; nums.length</code></li>
+	<li><code>-100 &lt;= val &lt;= 100</code></li>
+	<li><code>0 &lt;= left &lt;= right &lt; nums.length</code></li>
+	<li>At most <code>3 * 10<sup>4</sup></code> calls will be made to <code>update</code> and <code>sumRange</code>.</li>
 </ul>
-
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong> How would you handle overflow for very large input integers?</p>
