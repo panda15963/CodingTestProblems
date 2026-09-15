@@ -197,6 +197,7 @@
 | [0279-perfect-squares](https://github.com/panda15963/CodingTestProblems/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/panda15963/CodingTestProblems/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/panda15963/CodingTestProblems/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/panda15963/CodingTestProblems/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -371,6 +372,7 @@
 | [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/panda15963/CodingTestProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/panda15963/CodingTestProblems/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -719,6 +721,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/panda15963/CodingTestProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/panda15963/CodingTestProblems/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
