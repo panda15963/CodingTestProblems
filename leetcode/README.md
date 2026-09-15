@@ -1,31 +1,33 @@
-<h2><a href="https://leetcode.com/problems/burst-balloons/">312. Burst Balloons</a></h2><h3>Hard</h3><hr><p>You are given <code>n</code> balloons, indexed from <code>0</code> to <code>n - 1</code>. Each balloon is painted with a number on it represented by an array <code>nums</code>. You are asked to burst all the balloons.</p>
+<h2><a href="https://leetcode.com/problems/super-ugly-number">313. Super Ugly Number</a></h2><h3>Medium</h3><hr><p>A <strong>super ugly number</strong> is a positive integer whose prime factors are in the array <code>primes</code>.</p>
 
-<p>If you burst the <code>i<sup>th</sup></code> balloon, you will get <code>nums[i - 1] * nums[i] * nums[i + 1]</code> coins. If <code>i - 1</code> or <code>i + 1</code> goes out of bounds of the array, then treat it as if there is a balloon with a <code>1</code> painted on it.</p>
+<p>Given an integer <code>n</code> and an array of integers <code>primes</code>, return <em>the</em> <code>n<sup>th</sup></code> <em><strong>super ugly number</strong></em>.</p>
 
-<p>Return <em>the maximum coins you can collect by bursting the balloons wisely</em>.</p>
+<p>The <code>n<sup>th</sup></code> <strong>super ugly number</strong> is <strong>guaranteed</strong> to fit in a <strong>32-bit</strong> signed integer.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [3,1,5,8]
-<strong>Output:</strong> 167
-<strong>Explanation:</strong>
-nums = [3,1,5,8] --&gt; [3,5,8] --&gt; [3,8] --&gt; [8] --&gt; []
-coins =  3*1*5    +   3*5*8   +  1*3*8  + 1*8*1 = 167</pre>
+<strong>Input:</strong> n = 12, primes = [2,7,13,19]
+<strong>Output:</strong> 32
+<strong>Explanation:</strong> [1,2,4,7,8,13,14,16,19,26,28,32] is the sequence of the first 12 super ugly numbers given primes = [2,7,13,19].
+</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [1,5]
-<strong>Output:</strong> 10
+<strong>Input:</strong> n = 1, primes = [2,3,5]
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> 1 has no prime factors, therefore all of its prime factors are in the array primes = [2,3,5].
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>n == nums.length</code></li>
-	<li><code>1 &lt;= n &lt;= 300</code></li>
-	<li><code>0 &lt;= nums[i] &lt;= 100</code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= primes.length &lt;= 100</code></li>
+	<li><code>2 &lt;= primes[i] &lt;= 1000</code></li>
+	<li><code>primes[i]</code> is <strong>guaranteed</strong> to be a prime number.</li>
+	<li>All the values of <code>primes</code> are <strong>unique</strong> and sorted in <strong>ascending order</strong>.</li>
 </ul>
