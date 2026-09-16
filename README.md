@@ -201,6 +201,7 @@
 | [0282-expression-add-operators](https://github.com/panda15963/CodingTestProblems/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/panda15963/CodingTestProblems/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/panda15963/CodingTestProblems/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/panda15963/CodingTestProblems/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -1567,6 +1568,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/panda15963/CodingTestProblems/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/panda15963/CodingTestProblems/tree/master/0319-bulb-switcher) |
 ## Impartial Game
 |  |
 | ------- |
