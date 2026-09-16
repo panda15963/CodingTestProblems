@@ -268,6 +268,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/panda15963/CodingTestProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/panda15963/CodingTestProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3161-block-placement-queries) |
@@ -374,6 +375,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/panda15963/CodingTestProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/panda15963/CodingTestProblems/tree/master/0313-super-ugly-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/panda15963/CodingTestProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -983,6 +985,7 @@
 | [0278-first-bad-version](https://github.com/panda15963/CodingTestProblems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/panda15963/CodingTestProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/panda15963/CodingTestProblems/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1015,6 +1018,7 @@
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/panda15963/CodingTestProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/panda15963/CodingTestProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/panda15963/CodingTestProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1213,6 +1217,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/panda15963/CodingTestProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3161-block-placement-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3161-block-placement-queries) |
 ## Tree
 |  |
@@ -1293,6 +1298,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/panda15963/CodingTestProblems/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/panda15963/CodingTestProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/panda15963/CodingTestProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Graph Theory
@@ -1400,6 +1406,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0220-contains-duplicate-iii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/panda15963/CodingTestProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/panda15963/CodingTestProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Memoization
 |  |
@@ -1569,4 +1576,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/panda15963/CodingTestProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
