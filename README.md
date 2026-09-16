@@ -84,6 +84,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/panda15963/CodingTestProblems/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/panda15963/CodingTestProblems/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/panda15963/CodingTestProblems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -378,6 +379,7 @@
 | [0312-burst-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/panda15963/CodingTestProblems/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/panda15963/CodingTestProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/panda15963/CodingTestProblems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -1192,6 +1194,7 @@
 | [0260-single-number-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/panda15963/CodingTestProblems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/panda15963/CodingTestProblems/tree/master/0318-maximum-product-of-word-lengths) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/panda15963/CodingTestProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
