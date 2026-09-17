@@ -204,6 +204,7 @@
 | [0292-nim-game](https://github.com/panda15963/CodingTestProblems/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/panda15963/CodingTestProblems/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/panda15963/CodingTestProblems/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/panda15963/CodingTestProblems/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -793,6 +794,7 @@
 | [0234-palindrome-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/panda15963/CodingTestProblems/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/panda15963/CodingTestProblems/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
