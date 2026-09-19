@@ -141,6 +141,7 @@
 | [0316-remove-duplicate-letters](https://github.com/panda15963/CodingTestProblems/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/panda15963/CodingTestProblems/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/panda15963/CodingTestProblems/tree/master/0330-patching-array) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/panda15963/CodingTestProblems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -392,6 +393,7 @@
 | [0324-wiggle-sort-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/panda15963/CodingTestProblems/tree/master/0330-patching-array) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
