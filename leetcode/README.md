@@ -1,37 +1,41 @@
-<h2><a href="https://leetcode.com/problems/longest-increasing-path-in-a-matrix">329. Longest Increasing Path in a Matrix</a></h2><h3>Hard</h3><hr><p>Given an <code>m x n</code> integers <code>matrix</code>, return <em>the length of the longest increasing path in </em><code>matrix</code>.</p>
+<h2><a href="https://leetcode.com/problems/patching-array">330. Patching Array</a></h2><h3>Hard</h3><hr><p>Given a sorted integer array <code>nums</code> and an integer <code>n</code>, add/patch elements to the array such that any number in the range <code>[1, n]</code> inclusive can be formed by the sum of some elements in the array.</p>
 
-<p>From each cell, you can either move in four directions: left, right, up, or down. You <strong>may not</strong> move <strong>diagonally</strong> or move <strong>outside the boundary</strong> (i.e., wrap-around is not allowed).</p>
+<p>Return <em>the minimum number of patches required</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/01/05/grid1.jpg" style="width: 242px; height: 242px;" />
+
 <pre>
-<strong>Input:</strong> matrix = [[9,9,4],[6,6,8],[2,1,1]]
-<strong>Output:</strong> 4
-<strong>Explanation:</strong> The longest increasing path is <code>[1, 2, 6, 9]</code>.
+<strong>Input:</strong> nums = [1,3], n = 6
+<strong>Output:</strong> 1
+Explanation:
+Combinations of nums are [1], [3], [1,3], which form possible sums of: 1, 3, 4.
+Now if we add/patch 2 to nums, the combinations are: [1], [2], [3], [1,3], [2,3], [1,2,3].
+Possible sums are 1, 2, 3, 4, 5, 6, which now covers the range [1, 6].
+So we only need 1 patch.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/01/27/tmp-grid.jpg" style="width: 253px; height: 253px;" />
+
 <pre>
-<strong>Input:</strong> matrix = [[3,4,5],[3,2,6],[2,2,1]]
-<strong>Output:</strong> 4
-<strong>Explanation: </strong>The longest increasing path is <code>[3, 4, 5, 6]</code>. Moving diagonally is not allowed.
+<strong>Input:</strong> nums = [1,5,10], n = 20
+<strong>Output:</strong> 2
+Explanation: The two patches can be [2, 4].
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> matrix = [[1]]
-<strong>Output:</strong> 1
+<strong>Input:</strong> nums = [1,2,2], n = 5
+<strong>Output:</strong> 0
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>m == matrix.length</code></li>
-	<li><code>n == matrix[i].length</code></li>
-	<li><code>1 &lt;= m, n &lt;= 200</code></li>
-	<li><code>0 &lt;= matrix[i][j] &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
+	<li><code>nums</code> is sorted in <strong>ascending order</strong>.</li>
+	<li><code>1 &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
