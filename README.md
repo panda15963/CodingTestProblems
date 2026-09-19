@@ -86,6 +86,7 @@
 | [0316-remove-duplicate-letters](https://github.com/panda15963/CodingTestProblems/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/panda15963/CodingTestProblems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -395,6 +396,7 @@
 | [0327-count-of-range-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/panda15963/CodingTestProblems/tree/master/0330-patching-array) |
+| [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -537,6 +539,7 @@
 | [0274-h-index](https://github.com/panda15963/CodingTestProblems/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/panda15963/CodingTestProblems/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0324-wiggle-sort-ii) |
+| [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -578,6 +581,7 @@
 | [0239-sliding-window-maximum](https://github.com/panda15963/CodingTestProblems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/panda15963/CodingTestProblems/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1091,6 +1095,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1356,6 +1361,7 @@
 | [0210-course-schedule-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/panda15963/CodingTestProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/panda15963/CodingTestProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1639,4 +1645,16 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/panda15963/CodingTestProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0327-count-of-range-sum) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
