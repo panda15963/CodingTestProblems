@@ -1,37 +1,38 @@
-<h2><a href="https://leetcode.com/problems/increasing-triplet-subsequence/">334. Increasing Triplet Subsequence</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, return <code>true</code><em> if there exists a triple of indices </em><code>(i, j, k)</code><em> such that </em><code>i &lt; j &lt; k</code><em> and </em><code>nums[i] &lt; nums[j] &lt; nums[k]</code>. If no such indices exists, return <code>false</code>.</p>
+<h2><a href="https://leetcode.com/problems/self-crossing">335. Self Crossing</a></h2><h3>Hard</h3><hr><p>You are given an array of integers <code>distance</code>.</p>
+
+<p>You start at the point <code>(0, 0)</code> on an <strong>X-Y plane,</strong> and you move <code>distance[0]</code> meters to the north, then <code>distance[1]</code> meters to the west, <code>distance[2]</code> meters to the south, <code>distance[3]</code> meters to the east, and so on. In other words, after each move, your direction changes counter-clockwise.</p>
+
+<p>Return <code>true</code> <em>if your path crosses itself or </em><code>false</code><em> if it does not</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2022/12/21/11.jpg" style="width: 400px; height: 413px;" />
 <pre>
-<strong>Input:</strong> nums = [1,2,3,4,5]
+<strong>Input:</strong> distance = [2,1,1,2]
 <strong>Output:</strong> true
-<strong>Explanation:</strong> Any triplet where i &lt; j &lt; k is valid.
+<strong>Explanation:</strong> The path crosses itself at the point (0, 1).
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2022/12/21/22.jpg" style="width: 400px; height: 413px;" />
 <pre>
-<strong>Input:</strong> nums = [5,4,3,2,1]
+<strong>Input:</strong> distance = [1,2,3,4]
 <strong>Output:</strong> false
-<strong>Explanation:</strong> No triplet exists.
+<strong>Explanation:</strong> The path does not cross itself at any point.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2022/12/21/33.jpg" style="width: 400px; height: 413px;" />
 <pre>
-<strong>Input:</strong> nums = [2,1,5,0,4,6]
+<strong>Input:</strong> distance = [1,1,1,2,1]
 <strong>Output:</strong> true
-<strong>Explanation:</strong> One of the valid triplet is (1, 4, 5), because nums[1] == 1 &lt; nums[4] == 4 &lt; nums[5] == 6.
+<strong>Explanation:</strong> The path crosses itself at the point (0, 0).
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 5 * 10<sup>5</sup></code></li>
-	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>1 &lt;=&nbsp;distance.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;=&nbsp;distance[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
-
-<p>&nbsp;</p>
-<strong>Follow up:</strong> Could you implement a solution that runs in <code>O(n)</code> time complexity and <code>O(1)</code> space complexity?
