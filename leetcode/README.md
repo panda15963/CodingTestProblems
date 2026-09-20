@@ -1,38 +1,47 @@
-<h2><a href="https://leetcode.com/problems/self-crossing">335. Self Crossing</a></h2><h3>Hard</h3><hr><p>You are given an array of integers <code>distance</code>.</p>
+<h2><a href="https://leetcode.com/problems/palindrome-pairs">336. Palindrome Pairs</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> array of <strong>unique</strong> strings <code>words</code>.</p>
 
-<p>You start at the point <code>(0, 0)</code> on an <strong>X-Y plane,</strong> and you move <code>distance[0]</code> meters to the north, then <code>distance[1]</code> meters to the west, <code>distance[2]</code> meters to the south, <code>distance[3]</code> meters to the east, and so on. In other words, after each move, your direction changes counter-clockwise.</p>
+<p>A <strong>palindrome pair</strong> is a pair of integers <code>(i, j)</code> such that:</p>
 
-<p>Return <code>true</code> <em>if your path crosses itself or </em><code>false</code><em> if it does not</em>.</p>
+<ul>
+	<li><code>0 &lt;= i, j &lt; words.length</code>,</li>
+	<li><code>i != j</code>, and</li>
+	<li><code>words[i] + words[j]</code> (the concatenation of the two strings) is a <span data-keyword="palindrome-string">palindrome</span>.</li>
+</ul>
+
+<p>Return <em>an array of all the <strong>palindrome pairs</strong> of </em><code>words</code>.</p>
+
+<p>You must write an algorithm with&nbsp;<code>O(sum of words[i].length)</code>&nbsp;runtime complexity.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2022/12/21/11.jpg" style="width: 400px; height: 413px;" />
+
 <pre>
-<strong>Input:</strong> distance = [2,1,1,2]
-<strong>Output:</strong> true
-<strong>Explanation:</strong> The path crosses itself at the point (0, 1).
+<strong>Input:</strong> words = [&quot;abcd&quot;,&quot;dcba&quot;,&quot;lls&quot;,&quot;s&quot;,&quot;sssll&quot;]
+<strong>Output:</strong> [[0,1],[1,0],[3,2],[2,4]]
+<strong>Explanation:</strong> The palindromes are [&quot;abcddcba&quot;,&quot;dcbaabcd&quot;,&quot;slls&quot;,&quot;llssssll&quot;]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2022/12/21/22.jpg" style="width: 400px; height: 413px;" />
+
 <pre>
-<strong>Input:</strong> distance = [1,2,3,4]
-<strong>Output:</strong> false
-<strong>Explanation:</strong> The path does not cross itself at any point.
+<strong>Input:</strong> words = [&quot;bat&quot;,&quot;tab&quot;,&quot;cat&quot;]
+<strong>Output:</strong> [[0,1],[1,0]]
+<strong>Explanation:</strong> The palindromes are [&quot;battab&quot;,&quot;tabbat&quot;]
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2022/12/21/33.jpg" style="width: 400px; height: 413px;" />
+
 <pre>
-<strong>Input:</strong> distance = [1,1,1,2,1]
-<strong>Output:</strong> true
-<strong>Explanation:</strong> The path crosses itself at the point (0, 0).
+<strong>Input:</strong> words = [&quot;a&quot;,&quot;&quot;]
+<strong>Output:</strong> [[0,1],[1,0]]
+<strong>Explanation:</strong> The palindromes are [&quot;a&quot;,&quot;a&quot;]
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;=&nbsp;distance.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;=&nbsp;distance[i] &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= words.length &lt;= 5000</code></li>
+	<li><code>0 &lt;= words[i].length &lt;= 300</code></li>
+	<li><code>words[i]</code> consists of lowercase English letters.</li>
 </ul>
