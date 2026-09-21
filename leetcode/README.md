@@ -1,46 +1,32 @@
-<h2><a href="https://leetcode.com/problems/flatten-nested-list-iterator">341. Flatten Nested List Iterator</a></h2><h3>Medium</h3><hr><p>You are given a nested list of integers <code>nestedList</code>. Each element is either an integer or a list whose elements may also be integers or other lists. Implement an iterator to flatten it.</p>
+<h2><a href="https://leetcode.com/problems/reverse-vowels-of-a-string">345. Reverse Vowels of a String</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, reverse only all the vowels in the string and return it.</p>
 
-<p>Implement the <code>NestedIterator</code> class:</p>
-
-<ul>
-	<li><code>NestedIterator(List&lt;NestedInteger&gt; nestedList)</code> Initializes the iterator with the nested list <code>nestedList</code>.</li>
-	<li><code>int next()</code> Returns the next integer in the nested list.</li>
-	<li><code>boolean hasNext()</code> Returns <code>true</code> if there are still some integers in the nested list and <code>false</code> otherwise.</li>
-</ul>
-
-<p>Your code will be tested with the following pseudocode:</p>
-
-<pre>
-initialize iterator with nestedList
-res = []
-while iterator.hasNext()
-    append iterator.next() to the end of res
-return res
-</pre>
-
-<p>If <code>res</code> matches the expected flattened list, then your code will be judged as correct.</p>
+<p>The vowels are <code>&#39;a&#39;</code>, <code>&#39;e&#39;</code>, <code>&#39;i&#39;</code>, <code>&#39;o&#39;</code>, and <code>&#39;u&#39;</code>, and they can appear in both lower and upper cases, more than once.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
-<strong>Input:</strong> nestedList = [[1,1],2,[1,1]]
-<strong>Output:</strong> [1,1,2,1,1]
-<strong>Explanation:</strong> By calling next repeatedly until hasNext returns false, the order of elements returned by next should be: [1,1,2,1,1].
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;IceCreAm&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">&quot;AceCreIm&quot;</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>The vowels in <code>s</code> are <code>[&#39;I&#39;, &#39;e&#39;, &#39;e&#39;, &#39;A&#39;]</code>. On reversing the vowels, s becomes <code>&quot;AceCreIm&quot;</code>.</p>
+</div>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> nestedList = [1,[4,[6]]]
-<strong>Output:</strong> [1,4,6]
-<strong>Explanation:</strong> By calling next repeatedly until hasNext returns false, the order of elements returned by next should be: [1,4,6].
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;leetcode&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">&quot;leotcede&quot;</span></p>
+</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nestedList.length &lt;= 500</code></li>
-	<li>The values of the integers in the nested list is in the range <code>[-10<sup>6</sup>, 10<sup>6</sup>]</code>.</li>
+	<li><code>1 &lt;= s.length &lt;= 3 * 10<sup>5</sup></code></li>
+	<li><code>s</code> consist of <strong>printable ASCII</strong> characters.</li>
 </ul>
