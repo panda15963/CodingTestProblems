@@ -279,6 +279,7 @@
 | [0303-range-sum-query-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/panda15963/CodingTestProblems/tree/master/0307-range-sum-query-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0341-flatten-nested-list-iterator) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -1016,6 +1017,7 @@
 | [0316-remove-duplicate-letters](https://github.com/panda15963/CodingTestProblems/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/panda15963/CodingTestProblems/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0341-flatten-nested-list-iterator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/panda15963/CodingTestProblems/tree/master/2751-robot-collisions) |
@@ -1112,6 +1114,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0341-flatten-nested-list-iterator) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1321,6 +1324,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0341-flatten-nested-list-iterator) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/panda15963/CodingTestProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/panda15963/CodingTestProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1543,6 +1547,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0341-flatten-nested-list-iterator) |
 ## Database
 |  |
 | ------- |
@@ -1617,6 +1622,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/panda15963/CodingTestProblems/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0341-flatten-nested-list-iterator) |
 ## Monotonic Queue
 |  |
 | ------- |
