@@ -767,6 +767,7 @@
 | [0322-coin-change](https://github.com/panda15963/CodingTestProblems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/panda15963/CodingTestProblems/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -1254,6 +1255,7 @@
 | [0268-missing-number](https://github.com/panda15963/CodingTestProblems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/panda15963/CodingTestProblems/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/panda15963/CodingTestProblems/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/panda15963/CodingTestProblems/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/panda15963/CodingTestProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
