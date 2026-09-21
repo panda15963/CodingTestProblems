@@ -766,6 +766,7 @@
 | [0313-super-ugly-number](https://github.com/panda15963/CodingTestProblems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/panda15963/CodingTestProblems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0337-house-robber-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0337-house-robber-iii) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -1109,6 +1110,7 @@
 | [0310-minimum-height-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
+| [0337-house-robber-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0337-house-robber-iii) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1316,6 +1318,7 @@
 | [0257-binary-tree-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0337-house-robber-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0337-house-robber-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/panda15963/CodingTestProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/panda15963/CodingTestProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1352,6 +1355,7 @@
 | [0257-binary-tree-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0337-house-robber-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0337-house-robber-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/panda15963/CodingTestProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting Sort
@@ -1469,6 +1473,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0337-house-robber-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0337-house-robber-iii) |
 ## Bidirectional Search
 |  |
 | ------- |
