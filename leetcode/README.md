@@ -1,30 +1,41 @@
-<h2><a href="https://leetcode.com/problems/house-robber-iii/">337. House Robber III</a></h2><h3>Medium</h3><hr><p>The thief has found himself a new place for his thievery again. There is only one entrance to this area, called <code>root</code>.</p>
-
-<p>Besides the <code>root</code>, each house has one and only one parent house. After a tour, the smart thief realized that all houses in this place form a binary tree. It will automatically contact the police if <strong>two directly-linked houses were broken into on the same night</strong>.</p>
-
-<p>Given the <code>root</code> of the binary tree, return <em>the maximum amount of money the thief can rob <strong>without alerting the police</strong></em>.</p>
-
+<h2><a href="https://leetcode.com/problems/counting-bits/">338. Counting Bits</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code>, return <em>an array </em><code>ans</code><em> of length </em><code>n + 1</code><em> such that for each </em><code>i</code><em> </em>(<code>0 &lt;= i &lt;= n</code>)<em>, </em><code>ans[i]</code><em> is the <strong>number of </strong></em><code>1</code><em><strong>&#39;s</strong> in the binary representation of </em><code>i</code>.</p>
+Do not solve it with built-in functions (i.e., like <code>__builtin_popcount</code> in C++).
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/03/10/rob1-tree.jpg" style="width: 277px; height: 293px;" />
+
 <pre>
-<strong>Input:</strong> root = [3,2,3,null,3,null,1]
-<strong>Output:</strong> 7
-<strong>Explanation:</strong> Maximum amount of money the thief can rob = 3 + 3 + 1 = 7.
+<strong>Input:</strong> n = 2
+<strong>Output:</strong> [0,1,1]
+<strong>Explanation:</strong>
+0 --&gt; 0
+1 --&gt; 1
+2 --&gt; 10
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/03/10/rob2-tree.jpg" style="width: 357px; height: 293px;" />
+
 <pre>
-<strong>Input:</strong> root = [3,4,5,1,3,null,1]
-<strong>Output:</strong> 9
-<strong>Explanation:</strong> Maximum amount of money the thief can rob = 4 + 5 = 9.
+<strong>Input:</strong> n = 5
+<strong>Output:</strong> [0,1,1,2,1,2]
+<strong>Explanation:</strong>
+0 --&gt; 0
+1 --&gt; 1
+2 --&gt; 10
+3 --&gt; 11
+4 --&gt; 100
+5 --&gt; 101
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the tree is in the range <code>[1, 10<sup>4</sup>]</code>.</li>
-	<li><code>0 &lt;= Node.val &lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= n &lt;= 10<sup>5</sup></code></li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong></p>
+
+<ul>
+	<li>It is very easy to come up with a solution with a runtime of <code>O(n log n)</code>. Can you do it in linear time <code>O(n)</code> and possibly in a single pass?</li>
 </ul>
