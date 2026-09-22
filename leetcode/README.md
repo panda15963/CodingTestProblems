@@ -1,24 +1,27 @@
-<h2><a href="https://leetcode.com/problems/power-of-four">342. Power of Four</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code>, return <em><code>true</code> if it is a power of four. Otherwise, return <code>false</code></em>.</p>
+<h2><a href="https://leetcode.com/problems/integer-break">343. Integer Break</a></h2><h3>Medium</h3><hr><p>Given an integer <code>n</code>, break it into the sum of <code>k</code> <strong>positive integers</strong>, where <code>k &gt;= 2</code>, and maximize the product of those integers.</p>
 
-<p>An integer <code>n</code> is a power of four, if there exists an integer <code>x</code> such that <code>n == 4<sup>x</sup></code>.</p>
+<p>Return <em>the maximum product you can get</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<pre><strong>Input:</strong> n = 16
-<strong>Output:</strong> true
-</pre><p><strong class="example">Example 2:</strong></p>
-<pre><strong>Input:</strong> n = 5
-<strong>Output:</strong> false
-</pre><p><strong class="example">Example 3:</strong></p>
-<pre><strong>Input:</strong> n = 1
-<strong>Output:</strong> true
+
+<pre>
+<strong>Input:</strong> n = 2
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> 2 = 1 + 1, 1 &times; 1 = 1.
 </pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = 10
+<strong>Output:</strong> 36
+<strong>Explanation:</strong> 10 = 3 + 3 + 4, 3 &times; 3 &times; 4 = 36.
+</pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>-2<sup>31</sup> &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>2 &lt;= n &lt;= 58</code></li>
 </ul>
-
-<p>&nbsp;</p>
-<strong>Follow up:</strong> Could you solve it without loops/recursion?
