@@ -414,6 +414,7 @@
 | [0335-self-crossing](https://github.com/panda15963/CodingTestProblems/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -561,6 +562,7 @@
 | [0324-wiggle-sort-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -716,6 +718,7 @@
 | [0295-find-median-from-data-stream](https://github.com/panda15963/CodingTestProblems/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/panda15963/CodingTestProblems/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -880,6 +883,7 @@
 | [0299-bulls-and-cows](https://github.com/panda15963/CodingTestProblems/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1060,6 +1064,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/panda15963/CodingTestProblems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0327-count-of-range-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
