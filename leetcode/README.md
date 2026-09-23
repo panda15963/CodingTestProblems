@@ -1,45 +1,34 @@
-<h2><a href="https://leetcode.com/problems/data-stream-as-disjoint-intervals">352. Data Stream as Disjoint Intervals</a></h2><h3>Hard</h3><hr><p>Given a data stream input of non-negative integers <code>a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub></code>, summarize the numbers seen so far as a list of disjoint intervals.</p>
-
-<p>Implement the <code>SummaryRanges</code> class:</p>
-
-<ul>
-	<li><code>SummaryRanges()</code> Initializes the object with an empty stream.</li>
-	<li><code>void addNum(int value)</code> Adds the integer <code>value</code> to the stream.</li>
-	<li><code>int[][] getIntervals()</code> Returns a summary of the integers in the stream currently as a list of disjoint intervals <code>[start<sub>i</sub>, end<sub>i</sub>]</code>. The answer should be sorted by <code>start<sub>i</sub></code>.</li>
-</ul>
+<h2><a href="https://leetcode.com/problems/intersection-of-two-arrays-ii">350. Intersection of Two Arrays II</a></h2><h3>Easy</h3><hr><p>Given two integer arrays <code>nums1</code> and <code>nums2</code>, return <em>an array of their intersection</em>. Each element in the result must appear as many times as it shows in both arrays and you may return the result in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input</strong>
-[&quot;SummaryRanges&quot;, &quot;addNum&quot;, &quot;getIntervals&quot;, &quot;addNum&quot;, &quot;getIntervals&quot;, &quot;addNum&quot;, &quot;getIntervals&quot;, &quot;addNum&quot;, &quot;getIntervals&quot;, &quot;addNum&quot;, &quot;getIntervals&quot;]
-[[], [1], [], [3], [], [7], [], [2], [], [6], []]
-<strong>Output</strong>
-[null, null, [[1, 1]], null, [[1, 1], [3, 3]], null, [[1, 1], [3, 3], [7, 7]], null, [[1, 3], [7, 7]], null, [[1, 3], [6, 7]]]
+<strong>Input:</strong> nums1 = [1,2,2,1], nums2 = [2,2]
+<strong>Output:</strong> [2,2]
+</pre>
 
-<strong>Explanation</strong>
-SummaryRanges summaryRanges = new SummaryRanges();
-summaryRanges.addNum(1);      // arr = [1]
-summaryRanges.getIntervals(); // return [[1, 1]]
-summaryRanges.addNum(3);      // arr = [1, 3]
-summaryRanges.getIntervals(); // return [[1, 1], [3, 3]]
-summaryRanges.addNum(7);      // arr = [1, 3, 7]
-summaryRanges.getIntervals(); // return [[1, 1], [3, 3], [7, 7]]
-summaryRanges.addNum(2);      // arr = [1, 2, 3, 7]
-summaryRanges.getIntervals(); // return [[1, 3], [7, 7]]
-summaryRanges.addNum(6);      // arr = [1, 2, 3, 6, 7]
-summaryRanges.getIntervals(); // return [[1, 3], [6, 7]]
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums1 = [4,9,5], nums2 = [9,4,9,8,4]
+<strong>Output:</strong> [4,9]
+<strong>Explanation:</strong> [9,4] is also accepted.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= value &lt;= 10<sup>4</sup></code></li>
-	<li>At most <code>3 * 10<sup>4</sup></code> calls will be made to <code>addNum</code> and <code>getIntervals</code>.</li>
-	<li>At most <code>10<sup>2</sup></code>&nbsp;calls will be made to&nbsp;<code>getIntervals</code>.</li>
+	<li><code>1 &lt;= nums1.length, nums2.length &lt;= 1000</code></li>
+	<li><code>0 &lt;= nums1[i], nums2[i] &lt;= 1000</code></li>
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>Follow up:</strong> What if there are lots of merges and the number of disjoint intervals is small compared to the size of the data stream?</p>
+<p><strong>Follow up:</strong></p>
+
+<ul>
+	<li>What if the given array is already sorted? How would you optimize your algorithm?</li>
+	<li>What if <code>nums1</code>&#39;s size is small compared to <code>nums2</code>&#39;s size? Which algorithm is better?</li>
+	<li>What if elements of <code>nums2</code> are stored on disk, and the memory is limited such that you cannot load all elements into the memory at once?</li>
+</ul>
