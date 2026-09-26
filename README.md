@@ -220,6 +220,7 @@
 | [0342-power-of-four](https://github.com/panda15963/CodingTestProblems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/panda15963/CodingTestProblems/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -1171,6 +1172,7 @@
 | [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0365-water-and-jug-problem) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1242,6 +1244,7 @@
 | [0310-minimum-height-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/panda15963/CodingTestProblems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0365-water-and-jug-problem) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1345-jump-game-iv) |
@@ -1582,10 +1585,12 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0365-water-and-jug-problem) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0365-water-and-jug-problem) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1755,4 +1760,12 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
