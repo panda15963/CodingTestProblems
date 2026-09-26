@@ -1,33 +1,57 @@
-<h2><a href="https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k">363. Max Sum of Rectangle No Larger Than K</a></h2><h3>Hard</h3><hr><p>Given an <code>m x n</code> matrix <code>matrix</code> and an integer <code>k</code>, return <em>the max sum of a rectangle in the matrix such that its sum is no larger than</em> <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/water-and-jug-problem">365. Water and Jug Problem</a></h2><h3>Medium</h3><hr><p>You are given two jugs with capacities <code>x</code> liters and <code>y</code> liters. You have an infinite water supply. Return whether the total amount of water in both jugs may reach <code>target</code> using the following operations:</p>
 
-<p>It is <strong>guaranteed</strong> that there will be a rectangle with a sum no larger than <code>k</code>.</p>
+<ul>
+	<li>Fill either jug completely with water.</li>
+	<li>Completely empty either jug.</li>
+	<li>Pour water from one jug into another until the receiving jug is full, or the transferring jug is empty.</li>
+</ul>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/03/18/sum-grid.jpg" style="width: 255px; height: 176px;" />
-<pre>
-<strong>Input:</strong> matrix = [[1,0,1],[0,-2,3]], k = 2
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> Because the sum of the blue rectangle [[0, 1], [-2, 3]] is 2, and 2 is the max number no larger than k (k = 2).
-</pre>
+<p><strong class="example">Example 1: </strong></p>
 
-<p><strong class="example">Example 2:</strong></p>
+<div class="example-block" style="border-color: var(--border-tertiary); border-left-width: 2px; color: var(--text-secondary); font-size: .875rem; margin-bottom: 1rem; margin-top: 1rem; overflow: visible; padding-left: 1rem;">
+<p><strong>Input: </strong> <span class="example-io" style="font-family: Menlo,sans-serif; font-size: 0.85rem;"> x = 3, y = 5, target = 4 </span></p>
 
-<pre>
-<strong>Input:</strong> matrix = [[2,2,-1]], k = 3
-<strong>Output:</strong> 3
-</pre>
+<p><strong>Output: </strong> <span class="example-io" style="font-family: Menlo,sans-serif; font-size: 0.85rem;"> true </span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>Follow these steps to reach a total of 4 liters:</p>
+
+<ol>
+	<li>Fill the 5-liter jug (0, 5).</li>
+	<li>Pour from the 5-liter jug into the 3-liter jug, leaving 2 liters (3, 2).</li>
+	<li>Empty the 3-liter jug (0, 2).</li>
+	<li>Transfer the 2 liters from the 5-liter jug to the 3-liter jug (2, 0).</li>
+	<li>Fill the 5-liter jug again (2, 5).</li>
+	<li>Pour from the 5-liter jug into the 3-liter jug until the 3-liter jug is full. This leaves 4 liters in the 5-liter jug (3, 4).</li>
+	<li>Empty the 3-liter jug. Now, you have exactly 4 liters in the 5-liter jug (0, 4).</li>
+</ol>
+
+<p>Reference: The <a href="https://www.youtube.com/watch?v=BVtQNK_ZUJg&amp;ab_channel=notnek01" target="_blank">Die Hard</a> example.</p>
+</div>
+
+<p><strong class="example">Example 2: </strong></p>
+
+<div class="example-block" style="border-color: var(--border-tertiary); border-left-width: 2px; color: var(--text-secondary); font-size: .875rem; margin-bottom: 1rem; margin-top: 1rem; overflow: visible; padding-left: 1rem;">
+<p><strong>Input: </strong> <span class="example-io" style="font-family: Menlo,sans-serif; font-size: 0.85rem;"> x = 2, y = 6, target = 5 </span></p>
+
+<p><strong>Output: </strong> <span class="example-io" style="font-family: Menlo,sans-serif; font-size: 0.85rem;"> false </span></p>
+</div>
+
+<p><strong class="example">Example 3: </strong></p>
+
+<div class="example-block" style="border-color: var(--border-tertiary); border-left-width: 2px; color: var(--text-secondary); font-size: .875rem; margin-bottom: 1rem; margin-top: 1rem; overflow: visible; padding-left: 1rem;">
+<p><strong>Input: </strong> <span class="example-io" style="font-family: Menlo,sans-serif; font-size: 0.85rem;"> x = 1, y = 2, target = 3 </span></p>
+
+<p><strong>Output: </strong> <span class="example-io" style="font-family: Menlo,sans-serif; font-size: 0.85rem;"> true </span></p>
+
+<p><strong>Explanation:</strong> Fill both jugs. The total amount of water in both jugs is equal to 3 now.</p>
+</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>m == matrix.length</code></li>
-	<li><code>n == matrix[i].length</code></li>
-	<li><code>1 &lt;= m, n &lt;= 100</code></li>
-	<li><code>-100 &lt;= matrix[i][j] &lt;= 100</code></li>
-	<li><code>-10<sup>5</sup> &lt;= k &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= x, y, target&nbsp;&lt;= 10<sup>3</sup></code></li>
 </ul>
-
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong> What if the number of rows is much larger than the number of columns?</p>
