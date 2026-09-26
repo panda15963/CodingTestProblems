@@ -221,6 +221,7 @@
 | [0343-integer-break](https://github.com/panda15963/CodingTestProblems/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/panda15963/CodingTestProblems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/panda15963/CodingTestProblems/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1097,6 +1098,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/panda15963/CodingTestProblems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/panda15963/CodingTestProblems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/panda15963/CodingTestProblems/tree/master/0367-valid-perfect-square) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
