@@ -431,6 +431,7 @@
 | [0354-russian-doll-envelopes](https://github.com/panda15963/CodingTestProblems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/panda15963/CodingTestProblems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/panda15963/CodingTestProblems/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/panda15963/CodingTestProblems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -630,6 +631,7 @@
 | [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/panda15963/CodingTestProblems/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/panda15963/CodingTestProblems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
