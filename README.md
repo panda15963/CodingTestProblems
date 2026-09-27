@@ -1112,6 +1112,7 @@
 | [0354-russian-doll-envelopes](https://github.com/panda15963/CodingTestProblems/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/panda15963/CodingTestProblems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/panda15963/CodingTestProblems/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/panda15963/CodingTestProblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1729,6 +1730,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/panda15963/CodingTestProblems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/panda15963/CodingTestProblems/tree/master/0374-guess-number-higher-or-lower) |
 ## Knapsack Problem
 |  |
 | ------- |
