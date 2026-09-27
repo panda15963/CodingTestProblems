@@ -1,33 +1,33 @@
-<h2><a href="https://leetcode.com/problems/super-pow">372. Super Pow</a></h2><h3>Medium</h3><hr><p>Your task is to calculate <code>a<sup>b</sup></code> mod <code>1337</code> where <code>a</code> is a positive integer and <code>b</code> is an extremely large positive integer given in the form of an array.</p>
+<h2><a href="https://leetcode.com/problems/split-array-largest-sum">410. Split Array Largest Sum</a></h2><h3>Hard</h3><hr><p>Given an integer array <code>nums</code> and an integer <code>k</code>, split <code>nums</code> into <code>k</code> non-empty subarrays such that the largest sum of any subarray is <strong>minimized</strong>.</p>
+
+<p>Return <em>the minimized largest sum of the split</em>.</p>
+
+<p>A <strong>subarray</strong> is a contiguous part of the array.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> a = 2, b = [3]
-<strong>Output:</strong> 8
+<strong>Input:</strong> nums = [7,2,5,10,8], k = 2
+<strong>Output:</strong> 18
+<strong>Explanation:</strong> There are four ways to split nums into two subarrays.
+The best way is to split it into [7,2,5] and [10,8], where the largest sum among the two subarrays is only 18.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> a = 2, b = [1,0]
-<strong>Output:</strong> 1024
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> a = 1, b = [4,3,3,8,5,2]
-<strong>Output:</strong> 1
+<strong>Input:</strong> nums = [1,2,3,4,5], k = 2
+<strong>Output:</strong> 9
+<strong>Explanation:</strong> There are four ways to split nums into two subarrays.
+The best way is to split it into [1,2,3] and [4,5], where the largest sum among the two subarrays is only 9.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= a &lt;= 2<sup>31</sup> - 1</code></li>
-	<li><code>1 &lt;= b.length &lt;= 2000</code></li>
-	<li><code>0 &lt;= b[i] &lt;= 9</code></li>
-	<li><code>b</code> does not contain leading zeros.</li>
+	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
+	<li><code>0 &lt;= nums[i] &lt;= 10<sup>6</sup></code></li>
+	<li><code>1 &lt;= k &lt;= min(50, nums.length)</code></li>
 </ul>
