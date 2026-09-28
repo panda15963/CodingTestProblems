@@ -1,41 +1,40 @@
-<h2><a href="https://leetcode.com/problems/combination-sum-iv">377. Combination Sum IV</a></h2><h3>Medium</h3><hr><p>Given an array of <strong>distinct</strong> integers <code>nums</code> and a target integer <code>target</code>, return <em>the number of possible combinations that add up to</em>&nbsp;<code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix">378. Kth Smallest Element in a Sorted Matrix</a></h2><h3>Medium</h3><hr><p>Given an <code>n x n</code> <code>matrix</code> where each of the rows and columns is sorted in ascending order, return <em>the</em> <code>k<sup>th</sup></code> <em>smallest element in the matrix</em>.</p>
 
-<p>The test cases are generated so that the answer can fit in a <strong>32-bit</strong> integer.</p>
+<p>Note that it is the <code>k<sup>th</sup></code> smallest element <strong>in the sorted order</strong>, not the <code>k<sup>th</sup></code> <strong>distinct</strong> element.</p>
+
+<p>You must find a solution with a memory complexity better than <code>O(n<sup>2</sup>)</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [1,2,3], target = 4
-<strong>Output:</strong> 7
-<strong>Explanation:</strong>
-The possible combination ways are:
-(1, 1, 1, 1)
-(1, 1, 2)
-(1, 2, 1)
-(1, 3)
-(2, 1, 1)
-(2, 2)
-(3, 1)
-Note that different sequences are counted as different combinations.
+<strong>Input:</strong> matrix = [[1,5,9],[10,11,13],[12,13,15]], k = 8
+<strong>Output:</strong> 13
+<strong>Explanation:</strong> The elements in the matrix are [1,5,9,10,11,12,13,<u><strong>13</strong></u>,15], and the 8<sup>th</sup> smallest number is 13
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [9], target = 3
-<strong>Output:</strong> 0
+<strong>Input:</strong> matrix = [[-5]], k = 1
+<strong>Output:</strong> -5
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 200</code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 1000</code></li>
-	<li>All the elements of <code>nums</code> are <strong>unique</strong>.</li>
-	<li><code>1 &lt;= target &lt;= 1000</code></li>
+	<li><code>n == matrix.length == matrix[i].length</code></li>
+	<li><code>1 &lt;= n &lt;= 300</code></li>
+	<li><code>-10<sup>9</sup> &lt;= matrix[i][j] &lt;= 10<sup>9</sup></code></li>
+	<li>All the rows and columns of <code>matrix</code> are <strong>guaranteed</strong> to be sorted in <strong>non-decreasing order</strong>.</li>
+	<li><code>1 &lt;= k &lt;= n<sup>2</sup></code></li>
 </ul>
 
 <p>&nbsp;</p>
-<p><strong>Follow up:</strong> What if negative numbers are allowed in the given array? How does it change the problem? What limitation we need to add to the question to allow negative numbers?</p>
+<p><strong>Follow up:</strong></p>
+
+<ul>
+	<li>Could you solve the problem with a constant memory (i.e., <code>O(1)</code> memory complexity)?</li>
+	<li>Could you solve the problem in <code>O(n)</code> time complexity? The solution may be too advanced for an interview but you may find reading <a href="http://www.cse.yorku.ca/~andy/pubs/X+Y.pdf" target="_blank">this paper</a> fun.</li>
+</ul>
