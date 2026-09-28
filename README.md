@@ -230,6 +230,7 @@
 | [0371-sum-of-two-integers](https://github.com/panda15963/CodingTestProblems/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/panda15963/CodingTestProblems/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/panda15963/CodingTestProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -300,6 +301,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/panda15963/CodingTestProblems/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/panda15963/CodingTestProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -438,6 +440,7 @@
 | [0376-wiggle-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/panda15963/CodingTestProblems/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/panda15963/CodingTestProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -933,6 +936,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/panda15963/CodingTestProblems/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/panda15963/CodingTestProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1815,4 +1819,8 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/panda15963/CodingTestProblems/tree/master/0372-super-pow) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/panda15963/CodingTestProblems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
