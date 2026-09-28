@@ -1,40 +1,40 @@
-<h2><a href="https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix">378. Kth Smallest Element in a Sorted Matrix</a></h2><h3>Medium</h3><hr><p>Given an <code>n x n</code> <code>matrix</code> where each of the rows and columns is sorted in ascending order, return <em>the</em> <code>k<sup>th</sup></code> <em>smallest element in the matrix</em>.</p>
+<h2><a href="https://leetcode.com/problems/insert-delete-getrandom-o1/">380. Insert Delete GetRandom O(1)</a></h2><h3>Medium</h3><hr><p>Implement the <code>RandomizedSet</code> class:</p>
 
-<p>Note that it is the <code>k<sup>th</sup></code> smallest element <strong>in the sorted order</strong>, not the <code>k<sup>th</sup></code> <strong>distinct</strong> element.</p>
+<ul>
+	<li><code>RandomizedSet()</code> Initializes the <code>RandomizedSet</code> object.</li>
+	<li><code>bool insert(int val)</code> Inserts an item <code>val</code> into the set if not present. Returns <code>true</code> if the item was not present, <code>false</code> otherwise.</li>
+	<li><code>bool remove(int val)</code> Removes an item <code>val</code> from the set if present. Returns <code>true</code> if the item was present, <code>false</code> otherwise.</li>
+	<li><code>int getRandom()</code> Returns a random element from the current set of elements (it&#39;s guaranteed that at least one element exists when this method is called). Each element must have the <b>same probability</b> of being returned.</li>
+</ul>
 
-<p>You must find a solution with a memory complexity better than <code>O(n<sup>2</sup>)</code>.</p>
+<p>You must implement the functions of the class such that each function works in&nbsp;<strong>average</strong>&nbsp;<code>O(1)</code>&nbsp;time complexity.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> matrix = [[1,5,9],[10,11,13],[12,13,15]], k = 8
-<strong>Output:</strong> 13
-<strong>Explanation:</strong> The elements in the matrix are [1,5,9,10,11,12,13,<u><strong>13</strong></u>,15], and the 8<sup>th</sup> smallest number is 13
-</pre>
+<strong>Input</strong>
+[&quot;RandomizedSet&quot;, &quot;insert&quot;, &quot;remove&quot;, &quot;insert&quot;, &quot;getRandom&quot;, &quot;remove&quot;, &quot;insert&quot;, &quot;getRandom&quot;]
+[[], [1], [2], [2], [], [1], [2], []]
+<strong>Output</strong>
+[null, true, false, true, 2, true, false, 2]
 
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> matrix = [[-5]], k = 1
-<strong>Output:</strong> -5
+<strong>Explanation</strong>
+RandomizedSet randomizedSet = new RandomizedSet();
+randomizedSet.insert(1); // Inserts 1 to the set. Returns true as 1 was inserted successfully.
+randomizedSet.remove(2); // Returns false as 2 does not exist in the set.
+randomizedSet.insert(2); // Inserts 2 to the set, returns true. Set now contains [1,2].
+randomizedSet.getRandom(); // getRandom() should return either 1 or 2 randomly.
+randomizedSet.remove(1); // Removes 1 from the set, returns true. Set now contains [2].
+randomizedSet.insert(2); // 2 was already in the set, so return false.
+randomizedSet.getRandom(); // Since 2 is the only number in the set, getRandom() will always return 2.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>n == matrix.length == matrix[i].length</code></li>
-	<li><code>1 &lt;= n &lt;= 300</code></li>
-	<li><code>-10<sup>9</sup> &lt;= matrix[i][j] &lt;= 10<sup>9</sup></code></li>
-	<li>All the rows and columns of <code>matrix</code> are <strong>guaranteed</strong> to be sorted in <strong>non-decreasing order</strong>.</li>
-	<li><code>1 &lt;= k &lt;= n<sup>2</sup></code></li>
-</ul>
-
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong></p>
-
-<ul>
-	<li>Could you solve the problem with a constant memory (i.e., <code>O(1)</code> memory complexity)?</li>
-	<li>Could you solve the problem in <code>O(n)</code> time complexity? The solution may be too advanced for an interview but you may find reading <a href="http://www.cse.yorku.ca/~andy/pubs/X+Y.pdf" target="_blank">this paper</a> fun.</li>
+	<li><code>-2<sup>31</sup> &lt;= val &lt;= 2<sup>31</sup> - 1</code></li>
+	<li>At most <code>2 *&nbsp;</code><code>10<sup>5</sup></code> calls will be made to <code>insert</code>, <code>remove</code>, and <code>getRandom</code>.</li>
+	<li>There will be <strong>at least one</strong> element in the data structure when <code>getRandom</code> is called.</li>
 </ul>
