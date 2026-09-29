@@ -232,6 +232,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/panda15963/CodingTestProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/panda15963/CodingTestProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -1330,6 +1331,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/panda15963/CodingTestProblems/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/panda15963/CodingTestProblems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1832,4 +1834,9 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/panda15963/CodingTestProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/panda15963/CodingTestProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
