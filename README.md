@@ -89,6 +89,7 @@
 | [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/panda15963/CodingTestProblems/tree/master/0383-ransom-note) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -945,6 +946,7 @@
 | [0355-design-twitter](https://github.com/panda15963/CodingTestProblems/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/panda15963/CodingTestProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/panda15963/CodingTestProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/panda15963/CodingTestProblems/tree/master/0383-ransom-note) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1247,6 +1249,7 @@
 | [0229-majority-element-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/panda15963/CodingTestProblems/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/panda15963/CodingTestProblems/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/panda15963/CodingTestProblems/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/panda15963/CodingTestProblems/tree/master/2833-furthest-point-from-origin) |
