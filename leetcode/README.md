@@ -1,49 +1,45 @@
-<h2><a href="https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed">381. Insert Delete GetRandom O(1) - Duplicates allowed</a></h2><h3>Hard</h3><hr><p><code>RandomizedCollection</code> is a data structure that contains a collection of numbers, possibly duplicates (i.e., a multiset). It should support inserting and removing specific elements and also reporting a random element.</p>
+<h2><a href="https://leetcode.com/problems/linked-list-random-node">382. Linked List Random Node</a></h2><h3>Medium</h3><hr><p>Given a singly linked list, return a random node&#39;s value from the linked list. Each node must have the <strong>same probability</strong> of being chosen.</p>
 
-<p>Implement the <code>RandomizedCollection</code> class:</p>
+<p>Implement the <code>Solution</code> class:</p>
 
 <ul>
-	<li><code>RandomizedCollection()</code> Initializes the empty <code>RandomizedCollection</code> object.</li>
-	<li><code>bool insert(int val)</code> Inserts an item <code>val</code> into the multiset, even if the item is already present. Returns <code>true</code> if the item is not present, <code>false</code> otherwise.</li>
-	<li><code>bool remove(int val)</code> Removes an item <code>val</code> from the multiset if present. Returns <code>true</code> if the item is present, <code>false</code> otherwise. Note that if <code>val</code> has multiple occurrences in the multiset, we only remove one of them.</li>
-	<li><code>int getRandom()</code> Returns a random element from the current multiset of elements. The probability of each element being returned is <strong>linearly related</strong> to the number of the same values the multiset contains.</li>
+	<li><code>Solution(ListNode head)</code> Initializes the object with the head of the singly-linked list <code>head</code>.</li>
+	<li><code>int getRandom()</code> Chooses a node randomly from the list and returns its value. All the nodes of the list should be equally likely to be chosen.</li>
 </ul>
-
-<p>You must implement the functions of the class such that each function works on <strong>average</strong> <code>O(1)</code> time complexity.</p>
-
-<p><strong>Note:</strong> The test cases are generated such that <code>getRandom</code> will only be called if there is <strong>at least one</strong> item in the <code>RandomizedCollection</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/16/getrand-linked-list.jpg" style="width: 302px; height: 62px;" />
 <pre>
 <strong>Input</strong>
-[&quot;RandomizedCollection&quot;, &quot;insert&quot;, &quot;insert&quot;, &quot;insert&quot;, &quot;getRandom&quot;, &quot;remove&quot;, &quot;getRandom&quot;]
-[[], [1], [1], [2], [], [1], []]
+[&quot;Solution&quot;, &quot;getRandom&quot;, &quot;getRandom&quot;, &quot;getRandom&quot;, &quot;getRandom&quot;, &quot;getRandom&quot;]
+[[[1, 2, 3]], [], [], [], [], []]
 <strong>Output</strong>
-[null, true, false, true, 2, true, 1]
+[null, 1, 3, 2, 2, 3]
 
 <strong>Explanation</strong>
-RandomizedCollection randomizedCollection = new RandomizedCollection();
-randomizedCollection.insert(1);   // return true since the collection does not contain 1.
-                                  // Inserts 1 into the collection.
-randomizedCollection.insert(1);   // return false since the collection contains 1.
-                                  // Inserts another 1 into the collection. Collection now contains [1,1].
-randomizedCollection.insert(2);   // return true since the collection does not contain 2.
-                                  // Inserts 2 into the collection. Collection now contains [1,1,2].
-randomizedCollection.getRandom(); // getRandom should:
-                                  // - return 1 with probability 2/3, or
-                                  // - return 2 with probability 1/3.
-randomizedCollection.remove(1);   // return true since the collection contains 1.
-                                  // Removes 1 from the collection. Collection now contains [1,2].
-randomizedCollection.getRandom(); // getRandom should return 1 or 2, both equally likely.
+Solution solution = new Solution([1, 2, 3]);
+solution.getRandom(); // return 1
+solution.getRandom(); // return 3
+solution.getRandom(); // return 2
+solution.getRandom(); // return 2
+solution.getRandom(); // return 3
+// getRandom() should return either 1, 2, or 3 randomly. Each element should have equal probability of returning.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>-2<sup>31</sup> &lt;= val &lt;= 2<sup>31</sup> - 1</code></li>
-	<li>At most <code>2 * 10<sup>5</sup></code> calls <strong>in total</strong> will be made to <code>insert</code>, <code>remove</code>, and <code>getRandom</code>.</li>
-	<li>There will be <strong>at least one</strong> element in the data structure when <code>getRandom</code> is called.</li>
+	<li>The number of nodes in the linked list will be in the range <code>[1, 10<sup>4</sup>]</code>.</li>
+	<li><code>-10<sup>4</sup> &lt;= Node.val &lt;= 10<sup>4</sup></code></li>
+	<li>At most <code>10<sup>4</sup></code> calls will be made to <code>getRandom</code>.</li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong></p>
+
+<ul>
+	<li>What if the linked list is extremely large and its length is unknown to you?</li>
+	<li>Could you solve this efficiently without using extra space?</li>
 </ul>
