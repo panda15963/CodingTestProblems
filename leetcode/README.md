@@ -1,35 +1,38 @@
-<h2><a href="https://leetcode.com/problems/mini-parser">385. Mini Parser</a></h2><h3>Medium</h3><hr><p>Given a string s represents the serialization of a nested list, implement a parser to deserialize it and return <em>the deserialized</em> <code>NestedInteger</code>.</p>
-
-<p>Each element is either an integer or a list whose elements may also be integers or other lists.</p>
+<h2><a href="https://leetcode.com/problems/first-unique-character-in-a-string">387. First Unique Character in a String</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, find the <strong>first</strong> non-repeating character in it and return its index. If it <strong>does not</strong> exist, return <code>-1</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre>
-<strong>Input:</strong> s = &quot;324&quot;
-<strong>Output:</strong> 324
-<strong>Explanation:</strong> You should return a NestedInteger object which contains a single integer 324.
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;leetcode&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">0</span></p>
+
+<p><strong>Explanation:</strong></p>
+
+<p>The character <code>&#39;l&#39;</code> at index 0 is the first character that does not occur at any other index.</p>
+</div>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> s = &quot;[123,[456,[789]]]&quot;
-<strong>Output:</strong> [123,[456,[789]]]
-<strong>Explanation:</strong> Return a NestedInteger object containing a nested list with 2 elements:
-1. An integer containing value 123.
-2. A nested list containing two elements:
-    i.  An integer containing value 456.
-    ii. A nested list with one element:
-         a. An integer containing value 789
-</pre>
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;loveleetcode&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">2</span></p>
+</div>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;aabb&quot;</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">-1</span></p>
+</div>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length &lt;= 5 * 10<sup>4</sup></code></li>
-	<li><code>s</code> consists of digits, square brackets <code>&quot;[]&quot;</code>, negative sign <code>&#39;-&#39;</code>, and commas <code>&#39;,&#39;</code>.</li>
-	<li><code>s</code> is the serialization of valid <code>NestedInteger</code>.</li>
-	<li>All the values in the input are in the range <code>[-10<sup>6</sup>, 10<sup>6</sup>]</code>.</li>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>s</code> consists of only lowercase English letters.</li>
 </ul>
