@@ -93,6 +93,7 @@
 | [0385-mini-parser](https://github.com/panda15963/CodingTestProblems/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/panda15963/CodingTestProblems/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -609,6 +610,7 @@
 | [0354-russian-doll-envelopes](https://github.com/panda15963/CodingTestProblems/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/panda15963/CodingTestProblems/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
@@ -955,6 +957,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/panda15963/CodingTestProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/panda15963/CodingTestProblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0389-find-the-difference) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1388,6 +1391,7 @@
 | [0338-counting-bits](https://github.com/panda15963/CodingTestProblems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/panda15963/CodingTestProblems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/panda15963/CodingTestProblems/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/panda15963/CodingTestProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
