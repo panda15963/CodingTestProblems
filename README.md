@@ -92,6 +92,7 @@
 | [0383-ransom-note](https://github.com/panda15963/CodingTestProblems/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/panda15963/CodingTestProblems/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/panda15963/CodingTestProblems/tree/master/0388-longest-absolute-file-path) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -1115,6 +1116,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/panda15963/CodingTestProblems/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/panda15963/CodingTestProblems/tree/master/0388-longest-absolute-file-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/panda15963/CodingTestProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1231,6 +1233,7 @@
 | [0365-water-and-jug-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/panda15963/CodingTestProblems/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/panda15963/CodingTestProblems/tree/master/0388-longest-absolute-file-path) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
