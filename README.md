@@ -242,6 +242,7 @@
 | [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/panda15963/CodingTestProblems/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -456,6 +457,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/panda15963/CodingTestProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/panda15963/CodingTestProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -961,6 +963,7 @@
 | [0383-ransom-note](https://github.com/panda15963/CodingTestProblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0391-perfect-rectangle) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1287,6 +1290,7 @@
 | [0149-max-points-on-a-line](https://github.com/panda15963/CodingTestProblems/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/panda15963/CodingTestProblems/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/panda15963/CodingTestProblems/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0391-perfect-rectangle) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/panda15963/CodingTestProblems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/panda15963/CodingTestProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -1754,6 +1758,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0391-perfect-rectangle) |
 ## Binary Lifting
 |  |
 | ------- |
