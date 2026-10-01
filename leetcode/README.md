@@ -1,36 +1,38 @@
-<h2><a href="https://leetcode.com/problems/elimination-game">390. Elimination Game</a></h2><h3>Medium</h3><hr><p>You have a list <code>arr</code> of all integers in the range <code>[1, n]</code> sorted in a strictly increasing order. Apply the following algorithm on <code>arr</code>:</p>
+<h2><a href="https://leetcode.com/problems/perfect-rectangle">391. Perfect Rectangle</a></h2><h3>Hard</h3><hr><p>Given an array <code>rectangles</code> where <code>rectangles[i] = [x<sub>i</sub>, y<sub>i</sub>, a<sub>i</sub>, b<sub>i</sub>]</code> represents an axis-aligned rectangle. The bottom-left point of the rectangle is <code>(x<sub>i</sub>, y<sub>i</sub>)</code> and the top-right point of it is <code>(a<sub>i</sub>, b<sub>i</sub>)</code>.</p>
 
-<ul>
-	<li>Starting from left to right, remove the first number and every other number afterward until you reach the end of the list.</li>
-	<li>Repeat the previous step again, but this time from right to left, remove the rightmost number and every other number from the remaining numbers.</li>
-	<li>Keep repeating the steps again, alternating left to right and right to left, until a single number remains.</li>
-</ul>
-
-<p>Given the integer <code>n</code>, return <em>the last number that remains in</em> <code>arr</code>.</p>
+<p>Return <code>true</code> <em>if all the rectangles together form an exact cover of a rectangular region</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/27/perectrec1-plane.jpg" style="width: 300px; height: 294px;" />
 <pre>
-<strong>Input:</strong> n = 9
-<strong>Output:</strong> 6
-<strong>Explanation:</strong>
-arr = [<u>1</u>, 2, <u>3</u>, 4, <u>5</u>, 6, <u>7</u>, 8, <u>9</u>]
-arr = [2, <u>4</u>, 6, <u>8</u>]
-arr = [<u>2</u>, 6]
-arr = [6]
+<strong>Input:</strong> rectangles = [[1,1,3,3],[3,1,4,2],[3,2,4,4],[1,3,2,4],[2,3,3,4]]
+<strong>Output:</strong> true
+<strong>Explanation:</strong> All 5 rectangles together form an exact cover of a rectangular region.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/27/perfectrec2-plane.jpg" style="width: 300px; height: 294px;" />
 <pre>
-<strong>Input:</strong> n = 1
-<strong>Output:</strong> 1
+<strong>Input:</strong> rectangles = [[1,1,2,3],[1,3,2,4],[3,1,4,2],[3,2,4,4]]
+<strong>Output:</strong> false
+<strong>Explanation:</strong> Because there is a gap between the two rectangular regions.
+</pre>
+
+<p><strong class="example">Example 3:</strong></p>
+<img alt="" src="https://assets.leetcode.com/uploads/2021/03/27/perfecrrec4-plane.jpg" style="width: 300px; height: 294px;" />
+<pre>
+<strong>Input:</strong> rectangles = [[1,1,3,3],[3,1,4,2],[1,3,2,4],[2,2,4,4]]
+<strong>Output:</strong> false
+<strong>Explanation:</strong> Because two of the rectangles overlap with each other.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n &lt;= 10<sup>9</sup></code></li>
+	<li><code>1 &lt;= rectangles.length &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>rectangles[i].length == 4</code></li>
+	<li><code>-10<sup>5</sup> &lt;= x<sub>i</sub> &lt; a<sub>i</sub> &lt;= 10<sup>5</sup></code></li>
+	<li><code>-10<sup>5</sup> &lt;= y<sub>i</sub> &lt; b<sub>i</sub> &lt;= 10<sup>5</sup></code></li>
 </ul>
