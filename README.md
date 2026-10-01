@@ -95,6 +95,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/panda15963/CodingTestProblems/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -781,6 +782,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0392-is-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -854,6 +856,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/panda15963/CodingTestProblems/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
