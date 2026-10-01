@@ -459,6 +459,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/panda15963/CodingTestProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/panda15963/CodingTestProblems/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1403,6 +1404,7 @@
 | [0342-power-of-four](https://github.com/panda15963/CodingTestProblems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/panda15963/CodingTestProblems/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/panda15963/CodingTestProblems/tree/master/0393-utf-8-validation) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/panda15963/CodingTestProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
