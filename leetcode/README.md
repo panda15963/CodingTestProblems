@@ -1,53 +1,39 @@
-<h2><a href="https://leetcode.com/problems/utf-8-validation">393. UTF-8 Validation</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>data</code> representing the data, return whether it is a valid <strong>UTF-8</strong> encoding (i.e. it translates to a sequence of valid UTF-8 encoded characters).</p>
+<h2><a href="https://leetcode.com/problems/decode-string">394. Decode String</a></h2><h3>Medium</h3><hr><p>Given an encoded string, return its decoded string.</p>
 
-<p>A character in <strong>UTF8</strong> can be from <strong>1 to 4 bytes</strong> long, subjected to the following rules:</p>
+<p>The encoding rule is: <code>k[encoded_string]</code>, where the <code>encoded_string</code> inside the square brackets is being repeated exactly <code>k</code> times. Note that <code>k</code> is guaranteed to be a positive integer.</p>
 
-<ol>
-	<li>For a <strong>1-byte</strong> character, the first bit is a <code>0</code>, followed by its Unicode code.</li>
-	<li>For an <strong>n-bytes</strong> character, the first <code>n</code> bits are all one&#39;s, the <code>n + 1</code> bit is <code>0</code>, followed by <code>n - 1</code> bytes with the most significant <code>2</code> bits being <code>10</code>.</li>
-</ol>
+<p>You may assume that the input string is always valid; there are no extra white spaces, square brackets are well-formed, etc. Furthermore, you may assume that the original data does not contain any digits and that digits are only for those repeat numbers, <code>k</code>. For example, there will not be input like <code>3a</code> or <code>2[4]</code>.</p>
 
-<p>This is how the UTF-8 encoding would work:</p>
-
-<pre>
-     Number of Bytes   |        UTF-8 Octet Sequence
-                       |              (binary)
-   --------------------+-----------------------------------------
-            1          |   0xxxxxxx
-            2          |   110xxxxx 10xxxxxx
-            3          |   1110xxxx 10xxxxxx 10xxxxxx
-            4          |   11110xxx 10xxxxxx 10xxxxxx 10xxxxxx
-</pre>
-
-<p><code>x</code> denotes a bit in the binary form of a byte that may be either <code>0</code> or <code>1</code>.</p>
-
-<p><strong>Note: </strong>The input is an array of integers. Only the <strong>least significant 8 bits</strong> of each integer is used to store the data. This means each integer represents only 1 byte of data.</p>
+<p>The test cases are generated so that the length of the output will never exceed <code>10<sup>5</sup></code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> data = [197,130,1]
-<strong>Output:</strong> true
-<strong>Explanation:</strong> data represents the octet sequence: 11000101 10000010 00000001.
-It is a valid utf-8 encoding for a 2-bytes character followed by a 1-byte character.
+<strong>Input:</strong> s = &quot;3[a]2[bc]&quot;
+<strong>Output:</strong> &quot;aaabcbc&quot;
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> data = [235,140,4]
-<strong>Output:</strong> false
-<strong>Explanation:</strong> data represented the octet sequence: 11101011 10001100 00000100.
-The first 3 bits are all one&#39;s and the 4th bit is 0 means it is a 3-bytes character.
-The next byte is a continuation byte which starts with 10 and that&#39;s correct.
-But the second continuation byte does not start with 10, so it is invalid.
+<strong>Input:</strong> s = &quot;3[a2[c]]&quot;
+<strong>Output:</strong> &quot;accaccacc&quot;
+</pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> s = &quot;2[abc]3[cd]ef&quot;
+<strong>Output:</strong> &quot;abcabccdcdcdef&quot;
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= data.length &lt;= 2 * 10<sup>4</sup></code></li>
-	<li><code>0 &lt;= data[i] &lt;= 255</code></li>
+	<li><code>1 &lt;= s.length &lt;= 30</code></li>
+	<li><code>s</code> consists of lowercase English letters, digits, and square brackets <code>&#39;[]&#39;</code>.</li>
+	<li><code>s</code> is guaranteed to be <strong>a valid</strong> input.</li>
+	<li>All the integers in <code>s</code> are in the range <code>[1, 300]</code>.</li>
 </ul>
