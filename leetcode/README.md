@@ -1,39 +1,29 @@
-<h2><a href="https://leetcode.com/problems/decode-string">394. Decode String</a></h2><h3>Medium</h3><hr><p>Given an encoded string, return its decoded string.</p>
+<h2><a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/">395. Longest Substring with At Least K Repeating Characters</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code> and an integer <code>k</code>, return <em>the length of the longest substring of</em> <code>s</code> <em>such that the frequency of each character in this substring is greater than or equal to</em> <code>k</code>.</p>
 
-<p>The encoding rule is: <code>k[encoded_string]</code>, where the <code>encoded_string</code> inside the square brackets is being repeated exactly <code>k</code> times. Note that <code>k</code> is guaranteed to be a positive integer.</p>
-
-<p>You may assume that the input string is always valid; there are no extra white spaces, square brackets are well-formed, etc. Furthermore, you may assume that the original data does not contain any digits and that digits are only for those repeat numbers, <code>k</code>. For example, there will not be input like <code>3a</code> or <code>2[4]</code>.</p>
-
-<p>The test cases are generated so that the length of the output will never exceed <code>10<sup>5</sup></code>.</p>
+<p data-pm-slice="1 1 []">if no such substring exists, return 0.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;3[a]2[bc]&quot;
-<strong>Output:</strong> &quot;aaabcbc&quot;
+<strong>Input:</strong> s = &quot;aaabb&quot;, k = 3
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> The longest substring is &quot;aaa&quot;, as &#39;a&#39; is repeated 3 times.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;3[a2[c]]&quot;
-<strong>Output:</strong> &quot;accaccacc&quot;
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;2[abc]3[cd]ef&quot;
-<strong>Output:</strong> &quot;abcabccdcdcdef&quot;
+<strong>Input:</strong> s = &quot;ababbc&quot;, k = 2
+<strong>Output:</strong> 5
+<strong>Explanation:</strong> The longest substring is &quot;ababb&quot;, as &#39;a&#39; is repeated 2 times and &#39;b&#39; is repeated 3 times.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length &lt;= 30</code></li>
-	<li><code>s</code> consists of lowercase English letters, digits, and square brackets <code>&#39;[]&#39;</code>.</li>
-	<li><code>s</code> is guaranteed to be <strong>a valid</strong> input.</li>
-	<li>All the integers in <code>s</code> are in the range <code>[1, 300]</code>.</li>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>s</code> consists of only lowercase English letters.</li>
+	<li><code>1 &lt;= k &lt;= 10<sup>5</sup></code></li>
 </ul>
