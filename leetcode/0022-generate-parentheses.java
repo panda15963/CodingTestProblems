@@ -1,46 +1,25 @@
-import java.util.*;
-
 class Solution {
-    public List<String> generateParenthesis(int n) {
-        List<String> ans = new ArrayList<>();
-        StringBuilder stack = new StringBuilder();
+    private List<String> answer = new ArrayList<>();
+    private int N;
 
-        backtrack(0, 0, n, stack, ans);
-
-        return ans;
-    }
-
-    private void backtrack(
-        int openN,
-        int closedN,
-        int n,
-        StringBuilder stack,
-        List<String> ans
-    ) {
-        // 여는 괄호와 닫는 괄호를 모두 사용한 경우
-        if (openN == n && closedN == n) {
-            ans.add(stack.toString());
+    private void backTracking(int front, int back, String tmp) {
+        if (front == N && back == N) {
+            answer.add(tmp);
             return;
         }
 
-        // 여는 괄호 추가 가능
-        if (openN < n) {
-            stack.append('(');
-
-            backtrack(openN + 1, closedN, n, stack, ans);
-
-            // 백트래킹
-            stack.deleteCharAt(stack.length() - 1);
+        if (front < N) {
+            backTracking(front + 1, back, tmp + "(");
         }
 
-        // 닫는 괄호는 여는 괄호보다 적을 때만 추가 가능
-        if (closedN < openN) {
-            stack.append(')');
-
-            backtrack(openN, closedN + 1, n, stack, ans);
-
-            // 백트래킹
-            stack.deleteCharAt(stack.length() - 1);
+        if (front > back) {
+            backTracking(front, back + 1, tmp + ")");
         }
+    }
+
+    public List<String> generateParenthesis(int n) {
+        N = n;
+        backTracking(0, 0, "");
+        return answer;
     }
 }
