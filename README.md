@@ -96,6 +96,7 @@
 | [0388-longest-absolute-file-path](https://github.com/panda15963/CodingTestProblems/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/panda15963/CodingTestProblems/tree/master/0394-decode-string) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -917,6 +918,7 @@
 | [0326-power-of-three](https://github.com/panda15963/CodingTestProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/panda15963/CodingTestProblems/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/panda15963/CodingTestProblems/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/panda15963/CodingTestProblems/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -1131,6 +1133,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/panda15963/CodingTestProblems/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/panda15963/CodingTestProblems/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/panda15963/CodingTestProblems/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/panda15963/CodingTestProblems/tree/master/0394-decode-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/panda15963/CodingTestProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
