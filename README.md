@@ -248,6 +248,7 @@
 | [0390-elimination-game](https://github.com/panda15963/CodingTestProblems/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/panda15963/CodingTestProblems/tree/master/0398-random-pick-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
@@ -974,6 +975,7 @@
 | [0389-find-the-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/panda15963/CodingTestProblems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/panda15963/CodingTestProblems/tree/master/0398-random-pick-index) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1888,8 +1890,10 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/panda15963/CodingTestProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/panda15963/CodingTestProblems/tree/master/0398-random-pick-index) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/panda15963/CodingTestProblems/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
