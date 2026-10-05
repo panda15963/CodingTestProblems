@@ -1,24 +1,36 @@
-<h2><a href="https://leetcode.com/problems/nth-digit/">400. Nth Digit</a></h2><h3>Medium</h3><hr><p>Given an integer <code>n</code>, return the <code>n<sup>th</sup></code> digit of the infinite integer sequence <code>[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ...]</code>.</p>
+<h2><a href="https://leetcode.com/problems/binary-watch/">401. Binary Watch</a></h2><h3>Easy</h3><hr><p>A binary watch has 4 LEDs on the top to represent the hours (0-11), and 6 LEDs on the bottom to represent&nbsp;the minutes (0-59). Each LED represents a zero or one, with the least significant bit on the right.</p>
+
+<ul>
+	<li>For example, the below binary watch reads <code>&quot;4:51&quot;</code>.</li>
+</ul>
+
+<p><img alt="" src="https://assets.leetcode.com/uploads/2021/04/08/binarywatch.jpg" style="width: 500px; height: 500px;" /></p>
+
+<p>Given an integer <code>turnedOn</code> which represents the number of LEDs that are currently on (ignoring the PM), return <em>all possible times the watch could represent</em>. You may return the answer in <strong>any order</strong>.</p>
+
+<p>The hour must not contain a leading zero.</p>
+
+<ul>
+	<li>For example, <code>&quot;01:00&quot;</code> is not valid. It should be <code>&quot;1:00&quot;</code>.</li>
+</ul>
+
+<p>The minute must&nbsp;consist of two digits and may contain a leading zero.</p>
+
+<ul>
+	<li>For example, <code>&quot;10:2&quot;</code> is not valid. It should be <code>&quot;10:02&quot;</code>.</li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 3
-<strong>Output:</strong> 3
+<pre><strong>Input:</strong> turnedOn = 1
+<strong>Output:</strong> ["0:01","0:02","0:04","0:08","0:16","0:32","1:00","2:00","4:00","8:00"]
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> turnedOn = 9
+<strong>Output:</strong> []
 </pre>
-
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 11
-<strong>Output:</strong> 0
-<strong>Explanation:</strong> The 11<sup>th</sup> digit of the sequence 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ... is a 0, which is part of the number 10.
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>0 &lt;= turnedOn &lt;= 10</code></li>
 </ul>
