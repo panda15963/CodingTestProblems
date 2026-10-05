@@ -471,6 +471,7 @@
 | [0393-utf-8-validation](https://github.com/panda15963/CodingTestProblems/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/panda15963/CodingTestProblems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -870,6 +871,7 @@
 | [0392-is-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/panda15963/CodingTestProblems/tree/master/0397-integer-replacement) |
+| [0403-frog-jump](https://github.com/panda15963/CodingTestProblems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
