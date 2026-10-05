@@ -98,6 +98,7 @@
 | [0392-is-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/panda15963/CodingTestProblems/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/panda15963/CodingTestProblems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
@@ -466,6 +467,7 @@
 | [0391-perfect-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/panda15963/CodingTestProblems/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/panda15963/CodingTestProblems/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -1100,6 +1102,7 @@
 | [0130-surrounded-regions](https://github.com/panda15963/CodingTestProblems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/panda15963/CodingTestProblems/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/panda15963/CodingTestProblems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -1260,6 +1263,7 @@
 | [0385-mini-parser](https://github.com/panda15963/CodingTestProblems/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/panda15963/CodingTestProblems/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1336,6 +1340,7 @@
 | [0322-coin-change](https://github.com/panda15963/CodingTestProblems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/panda15963/CodingTestProblems/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1345-jump-game-iv) |
@@ -1549,6 +1554,7 @@
 | [0310-minimum-height-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/panda15963/CodingTestProblems/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/panda15963/CodingTestProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/panda15963/CodingTestProblems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1559,6 +1565,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/panda15963/CodingTestProblems/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -1900,4 +1907,12 @@
 | ------- |
 | [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/panda15963/CodingTestProblems/tree/master/0398-random-pick-index) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
