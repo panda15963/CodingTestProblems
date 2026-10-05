@@ -1,36 +1,35 @@
-<h2><a href="https://leetcode.com/problems/binary-watch/">401. Binary Watch</a></h2><h3>Easy</h3><hr><p>A binary watch has 4 LEDs on the top to represent the hours (0-11), and 6 LEDs on the bottom to represent&nbsp;the minutes (0-59). Each LED represents a zero or one, with the least significant bit on the right.</p>
-
-<ul>
-	<li>For example, the below binary watch reads <code>&quot;4:51&quot;</code>.</li>
-</ul>
-
-<p><img alt="" src="https://assets.leetcode.com/uploads/2021/04/08/binarywatch.jpg" style="width: 500px; height: 500px;" /></p>
-
-<p>Given an integer <code>turnedOn</code> which represents the number of LEDs that are currently on (ignoring the PM), return <em>all possible times the watch could represent</em>. You may return the answer in <strong>any order</strong>.</p>
-
-<p>The hour must not contain a leading zero.</p>
-
-<ul>
-	<li>For example, <code>&quot;01:00&quot;</code> is not valid. It should be <code>&quot;1:00&quot;</code>.</li>
-</ul>
-
-<p>The minute must&nbsp;consist of two digits and may contain a leading zero.</p>
-
-<ul>
-	<li>For example, <code>&quot;10:2&quot;</code> is not valid. It should be <code>&quot;10:02&quot;</code>.</li>
-</ul>
+<h2><a href="https://leetcode.com/problems/remove-k-digits">402. Remove K Digits</a></h2><h3>Medium</h3><hr><p>Given string num representing a non-negative integer <code>num</code>, and an integer <code>k</code>, return <em>the smallest possible integer after removing</em> <code>k</code> <em>digits from</em> <code>num</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<pre><strong>Input:</strong> turnedOn = 1
-<strong>Output:</strong> ["0:01","0:02","0:04","0:08","0:16","0:32","1:00","2:00","4:00","8:00"]
-</pre><p><strong class="example">Example 2:</strong></p>
-<pre><strong>Input:</strong> turnedOn = 9
-<strong>Output:</strong> []
+
+<pre>
+<strong>Input:</strong> num = &quot;1432219&quot;, k = 3
+<strong>Output:</strong> &quot;1219&quot;
+<strong>Explanation:</strong> Remove the three digits 4, 3, and 2 to form the new number 1219 which is the smallest.
 </pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> num = &quot;10200&quot;, k = 1
+<strong>Output:</strong> &quot;200&quot;
+<strong>Explanation:</strong> Remove the leading 1 and the number is 200. Note that the output must not contain leading zeroes.
+</pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> num = &quot;10&quot;, k = 2
+<strong>Output:</strong> &quot;0&quot;
+<strong>Explanation:</strong> Remove all the digits from the number and it is left with nothing which is 0.
+</pre>
+
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= turnedOn &lt;= 10</code></li>
+	<li><code>1 &lt;= k &lt;= num.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>num</code> consists of only digits.</li>
+	<li><code>num</code> does not have any leading zeros except for the zero itself.</li>
 </ul>
