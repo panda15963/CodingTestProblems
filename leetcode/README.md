@@ -1,36 +1,29 @@
-<h2><a href="https://leetcode.com/problems/queue-reconstruction-by-height">406. Queue Reconstruction by Height</a></h2><h3>Medium</h3><hr><p>You are given an array of people, <code>people</code>, which are the attributes of some people in a queue (not necessarily in order). Each <code>people[i] = [h<sub>i</sub>, k<sub>i</sub>]</code> represents the <code>i<sup>th</sup></code> person of height <code>h<sub>i</sub></code> with <strong>exactly</strong> <code>k<sub>i</sub></code> other people in front who have a height greater than or equal to <code>h<sub>i</sub></code>.</p>
-
-<p>Reconstruct and return <em>the queue that is represented by the input array </em><code>people</code>. The returned queue should be formatted as an array <code>queue</code>, where <code>queue[j] = [h<sub>j</sub>, k<sub>j</sub>]</code> is the attributes of the <code>j<sup>th</sup></code> person in the queue (<code>queue[0]</code> is the person at the front of the queue).</p>
+<h2><a href="https://leetcode.com/problems/trapping-rain-water-ii">407. Trapping Rain Water II</a></h2><h3>Hard</h3><hr><p>Given an <code>m x n</code> integer matrix <code>heightMap</code> representing the height of each unit cell in a 2D elevation map, return <em>the volume of water it can trap after raining</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/04/08/trap1-3d.jpg" style="width: 361px; height: 321px;" />
 <pre>
-<strong>Input:</strong> people = [[7,0],[4,4],[7,1],[5,0],[6,1],[5,2]]
-<strong>Output:</strong> [[5,0],[7,0],[5,2],[6,1],[4,4],[7,1]]
-<strong>Explanation:</strong>
-Person 0 has height 5 with no other people taller or the same height in front.
-Person 1 has height 7 with no other people taller or the same height in front.
-Person 2 has height 5 with two persons taller or the same height in front, which is person 0 and 1.
-Person 3 has height 6 with one person taller or the same height in front, which is person 1.
-Person 4 has height 4 with four people taller or the same height in front, which are people 0, 1, 2, and 3.
-Person 5 has height 7 with one person taller or the same height in front, which is person 1.
-Hence [[5,0],[7,0],[5,2],[6,1],[4,4],[7,1]] is the reconstructed queue.
+<strong>Input:</strong> heightMap = [[1,4,3,1,3,2],[3,2,1,3,2,4],[2,3,3,2,3,1]]
+<strong>Output:</strong> 4
+<strong>Explanation:</strong> After the rain, water is trapped between the blocks.
+We have two small ponds 1 and 3 units trapped.
+The total volume of water trapped is 4.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/04/08/trap2-3d.jpg" style="width: 401px; height: 321px;" />
 <pre>
-<strong>Input:</strong> people = [[6,0],[5,0],[4,0],[3,2],[2,2],[1,4]]
-<strong>Output:</strong> [[4,0],[5,0],[2,2],[3,2],[1,4],[6,0]]
+<strong>Input:</strong> heightMap = [[3,3,3,3,3],[3,2,2,2,3],[3,2,1,2,3],[3,2,2,2,3],[3,3,3,3,3]]
+<strong>Output:</strong> 10
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= people.length &lt;= 2000</code></li>
-	<li><code>0 &lt;= h<sub>i</sub> &lt;= 10<sup>6</sup></code></li>
-	<li><code>0 &lt;= k<sub>i</sub> &lt; people.length</code></li>
-	<li>It is guaranteed that the queue can be reconstructed.</li>
+	<li><code>m == heightMap.length</code></li>
+	<li><code>n == heightMap[i].length</code></li>
+	<li><code>1 &lt;= m, n &lt;= 200</code></li>
+	<li><code>0 &lt;= heightMap[i][j] &lt;= 2 * 10<sup>4</sup></code></li>
 </ul>
