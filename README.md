@@ -101,6 +101,7 @@
 | [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/panda15963/CodingTestProblems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/panda15963/CodingTestProblems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
@@ -258,6 +259,7 @@
 | [0398-random-pick-index](https://github.com/panda15963/CodingTestProblems/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/panda15963/CodingTestProblems/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/panda15963/CodingTestProblems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/panda15963/CodingTestProblems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
@@ -1096,6 +1098,7 @@
 | [0068-text-justification](https://github.com/panda15963/CodingTestProblems/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/panda15963/CodingTestProblems/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/panda15963/CodingTestProblems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1260-shift-2d-grid) |
