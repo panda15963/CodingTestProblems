@@ -1,29 +1,26 @@
-<h2><a href="https://leetcode.com/problems/trapping-rain-water-ii">407. Trapping Rain Water II</a></h2><h3>Hard</h3><hr><p>Given an <code>m x n</code> integer matrix <code>heightMap</code> representing the height of each unit cell in a 2D elevation map, return <em>the volume of water it can trap after raining</em>.</p>
+<h2><a href="https://leetcode.com/problems/fizz-buzz">412. Fizz Buzz</a></h2><h3>Easy</h3><hr><p>Given an integer <code>n</code>, return <em>a string array </em><code>answer</code><em> (<strong>1-indexed</strong>) where</em>:</p>
+
+<ul>
+	<li><code>answer[i] == &quot;FizzBuzz&quot;</code> if <code>i</code> is divisible by <code>3</code> and <code>5</code>.</li>
+	<li><code>answer[i] == &quot;Fizz&quot;</code> if <code>i</code> is divisible by <code>3</code>.</li>
+	<li><code>answer[i] == &quot;Buzz&quot;</code> if <code>i</code> is divisible by <code>5</code>.</li>
+	<li><code>answer[i] == i</code> (as a string) if none of the above conditions are true.</li>
+</ul>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/04/08/trap1-3d.jpg" style="width: 361px; height: 321px;" />
-<pre>
-<strong>Input:</strong> heightMap = [[1,4,3,1,3,2],[3,2,1,3,2,4],[2,3,3,2,3,1]]
-<strong>Output:</strong> 4
-<strong>Explanation:</strong> After the rain, water is trapped between the blocks.
-We have two small ponds 1 and 3 units trapped.
-The total volume of water trapped is 4.
+<pre><strong>Input:</strong> n = 3
+<strong>Output:</strong> ["1","2","Fizz"]
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> n = 5
+<strong>Output:</strong> ["1","2","Fizz","4","Buzz"]
+</pre><p><strong class="example">Example 3:</strong></p>
+<pre><strong>Input:</strong> n = 15
+<strong>Output:</strong> ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]
 </pre>
-
-<p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/04/08/trap2-3d.jpg" style="width: 401px; height: 321px;" />
-<pre>
-<strong>Input:</strong> heightMap = [[3,3,3,3,3],[3,2,2,2,3],[3,2,1,2,3],[3,2,2,2,3],[3,3,3,3,3]]
-<strong>Output:</strong> 10
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>m == heightMap.length</code></li>
-	<li><code>n == heightMap[i].length</code></li>
-	<li><code>1 &lt;= m, n &lt;= 200</code></li>
-	<li><code>0 &lt;= heightMap[i][j] &lt;= 2 * 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>4</sup></code></li>
 </ul>
