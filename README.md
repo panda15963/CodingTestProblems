@@ -487,6 +487,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/panda15963/CodingTestProblems/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/panda15963/CodingTestProblems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0427-construct-quad-tree) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -895,6 +896,7 @@
 | [0403-frog-jump](https://github.com/panda15963/CodingTestProblems/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/panda15963/CodingTestProblems/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -1882,6 +1884,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/panda15963/CodingTestProblems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/panda15963/CodingTestProblems/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1965,4 +1968,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
