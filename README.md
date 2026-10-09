@@ -15,6 +15,7 @@
 | 🔢 **Total** | 825 |
 
 ## 🥇 Recently Solved (Top 5)
+- Time: 0 ms (100%), Space: 42.6 MB (77.13%) - LeetHub
 - Create README - LeetHub
 - 🤖 auto: organize LeetCode problems into leetcode/ folder
 - Time: 189 ms (45.25%), Space: 90.3 MB (37.09%) - LeetHub
