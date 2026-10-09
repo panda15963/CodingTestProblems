@@ -103,6 +103,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/panda15963/CodingTestProblems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/panda15963/CodingTestProblems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0415-add-strings) |
+| [0420-strong-password-checker](https://github.com/panda15963/CodingTestProblems/tree/master/0420-strong-password-checker) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
@@ -174,6 +175,7 @@
 | [0397-integer-replacement](https://github.com/panda15963/CodingTestProblems/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/panda15963/CodingTestProblems/tree/master/0420-strong-password-checker) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/panda15963/CodingTestProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
@@ -694,6 +696,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/panda15963/CodingTestProblems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/panda15963/CodingTestProblems/tree/master/0420-strong-password-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/2812-find-the-safest-path-in-a-grid) |
