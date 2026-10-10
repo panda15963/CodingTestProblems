@@ -1,25 +1,18 @@
-<h2><a href="https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/">421. Maximum XOR of Two Numbers in an Array</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, return <em>the maximum result of </em><code>nums[i] XOR nums[j]</code>, where <code>0 &lt;= i &lt;= j &lt; n</code>.</p>
+<h2><a href="https://leetcode.com/problems/reconstruct-original-digits-from-english">423. Reconstruct Original Digits from English</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code> containing an out-of-order English representation of digits <code>0-9</code>, return <em>the digits in <strong>ascending</strong> order</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums = [3,10,5,25,2,8]
-<strong>Output:</strong> 28
-<strong>Explanation:</strong> The maximum result is 5 XOR 25 = 28.
+<pre><strong>Input:</strong> s = "owoztneoer"
+<strong>Output:</strong> "012"
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> s = "fviefuro"
+<strong>Output:</strong> "45"
 </pre>
-
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> nums = [14,70,53,83,49,91,36,80,92,51,66,70]
-<strong>Output:</strong> 127
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 2 * 10<sup>5</sup></code></li>
-	<li><code>0 &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>s[i]</code> is one of the characters <code>[&quot;e&quot;,&quot;g&quot;,&quot;f&quot;,&quot;i&quot;,&quot;h&quot;,&quot;o&quot;,&quot;n&quot;,&quot;s&quot;,&quot;r&quot;,&quot;u&quot;,&quot;t&quot;,&quot;w&quot;,&quot;v&quot;,&quot;x&quot;,&quot;z&quot;]</code>.</li>
+	<li><code>s</code> is <strong>guaranteed</strong> to be valid.</li>
 </ul>
