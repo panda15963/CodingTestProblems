@@ -342,6 +342,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/panda15963/CodingTestProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/panda15963/CodingTestProblems/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0384-shuffle-an-array) |
+| [0432-all-oone-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0432-all-oone-data-structure) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -1023,6 +1024,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/panda15963/CodingTestProblems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0424-longest-repeating-character-replacement](https://github.com/panda15963/CodingTestProblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0432-all-oone-data-structure) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1446,6 +1448,7 @@
 | [0355-design-twitter](https://github.com/panda15963/CodingTestProblems/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0432-all-oone-data-structure) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/panda15963/CodingTestProblems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1763,6 +1766,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/panda15963/CodingTestProblems/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0432-all-oone-data-structure) |
 ## Euclidean Algorithm
 |  |
 | ------- |
