@@ -1320,6 +1320,7 @@
 | [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/panda15963/CodingTestProblems/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/panda15963/CodingTestProblems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1444,6 +1445,7 @@
 | [0328-odd-even-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/panda15963/CodingTestProblems/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/panda15963/CodingTestProblems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1760,6 +1762,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/panda15963/CodingTestProblems/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Euclidean Algorithm
 |  |
 | ------- |
