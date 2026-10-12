@@ -1,28 +1,37 @@
-<h2><a href="https://leetcode.com/problems/number-of-segments-in-a-string">434. Number of Segments in a String</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, return <em>the number of segments in the string</em>.</p>
+<h2><a href="https://leetcode.com/problems/non-overlapping-intervals">435. Non-overlapping Intervals</a></h2><h3>Medium</h3><hr><p>Given an array of intervals <code>intervals</code> where <code>intervals[i] = [start<sub>i</sub>, end<sub>i</sub>]</code>, return <em>the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping</em>.</p>
 
-<p>A <strong>segment</strong> is defined to be a contiguous sequence of <strong>non-space characters</strong>.</p>
+<p><strong>Note</strong> that intervals which only touch at a point are <strong>non-overlapping</strong>. For example, <code>[1, 2]</code> and <code>[2, 3]</code> are non-overlapping.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;Hello, my name is John&quot;
-<strong>Output:</strong> 5
-<strong>Explanation:</strong> The five segments are [&quot;Hello,&quot;, &quot;my&quot;, &quot;name&quot;, &quot;is&quot;, &quot;John&quot;]
+<strong>Input:</strong> intervals = [[1,2],[2,3],[3,4],[1,3]]
+<strong>Output:</strong> 1
+<strong>Explanation:</strong> [1,3] can be removed and the rest of the intervals are non-overlapping.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;Hello&quot;
-<strong>Output:</strong> 1
+<strong>Input:</strong> intervals = [[1,2],[1,2],[1,2]]
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> You need to remove two [1,2] to make the rest of the intervals non-overlapping.
+</pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> intervals = [[1,2],[2,3]]
+<strong>Output:</strong> 0
+<strong>Explanation:</strong> You don&#39;t need to remove any of the intervals since they&#39;re already non-overlapping.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= s.length &lt;= 300</code></li>
-	<li><code>s</code> consists of lowercase and uppercase English letters, digits, or one of the following characters <code>&quot;!@#$%^&amp;*()_+-=&#39;,.:&quot;</code>.</li>
-	<li>The only space character in <code>s</code> is <code>&#39; &#39;</code>.</li>
+	<li><code>1 &lt;= intervals.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>intervals[i].length == 2</code></li>
+	<li><code>-5 * 10<sup>4</sup> &lt;= start<sub>i</sub> &lt; end<sub>i</sub> &lt;= 5 * 10<sup>4</sup></code></li>
 </ul>
