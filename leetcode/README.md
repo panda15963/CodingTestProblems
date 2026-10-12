@@ -1,37 +1,28 @@
-<h2><a href="https://leetcode.com/problems/minimum-genetic-mutation">433. Minimum Genetic Mutation</a></h2><h3>Medium</h3><hr><p>A gene string can be represented by an 8-character long string, with choices from <code>&#39;A&#39;</code>, <code>&#39;C&#39;</code>, <code>&#39;G&#39;</code>, and <code>&#39;T&#39;</code>.</p>
+<h2><a href="https://leetcode.com/problems/number-of-segments-in-a-string">434. Number of Segments in a String</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, return <em>the number of segments in the string</em>.</p>
 
-<p>Suppose we need to investigate a mutation from a gene string <code>startGene</code> to a gene string <code>endGene</code> where one mutation is defined as one single character changed in the gene string.</p>
-
-<ul>
-	<li>For example, <code>&quot;AACCGGTT&quot; --&gt; &quot;AACCGGTA&quot;</code> is one mutation.</li>
-</ul>
-
-<p>There is also a gene bank <code>bank</code> that records all the valid gene mutations. A gene must be in <code>bank</code> to make it a valid gene string.</p>
-
-<p>Given the two gene strings <code>startGene</code> and <code>endGene</code> and the gene bank <code>bank</code>, return <em>the minimum number of mutations needed to mutate from </em><code>startGene</code><em> to </em><code>endGene</code>. If there is no such a mutation, return <code>-1</code>.</p>
-
-<p>Note that the starting point is assumed to be valid, so it might not be included in the bank.</p>
+<p>A <strong>segment</strong> is defined to be a contiguous sequence of <strong>non-space characters</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> startGene = &quot;AACCGGTT&quot;, endGene = &quot;AACCGGTA&quot;, bank = [&quot;AACCGGTA&quot;]
-<strong>Output:</strong> 1
+<strong>Input:</strong> s = &quot;Hello, my name is John&quot;
+<strong>Output:</strong> 5
+<strong>Explanation:</strong> The five segments are [&quot;Hello,&quot;, &quot;my&quot;, &quot;name&quot;, &quot;is&quot;, &quot;John&quot;]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> startGene = &quot;AACCGGTT&quot;, endGene = &quot;AAACGGTA&quot;, bank = [&quot;AACCGGTA&quot;,&quot;AACCGCTA&quot;,&quot;AAACGGTA&quot;]
-<strong>Output:</strong> 2
+<strong>Input:</strong> s = &quot;Hello&quot;
+<strong>Output:</strong> 1
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>0 &lt;= bank.length &lt;= 10</code></li>
-	<li><code>startGene.length == endGene.length == bank[i].length == 8</code></li>
-	<li><code>startGene</code>, <code>endGene</code>, and <code>bank[i]</code> consist of only the characters <code>[&#39;A&#39;, &#39;C&#39;, &#39;G&#39;, &#39;T&#39;]</code>.</li>
+	<li><code>0 &lt;= s.length &lt;= 300</code></li>
+	<li><code>s</code> consists of lowercase and uppercase English letters, digits, or one of the following characters <code>&quot;!@#$%^&amp;*()_+-=&#39;,.:&quot;</code>.</li>
+	<li>The only space character in <code>s</code> is <code>&#39; &#39;</code>.</li>
 </ul>
