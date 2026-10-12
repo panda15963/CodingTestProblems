@@ -503,6 +503,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/panda15963/CodingTestProblems/tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -663,6 +664,7 @@
 | [0389-find-the-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/panda15963/CodingTestProblems/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/panda15963/CodingTestProblems/tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
@@ -1245,6 +1247,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/panda15963/CodingTestProblems/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/panda15963/CodingTestProblems/tree/master/0436-find-right-interval) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
