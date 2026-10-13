@@ -1,43 +1,31 @@
-<h2><a href="https://leetcode.com/problems/find-right-interval">436. Find Right Interval</a></h2><h3>Medium</h3><hr><p>You are given an array of <code>intervals</code>, where <code>intervals[i] = [start<sub>i</sub>, end<sub>i</sub>]</code> and each <code>start<sub>i</sub></code> is <strong>unique</strong>.</p>
-
-<p>The <strong>right interval</strong> for an interval <code>i</code> is an interval <code>j</code> such that <code>start<sub>j</sub> &gt;= end<sub>i</sub></code> and <code>start<sub>j</sub></code> is <strong>minimized</strong>. Note that <code>i</code> may equal <code>j</code>.</p>
-
-<p>Return <em>an array of <strong>right interval</strong> indices for each interval <code>i</code></em>. If no <strong>right interval</strong> exists for interval <code>i</code>, then put <code>-1</code> at index <code>i</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-all-anagrams-in-a-string">438. Find All Anagrams in a String</a></h2><h3>Medium</h3><hr><p>Given two strings <code>s</code> and <code>p</code>, return an array of all the start indices of <code>p</code>&#39;s <span data-keyword="anagram">anagrams</span> in <code>s</code>. You may return the answer in <strong>any order</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> intervals = [[1,2]]
-<strong>Output:</strong> [-1]
-<strong>Explanation:</strong> There is only one interval in the collection, so it outputs -1.
+<strong>Input:</strong> s = &quot;cbaebabacd&quot;, p = &quot;abc&quot;
+<strong>Output:</strong> [0,6]
+<strong>Explanation:</strong>
+The substring with start index = 0 is &quot;cba&quot;, which is an anagram of &quot;abc&quot;.
+The substring with start index = 6 is &quot;bac&quot;, which is an anagram of &quot;abc&quot;.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> intervals = [[3,4],[2,3],[1,2]]
-<strong>Output:</strong> [-1,0,1]
-<strong>Explanation:</strong> There is no right interval for [3,4].
-The right interval for [2,3] is [3,4] since start<sub>0</sub> = 3 is the smallest start that is &gt;= end<sub>1</sub> = 3.
-The right interval for [1,2] is [2,3] since start<sub>1</sub> = 2 is the smallest start that is &gt;= end<sub>2</sub> = 2.
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> intervals = [[1,4],[2,3],[3,4]]
-<strong>Output:</strong> [-1,2,-1]
-<strong>Explanation:</strong> There is no right interval for [1,4] and [3,4].
-The right interval for [2,3] is [3,4] since start<sub>2</sub> = 3 is the smallest start that is &gt;= end<sub>1</sub> = 3.
+<strong>Input:</strong> s = &quot;abab&quot;, p = &quot;ab&quot;
+<strong>Output:</strong> [0,1,2]
+<strong>Explanation:</strong>
+The substring with start index = 0 is &quot;ab&quot;, which is an anagram of &quot;ab&quot;.
+The substring with start index = 1 is &quot;ba&quot;, which is an anagram of &quot;ab&quot;.
+The substring with start index = 2 is &quot;ab&quot;, which is an anagram of &quot;ab&quot;.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= intervals.length &lt;= 2 * 10<sup>4</sup></code></li>
-	<li><code>intervals[i].length == 2</code></li>
-	<li><code>-10<sup>6</sup> &lt;= start<sub>i</sub> &lt;= end<sub>i</sub> &lt;= 10<sup>6</sup></code></li>
-	<li>The start point of each interval is <strong>unique</strong>.</li>
+	<li><code>1 &lt;= s.length, p.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>s</code> and <code>p</code> consist of lowercase English letters.</li>
 </ul>
