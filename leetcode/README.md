@@ -1,24 +1,24 @@
-<h2><a href="https://leetcode.com/problems/k-th-smallest-in-lexicographical-order">440. K-th Smallest in Lexicographical Order</a></h2><h3>Hard</h3><hr><p>Given two integers <code>n</code> and <code>k</code>, return <em>the</em> <code>k<sup>th</sup></code> <em>lexicographically smallest integer in the range</em> <code>[1, n]</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-all-duplicates-in-an-array">442. Find All Duplicates in an Array</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> of length <code>n</code> where all the integers of <code>nums</code> are in the range <code>[1, n]</code> and each integer appears <strong>at most</strong> <strong>twice</strong>, return <em>an array of all the integers that appears <strong>twice</strong></em>.</p>
+
+<p>You must write an algorithm that runs in <code>O(n)</code> time and uses only <em>constant</em> auxiliary space, excluding the space needed to store the output</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 13, k = 2
-<strong>Output:</strong> 10
-<strong>Explanation:</strong> The lexicographical order is [1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9], so the second smallest number is 10.
+<pre><strong>Input:</strong> nums = [4,3,2,7,8,2,3,1]
+<strong>Output:</strong> [2,3]
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> nums = [1,1,2]
+<strong>Output:</strong> [1]
+</pre><p><strong class="example">Example 3:</strong></p>
+<pre><strong>Input:</strong> nums = [1]
+<strong>Output:</strong> []
 </pre>
-
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> n = 1, k = 1
-<strong>Output:</strong> 1
-</pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= k &lt;= n &lt;= 10<sup>9</sup></code></li>
+	<li><code>n == nums.length</code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= nums[i] &lt;= n</code></li>
+	<li>Each element in <code>nums</code> appears <strong>once</strong> or <strong>twice</strong>.</li>
 </ul>
