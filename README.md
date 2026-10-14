@@ -279,6 +279,7 @@
 | [0415-add-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/panda15963/CodingTestProblems/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/panda15963/CodingTestProblems/tree/master/0441-arranging-coins) |
+| [0447-number-of-boomerangs](https://github.com/panda15963/CodingTestProblems/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
@@ -511,6 +512,7 @@
 | [0435-non-overlapping-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/panda15963/CodingTestProblems/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/panda15963/CodingTestProblems/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -1049,6 +1051,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/panda15963/CodingTestProblems/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/panda15963/CodingTestProblems/tree/master/0447-number-of-boomerangs) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
