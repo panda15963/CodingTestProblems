@@ -109,6 +109,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/panda15963/CodingTestProblems/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/panda15963/CodingTestProblems/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
@@ -848,6 +849,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/panda15963/CodingTestProblems/tree/master/0443-string-compression) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
