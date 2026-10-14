@@ -1365,6 +1365,7 @@
 | [0336-palindrome-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/panda15963/CodingTestProblems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/panda15963/CodingTestProblems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/panda15963/CodingTestProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3093-longest-common-suffix-queries) |
