@@ -1,37 +1,37 @@
-<h2><a href="https://leetcode.com/problems/number-of-boomerangs/">447. Number of Boomerangs</a></h2><h3>Medium</h3><hr><p>You are given <code>n</code> <code>points</code> in the plane that are all <strong>distinct</strong>, where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code>. A <strong>boomerang</strong> is a tuple of points <code>(i, j, k)</code> such that the distance between <code>i</code> and <code>j</code> equals the distance between <code>i</code> and <code>k</code> <strong>(the order of the tuple matters)</strong>.</p>
+<h2><a href="https://leetcode.com/problems/add-two-numbers-ii">445. Add Two Numbers II</a></h2><h3>Medium</h3><hr><p>You are given two <strong>non-empty</strong> linked lists representing two non-negative integers. The most significant digit comes first and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.</p>
 
-<p>Return <em>the number of boomerangs</em>.</p>
+<p>You may assume the two numbers do not contain any leading zero, except the number 0 itself.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+<img alt="" src="https://assets.leetcode.com/uploads/2021/04/09/sumii-linked-list.jpg" style="width: 523px; height: 342px;" />
 <pre>
-<strong>Input:</strong> points = [[0,0],[1,0],[2,0]]
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> The two boomerangs are [[1,0],[0,0],[2,0]] and [[1,0],[2,0],[0,0]].
+<strong>Input:</strong> l1 = [7,2,4,3], l2 = [5,6,4]
+<strong>Output:</strong> [7,8,0,7]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> points = [[1,1],[2,2],[3,3]]
-<strong>Output:</strong> 2
+<strong>Input:</strong> l1 = [2,4,3], l2 = [5,6,4]
+<strong>Output:</strong> [8,0,7]
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> points = [[1,1]]
-<strong>Output:</strong> 0
+<strong>Input:</strong> l1 = [0], l2 = [0]
+<strong>Output:</strong> [0]
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>n == points.length</code></li>
-	<li><code>1 &lt;= n &lt;= 500</code></li>
-	<li><code>points[i].length == 2</code></li>
-	<li><code>-10<sup>4</sup> &lt;= x<sub>i</sub>, y<sub>i</sub> &lt;= 10<sup>4</sup></code></li>
-	<li>All the points are <strong>unique</strong>.</li>
+	<li>The number of nodes in each linked list is in the range <code>[1, 100]</code>.</li>
+	<li><code>0 &lt;= Node.val &lt;= 9</code></li>
+	<li>It is guaranteed that the list represents a number that does not have leading zeros.</li>
 </ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong>&nbsp;Could you solve it without reversing the input lists?</p>
