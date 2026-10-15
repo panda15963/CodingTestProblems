@@ -1,37 +1,48 @@
-<h2><a href="https://leetcode.com/problems/add-two-numbers-ii">445. Add Two Numbers II</a></h2><h3>Medium</h3><hr><p>You are given two <strong>non-empty</strong> linked lists representing two non-negative integers. The most significant digit comes first and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.</p>
+<h2><a href="https://leetcode.com/problems/arithmetic-slices-ii-subsequence">446. Arithmetic Slices II - Subsequence</a></h2><h3>Hard</h3><hr><p>Given an integer array <code>nums</code>, return <em>the number of all the <strong>arithmetic subsequences</strong> of</em> <code>nums</code>.</p>
 
-<p>You may assume the two numbers do not contain any leading zero, except the number 0 itself.</p>
+<p>A sequence of numbers is called arithmetic if it consists of <strong>at least three elements</strong> and if the difference between any two consecutive elements is the same.</p>
+
+<ul>
+	<li>For example, <code>[1, 3, 5, 7, 9]</code>, <code>[7, 7, 7, 7]</code>, and <code>[3, -1, -5, -9]</code> are arithmetic sequences.</li>
+	<li>For example, <code>[1, 1, 2, 5, 7]</code> is not an arithmetic sequence.</li>
+</ul>
+
+<p>A <strong>subsequence</strong> of an array is a sequence that can be formed by removing some elements (possibly none) of the array.</p>
+
+<ul>
+	<li>For example, <code>[2,5,10]</code> is a subsequence of <code>[1,2,1,<strong><u>2</u></strong>,4,1,<u><strong>5</strong></u>,<u><strong>10</strong></u>]</code>.</li>
+</ul>
+
+<p>The test cases are generated so that the answer fits in <strong>32-bit</strong> integer.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/04/09/sumii-linked-list.jpg" style="width: 523px; height: 342px;" />
+
 <pre>
-<strong>Input:</strong> l1 = [7,2,4,3], l2 = [5,6,4]
-<strong>Output:</strong> [7,8,0,7]
+<strong>Input:</strong> nums = [2,4,6,8,10]
+<strong>Output:</strong> 7
+<strong>Explanation:</strong> All arithmetic subsequence slices are:
+[2,4,6]
+[4,6,8]
+[6,8,10]
+[2,4,6,8]
+[4,6,8,10]
+[2,4,6,8,10]
+[2,6,10]
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> l1 = [2,4,3], l2 = [5,6,4]
-<strong>Output:</strong> [8,0,7]
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> l1 = [0], l2 = [0]
-<strong>Output:</strong> [0]
+<strong>Input:</strong> nums = [7,7,7,7,7]
+<strong>Output:</strong> 16
+<strong>Explanation:</strong> Any subsequence of this array is arithmetic.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in each linked list is in the range <code>[1, 100]</code>.</li>
-	<li><code>0 &lt;= Node.val &lt;= 9</code></li>
-	<li>It is guaranteed that the list represents a number that does not have leading zeros.</li>
+	<li><code>1&nbsp; &lt;= nums.length &lt;= 1000</code></li>
+	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
-
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong>&nbsp;Could you solve it without reversing the input lists?</p>
