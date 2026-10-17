@@ -1,49 +1,39 @@
-<h2><a href="https://leetcode.com/problems/delete-node-in-a-bst">450. Delete Node in a BST</a></h2><h3>Medium</h3><hr><p>Given a root node reference of a BST and a key, delete the node with the given key in the BST. Return <em>the <strong>root node reference</strong> (possibly updated) of the BST</em>.</p>
+<h2><a href="https://leetcode.com/problems/sort-characters-by-frequency/">451. Sort Characters By Frequency</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>, sort it in <strong>decreasing order</strong> based on the <strong>frequency</strong> of the characters. The <strong>frequency</strong> of a character is the number of times it appears in the string.</p>
 
-<p>Basically, the deletion can be divided into two stages:</p>
-
-<ol>
-	<li>Search for a node to remove.</li>
-	<li>If the node is found, delete the node.</li>
-</ol>
+<p>Return <em>the sorted string</em>. If there are multiple answers, return <em>any of them</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2020/09/04/del_node_1.jpg" style="width: 800px; height: 214px;" />
+
 <pre>
-<strong>Input:</strong> root = [5,3,6,2,4,null,7], key = 3
-<strong>Output:</strong> [5,4,6,2,null,null,7]
-<strong>Explanation:</strong> Given key to delete is 3. So we find the node with value 3 and delete it.
-One valid answer is [5,4,6,2,null,null,7], shown in the above BST.
-Please notice that another valid answer is [5,2,6,null,4,null,7] and it&#39;s also accepted.
-<img alt="" src="https://assets.leetcode.com/uploads/2020/09/04/del_node_supp.jpg" style="width: 350px; height: 255px;" />
+<strong>Input:</strong> s = &quot;tree&quot;
+<strong>Output:</strong> &quot;eert&quot;
+<strong>Explanation:</strong> &#39;e&#39; appears twice while &#39;r&#39; and &#39;t&#39; both appear once.
+So &#39;e&#39; must appear before both &#39;r&#39; and &#39;t&#39;. Therefore &quot;eetr&quot; is also a valid answer.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> root = [5,3,6,2,4,null,7], key = 0
-<strong>Output:</strong> [5,3,6,2,4,null,7]
-<strong>Explanation:</strong> The tree does not contain a node with value = 0.
+<strong>Input:</strong> s = &quot;cccaaa&quot;
+<strong>Output:</strong> &quot;aaaccc&quot;
+<strong>Explanation:</strong> Both &#39;c&#39; and &#39;a&#39; appear three times, so both &quot;cccaaa&quot; and &quot;aaaccc&quot; are valid answers.
+Note that &quot;cacaca&quot; is incorrect, as the same characters must be together.
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> root = [], key = 0
-<strong>Output:</strong> []
+<strong>Input:</strong> s = &quot;Aabb&quot;
+<strong>Output:</strong> &quot;bbAa&quot;
+<strong>Explanation:</strong> &quot;bbaA&quot; is also a valid answer, but &quot;Aabb&quot; is incorrect.
+Note that &#39;A&#39; and &#39;a&#39; are treated as two different characters.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li>The number of nodes in the tree is in the range <code>[0, 10<sup>4</sup>]</code>.</li>
-	<li><code>-10<sup>5</sup> &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
-	<li>Each node has a <strong>unique</strong> value.</li>
-	<li><code>root</code> is a valid binary search tree.</li>
-	<li><code>-10<sup>5</sup> &lt;= key &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= s.length &lt;= 5 * 10<sup>5</sup></code></li>
+	<li><code>s</code> consists of uppercase and lowercase English letters and digits.</li>
 </ul>
-
-<p>&nbsp;</p>
-<p><strong>Follow up:</strong> Could you solve it with time complexity <code>O(height of tree)</code>?</p>
