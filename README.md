@@ -294,6 +294,7 @@
 | [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/panda15963/CodingTestProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/panda15963/CodingTestProblems/tree/master/1840-maximum-building-height) |
@@ -541,6 +542,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/panda15963/CodingTestProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -961,6 +963,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/panda15963/CodingTestProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/panda15963/CodingTestProblems/tree/master/1871-jump-game-vii) |
@@ -1204,6 +1207,7 @@
 | [0399-evaluate-division](https://github.com/panda15963/CodingTestProblems/tree/master/0399-evaluate-division) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/panda15963/CodingTestProblems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/panda15963/CodingTestProblems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/panda15963/CodingTestProblems/tree/master/2573-find-the-string-with-lcp) |
@@ -1329,6 +1333,7 @@
 | [0372-super-pow](https://github.com/panda15963/CodingTestProblems/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/panda15963/CodingTestProblems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0427-construct-quad-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/panda15963/CodingTestProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/panda15963/CodingTestProblems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1632,6 +1637,7 @@
 | [0437-path-sum-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0450-delete-node-in-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/panda15963/CodingTestProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/panda15963/CodingTestProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1673,6 +1679,7 @@
 | [0437-path-sum-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0450-delete-node-in-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/panda15963/CodingTestProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting Sort
@@ -1725,6 +1732,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/panda15963/CodingTestProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/panda15963/CodingTestProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1752,6 +1760,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0450-delete-node-in-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Game Theory
 |  |
 | ------- |
@@ -1822,6 +1831,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/panda15963/CodingTestProblems/tree/master/0397-integer-replacement) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -2074,4 +2084,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0416-partition-equal-subset-sum) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
