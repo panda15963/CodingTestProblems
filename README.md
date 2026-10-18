@@ -284,6 +284,7 @@
 | [0441-arranging-coins](https://github.com/panda15963/CodingTestProblems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/panda15963/CodingTestProblems/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
@@ -523,6 +524,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/panda15963/CodingTestProblems/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
