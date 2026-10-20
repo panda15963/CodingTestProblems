@@ -290,6 +290,7 @@
 | [0447-number-of-boomerangs](https://github.com/panda15963/CodingTestProblems/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0464-can-i-win](https://github.com/panda15963/CodingTestProblems/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/panda15963/CodingTestProblems/tree/master/0470-implement-rand10-using-rand7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
@@ -2102,6 +2103,7 @@
 | [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/panda15963/CodingTestProblems/tree/master/0398-random-pick-index) |
+| [0470-implement-rand10-using-rand7](https://github.com/panda15963/CodingTestProblems/tree/master/0470-implement-rand10-using-rand7) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -2131,4 +2133,12 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/panda15963/CodingTestProblems/tree/master/0464-can-i-win) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/panda15963/CodingTestProblems/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/panda15963/CodingTestProblems/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
