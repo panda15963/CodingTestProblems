@@ -289,6 +289,7 @@
 | [0445-add-two-numbers-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/panda15963/CodingTestProblems/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0458-poor-pigs](https://github.com/panda15963/CodingTestProblems/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/panda15963/CodingTestProblems/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/panda15963/CodingTestProblems/tree/master/0470-implement-rand10-using-rand7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -973,6 +974,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0458-poor-pigs](https://github.com/panda15963/CodingTestProblems/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/panda15963/CodingTestProblems/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/panda15963/CodingTestProblems/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/panda15963/CodingTestProblems/tree/master/0467-unique-substrings-in-wraparound-string) |
@@ -1763,6 +1765,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/panda15963/CodingTestProblems/tree/master/0458-poor-pigs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/panda15963/CodingTestProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/panda15963/CodingTestProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
