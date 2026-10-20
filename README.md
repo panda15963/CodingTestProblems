@@ -112,6 +112,7 @@
 | [0443-string-compression](https://github.com/panda15963/CodingTestProblems/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/panda15963/CodingTestProblems/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/panda15963/CodingTestProblems/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/panda15963/CodingTestProblems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/panda15963/CodingTestProblems/tree/master/0468-validate-ip-address) |
@@ -1248,6 +1249,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/panda15963/CodingTestProblems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Stack
@@ -1947,6 +1949,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -1976,6 +1979,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0459-repeated-substring-pattern) |
 ## Quickselect
 |  |
 | ------- |
