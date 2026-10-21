@@ -1,49 +1,60 @@
-<h2><a href="https://leetcode.com/problems/poor-pigs">458. Poor Pigs</a></h2><h3>Hard</h3><hr><p>There are <code>buckets</code> buckets of liquid, where <strong>exactly one</strong> of the buckets is poisonous. To figure out which one is poisonous, you feed some number of (poor) pigs the liquid to see whether they will die or not. Unfortunately, you only have <code>minutesToTest</code> minutes to determine which bucket is poisonous.</p>
+<h2><a href="https://leetcode.com/problems/lfu-cache">460. LFU Cache</a></h2><h3>Hard</h3><hr><p>Design and implement a data structure for a <a href="https://en.wikipedia.org/wiki/Least_frequently_used" target="_blank">Least Frequently Used (LFU)</a> cache.</p>
 
-<p>You can feed the pigs according to these steps:</p>
+<p>Implement the <code>LFUCache</code> class:</p>
 
-<ol>
-	<li>Choose some live pigs to feed.</li>
-	<li>For each pig, choose which buckets to feed it. The pig will consume all the chosen buckets simultaneously and will take no time. Each pig can feed from any number of buckets, and each bucket can be fed from by any number of pigs.</li>
-	<li>Wait for <code>minutesToDie</code> minutes. You may <strong>not</strong> feed any other pigs during this time.</li>
-	<li>After <code>minutesToDie</code> minutes have passed, any pigs that have been fed the poisonous bucket will die, and all others will survive.</li>
-	<li>Repeat this process until you run out of time.</li>
-</ol>
+<ul>
+	<li><code>LFUCache(int capacity)</code> Initializes the object with the <code>capacity</code> of the data structure.</li>
+	<li><code>int get(int key)</code> Gets the value of the <code>key</code> if the <code>key</code> exists in the cache. Otherwise, returns <code>-1</code>.</li>
+	<li><code>void put(int key, int value)</code> Update the value of the <code>key</code> if present, or inserts the <code>key</code> if not already present. When the cache reaches its <code>capacity</code>, it should invalidate and remove the <strong>least frequently used</strong> key before inserting a new item. For this problem, when there is a <strong>tie</strong> (i.e., two or more keys with the same frequency), the <strong>least recently used</strong> <code>key</code> would be invalidated.</li>
+</ul>
 
-<p>Given <code>buckets</code>, <code>minutesToDie</code>, and <code>minutesToTest</code>, return <em>the <strong>minimum</strong> number of pigs needed to figure out which bucket is poisonous within the allotted time</em>.</p>
+<p>To determine the least frequently used key, a <strong>use counter</strong> is maintained for each key in the cache. The key with the smallest <strong>use counter</strong> is the least frequently used key.</p>
+
+<p>When a key is first inserted into the cache, its <strong>use counter</strong> is set to <code>1</code> (due to the <code>put</code> operation). The <strong>use counter</strong> for a key in the cache is incremented either a <code>get</code> or <code>put</code> operation is called on it.</p>
+
+<p>The functions&nbsp;<code data-stringify-type="code">get</code>&nbsp;and&nbsp;<code data-stringify-type="code">put</code>&nbsp;must each run in <code>O(1)</code> average time complexity.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> buckets = 4, minutesToDie = 15, minutesToTest = 15
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> We can determine the poisonous bucket as follows:
-At time 0, feed the first pig buckets 1 and 2, and feed the second pig buckets 2 and 3.
-At time 15, there are 4 possible outcomes:
-- If only the first pig dies, then bucket 1 must be poisonous.
-- If only the second pig dies, then bucket 3 must be poisonous.
-- If both pigs die, then bucket 2 must be poisonous.
-- If neither pig dies, then bucket 4 must be poisonous.
-</pre>
+<strong>Input</strong>
+[&quot;LFUCache&quot;, &quot;put&quot;, &quot;put&quot;, &quot;get&quot;, &quot;put&quot;, &quot;get&quot;, &quot;get&quot;, &quot;put&quot;, &quot;get&quot;, &quot;get&quot;, &quot;get&quot;]
+[[2], [1, 1], [2, 2], [1], [3, 3], [2], [3], [4, 4], [1], [3], [4]]
+<strong>Output</strong>
+[null, null, null, 1, null, -1, 3, null, -1, 3, 4]
 
-<p><strong class="example">Example 2:</strong></p>
-
-<pre>
-<strong>Input:</strong> buckets = 4, minutesToDie = 15, minutesToTest = 30
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> We can determine the poisonous bucket as follows:
-At time 0, feed the first pig bucket 1, and feed the second pig bucket 2.
-At time 15, there are 2 possible outcomes:
-- If either pig dies, then the poisonous bucket is the one it was fed.
-- If neither pig dies, then feed the first pig bucket 3, and feed the second pig bucket 4.
-At time 30, one of the two pigs must die, and the poisonous bucket is the one it was fed.
+<strong>Explanation</strong>
+// cnt(x) = the use counter for key x
+// cache=[] will show the last used order for tiebreakers (leftmost element is  most recent)
+LFUCache lfu = new LFUCache(2);
+lfu.put(1, 1);   // cache=[1,_], cnt(1)=1
+lfu.put(2, 2);   // cache=[2,1], cnt(2)=1, cnt(1)=1
+lfu.get(1);      // return 1
+                 // cache=[1,2], cnt(2)=1, cnt(1)=2
+lfu.put(3, 3);   // 2 is the LFU key because cnt(2)=1 is the smallest, invalidate 2.
+&nbsp;                // cache=[3,1], cnt(3)=1, cnt(1)=2
+lfu.get(2);      // return -1 (not found)
+lfu.get(3);      // return 3
+                 // cache=[3,1], cnt(3)=2, cnt(1)=2
+lfu.put(4, 4);   // Both 1 and 3 have the same cnt, but 1 is LRU, invalidate 1.
+                 // cache=[4,3], cnt(4)=1, cnt(3)=2
+lfu.get(1);      // return -1 (not found)
+lfu.get(3);      // return 3
+                 // cache=[3,4], cnt(4)=1, cnt(3)=3
+lfu.get(4);      // return 4
+                 // cache=[4,3], cnt(4)=2, cnt(3)=3
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= buckets &lt;= 1000</code></li>
-	<li><code>1 &lt;=&nbsp;minutesToDie &lt;=&nbsp;minutesToTest &lt;= 100</code></li>
+	<li><code>1 &lt;= capacity&nbsp;&lt;= 10<sup>4</sup></code></li>
+	<li><code>0 &lt;= key &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= value &lt;= 10<sup>9</sup></code></li>
+	<li>At most <code>2 * 10<sup>5</sup></code>&nbsp;calls will be made to <code>get</code> and <code>put</code>.</li>
 </ul>
+
+<p>&nbsp;</p>
+<span style="display: none;">&nbsp;</span>
