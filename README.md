@@ -292,6 +292,7 @@
 | [0447-number-of-boomerangs](https://github.com/panda15963/CodingTestProblems/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/panda15963/CodingTestProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/panda15963/CodingTestProblems/tree/master/0458-poor-pigs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/panda15963/CodingTestProblems/tree/master/0464-can-i-win) |
 | [0470-implement-rand10-using-rand7](https://github.com/panda15963/CodingTestProblems/tree/master/0470-implement-rand10-using-rand7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -540,6 +541,7 @@
 | [0455-assign-cookies](https://github.com/panda15963/CodingTestProblems/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/panda15963/CodingTestProblems/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -712,6 +714,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/panda15963/CodingTestProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/panda15963/CodingTestProblems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
