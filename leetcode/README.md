@@ -1,52 +1,61 @@
-<h2><a href="https://leetcode.com/problems/predict-the-winner">486. Predict the Winner</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/zuma-game">488. Zuma Game</a></h2><h3>Hard</h3><hr><p>You are playing a variation of the game Zuma.</p>
 
-<p>Two players are playing a game with this array: Player 1 and Player 2.</p>
+<p>In this variation of Zuma, there is a <strong>single row</strong> of colored balls on a board, where each ball can be colored red <code>&#39;R&#39;</code>, yellow <code>&#39;Y&#39;</code>, blue <code>&#39;B&#39;</code>, green <code>&#39;G&#39;</code>, or white <code>&#39;W&#39;</code>. You also have several colored balls in your hand.</p>
 
-<p>Player 1 and Player 2 take turns, with Player 1 starting first. Both players start the game with a score of 0.</p>
+<p>Your goal is to <strong>clear all</strong> of the balls from the board. On each turn:</p>
 
-<p>At each turn, the current player takes the number at <strong>either end</strong> of the array (i.e., <code>nums[0]</code> or <code>nums[nums.length - 1]</code>), <strong>removing</strong> it from the array and adding it to their own score. The game ends when there are no more elements in the array.</p>
+<ul>
+	<li>Pick <strong>any</strong> ball from your hand and insert it in between two balls in the row or on either end of the row.</li>
+	<li>If there is a group of <strong>three or more consecutive balls</strong> of the <strong>same color</strong>, remove the group of balls from the board.
+	<ul>
+		<li>If this removal causes more groups of three or more of the same color to form, then continue removing each group until there are none left.</li>
+	</ul>
+	</li>
+	<li>If there are no more balls on the board, then you win the game.</li>
+	<li>Repeat this process until you either win or do not have any more balls in your hand.</li>
+</ul>
 
-<p>Return <code>true</code> if Player 1&#39;s final score is <strong>greater than or equal</strong> to Player 2&#39;s final score, and <code>false</code> otherwise.</p>
-
-<p><strong>Note</strong> that a tie counts as a win for Player 1. You may assume that both players play optimally.</p>
+<p>Given a string <code>board</code>, representing the row of balls on the board, and a string <code>hand</code>, representing the balls in your hand, return <em>the <strong>minimum</strong> number of balls you have to insert to clear all the balls from the board. If you cannot clear all the balls from the board using the balls in your hand, return </em><code>-1</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">nums = [1,5,2]</span></p>
-
-<p><strong>Output:</strong> <span class="example-io">false</span></p>
-
-<p><strong>Explanation:</strong></p>
-
-<ul>
-	<li>Player 1 must open by taking either 1 or 2, and both choices lead to the same result.</li>
-	<li>If Player 1 takes 1, the array becomes <code>[5,2]</code>. Player 2 takes 5, leaving 2 for Player 1.</li>
-	<li>If Player 1 takes 2, the array becomes <code>[1,5]</code>. Player 2 takes 5, leaving 1 for Player 1.</li>
-	<li>Either way, Player 1 finishes with <code>1 + 2 = 3</code> and Player 2 finishes with <code>5</code>. Player 1 can never win, so return <code>false</code>.</li>
-</ul>
-</div>
+<pre>
+<strong>Input:</strong> board = &quot;WRRBBW&quot;, hand = &quot;RB&quot;
+<strong>Output:</strong> -1
+<strong>Explanation:</strong> It is impossible to clear all the balls. The best you can do is:
+- Insert &#39;R&#39; so the board becomes WRR<u>R</u>BBW. W<u>RRR</u>BBW -&gt; WBBW.
+- Insert &#39;B&#39; so the board becomes WBB<u>B</u>W. W<u>BBB</u>W -&gt; WW.
+There are still balls remaining on the board, and you are out of balls to insert.</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">nums = [1,5,233,7]</span></p>
+<pre>
+<strong>Input:</strong> board = &quot;WWRRBBWW&quot;, hand = &quot;WRBRW&quot;
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> To make the board empty:
+- Insert &#39;R&#39; so the board becomes WWRR<u>R</u>BBWW. WW<u>RRR</u>BBWW -&gt; WWBBWW.
+- Insert &#39;B&#39; so the board becomes WWBB<u>B</u>WW. WW<u>BBB</u>WW -&gt; <u>WWWW</u> -&gt; empty.
+2 balls from your hand were needed to clear the board.
+</pre>
 
-<p><strong>Output:</strong> <span class="example-io">true</span></p>
+<p><strong class="example">Example 3:</strong></p>
 
-<p><strong>Explanation:</strong></p>
-
-<ul>
-	<li>Player 1 first takes 1, leaving <code>[5,233,7]</code>. Player 2 must then choose between 5 and 7, and no matter which number Player 2 chooses, Player 1 can take 233 on the next turn.</li>
-	<li>Player 1 finishes with a higher score (234) than Player 2 (12), so return <code>true</code>.</li>
-</ul>
-</div>
+<pre>
+<strong>Input:</strong> board = &quot;G&quot;, hand = &quot;GGGGG&quot;
+<strong>Output:</strong> 2
+<strong>Explanation:</strong> To make the board empty:
+- Insert &#39;G&#39; so the board becomes G<u>G</u>.
+- Insert &#39;G&#39; so the board becomes GG<u>G</u>. <u>GGG</u> -&gt; empty.
+2 balls from your hand were needed to clear the board.
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= nums.length &lt;= 20</code></li>
-	<li><code>0 &lt;= nums[i] &lt;= 10<sup>7</sup></code></li>
+	<li><code>1 &lt;= board.length &lt;= 16</code></li>
+	<li><code>1 &lt;= hand.length &lt;= 5</code></li>
+	<li><code>board</code> and <code>hand</code> consist of the characters <code>&#39;R&#39;</code>, <code>&#39;Y&#39;</code>, <code>&#39;B&#39;</code>, <code>&#39;G&#39;</code>, and <code>&#39;W&#39;</code>.</li>
+	<li>The initial row of balls on the board will <strong>not</strong> have any groups of three or more consecutive balls of the same color.</li>
 </ul>
