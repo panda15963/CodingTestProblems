@@ -545,6 +545,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/panda15963/CodingTestProblems/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -991,6 +992,7 @@
 | [0466-count-the-repetitions](https://github.com/panda15963/CodingTestProblems/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/panda15963/CodingTestProblems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -1193,6 +1195,7 @@
 | [0306-additive-number](https://github.com/panda15963/CodingTestProblems/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/panda15963/CodingTestProblems/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -1610,6 +1613,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0461-hamming-distance) |
 | [0464-can-i-win](https://github.com/panda15963/CodingTestProblems/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda15963/CodingTestProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -2160,6 +2164,7 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/panda15963/CodingTestProblems/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
 ## Rejection Sampling
 |  |
 | ------- |
