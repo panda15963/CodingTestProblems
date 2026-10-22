@@ -116,6 +116,7 @@
 | [0466-count-the-repetitions](https://github.com/panda15963/CodingTestProblems/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/panda15963/CodingTestProblems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0468-validate-ip-address](https://github.com/panda15963/CodingTestProblems/tree/master/0468-validate-ip-address) |
+| [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
@@ -543,6 +544,7 @@
 | [0457-circular-array-loop](https://github.com/panda15963/CodingTestProblems/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/panda15963/CodingTestProblems/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -717,6 +719,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/panda15963/CodingTestProblems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
@@ -987,6 +990,7 @@
 | [0464-can-i-win](https://github.com/panda15963/CodingTestProblems/tree/master/0464-can-i-win) |
 | [0466-count-the-repetitions](https://github.com/panda15963/CodingTestProblems/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/panda15963/CodingTestProblems/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -1426,6 +1430,7 @@
 | [0437-path-sum-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/panda15963/CodingTestProblems/tree/master/0463-island-perimeter) |
+| [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1448,6 +1453,7 @@
 | [0386-lexicographical-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/panda15963/CodingTestProblems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/panda15963/CodingTestProblems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/panda15963/CodingTestProblems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/panda15963/CodingTestProblems/tree/master/3093-longest-common-suffix-queries) |
