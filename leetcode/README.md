@@ -1,39 +1,31 @@
-<h2><a href="https://leetcode.com/problems/island-perimeter">463. Island Perimeter</a></h2><h3>Easy</h3><hr><p>You are given <code>row x col</code> <code>grid</code> representing a map where <code>grid[i][j] = 1</code> represents&nbsp;land and <code>grid[i][j] = 0</code> represents water.</p>
+<h2><a href="https://leetcode.com/problems/concatenated-words">472. Concatenated Words</a></h2><h3>Hard</h3><hr><p>Given an array of strings <code>words</code> (<strong>without duplicates</strong>), return <em>all the <strong>concatenated words</strong> in the given list of</em> <code>words</code>.</p>
 
-<p>Grid cells are connected <strong>horizontally/vertically</strong> (not diagonally). The <code>grid</code> is completely surrounded by water, and there is exactly one island (i.e., one or more connected land cells).</p>
-
-<p>The island doesn&#39;t have &quot;lakes&quot;, meaning the water inside isn&#39;t connected to the water around the island. One cell is a square with side length 1. The grid is rectangular, width and height don&#39;t exceed 100. Determine the perimeter of the island.</p>
+<p>A <strong>concatenated word</strong> is defined as a string that is comprised entirely of at least two shorter words (not necessarily distinct)&nbsp;in the given array.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img src="https://assets.leetcode.com/uploads/2018/10/12/island.png" style="width: 221px; height: 213px;" />
+
 <pre>
-<strong>Input:</strong> grid = [[0,1,0,0],[1,1,1,0],[0,1,0,0],[1,1,0,0]]
-<strong>Output:</strong> 16
-<strong>Explanation:</strong> The perimeter is the 16 yellow stripes in the image above.
-</pre>
+<strong>Input:</strong> words = [&quot;cat&quot;,&quot;cats&quot;,&quot;catsdogcats&quot;,&quot;dog&quot;,&quot;dogcatsdog&quot;,&quot;hippopotamuses&quot;,&quot;rat&quot;,&quot;ratcatdogcat&quot;]
+<strong>Output:</strong> [&quot;catsdogcats&quot;,&quot;dogcatsdog&quot;,&quot;ratcatdogcat&quot;]
+<strong>Explanation:</strong> &quot;catsdogcats&quot; can be concatenated by &quot;cats&quot;, &quot;dog&quot; and &quot;cats&quot;; 
+&quot;dogcatsdog&quot; can be concatenated by &quot;dog&quot;, &quot;cats&quot; and &quot;dog&quot;; 
+&quot;ratcatdogcat&quot; can be concatenated by &quot;rat&quot;, &quot;cat&quot;, &quot;dog&quot; and &quot;cat&quot;.</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> grid = [[1]]
-<strong>Output:</strong> 4
-</pre>
-
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> grid = [[1,0]]
-<strong>Output:</strong> 4
+<strong>Input:</strong> words = [&quot;cat&quot;,&quot;dog&quot;,&quot;catdog&quot;]
+<strong>Output:</strong> [&quot;catdog&quot;]
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>row == grid.length</code></li>
-	<li><code>col == grid[i].length</code></li>
-	<li><code>1 &lt;= row, col &lt;= 100</code></li>
-	<li><code>grid[i][j]</code> is <code>0</code> or <code>1</code>.</li>
-	<li>There is exactly one island in <code>grid</code>.</li>
+	<li><code>1 &lt;= words.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>1 &lt;= words[i].length &lt;= 30</code></li>
+	<li><code>words[i]</code> consists of only lowercase English letters.</li>
+	<li>All the strings of <code>words</code> are <strong>unique</strong>.</li>
+	<li><code>1 &lt;= sum(words[i].length) &lt;= 10<sup>5</sup></code></li>
 </ul>
