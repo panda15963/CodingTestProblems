@@ -550,6 +550,7 @@
 | [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/panda15963/CodingTestProblems/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/panda15963/CodingTestProblems/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/panda15963/CodingTestProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -727,6 +728,7 @@
 | [0455-assign-cookies](https://github.com/panda15963/CodingTestProblems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/panda15963/CodingTestProblems/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
@@ -911,6 +913,7 @@
 | [0455-assign-cookies](https://github.com/panda15963/CodingTestProblems/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/panda15963/CodingTestProblems/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/panda15963/CodingTestProblems/tree/master/0466-count-the-repetitions) |
+| [0475-heaters](https://github.com/panda15963/CodingTestProblems/tree/master/0475-heaters) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1351,6 +1354,7 @@
 | [0436-find-right-interval](https://github.com/panda15963/CodingTestProblems/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/panda15963/CodingTestProblems/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/panda15963/CodingTestProblems/tree/master/0475-heaters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
