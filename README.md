@@ -300,6 +300,7 @@
 | [0470-implement-rand10-using-rand7](https://github.com/panda15963/CodingTestProblems/tree/master/0470-implement-rand10-using-rand7) |
 | [0477-total-hamming-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/panda15963/CodingTestProblems/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/panda15963/CodingTestProblems/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/panda15963/CodingTestProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -1218,6 +1219,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/panda15963/CodingTestProblems/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/panda15963/CodingTestProblems/tree/master/0479-largest-palindrome-product) |
 | [1291-sequential-digits](https://github.com/panda15963/CodingTestProblems/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/panda15963/CodingTestProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/panda15963/CodingTestProblems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
