@@ -304,6 +304,7 @@
 | [0477-total-hamming-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/panda15963/CodingTestProblems/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/panda15963/CodingTestProblems/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/panda15963/CodingTestProblems/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/panda15963/CodingTestProblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -1371,6 +1372,7 @@
 | [0441-arranging-coins](https://github.com/panda15963/CodingTestProblems/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/panda15963/CodingTestProblems/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/panda15963/CodingTestProblems/tree/master/0483-smallest-good-base) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
