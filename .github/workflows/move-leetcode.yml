@@ -1,3 +1,4 @@
+
 name: Auto Organize LeetCode Problems
 
 on:
@@ -5,7 +6,12 @@ on:
     branches: [main, master]
 
 permissions:
-  contents: write   # 🔥 push 권한 필수
+  contents: write
+
+# 같은 브랜치에서 워크플로가 동시에 실행되는 것을 방지
+concurrency:
+  group: organize-leetcode-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   organize:
@@ -14,13 +20,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Organize LeetCode folders
         run: |
           mkdir -p leetcode
 
           for dir in [0-9]*; do
-            if [[ -d "$dir" && "$dir" != "leetcode" ]]; then
+            if [[ -d "$dir" ]]; then
               echo "Moving $dir → leetcode/$dir"
               git mv "$dir" leetcode/ 2>/dev/null || true
             fi
@@ -28,23 +36,44 @@ jobs:
 
           # README 없으면 생성
           if [[ ! -f leetcode/README.md ]]; then
-            echo -e "# LeetCode Solutions\n\nAuto-organized solutions" > leetcode/README.md
+            printf '# LeetCode Solutions\n\nAuto-organized solutions\n' > leetcode/README.md
           fi
 
       - name: Commit changes
         run: |
-          git config user.name "panda15963"
-          git config user.email "seok7521@gmail.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add .
+          git add -A
 
           if git diff --cached --quiet; then
-            echo "✅ No changes needed"
+            echo "No changes needed"
             exit 0
           fi
 
           git commit -m "🤖 auto: organize LeetCode problems into leetcode/ folder"
-          git push
+
+          # 원격 변경 사항을 반영하고 push 재시도
+          for i in 1 2 3 4 5; do
+            git fetch origin "${GITHUB_REF_NAME}"
+
+            if ! git rebase "origin/${GITHUB_REF_NAME}"; then
+              git rebase --abort || true
+              echo "Rebase failed. Check for conflicting changes."
+              exit 1
+            fi
+
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "Push successful."
+              exit 0
+            fi
+
+            echo "Push failed. Retrying ($i/5)..."
+            sleep 2
+          done
+
+          echo "Failed to push after 5 attempts."
+          exit 1
 
       - name: Notify success
-        run: echo "🎉 LeetCode folders organized successfully!"
+        run: echo "LeetCode folders organized successfully!"
