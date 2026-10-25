@@ -118,6 +118,7 @@
 | [0468-validate-ip-address](https://github.com/panda15963/CodingTestProblems/tree/master/0468-validate-ip-address) |
 | [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/panda15963/CodingTestProblems/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/panda15963/CodingTestProblems/tree/master/0481-magical-string) |
 | [0488-zuma-game](https://github.com/panda15963/CodingTestProblems/tree/master/0488-zuma-game) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
@@ -924,6 +925,7 @@
 | [0457-circular-array-loop](https://github.com/panda15963/CodingTestProblems/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/panda15963/CodingTestProblems/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/panda15963/CodingTestProblems/tree/master/0475-heaters) |
+| [0481-magical-string](https://github.com/panda15963/CodingTestProblems/tree/master/0481-magical-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
