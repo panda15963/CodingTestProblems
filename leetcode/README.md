@@ -1,42 +1,34 @@
-<h2><a href="https://leetcode.com/problems/sliding-window-median/">480. Sliding Window Median</a></h2><h3>Hard</h3><hr><p>The <strong>median</strong> is the middle value in an ordered integer list. If the size of the list is even, there is no middle value. So the median is the mean of the two middle values.</p>
+<h2><a href="https://leetcode.com/problems/magical-string">481. Magical String</a></h2><h3>Medium</h3><hr><p>A magical string <code>s</code> consists of only <code>&#39;1&#39;</code> and <code>&#39;2&#39;</code> and obeys the following rule:</p>
 
 <ul>
-	<li>For examples, if <code>arr = [2,<u>3</u>,4]</code>, the median is <code>3</code>.</li>
-	<li>For examples, if <code>arr = [1,<u>2,3</u>,4]</code>, the median is <code>(2 + 3) / 2 = 2.5</code>.</li>
+	<li>Concatenating the sequence of lengths of its consecutive groups of identical characters <code>&#39;1&#39;</code> and <code>&#39;2&#39;</code> generates the string <code>s</code> itself.</li>
 </ul>
 
-<p>You are given an integer array <code>nums</code> and an integer <code>k</code>. There is a sliding window of size <code>k</code> which is moving from the very left of the array to the very right. You can only see the <code>k</code> numbers in the window. Each time the sliding window moves right by one position.</p>
+<p>The first few elements of <code>s</code> is <code>s = &quot;1221121221221121122&hellip;&hellip;&quot;</code>. If we group the consecutive <code>1</code>&#39;s and <code>2</code>&#39;s in <code>s</code>, it will be <code>&quot;1 22 11 2 1 22 1 22 11 2 11 22 ......&quot;</code> and counting the occurrences of <code>1</code>&#39;s or <code>2</code>&#39;s in each group yields the sequence&nbsp;<code>&quot;1 2 2 1 1 2 1 2 2 1 2 2 ......&quot;</code>.</p>
 
-<p>Return <em>the median array for each window in the original array</em>. Answers within <code>10<sup>-5</sup></code> of the actual value will be accepted.</p>
+<p>You can see that concatenating the occurrence sequence gives us&nbsp;<code>s</code> itself.</p>
+
+<p>Given an integer <code>n</code>, return the number of <code>1</code>&#39;s in the first <code>n</code> number in the magical string <code>s</code>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [1,3,-1,-3,5,3,6,7], k = 3
-<strong>Output:</strong> [1.00000,-1.00000,-1.00000,3.00000,5.00000,6.00000]
-<strong>Explanation:</strong> 
-Window position                Median
----------------                -----
-[<strong>1  3  -1</strong>] -3  5  3  6  7        1
- 1 [<strong>3  -1  -3</strong>] 5  3  6  7       -1
- 1  3 [<strong>-1  -3  5</strong>] 3  6  7       -1
- 1  3  -1 [<strong>-3  5  3</strong>] 6  7        3
- 1  3  -1  -3 [<strong>5  3  6</strong>] 7        5
- 1  3  -1  -3  5 [<strong>3  6  7</strong>]       6
+<strong>Input:</strong> n = 6
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> The first 6 elements of magical string s is &quot;122112&quot; and it contains three 1&#39;s, so return 3.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> nums = [1,2,3,4,2,3,1,4,2], k = 3
-<strong>Output:</strong> [2.00000,3.00000,3.00000,3.00000,2.00000,3.00000,2.00000]
+<strong>Input:</strong> n = 1
+<strong>Output:</strong> 1
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= k &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
 </ul>
