@@ -1,32 +1,36 @@
-<h2><a href="https://leetcode.com/problems/license-key-formatting">482. License Key Formatting</a></h2><h3>Easy</h3><hr><p>You are given a license key represented as a string <code>s</code> that consists of only alphanumeric characters and dashes. The string is separated into <code>n + 1</code> groups by <code>n</code> dashes. You are also given an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/smallest-good-base">483. Smallest Good Base</a></h2><h3>Hard</h3><hr><p>Given an integer <code>n</code> represented as a string, return <em>the smallest <strong>good base</strong> of</em> <code>n</code>.</p>
 
-<p>We want to reformat the string <code>s</code> such that each group contains exactly <code>k</code> characters, except for the first group, which could be shorter than <code>k</code> but still must contain at least one character. Furthermore, there must be a dash inserted between two groups, and you should convert all lowercase letters to uppercase.</p>
-
-<p>Return <em>the reformatted license key</em>.</p>
+<p>We call <code>k &gt;= 2</code> a <strong>good base</strong> of <code>n</code>, if all digits of <code>n</code> base <code>k</code> are <code>1</code>&#39;s.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;5F3Z-2e-9-w&quot;, k = 4
-<strong>Output:</strong> &quot;5F3Z-2E9W&quot;
-<strong>Explanation:</strong> The string s has been split into two parts, each part has 4 characters.
-Note that the two extra dashes are not needed and can be removed.
+<strong>Input:</strong> n = &quot;13&quot;
+<strong>Output:</strong> &quot;3&quot;
+<strong>Explanation:</strong> 13 base 3 is 111.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;2-5g-3-J&quot;, k = 2
-<strong>Output:</strong> &quot;2-5G-3J&quot;
-<strong>Explanation:</strong> The string s has been split into three parts, each part has 2 characters except the first part as it could be shorter as mentioned above.
+<strong>Input:</strong> n = &quot;4681&quot;
+<strong>Output:</strong> &quot;8&quot;
+<strong>Explanation:</strong> 4681 base 8 is 11111.
+</pre>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<pre>
+<strong>Input:</strong> n = &quot;1000000000000000000&quot;
+<strong>Output:</strong> &quot;999999999999999999&quot;
+<strong>Explanation:</strong> 1000000000000000000 base 999999999999999999 is 11.
 </pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>s</code> consists of English letters, digits, and dashes <code>&#39;-&#39;</code>.</li>
-	<li><code>1 &lt;= k &lt;= 10<sup>4</sup></code></li>
+	<li><code>n</code> is an integer in the range <code>[3, 10<sup>18</sup>]</code>.</li>
+	<li><code>n</code> does not contain any leading zeros.</li>
 </ul>
