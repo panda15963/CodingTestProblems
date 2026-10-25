@@ -1,3 +1,4 @@
+
 name: 🚀 Advanced Auto Dashboard
 
 on:
@@ -7,14 +8,20 @@ on:
 permissions:
   contents: write
 
+# 같은 브랜치에서 워크플로가 동시에 실행되는 것을 방지
+concurrency:
+  group: update-readme-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
+      # 📥 Checkout
       - name: 📥 Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
@@ -25,18 +32,13 @@ jobs:
 
           for dir in 0*-*/; do
             if [ -d "$dir" ]; then
-
               name=$(basename "$dir")
 
               echo "Merging $name → leetcode/$name"
 
               mkdir -p "leetcode/$name"
-
-              rsync -a "$dir" "leetcode/"
-
-              echo "Removing root folder $name"
+              rsync -a "$dir" "leetcode/$name/"
               rm -rf "$dir"
-
             fi
           done
 
@@ -44,8 +46,8 @@ jobs:
       - name: 📊 Update Dashboard
         run: |
           LC=$(find leetcode -maxdepth 1 -type d -name "0*" 2>/dev/null | wc -l)
-          PR=$(find 프로그래머스 -type d -mindepth 2 2>/dev/null | wc -l)
-          BJ=$(find 백준 -type d -mindepth 2 2>/dev/null | wc -l)
+          PR=$(find 프로그래머스 -mindepth 2 -type d 2>/dev/null | wc -l)
+          BJ=$(find 백준 -mindepth 2 -type d 2>/dev/null | wc -l)
 
           TOTAL=$((LC + PR + BJ))
 
@@ -57,6 +59,7 @@ jobs:
 
           awk -v lc="$LC" -v pr="$PR" -v bj="$BJ" -v total="$TOTAL" -v recent="$RECENT" '
           BEGIN { in_block=0 }
+
           /<!-- DASHBOARD-START -->/ {
               print "<!-- DASHBOARD-START -->"
               print "## 📊 Platform Statistics"
@@ -75,7 +78,12 @@ jobs:
               in_block=1
               next
           }
-          /<!-- DASHBOARD-END -->/ { in_block=0; next }
+
+          /<!-- DASHBOARD-END -->/ {
+              in_block=0
+              next
+          }
+
           !in_block { print }
           ' README.md > tmp.md && mv tmp.md README.md
 
@@ -85,12 +93,30 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 삭제된 폴더까지 반영
           git add -A
 
           if ! git diff --cached --quiet; then
             git commit -m "🚀 dashboard auto update [skip ci]"
           fi
 
-          git pull --rebase origin ${GITHUB_REF_NAME} || true
-          git push origin HEAD:${GITHUB_REF_NAME}
+          # 원격 브랜치 변경에 대응하여 최대 5회 재시도
+          for i in 1 2 3 4 5; do
+            git fetch origin "${GITHUB_REF_NAME}"
+
+            if ! git rebase "origin/${GITHUB_REF_NAME}"; then
+              git rebase --abort || true
+              echo "Rebase failed. Check for conflicting changes."
+              exit 1
+            fi
+
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "Push successful."
+              exit 0
+            fi
+
+            echo "Push failed. Retrying ($i/5)..."
+            sleep 2
+          done
+
+          echo "Failed to push after 5 attempts."
+          exit 1
