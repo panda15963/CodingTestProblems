@@ -562,6 +562,7 @@
 | [0477-total-hamming-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/panda15963/CodingTestProblems/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/panda15963/CodingTestProblems/tree/master/0486-predict-the-winner) |
+| [0498-diagonal-traverse](https://github.com/panda15963/CodingTestProblems/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -831,6 +832,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/panda15963/CodingTestProblems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/panda15963/CodingTestProblems/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/panda15963/CodingTestProblems/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/panda15963/CodingTestProblems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1260-shift-2d-grid) |
@@ -1255,6 +1257,7 @@
 | [0289-game-of-life](https://github.com/panda15963/CodingTestProblems/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/panda15963/CodingTestProblems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/panda15963/CodingTestProblems/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1260-shift-2d-grid) |
