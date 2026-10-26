@@ -89,35 +89,59 @@ jobs:
 
       # 💾 Commit & Push
       - name: 💾 Commit & Push
+        shell: bash
         run: |
           set -e
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add -A
-
-          if ! git diff --cached --quiet; then
-            git commit -m "🚀 dashboard auto update [skip ci]"
-          fi
-
-          # 원격 브랜치 변경에 대응하여 최대 5회 재시도
+          # 최신 원격 브랜치를 기준으로 최대 5회 재시도
           for i in 1 2 3 4 5; do
+            echo "Attempt $i/5"
+
             git fetch origin "${GITHUB_REF_NAME}"
 
-            # 원격 변경 사항과 충돌할 경우 현재 커밋의 변경을 우선 적용
-            if ! git rebase -X theirs "origin/${GITHUB_REF_NAME}"; then
-              git rebase --abort || true
-              echo "Rebase failed. Manual conflict resolution may be required."
-              exit 1
+            # 충돌이 발생한 이전 작업을 버리고 최신 원격 상태로 초기화
+            git reset --hard "origin/${GITHUB_REF_NAME}"
+            git clean -fd
+
+            # LeetCode 폴더 정리 재실행
+            mkdir -p leetcode
+
+            for dir in [0-9]*; do
+              if [[ -d "$dir" ]]; then
+                name=$(basename "$dir")
+                echo "Organizing $name"
+
+                mkdir -p "leetcode/$name"
+                rsync -a "$dir/" "leetcode/$name/"
+                rm -rf "$dir"
+              fi
+            done
+
+            # README가 없으면 생성
+            if [[ ! -f leetcode/README.md ]]; then
+              printf '# LeetCode Solutions\n\nAuto-organized solutions\n' > leetcode/README.md
             fi
 
+            git add -A
+
+            # 변경 사항이 없으면 성공으로 종료
+            if git diff --cached --quiet; then
+              echo "No changes needed."
+              exit 0
+            fi
+
+            git commit -m "🤖 auto: organize LeetCode problems into leetcode/ folder"
+
+            # rebase 없이 바로 push
             if git push origin "HEAD:${GITHUB_REF_NAME}"; then
               echo "Push successful."
               exit 0
             fi
 
-            echo "Push failed. Retrying ($i/5)..."
+            echo "Push failed. Fetching latest changes and retrying..."
             sleep 2
           done
 
