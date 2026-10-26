@@ -563,6 +563,7 @@
 | [0477-total-hamming-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/panda15963/CodingTestProblems/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/panda15963/CodingTestProblems/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0491-non-decreasing-subsequences) |
 | [0498-diagonal-traverse](https://github.com/panda15963/CodingTestProblems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/panda15963/CodingTestProblems/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1151,6 +1152,7 @@
 | [0457-circular-array-loop](https://github.com/panda15963/CodingTestProblems/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/panda15963/CodingTestProblems/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/panda15963/CodingTestProblems/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/panda15963/CodingTestProblems/tree/master/0500-keyboard-row) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
@@ -1231,6 +1233,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/panda15963/CodingTestProblems/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
+| [0491-non-decreasing-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0491-non-decreasing-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -1664,6 +1667,7 @@
 | [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/panda15963/CodingTestProblems/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0491-non-decreasing-subsequences) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda15963/CodingTestProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
