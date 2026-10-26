@@ -16,7 +16,7 @@ concurrency:
 jobs:
   update-readme:
     if: github.actor != 'github-actions[bot]'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       # 📥 Checkout
@@ -45,7 +45,7 @@ jobs:
       # 📊 Dashboard 업데이트
       - name: 📊 Update Dashboard
         run: |
-          LC=$(find leetcode -maxdepth 1 -type d -name "0*" 2>/dev/null | wc -l)
+          LC=$(find leetcode -mindepth 1 -maxdepth 1 -type d -name "0*" 2>/dev/null | wc -l)
           PR=$(find 프로그래머스 -mindepth 2 -type d 2>/dev/null | wc -l)
           BJ=$(find 백준 -mindepth 2 -type d 2>/dev/null | wc -l)
 
@@ -90,6 +90,8 @@ jobs:
       # 💾 Commit & Push
       - name: 💾 Commit & Push
         run: |
+          set -e
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
@@ -103,9 +105,10 @@ jobs:
           for i in 1 2 3 4 5; do
             git fetch origin "${GITHUB_REF_NAME}"
 
-            if ! git rebase "origin/${GITHUB_REF_NAME}"; then
+            # 원격 변경 사항과 충돌할 경우 현재 커밋의 변경을 우선 적용
+            if ! git rebase -X theirs "origin/${GITHUB_REF_NAME}"; then
               git rebase --abort || true
-              echo "Rebase failed. Check for conflicting changes."
+              echo "Rebase failed. Manual conflict resolution may be required."
               exit 1
             fi
 
