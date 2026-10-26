@@ -567,6 +567,7 @@
 | [0486-predict-the-winner](https://github.com/panda15963/CodingTestProblems/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/panda15963/CodingTestProblems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/panda15963/CodingTestProblems/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1029,6 +1030,7 @@
 | [0474-ones-and-zeroes](https://github.com/panda15963/CodingTestProblems/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/panda15963/CodingTestProblems/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/panda15963/CodingTestProblems/tree/master/0488-zuma-game) |
+| [0494-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0494-target-sum) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -1237,6 +1239,7 @@
 | [0401-binary-watch](https://github.com/panda15963/CodingTestProblems/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -2133,6 +2136,7 @@
 | [0322-coin-change](https://github.com/panda15963/CodingTestProblems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/panda15963/CodingTestProblems/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -2225,6 +2229,7 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/panda15963/CodingTestProblems/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0494-target-sum) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
