@@ -15,11 +15,11 @@
 | 🔢 **Total** | 855 |
 
 ## 🥇 Recently Solved (Top 5)
+- Create README - LeetHub
 - 수정본
 - Time: 0 ms (100%), Space: 54.6 MB (9.28%) - LeetHub
 - Update README - Topic Tags
 - Time: 0 ms (100%), Space: 55.2 MB (51.06%) - LeetHub
-- Updated stats
 
 <!-- DASHBOARD-END -->
 
