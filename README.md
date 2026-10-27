@@ -308,6 +308,7 @@
 | [0483-smallest-good-base](https://github.com/panda15963/CodingTestProblems/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/panda15963/CodingTestProblems/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0492-construct-the-rectangle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
@@ -570,6 +571,7 @@
 | [0494-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/panda15963/CodingTestProblems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/panda15963/CodingTestProblems/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/panda15963/CodingTestProblems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/panda15963/CodingTestProblems/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -880,6 +882,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/panda15963/CodingTestProblems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/panda15963/CodingTestProblems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1140-stone-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/panda15963/CodingTestProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1397,6 +1400,7 @@
 | [0475-heaters](https://github.com/panda15963/CodingTestProblems/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/panda15963/CodingTestProblems/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1960,6 +1964,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/panda15963/CodingTestProblems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/panda15963/CodingTestProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Memoization
 |  |
@@ -2217,11 +2222,13 @@
 | [0398-random-pick-index](https://github.com/panda15963/CodingTestProblems/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/panda15963/CodingTestProblems/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/panda15963/CodingTestProblems/tree/master/0478-generate-random-point-in-a-circle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Reservoir Sampling
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/panda15963/CodingTestProblems/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/panda15963/CodingTestProblems/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
