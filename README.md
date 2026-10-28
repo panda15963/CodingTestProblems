@@ -122,6 +122,7 @@
 | [0482-license-key-formatting](https://github.com/panda15963/CodingTestProblems/tree/master/0482-license-key-formatting) |
 | [0488-zuma-game](https://github.com/panda15963/CodingTestProblems/tree/master/0488-zuma-game) |
 | [0500-keyboard-row](https://github.com/panda15963/CodingTestProblems/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/panda15963/CodingTestProblems/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
@@ -310,6 +311,7 @@
 | [0486-predict-the-winner](https://github.com/panda15963/CodingTestProblems/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/panda15963/CodingTestProblems/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
