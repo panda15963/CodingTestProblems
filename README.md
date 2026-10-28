@@ -576,6 +576,7 @@
 | [0498-diagonal-traverse](https://github.com/panda15963/CodingTestProblems/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/panda15963/CodingTestProblems/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/panda15963/CodingTestProblems/tree/master/0502-ipo) |
+| [0503-next-greater-element-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -1361,6 +1362,7 @@
 | [0456-132-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0456-132-pattern) |
 | [0488-zuma-game](https://github.com/panda15963/CodingTestProblems/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/panda15963/CodingTestProblems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/panda15963/CodingTestProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1893,6 +1895,7 @@
 | [0402-remove-k-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/panda15963/CodingTestProblems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/panda15963/CodingTestProblems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 |  |
