@@ -1512,6 +1512,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/panda15963/CodingTestProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/panda15963/CodingTestProblems/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/panda15963/CodingTestProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-number-of-closed-islands](https://github.com/panda15963/CodingTestProblems/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1606,6 +1607,7 @@
 | [0488-zuma-game](https://github.com/panda15963/CodingTestProblems/tree/master/0488-zuma-game) |
 | [0513-find-bottom-left-tree-value](https://github.com/panda15963/CodingTestProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/panda15963/CodingTestProblems/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/panda15963/CodingTestProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/panda15963/CodingTestProblems/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
@@ -1790,6 +1792,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/panda15963/CodingTestProblems/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/panda15963/CodingTestProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/panda15963/CodingTestProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1834,6 +1837,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/panda15963/CodingTestProblems/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/panda15963/CodingTestProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/panda15963/CodingTestProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
