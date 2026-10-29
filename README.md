@@ -124,6 +124,7 @@
 | [0500-keyboard-row](https://github.com/panda15963/CodingTestProblems/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/panda15963/CodingTestProblems/tree/master/0504-base-7) |
 | [0514-freedom-trail](https://github.com/panda15963/CodingTestProblems/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
@@ -1050,6 +1051,7 @@
 | [0488-zuma-game](https://github.com/panda15963/CodingTestProblems/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/panda15963/CodingTestProblems/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
