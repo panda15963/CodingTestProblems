@@ -588,6 +588,7 @@
 | [0500-keyboard-row](https://github.com/panda15963/CodingTestProblems/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/panda15963/CodingTestProblems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/panda15963/CodingTestProblems/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/panda15963/CodingTestProblems/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -775,6 +776,7 @@
 | [0472-concatenated-words](https://github.com/panda15963/CodingTestProblems/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/panda15963/CodingTestProblems/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/panda15963/CodingTestProblems/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/panda15963/CodingTestProblems/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/panda15963/CodingTestProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -834,6 +836,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/panda15963/CodingTestProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/panda15963/CodingTestProblems/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/panda15963/CodingTestProblems/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/panda15963/CodingTestProblems/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/panda15963/CodingTestProblems/tree/master/2333-minimum-sum-of-squared-difference) |
