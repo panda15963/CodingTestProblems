@@ -319,6 +319,7 @@
 | [0492-construct-the-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/panda15963/CodingTestProblems/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/panda15963/CodingTestProblems/tree/master/0507-perfect-number) |
 | [0519-random-flip-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0519-random-flip-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
