@@ -598,6 +598,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/panda15963/CodingTestProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/panda15963/CodingTestProblems/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -1079,6 +1080,7 @@
 | [0514-freedom-trail](https://github.com/panda15963/CodingTestProblems/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -1296,6 +1298,7 @@
 | [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -1746,6 +1749,7 @@
 | [0476-number-complement](https://github.com/panda15963/CodingTestProblems/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda15963/CodingTestProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -2339,6 +2343,7 @@
 | ------- |
 | [0464-can-i-win](https://github.com/panda15963/CodingTestProblems/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
 ## Rejection Sampling
 |  |
 | ------- |
