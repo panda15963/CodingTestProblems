@@ -324,6 +324,7 @@
 | [0507-perfect-number](https://github.com/panda15963/CodingTestProblems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/panda15963/CodingTestProblems/tree/master/0509-fibonacci-number) |
 | [0519-random-flip-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0519-random-flip-matrix) |
+| [0528-random-pick-with-weight](https://github.com/panda15963/CodingTestProblems/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
@@ -599,6 +600,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/panda15963/CodingTestProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/panda15963/CodingTestProblems/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
+| [0528-random-pick-with-weight](https://github.com/panda15963/CodingTestProblems/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -921,6 +923,7 @@
 | [0410-split-array-largest-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0525-contiguous-array](https://github.com/panda15963/CodingTestProblems/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/panda15963/CodingTestProblems/tree/master/0528-random-pick-with-weight) |
 | [1140-stone-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/panda15963/CodingTestProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1455,6 +1458,7 @@
 | [0483-smallest-good-base](https://github.com/panda15963/CodingTestProblems/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0528-random-pick-with-weight](https://github.com/panda15963/CodingTestProblems/tree/master/0528-random-pick-with-weight) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -2309,6 +2313,7 @@
 | [0478-generate-random-point-in-a-circle](https://github.com/panda15963/CodingTestProblems/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0519-random-flip-matrix) |
+| [0528-random-pick-with-weight](https://github.com/panda15963/CodingTestProblems/tree/master/0528-random-pick-with-weight) |
 ## Reservoir Sampling
 |  |
 | ------- |
