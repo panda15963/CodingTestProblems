@@ -126,6 +126,7 @@
 | [0514-freedom-trail](https://github.com/panda15963/CodingTestProblems/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/panda15963/CodingTestProblems/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/panda15963/CodingTestProblems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/panda15963/CodingTestProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
