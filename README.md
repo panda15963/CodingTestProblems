@@ -601,6 +601,7 @@
 | [0525-contiguous-array](https://github.com/panda15963/CodingTestProblems/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/panda15963/CodingTestProblems/tree/master/0528-random-pick-with-weight) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -787,6 +788,7 @@
 | [0506-relative-ranks](https://github.com/panda15963/CodingTestProblems/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/panda15963/CodingTestProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
@@ -987,6 +989,7 @@
 | [0481-magical-string](https://github.com/panda15963/CodingTestProblems/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/panda15963/CodingTestProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/panda15963/CodingTestProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1220,6 +1223,7 @@
 | [0519-random-flip-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/panda15963/CodingTestProblems/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1459,6 +1463,7 @@
 | [0493-reverse-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/panda15963/CodingTestProblems/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/panda15963/CodingTestProblems/tree/master/0528-random-pick-with-weight) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
