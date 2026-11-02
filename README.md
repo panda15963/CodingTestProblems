@@ -129,6 +129,7 @@
 | [0521-longest-uncommon-subsequence-i](https://github.com/panda15963/CodingTestProblems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/panda15963/CodingTestProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/panda15963/CodingTestProblems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
@@ -404,6 +405,7 @@
 | [0432-all-oone-data-structure](https://github.com/panda15963/CodingTestProblems/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/panda15963/CodingTestProblems/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/panda15963/CodingTestProblems/tree/master/0535-encode-and-decode-tinyurl) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -1224,6 +1226,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0525-contiguous-array](https://github.com/panda15963/CodingTestProblems/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/panda15963/CodingTestProblems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -2142,6 +2145,7 @@
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0336-palindrome-pairs) |
+| [0535-encode-and-decode-tinyurl](https://github.com/panda15963/CodingTestProblems/tree/master/0535-encode-and-decode-tinyurl) |
 ## Z Algorithm
 |  |
 | ------- |
