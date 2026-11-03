@@ -608,6 +608,7 @@
 | [0528-random-pick-with-weight](https://github.com/panda15963/CodingTestProblems/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/panda15963/CodingTestProblems/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0546-remove-boxes](https://github.com/panda15963/CodingTestProblems/tree/master/0546-remove-boxes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -1095,6 +1096,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
+| [0546-remove-boxes](https://github.com/panda15963/CodingTestProblems/tree/master/0546-remove-boxes) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -2085,6 +2087,7 @@
 | [0464-can-i-win](https://github.com/panda15963/CodingTestProblems/tree/master/0464-can-i-win) |
 | [0488-zuma-game](https://github.com/panda15963/CodingTestProblems/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/panda15963/CodingTestProblems/tree/master/0509-fibonacci-number) |
+| [0546-remove-boxes](https://github.com/panda15963/CodingTestProblems/tree/master/0546-remove-boxes) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
