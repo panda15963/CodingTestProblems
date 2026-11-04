@@ -1585,6 +1585,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/panda15963/CodingTestProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0529-minesweeper](https://github.com/panda15963/CodingTestProblems/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/panda15963/CodingTestProblems/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/panda15963/CodingTestProblems/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1306-jump-game-iii) |
@@ -1876,6 +1877,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/panda15963/CodingTestProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/panda15963/CodingTestProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/panda15963/CodingTestProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1924,6 +1926,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/panda15963/CodingTestProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/panda15963/CodingTestProblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/panda15963/CodingTestProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -2015,6 +2018,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Game Theory
 |  |
