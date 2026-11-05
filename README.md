@@ -133,6 +133,7 @@
 | [0537-complex-number-multiplication](https://github.com/panda15963/CodingTestProblems/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/panda15963/CodingTestProblems/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
@@ -1013,6 +1014,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/panda15963/CodingTestProblems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/panda15963/CodingTestProblems/tree/master/0567-permutation-in-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
@@ -1252,6 +1254,7 @@
 | [0525-contiguous-array](https://github.com/panda15963/CodingTestProblems/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/panda15963/CodingTestProblems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/panda15963/CodingTestProblems/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1828,6 +1831,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/panda15963/CodingTestProblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/panda15963/CodingTestProblems/tree/master/0480-sliding-window-median) |
+| [0567-permutation-in-string](https://github.com/panda15963/CodingTestProblems/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
