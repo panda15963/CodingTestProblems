@@ -1124,6 +1124,7 @@
 | [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/panda15963/CodingTestProblems/tree/master/0546-remove-boxes) |
+| [0552-student-attendance-record-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
