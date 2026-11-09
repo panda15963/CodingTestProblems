@@ -335,6 +335,7 @@
 | [0528-random-pick-with-weight](https://github.com/panda15963/CodingTestProblems/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/panda15963/CodingTestProblems/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/panda15963/CodingTestProblems/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
@@ -620,6 +621,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/panda15963/CodingTestProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/panda15963/CodingTestProblems/tree/master/0546-remove-boxes) |
+| [0553-optimal-division](https://github.com/panda15963/CodingTestProblems/tree/master/0553-optimal-division) |
 | [0575-distribute-candies](https://github.com/panda15963/CodingTestProblems/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1127,6 +1129,7 @@
 | [0542-01-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/panda15963/CodingTestProblems/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0552-student-attendance-record-ii) |
+| [0553-optimal-division](https://github.com/panda15963/CodingTestProblems/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
