@@ -1573,6 +1573,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/panda15963/CodingTestProblems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0427-construct-quad-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0427-construct-quad-tree) |
 | [0493-reverse-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0493-reverse-pairs) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/panda15963/CodingTestProblems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -1933,6 +1934,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0543-diameter-of-binary-tree) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0572-subtree-of-another-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
