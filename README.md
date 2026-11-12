@@ -344,6 +344,7 @@
 | [0556-next-greater-element-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/panda15963/CodingTestProblems/tree/master/0587-erect-the-fence) |
+| [0598-range-addition-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
@@ -639,6 +640,7 @@
 | [0575-distribute-candies](https://github.com/panda15963/CodingTestProblems/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/panda15963/CodingTestProblems/tree/master/0587-erect-the-fence) |
+| [0598-range-addition-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
