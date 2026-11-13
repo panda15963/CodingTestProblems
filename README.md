@@ -1502,6 +1502,7 @@
 | [0503-next-greater-element-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/panda15963/CodingTestProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1666,6 +1667,7 @@
 | [0565-array-nesting](https://github.com/panda15963/CodingTestProblems/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0617-merge-two-binary-trees) |
 | [1254-number-of-closed-islands](https://github.com/panda15963/CodingTestProblems/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/panda15963/CodingTestProblems/tree/master/1267-count-servers-that-communicate) |
@@ -1973,6 +1975,7 @@
 | [0563-binary-tree-tilt](https://github.com/panda15963/CodingTestProblems/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/panda15963/CodingTestProblems/tree/master/0617-merge-two-binary-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/panda15963/CodingTestProblems/tree/master/2196-create-binary-tree-from-descriptions) |
