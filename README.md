@@ -1171,6 +1171,7 @@
 | [0553-optimal-division](https://github.com/panda15963/CodingTestProblems/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/panda15963/CodingTestProblems/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0583-delete-operation-for-two-strings) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/panda15963/CodingTestProblems/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
