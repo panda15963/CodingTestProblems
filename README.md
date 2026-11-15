@@ -141,6 +141,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0591-tag-validator](https://github.com/panda15963/CodingTestProblems/tree/master/0591-tag-validator) |
 | [0592-fraction-addition-and-subtraction](https://github.com/panda15963/CodingTestProblems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/panda15963/CodingTestProblems/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/panda15963/CodingTestProblems/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
@@ -648,6 +649,7 @@
 | [0587-erect-the-fence](https://github.com/panda15963/CodingTestProblems/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -1315,6 +1317,7 @@
 | [0567-permutation-in-string](https://github.com/panda15963/CodingTestProblems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/panda15963/CodingTestProblems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
