@@ -347,6 +347,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/panda15963/CodingTestProblems/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/panda15963/CodingTestProblems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/panda15963/CodingTestProblems/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
@@ -1738,6 +1739,7 @@
 | [0391-perfect-rectangle](https://github.com/panda15963/CodingTestProblems/tree/master/0391-perfect-rectangle) |
 | [0478-generate-random-point-in-a-circle](https://github.com/panda15963/CodingTestProblems/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/panda15963/CodingTestProblems/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/panda15963/CodingTestProblems/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/panda15963/CodingTestProblems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/panda15963/CodingTestProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
