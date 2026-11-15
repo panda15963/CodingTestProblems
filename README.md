@@ -646,6 +646,7 @@
 | [0575-distribute-candies](https://github.com/panda15963/CodingTestProblems/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/panda15963/CodingTestProblems/tree/master/0587-erect-the-fence) |
+| [0594-longest-harmonious-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -847,6 +848,7 @@
 | [0539-minimum-time-difference](https://github.com/panda15963/CodingTestProblems/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/panda15963/CodingTestProblems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0594-longest-harmonious-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
@@ -1312,6 +1314,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/panda15963/CodingTestProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/panda15963/CodingTestProblems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/panda15963/CodingTestProblems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1721,6 +1724,7 @@
 | [0383-ransom-note](https://github.com/panda15963/CodingTestProblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/panda15963/CodingTestProblems/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/panda15963/CodingTestProblems/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/panda15963/CodingTestProblems/tree/master/2029-stone-game-ix) |
@@ -1914,6 +1918,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/panda15963/CodingTestProblems/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/panda15963/CodingTestProblems/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
