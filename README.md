@@ -357,6 +357,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/panda15963/CodingTestProblems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/panda15963/CodingTestProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -665,6 +666,7 @@
 | [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -990,6 +992,7 @@
 | [0528-random-pick-with-weight](https://github.com/panda15963/CodingTestProblems/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/panda15963/CodingTestProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/panda15963/CodingTestProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/panda15963/CodingTestProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1173,6 +1176,7 @@
 | [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/panda15963/CodingTestProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
