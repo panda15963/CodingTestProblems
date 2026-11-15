@@ -2296,6 +2296,7 @@
 | [0184-department-highest-salary](https://github.com/panda15963/CodingTestProblems/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/panda15963/CodingTestProblems/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/panda15963/CodingTestProblems/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/panda15963/CodingTestProblems/tree/master/0596-classes-with-at-least-5-students) |
 ## Rolling Hash
 |  |
 | ------- |
