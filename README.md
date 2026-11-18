@@ -2320,6 +2320,7 @@
 | [0584-find-customer-referee](https://github.com/panda15963/CodingTestProblems/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/panda15963/CodingTestProblems/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/panda15963/CodingTestProblems/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/panda15963/CodingTestProblems/tree/master/0619-biggest-single-number) |
 ## Rolling Hash
 |  |
 | ------- |
