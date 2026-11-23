@@ -232,6 +232,7 @@
 | [0561-array-partition](https://github.com/panda15963/CodingTestProblems/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/panda15963/CodingTestProblems/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/panda15963/CodingTestProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
@@ -661,6 +662,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/panda15963/CodingTestProblems/tree/master/0609-find-duplicate-file-in-system) |
 | [0611-valid-triangle-number](https://github.com/panda15963/CodingTestProblems/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
@@ -864,6 +866,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/panda15963/CodingTestProblems/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
@@ -923,6 +926,7 @@
 | [0480-sliding-window-median](https://github.com/panda15963/CodingTestProblems/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/panda15963/CodingTestProblems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/panda15963/CodingTestProblems/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/panda15963/CodingTestProblems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1337,6 +1341,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/panda15963/CodingTestProblems/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1750,6 +1755,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/panda15963/CodingTestProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/panda15963/CodingTestProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/panda15963/CodingTestProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/panda15963/CodingTestProblems/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/panda15963/CodingTestProblems/tree/master/2029-stone-game-ix) |
