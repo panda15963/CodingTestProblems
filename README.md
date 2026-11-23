@@ -363,6 +363,7 @@
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/panda15963/CodingTestProblems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/panda15963/CodingTestProblems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/panda15963/CodingTestProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1510-stone-game-iv) |
@@ -441,6 +442,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/panda15963/CodingTestProblems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0460-lfu-cache](https://github.com/panda15963/CodingTestProblems/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/panda15963/CodingTestProblems/tree/master/0535-encode-and-decode-tinyurl) |
+| [1352-product-of-the-last-k-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/panda15963/CodingTestProblems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/panda15963/CodingTestProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
@@ -673,6 +675,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/panda15963/CodingTestProblems/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/panda15963/CodingTestProblems/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1007,6 +1010,7 @@
 | [0528-random-pick-with-weight](https://github.com/panda15963/CodingTestProblems/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/panda15963/CodingTestProblems/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/panda15963/CodingTestProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -2456,6 +2460,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/panda15963/CodingTestProblems/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
