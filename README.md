@@ -233,6 +233,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/panda15963/CodingTestProblems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/0624-maximum-distance-in-arrays) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/panda15963/CodingTestProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
@@ -665,6 +666,7 @@
 | [0611-valid-triangle-number](https://github.com/panda15963/CodingTestProblems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/panda15963/CodingTestProblems/tree/master/0622-design-circular-queue) |
+| [0624-maximum-distance-in-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
