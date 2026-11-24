@@ -362,6 +362,7 @@
 | [0593-valid-square](https://github.com/panda15963/CodingTestProblems/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -1100,6 +1101,7 @@
 | [0567-permutation-in-string](https://github.com/panda15963/CodingTestProblems/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/panda15963/CodingTestProblems/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/panda15963/CodingTestProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/panda15963/CodingTestProblems/tree/master/1861-rotating-the-box) |
@@ -1615,6 +1617,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/panda15963/CodingTestProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/panda15963/CodingTestProblems/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/panda15963/CodingTestProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
