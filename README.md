@@ -234,6 +234,7 @@
 | [0611-valid-triangle-number](https://github.com/panda15963/CodingTestProblems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/0624-maximum-distance-in-arrays) |
+| [0630-course-schedule-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0630-course-schedule-iii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/panda15963/CodingTestProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
@@ -668,6 +669,7 @@
 | [0622-design-circular-queue](https://github.com/panda15963/CodingTestProblems/tree/master/0622-design-circular-queue) |
 | [0624-maximum-distance-in-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0630-course-schedule-iii) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -872,6 +874,7 @@
 | [0611-valid-triangle-number](https://github.com/panda15963/CodingTestProblems/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0630-course-schedule-iii) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -931,6 +934,7 @@
 | [0502-ipo](https://github.com/panda15963/CodingTestProblems/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/panda15963/CodingTestProblems/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0630-course-schedule-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/panda15963/CodingTestProblems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/panda15963/CodingTestProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
