@@ -674,6 +674,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0636-exclusive-time-of-functions](https://github.com/panda15963/CodingTestProblems/tree/master/0636-exclusive-time-of-functions) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -1565,6 +1566,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/panda15963/CodingTestProblems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0591-tag-validator](https://github.com/panda15963/CodingTestProblems/tree/master/0591-tag-validator) |
+| [0636-exclusive-time-of-functions](https://github.com/panda15963/CodingTestProblems/tree/master/0636-exclusive-time-of-functions) |
 | [0856-score-of-parentheses](https://github.com/panda15963/CodingTestProblems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/panda15963/CodingTestProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/panda15963/CodingTestProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
