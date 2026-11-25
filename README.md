@@ -825,6 +825,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/panda15963/CodingTestProblems/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/panda15963/CodingTestProblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/panda15963/CodingTestProblems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sorting
 |  |
@@ -1409,6 +1410,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/panda15963/CodingTestProblems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/3934-smallest-unique-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -1641,6 +1643,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/panda15963/CodingTestProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/panda15963/CodingTestProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3934-smallest-unique-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2371,6 +2374,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/panda15963/CodingTestProblems/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/panda15963/CodingTestProblems/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -2379,6 +2383,7 @@
 | [0336-palindrome-pairs](https://github.com/panda15963/CodingTestProblems/tree/master/0336-palindrome-pairs) |
 | [0535-encode-and-decode-tinyurl](https://github.com/panda15963/CodingTestProblems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/panda15963/CodingTestProblems/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -2616,4 +2621,8 @@
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/panda15963/CodingTestProblems/tree/master/0587-erect-the-fence) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/panda15963/CodingTestProblems/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
