@@ -676,6 +676,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/panda15963/CodingTestProblems/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/panda15963/CodingTestProblems/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/panda15963/CodingTestProblems/tree/master/0645-set-mismatch) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
@@ -884,6 +885,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/panda15963/CodingTestProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/panda15963/CodingTestProblems/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/panda15963/CodingTestProblems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/panda15963/CodingTestProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -1363,6 +1365,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/panda15963/CodingTestProblems/tree/master/0609-find-duplicate-file-in-system) |
 | [0621-task-scheduler](https://github.com/panda15963/CodingTestProblems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/panda15963/CodingTestProblems/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/panda15963/CodingTestProblems/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/panda15963/CodingTestProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1953,6 +1956,7 @@
 | [0477-total-hamming-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
+| [0645-set-mismatch](https://github.com/panda15963/CodingTestProblems/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/panda15963/CodingTestProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
