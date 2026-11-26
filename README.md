@@ -676,6 +676,7 @@
 | [0630-course-schedule-iii](https://github.com/panda15963/CodingTestProblems/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/panda15963/CodingTestProblems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/panda15963/CodingTestProblems/tree/master/0636-exclusive-time-of-functions) |
+| [0638-shopping-offers](https://github.com/panda15963/CodingTestProblems/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/panda15963/CodingTestProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/panda15963/CodingTestProblems/tree/master/0645-set-mismatch) |
 | [0835-image-overlap](https://github.com/panda15963/CodingTestProblems/tree/master/0835-image-overlap) |
@@ -1215,6 +1216,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/panda15963/CodingTestProblems/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/panda15963/CodingTestProblems/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/panda15963/CodingTestProblems/tree/master/0629-k-inverse-pairs-array) |
+| [0638-shopping-offers](https://github.com/panda15963/CodingTestProblems/tree/master/0638-shopping-offers) |
 | [0788-rotated-digits](https://github.com/panda15963/CodingTestProblems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/panda15963/CodingTestProblems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0940-distinct-subsequences-ii) |
@@ -1451,6 +1453,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/panda15963/CodingTestProblems/tree/master/0638-shopping-offers) |
 | [1096-brace-expansion-ii](https://github.com/panda15963/CodingTestProblems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/panda15963/CodingTestProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -1958,6 +1961,7 @@
 | [0477-total-hamming-distance](https://github.com/panda15963/CodingTestProblems/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/panda15963/CodingTestProblems/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/panda15963/CodingTestProblems/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/panda15963/CodingTestProblems/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/panda15963/CodingTestProblems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/panda15963/CodingTestProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -2308,6 +2312,7 @@
 | [0488-zuma-game](https://github.com/panda15963/CodingTestProblems/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/panda15963/CodingTestProblems/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/panda15963/CodingTestProblems/tree/master/0546-remove-boxes) |
+| [0638-shopping-offers](https://github.com/panda15963/CodingTestProblems/tree/master/0638-shopping-offers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/panda15963/CodingTestProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
@@ -2494,12 +2499,14 @@
 | [0474-ones-and-zeroes](https://github.com/panda15963/CodingTestProblems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/panda15963/CodingTestProblems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0518-coin-change-ii) |
+| [0638-shopping-offers](https://github.com/panda15963/CodingTestProblems/tree/master/0638-shopping-offers) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/panda15963/CodingTestProblems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/panda15963/CodingTestProblems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/panda15963/CodingTestProblems/tree/master/0518-coin-change-ii) |
+| [0638-shopping-offers](https://github.com/panda15963/CodingTestProblems/tree/master/0638-shopping-offers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -2608,6 +2615,7 @@
 | [0464-can-i-win](https://github.com/panda15963/CodingTestProblems/tree/master/0464-can-i-win) |
 | [0473-matchsticks-to-square](https://github.com/panda15963/CodingTestProblems/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/panda15963/CodingTestProblems/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/panda15963/CodingTestProblems/tree/master/0638-shopping-offers) |
 ## Rejection Sampling
 |  |
 | ------- |
